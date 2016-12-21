@@ -1,0 +1,764 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<annotations>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>annotations</name>
+		<description>Inline annotations.</description>
+		<type name="annotations" />
+	</header>
+	<references>
+		<reference osisRef="MAT.1.2!1" type="note" precword="ἀβραὰμ" folword="ἐγέννησεν" verse="MAT 1:2" >Never arthrous in nominative.</reference>
+		<reference osisRef="MAT.1.17!1" type="note" precword="πᾶσαι" folword="οὖν" verse="MAT 1:17" >Norm, whether adjectival (preceding head noun) or functioning
+as a substantive, to be anarthrous.</reference>
+		<reference osisRef="MAT.2.13!34" type="note" precword="ἡρῴδης" folword="ζητεῖν" verse="MAT 2:13" >Default position following auxiliary.</reference>
+		<reference osisRef="MAT.2.22!14" type="note" precword="ἐκεῖ" folword="ἀπελθεῖν" verse="MAT 2:22" >Refocus on established info (see command of v 20).</reference>
+		<reference osisRef="MAT.3.9!7" type="note" precword="πατέρα" folword="ἔχομεν" verse="MAT 3:9" >Preferred analysis (P2) because anarthrous.</reference>
+		<reference osisRef="MAT.3.12!3" type="note" precword="πτύον" folword="ἐν" verse="MAT 3:12" >Preferred analysis (P1) because arthrous, accessible because of
+association with fire and judgement (see Malachi 4:1 on burning up
+evildoes like stubble).</reference>
+		<reference osisRef="MAT.3.15!9" type="note" precword="ἄρτι" folword="οὕτως" verse="MAT 3:15" >Default position is after verb (19/35).</reference>
+		<reference osisRef="MAT.3.15!12" type="note" precword="πρέπον" folword="ἐστὶν" verse="MAT 3:15" >May be default order, with estin as an enclitic.</reference>
+		<reference osisRef="MAT.4.9!6" type="note" precword="πάντα" folword="δώσω" verse="MAT 4:9" >Marked position of panta; see Mt 6:32 vs 33.</reference>
+		<reference osisRef="MAT.4.17!5" type="note" precword="ἰησοῦς" folword="κηρύσσειν" verse="MAT 4:17" >Default position between Aux and V.</reference>
+		<reference osisRef="MAT.5.3!1" type="note" precword="μακάριοι" folword="οἱ" verse="MAT 5:3" >Behaves like a verb, as far as constituent order is concerned.</reference>
+		<reference osisRef="MAT.5.11!1" type="note" precword="μακάριοί" folword="ἐστε" verse="MAT 5:11" >Treated as a VP. When the copula is present,
+makarios/i always precedes it.</reference>
+		<reference osisRef="MAT.5.33!13" type="note" precword="τοὺς" folword="ὅρκους" verse="MAT 5:33" >Marks closure of sub-unit.</reference>
+		<reference osisRef="MAT.6.19!15" type="note" precword="κλέπται" folword="διορύσσουσιν" verse="MAT 6:19" >Topic accessible from 'treasures', rather than thetic.</reference>
+		<reference osisRef="MAT.6.25!2" type="note" precword="τοῦτο" folword="λέγω" verse="MAT 6:25" >Dia touto falls on the border between connectives and PoDs.
+I have chosen not to mark it as a situational PoD, unless it is
+preceded by a conjunction.</reference>
+		<reference osisRef="MAT.6.26!26" type="note" precword="μᾶλλον" folword="διαφέρετε" verse="MAT 6:26" >Marked because governs autwn, not the verb.</reference>
+		<reference osisRef="MAT.6.32!17" type="note" precword="ἁπάντων" folword="ζητεῖτε" verse="MAT 6:32" >Default: hapas initial in phrase.</reference>
+		<reference osisRef="MAT.6.33!3" type="note" precword="πρῶτον" folword="τὴν" verse="MAT 6:33" >Default position</reference>
+		<reference osisRef="MAT.6.33!14" type="note" precword="πάντα" folword="προστεθήσεται" verse="MAT 6:33" >Marked position of panta (contrast v 32).</reference>
+		<reference osisRef="MAT.6.34!17" type="note" precword="αὐτῆς" folword="μὴ" verse="MAT 6:34" >Treating the adjective as verb-like.</reference>
+		<reference osisRef="MAT.7.13!14" type="note" precword="ἡ" folword="ἀπάγουσα" verse="MAT 7:13" >Elision of final constituent is from the first clause, as per the
+typological principle (see Whaley p. 274).</reference>
+		<reference osisRef="MAT.7.23!6" type="note" precword="οὐδέποτε" folword="ἔγνων" verse="MAT 7:23" >Always pre-verbal.</reference>
+		<reference osisRef="MAT.7.29!6" type="note" precword="ἐξουσίαν" folword="ἔχων" verse="MAT 7:29" >In Jn, judged to be focal (see 19:10-11).</reference>
+		<reference osisRef="MAT.8.22!4" type="note" precword="λέγει" folword="αὐτῷ" verse="MAT 8:22" >HP points forward to next episode ('follow me' ...
+'this disciples followed him ... into the storm').</reference>
+		<reference osisRef="MAT.9.1!10" type="note" precword="ἰδίαν" folword="πόλιν" verse="MAT 9:1" >Default position for Synoptics.</reference>
+		<reference osisRef="MAT.9.35!7" type="note" precword="πάσας" folword="καὶ" verse="MAT 9:35" >Usually pre-N</reference>
+		<reference osisRef="MAT.10.17!4" type="note" precword="τῶν" folword="ἀνθρώπων" verse="MAT 10:17" >Articular: those alluded to in v 16.</reference>
+		<reference osisRef="MAT.11.21!20" type="note" precword="πάλαι" folword="ἂν" verse="MAT 11:21" >Pre-verb is the default position of palai.</reference>
+		<reference osisRef="MAT.12.4!16" type="note" precword="ἐξὸν" folword="ἦν" verse="MAT 12:4" >Default position with copula?</reference>
+		<reference osisRef="MAT.12.12!8" type="note" precword="τοῖς" folword="σάββασιν" verse="MAT 12:12" >Answering question of v 10, so the same order is reproduced.</reference>
+		<reference osisRef="MAT.12.12!10" type="note" precword="καλῶς" folword="ποιεῖν" verse="MAT 12:12" >Pre-verbal position appears to be default.</reference>
+		<reference osisRef="MAT.12.15!15" type="note" precword="πάντας" folword="καὶ" verse="MAT 12:15" >Usually pre-N,</reference>
+		<reference osisRef="MAT.12.20!16" type="note" precword="κρίσιν" folword="καὶ" verse="MAT 12:20" >Arthrous cos of ref in 18.</reference>
+		<reference osisRef="MAT.13.13!4" type="note" precword="παραβολαῖς" folword="αὐτοῖς" verse="MAT 13:13" >If construction is cleft.</reference>
+		<reference osisRef="MAT.13.23!5" type="note" precword="καλὴν" folword="γῆν" verse="MAT 13:23" >Focally prominent.</reference>
+		<reference osisRef="MAT.14.2!20" type="note" precword="δυνάμεις" folword="ἐνεργοῦσιν" verse="MAT 14:2" >Could be a cleft construction with the subject in P1 in the second part.</reference>
+		<reference osisRef="MAT.14.9!5" type="note" precword="διὰ" folword="τοὺς" verse="MAT 14:9" >Could be in P2 as part of next clause.</reference>
+		<reference osisRef="MAT.16.9!1" type="note" precword="οὔπω" folword="νοεῖτε" verse="MAT 16:9" >Always pre-verbal.</reference>
+		<reference osisRef="MAT.16.21!12" type="note" precword="αὐτὸν" folword="εἰς" verse="MAT 16:21" >Default position of notional subject is after auxiliary,</reference>
+		<reference osisRef="MAT.17.25!14" type="note" precword="σοι" folword="δοκεῖ" verse="MAT 17:25" >The dative pronoun always precedes dokei in Matthew.</reference>
+		<reference osisRef="MAT.19.30!4" type="note" precword="πρῶτοι" folword="ἔσχατοι" verse="MAT 19:30" >In spite of the articular variant in Mk 10:31b, I take this to be thetic:
+'there will be many first who will be last, and last, first'.</reference>
+		<reference osisRef="MAT.21.22!9" type="note" precword="πιστεύοντες" folword="λήμψεσθε" verse="MAT 21:22" >'&amp; you will receive whatever you ask for in prayer / if you believe'
+(NLT, adapted).</reference>
+		<reference osisRef="MAT.22.46!16" type="note" precword="οὐκέτι" folword="τότε" verse="MAT 22:46" >Norm is pre-vb.</reference>
+		<reference osisRef="MAT.26.34!10" type="note" precword="ταύτῃ" folword="τῇ" verse="MAT 26:34" >Preposed; compare v 31.</reference>
+		<reference osisRef="MAT.26.73!10" type="note" precword="ἀληθῶς" folword="καὶ" verse="MAT 26:73" >Domain of adverb: whole proposition.</reference>
+		<reference osisRef="MAT.28.20!11" type="note" precword="μεθ’" folword="ὑμῶν" verse="MAT 28:20" >The focus is on 'with', rather than 'with you', since 'you' is established.</reference>
+		<reference osisRef="MRK.1.5!12" type="note" precword="πάντες" folword="καὶ" verse="MRK 1:5" >Chiasm, rather than embedded DFE?</reference>
+		<reference osisRef="MRK.1.10!8" type="note" precword="σχιζομένους" folword="τοὺς" verse="MRK 1:10" >Default order would had the participle after 'the heavens'.</reference>
+		<reference osisRef="MRK.2.3!2" type="note" precword="ἔρχονται" folword="φέροντες" verse="MRK 2:3" >Indefinite plural (Wallace).</reference>
+		<reference osisRef="MRK.2.10!13" type="note" precword="ἐπὶ" folword="τῆς" verse="MRK 2:10" >Variants have the order different, to conform to Mt &amp; Lk.
+If this phrase relates to 'has authority', then it has been postposed.</reference>
+		<reference osisRef="MRK.2.21!1" type="note" precword="οὐδεὶς" folword="ἐπίβλημα" verse="MRK 2:21" >'There is no-one who...' (thetic).</reference>
+		<reference osisRef="MRK.2.23!15" type="note" precword="ἤρξαντο" folword="ὁδὸν" verse="MRK 2:23" >Inciting event</reference>
+		<reference osisRef="MRK.3.6!9" type="note" precword="συμβούλιον" folword="ἐδίδουν" verse="MRK 3:6" >OR noun incorporation (Matthew has sumbulion lambano).</reference>
+		<reference osisRef="MRK.3.15!3" type="note" precword="ἐξουσίαν" folword="ἐκβάλλειν" verse="MRK 3:15" >Normally pre-echein (incorporated).</reference>
+		<reference osisRef="MRK.4.1!2" type="note" precword="πάλιν" folword="ἤρξατο" verse="MRK 4:1" >In Mark, default appears to be after the verb.</reference>
+		<reference osisRef="MRK.4.1!11" type="note" precword="αὐτὸν" folword="ὄχλος" verse="MRK 4:1" >Topical in thetic clause.</reference>
+		<reference osisRef="MRK.4.1!15" type="note" precword="αὐτὸν" folword="εἰς" verse="MRK 4:1" >Foil for subject of next clause?</reference>
+		<reference osisRef="MRK.4.11!19" type="note" precword="πάντα" folword="γίνεται" verse="MRK 4:11" >Norm is for pas to be anarthrous, though ta panta is quite common,
+especially in Pauline epistles.</reference>
+		<reference osisRef="MRK.4.24!7" type="note" precword="ἐν" folword="ᾧ" verse="MRK 4:24" >Barclay treats the initial constituent as focal, not a PoD:
+'What you get depends on what you give
+-only more so'.</reference>
+		<reference osisRef="MRK.4.34!1" type="note" precword="χωρὶς" folword="δὲ" verse="MRK 4:34" >Mark places focal constituents before the negative elsewhere, too
+(e.g., 8:17).</reference>
+		<reference osisRef="MRK.5.3!12" type="note" precword="οὐδεὶς" folword="ἐδύνατο" verse="MRK 5:3" >Compare 9:8.</reference>
+		<reference osisRef="MRK.5.5!7" type="note" precword="ἐν" folword="τοῖς" verse="MRK 5:5" >NRSV treats this as a PoD.</reference>
+		<reference osisRef="MRK.5.13!27" type="note" precword="ἐπνίγοντο" folword="ἐν" verse="MRK 5:13" >NB Impf.</reference>
+		<reference osisRef="MRK.6.25!13" type="note" precword="ἐξαυτῆς" folword="δῷς" verse="MRK 6:25" >Occurs six times: five times before the verb and once (Phil 2:23)
+aftrer it. I am assuming that the pre-verbal position is default.</reference>
+		<reference osisRef="MRK.6.26!6" type="note" precword="διὰ" folword="τοὺς" verse="MRK 6:26" >Could be in P2 as part of next clause.</reference>
+		<reference osisRef="MRK.6.50!17" type="note" precword="ἐγώ" folword="εἰμι" verse="MRK 6:50" >Narrow focus, replacing 'apparition'.</reference>
+		<reference osisRef="MRK.6.51!13" type="note" precword="λίαν" folword="ἐκ" verse="MRK 6:51" >Default position of lian is after the constituent that it itensifies.</reference>
+		<reference osisRef="MRK.7.28!8" type="note" precword="καὶ" folword="τὰ" verse="MRK 7:28" >Concessive: nevertheless</reference>
+		<reference osisRef="MRK.7.30!9" type="note" precword="παιδίον" folword="βεβλημένον" verse="MRK 7:30" >Default order is N + modifying participial clause.</reference>
+		<reference osisRef="MRK.7.36!2" type="note" precword="διεστείλατο" folword="αὐτοῖς" verse="MRK 7:36" >NB aorist</reference>
+		<reference osisRef="MRK.7.36!10" type="note" precword="διεστέλλετο" folword="αὐτοὶ" verse="MRK 7:36" >NB impf.</reference>
+		<reference osisRef="MRK.7.37!2" type="note" precword="ὑπερπερισσῶς" folword="ἐξεπλήσσοντο" verse="MRK 7:37" >Hapax, so not possible to establish whether this is its default position.</reference>
+		<reference osisRef="MRK.7.37!5" type="note" precword="καλῶς" folword="πάντα" verse="MRK 7:37" >Default position is pre-verb.</reference>
+		<reference osisRef="MRK.8.21!2" type="note" precword="ἔλεγεν" folword="αὐτοῖς" verse="MRK 8:21" >Marked usage, added implicatures (perhaps anticipating v 32).</reference>
+		<reference osisRef="MRK.8.32!8" type="note" precword="ὁ" folword="πέτρος" verse="MRK 8:32" >V - named S - pronominal object order is consistent with this being
+marked as a decisive intervention by Peter.</reference>
+		<reference osisRef="MRK.9.3!10" type="note" precword="γναφεὺς" folword="ἐπὶ" verse="MRK 9:3" >If focal, I'd have expected it to follow ou.</reference>
+		<reference osisRef="MRK.10.14!18" type="note" precword="τῶν" folword="γὰρ" verse="MRK 10:14" >In contrast with Mt 19, 'the Kingdom of God' has not been 
+established in the immediate context, hence the ambiguity.</reference>
+		<reference osisRef="MRK.10.18!7" type="note" precword="με" folword="λέγεις" verse="MRK 10:18" >Alternatively, 'me' could be contrasting with 'no-one except God'. </reference>
+		<reference osisRef="MRK.10.23!15" type="note" precword="εἰς" folword="τὴν" verse="MRK 10:23" >Established info. Ditto in v 24.</reference>
+		<reference osisRef="MRK.10.31!4" type="note" precword="πρῶτοι" folword="ἔσχατοι" verse="MRK 10:31" >In spite of the articular variant in 31b, I take this to be thetic:
+'there will be many first who will be last, and last, first'.</reference>
+		<reference osisRef="MRK.10.32!14" type="note" precword="ἰησοῦς" folword="καὶ" verse="MRK 10:32" >Default position for subject of periphrastic construction:
+between copula and participle.</reference>
+		<reference osisRef="MRK.10.36!7" type="note" precword="με" folword="ποιήσω" verse="MRK 10:36" >If present, default position for object of 'wish' = subject of 'do'.</reference>
+		<reference osisRef="MRK.11.14!11" type="note" precword="μηδεὶς" folword="καρπὸν" verse="MRK 11:14" >Could also be focally prominent.</reference>
+		<reference osisRef="MRK.12.14!25" type="note" precword="τὴν" folword="ὁδὸν" verse="MRK 12:14" >If 'the way of God' is established info (see Mt 22:16), then it is not focal,
+but has been pulled forward by the other focal constituent.</reference>
+		<reference osisRef="MRK.12.34!21" type="note" precword="οὐκέτι" folword="ἐτόλμα" verse="MRK 12:34" >Marked cos reverse order in Mk 9:8 (also 5:3).</reference>
+		<reference osisRef="MRK.14.6!7" type="note" precword="τί" folword="αὐτῇ" verse="MRK 14:6" >Or 'WHYEVER are you causing her troubles?' with ti focally prominent.</reference>
+		<reference osisRef="MRK.14.6!8" type="note" precword="αὐτῇ" folword="κόπους" verse="MRK 14:6" >Reading this as: 'Why is it that to,her you cause TROUBLES?'</reference>
+		<reference osisRef="MRK.14.15!10" type="note" precword="ἐκεῖ" folword="ἑτοιμάσατε" verse="MRK 14:15" >Narrow focus; answers the question of v 12.</reference>
+		<reference osisRef="MRK.14.25!6" type="note" precword="οὐ" folword="μὴ" verse="MRK 14:25" >Default is ouketi without further negative particles.</reference>
+		<reference osisRef="MRK.14.49!6" type="note" precword="ἐν" folword="τῷ" verse="MRK 14:49" >See NEB 'Day after day I was within your reach as I taught in the
+temple' (contrast NRSV 'Day after day I was with you in the temple
+teaching').</reference>
+		<reference osisRef="MRK.14.69!12" type="note" precword="οὗτος" folword="ἐξ" verse="MRK 14:69" >Marked as focally prominent, rather than topical, because of Lk 22:58.</reference>
+		<reference osisRef="MRK.15.1!4" type="note" precword="συμβούλιον" folword="ποιήσαντες" verse="MRK 15:1" >Or incorporated? (Mk 3:6 has a different verb, and Mt uses
+lambano (5x).)</reference>
+		<reference osisRef="MRK.15.39!14" type="note" precword="ἀληθῶς" folword="οὗτος" verse="MRK 15:39" >Domain of adverb: whole proposition.</reference>
+		<reference osisRef="MRK.15.44!15" type="note" precword="πάλαι" folword="ἀπέθανεν" verse="MRK 15:44" >Default position.</reference>
+		<reference osisRef="MRK.16.2!2" type="note" precword="λίαν" folword="πρωῒ" verse="MRK 16:2" >Default position of lian is after the constituent it intensifies.</reference>
+		<reference osisRef="LUK.1.4!5" type="note" precword="κατηχήθης" folword="λόγων" verse="LUK 1:4" >The relative clause is focally prominent within the PP.</reference>
+		<reference osisRef="LUK.1.10!7" type="note" precword="λαοῦ" folword="προσευχόμενον" verse="LUK 1:10" >It is not normal to split a PoD. Is the sentence thetic,
+or does the splitting give prominence to 'all the multitude'?</reference>
+		<reference osisRef="LUK.1.14!8" type="note" precword="πολλοὶ" folword="ἐπὶ" verse="LUK 1:14" >The rest of the clause is established info.</reference>
+		<reference osisRef="LUK.1.29!9" type="note" precword="ποταπὸς" folword="εἴη" verse="LUK 1:29" >Default position for interrogative.</reference>
+		<reference osisRef="LUK.1.43!4" type="note" precword="τοῦτο" folword="ἵνα" verse="LUK 1:43" >Or exophoric. Either way, the hina clause relates back to it.</reference>
+		<reference osisRef="LUK.2.13!2" type="note" precword="ἐξαίφνης" folword="ἐγένετο" verse="LUK 2:13" >Not initial in Mark 13:36.</reference>
+		<reference osisRef="LUK.2.15!11" type="note" precword="ἄγγελοι" folword="οἱ" verse="LUK 2:15" >Foil for the shepherds.</reference>
+		<reference osisRef="LUK.2.25!11" type="note" precword="ὁ" folword="ἄνθρωπος" verse="LUK 2:25" >Norm for such comments is just the proxminal demonstrative (e.g. Lk
+8:41, 23:51-52).</reference>
+		<reference osisRef="LUK.3.19!23" type="note" precword="ἡρῴδης" folword="προσέθηκεν" verse="LUK 3:19" >Not treated as a postposed topical subject, because
+peri panto:n ... pone:ro:n is a split focal constituent.</reference>
+		<reference osisRef="LUK.4.19!4" type="note" precword="δεκτόν" folword="καὶ" verse="LUK 4:19" >Order as in LXX, but not in Hebrew.</reference>
+		<reference osisRef="LUK.4.23!5" type="note" precword="πάντως" folword="ἐρεῖτέ" verse="LUK 4:23" >Always pre-verb, though could well be focally prominent.</reference>
+		<reference osisRef="LUK.4.28!7" type="note" precword="συναγωγῇ" folword="ἀκούοντες" verse="LUK 4:28" >Similar to v. 20b. Luke seems to be emphasising 'everyone in the
+synagogue'.</reference>
+		<reference osisRef="LUK.4.29!20" type="note" precword="αὐτῶν" folword="ὥστε" verse="LUK 4:29" >Why post-verbal? (In A, C: pre-verbal.)</reference>
+		<reference osisRef="LUK.4.43!9" type="note" precword="ἑτέραις" folword="πόλεσιν" verse="LUK 4:43" >Focally prominent position.</reference>
+		<reference osisRef="LUK.5.1!3" type="note" precword="ἐν" folword="τῷ" verse="LUK 5:1" >Taken as the subject of egeneto, because of the following kai.</reference>
+		<reference osisRef="LUK.5.29!6" type="note" precword="αὐτῷ" folword="ἐν" verse="LUK 5:29" >Marked order; why?</reference>
+		<reference osisRef="LUK.5.29!22" type="note" precword="κατακείμενοι" folword="καὶ" verse="LUK 5:29" >Default order for a periphrastic construction.</reference>
+		<reference osisRef="LUK.5.36!8" type="note" precword="οὐδεὶς" folword="ἐπίβλημα" verse="LUK 5:36" >'There is no-one who...'</reference>
+		<reference osisRef="LUK.6.23!17" type="note" precword="κατὰ" folword="τὰ" verse="LUK 6:23" >In P1 because, if this had been expressed in the passive,
+'their fathers' would be focal.</reference>
+		<reference osisRef="LUK.6.39!5" type="note" precword="αὐτοῖς" folword="μήτι" verse="LUK 6:39" >Marked order: why?</reference>
+		<reference osisRef="LUK.6.43!10" type="note" precword="πάλιν" folword="δένδρον" verse="LUK 6:43" >Associated with oude ('nor again'), so not preposed.</reference>
+		<reference osisRef="LUK.6.48!1" type="note" precword="ὅμοιός" folword="ἐστιν" verse="LUK 6:48" >Homoios precedes the verb unless a content question word
+precedes it.</reference>
+		<reference osisRef="LUK.7.17!10" type="note" precword="περὶ" folword="αὐτοῦ" verse="LUK 7:17" >Relates to 'this report'.
+Has 'in all Judea' been preposed for focal prominence?</reference>
+		<reference osisRef="LUK.7.29!8" type="note" precword="τελῶναι" folword="ἐδικαίωσαν" verse="LUK 7:29" >OR the complex subject is focally prominent.</reference>
+		<reference osisRef="LUK.7.42!5" type="note" precword="ἀμφοτέροις" folword="ἐχαρίσατο" verse="LUK 7:42" >Focally prominent because anarthrous?</reference>
+		<reference osisRef="LUK.7.43!2" type="note" precword="σίμων" folword="εἶπεν" verse="LUK 7:43" >Variants include the addition of the arricle, the addition of de,
+and ho de (the logical reading).</reference>
+		<reference osisRef="LUK.9.7!8" type="note" precword="πάντα" folword="καὶ" verse="LUK 9:7" >Marked position.</reference>
+		<reference osisRef="LUK.9.7!17" type="note" precword="ἰωάννης" folword="ἠγέρθη" verse="LUK 9:7" >thetic</reference>
+		<reference osisRef="LUK.9.29!2" type="note" precword="ἐγένετο" folword="ἐν" verse="LUK 9:29" >Might egeneto be functioning as a main verb here,
+with 'the appearance of his face' and 'his clothing' as subjects?</reference>
+		<reference osisRef="LUK.9.39!15" type="note" precword="μόγις" folword="ἀποχωρεῖ" verse="LUK 9:39" >Only example in NT, so not possible to know if in P2 or not.</reference>
+		<reference osisRef="LUK.9.57!2" type="note" precword="πορευομένων" folword="αὐτῶν" verse="LUK 9:57" >Could be T-H with 56, but the referents of the PPs are different.</reference>
+		<reference osisRef="LUK.10.6!3" type="note" precword="ἐκεῖ" folword="ᾖ" verse="LUK 10:6" >If the structure is identificational. If it is thetic, then ekei is
+an embedded PoD.</reference>
+		<reference osisRef="LUK.12.2!9" type="note" precword="κρυπτὸν" folword="ὃ" verse="LUK 12:2" >Focal.</reference>
+		<reference osisRef="LUK.12.5!12" type="note" precword="ἐξουσίαν" folword="ἐμβαλεῖν" verse="LUK 12:5" >Usually pre-verb (incorporated).</reference>
+		<reference osisRef="LUK.12.30!9" type="note" precword="ὑμῶν" folword="δὲ" verse="LUK 12:30" >Preposed to mark switch of attention from 'the nations of the world'
+back to 'you'.</reference>
+		<reference osisRef="LUK.12.33!19" type="note" precword="κλέπτης" folword="οὐκ" verse="LUK 12:33" >Treated as accessible from 'treasure', rather than thetic.</reference>
+		<reference osisRef="LUK.12.51!13" type="note" precword="ἢ" folword="διαμερισμόν" verse="LUK 12:51" >Focus particle (common in LXX) that gives prominence to what
+follows. Often exclusive (all' e: 'but only'; e.g., Amos 7:14, contrast
+8:11(.</reference>
+		<reference osisRef="LUK.12.55!3" type="note" precword="νότον" folword="πνέοντα" verse="LUK 12:55" >Default order: noun, modified by participle.</reference>
+		<reference osisRef="LUK.13.9!7" type="note" precword="μέλλον" folword="εἰ" verse="LUK 13:9" >No matrix clause follows.</reference>
+		<reference osisRef="LUK.13.31!15" type="note" precword="ἡρῴδης" folword="θέλει" verse="LUK 13:31" >The reason clause could well be thetic.</reference>
+		<reference osisRef="LUK.13.33!14" type="note" precword="προφήτην" folword="ἀπολέσθαι" verse="LUK 13:33" >Default position if endechetai is an auxiliary. </reference>
+		<reference osisRef="LUK.13.34!23" type="note" precword="ἑαυτῆς" folword="νοσσιὰν" verse="LUK 13:34" >Pre-N also in 1 Th 2:7. Conforms to Principle of Natural Info Flow?</reference>
+		<reference osisRef="LUK.14.2!4" type="note" precword="τις" folword="ἦν" verse="LUK 14:2" >Tis allows a single clause to introduce a new participant (thetic)
+and to make a comment about him as topic.</reference>
+		<reference osisRef="LUK.14.20!7" type="note" precword="διὰ" folword="τοῦτο" verse="LUK 14:20" >Focal if aware of what the others have said.</reference>
+		<reference osisRef="LUK.14.28!9" type="note" precword="πρῶτον" folword="καθίσας" verse="LUK 14:28" >Focal: see v. 31.</reference>
+		<reference osisRef="LUK.14.33!3" type="note" precword="πᾶς" folword="ἐξ" verse="LUK 14:33" >Could be focal because of v 27.</reference>
+		<reference osisRef="LUK.15.12!16" type="note" precword="ὁ" folword="δὲ" verse="LUK 15:12" >Variant kai: better, from a discourse point of view.</reference>
+		<reference osisRef="LUK.16.1!10" type="note" precword="πλούσιος" folword="ὃς" verse="LUK 16:1" >OR 'man certain ... rich' = split focal consituent in a thetic construction.
+But why would 'rich' be given prominence?</reference>
+		<reference osisRef="LUK.16.3!20" type="note" precword="ἰσχύω" folword="ἐπαιτεῖν" verse="LUK 16:3" >These are answers to the question, WHAT shall I do?', so I take
+the foci to be 'to dig' and 'to beg', rather than the main verbs.</reference>
+		<reference osisRef="LUK.16.5!10" type="note" precword="ἔλεγεν" folword="τῷ" verse="LUK 16:5" >Inceptive use of imperfect: 'he started by saying to the first'.</reference>
+		<reference osisRef="LUK.16.14!4" type="note" precword="πάντα" folword="οἱ" verse="LUK 16:14" >Marked position of panta; see Mt 6:33, etc.</reference>
+		<reference osisRef="LUK.16.24!2" type="note" precword="αὐτὸς" folword="φωνήσας" verse="LUK 16:24" >"and he, on his part, as opposed to the patriarch and to Lazarus"
+(Meyer 1884).</reference>
+		<reference osisRef="LUK.16.26!4" type="note" precword="τούτοις" folword="μεταξὺ" verse="LUK 16:26" >PoD by renewal: new point.</reference>
+		<reference osisRef="LUK.17.2!21" type="note" precword="τούτων" folword="ἕνα" verse="LUK 17:2" >exophoric ref.</reference>
+		<reference osisRef="LUK.17.13!2" type="note" precword="αὐτοὶ" folword="ἦραν" verse="LUK 17:13" >PoD to indicate that they, rather than Jesus, are the centre of attention.</reference>
+		<reference osisRef="LUK.17.31!25" type="note" precword="ὁμοίως" folword="μὴ" verse="LUK 17:31" >Taken as a connective, used as a spacer.</reference>
+		<reference osisRef="LUK.17.35!3" type="note" precword="ἀλήθουσαι" folword="ἐπὶ" verse="LUK 17:35" >Potentially paraphrastic but, as in 34, esontai is existential.</reference>
+		<reference osisRef="LUK.18.10!2" type="note" precword="δύο" folword="ἀνέβησαν" verse="LUK 18:10" >As with tis, duo allows participants to be introduced (thetic) in the
+same clause that makes a comment about them as topic.</reference>
+		<reference osisRef="LUK.18.16!17" type="note" precword="τῶν" folword="γὰρ" verse="LUK 18:16" >In contrast with Mt 19, 'the Kingdom of God' has not been 
+established in the immediate context, hence the ambiguity.</reference>
+		<reference osisRef="LUK.18.19!7" type="note" precword="με" folword="λέγεις" verse="LUK 18:19" >Alternatively, 'me' could be contrasting with 'no-one ... except God'.</reference>
+		<reference osisRef="LUK.18.24!20" type="note" precword="εἰσπορεύονται" folword="εὐκοπώτερον" verse="LUK 18:24" >The rest of the clause is established information.</reference>
+		<reference osisRef="LUK.19.14!15" type="note" precword="τοῦτον" folword="βασιλεῦσαι" verse="LUK 19:14" >Default position for object of 'want' = subject of 'rule'.</reference>
+		<reference osisRef="LUK.20.21!19" type="note" precword="τὴν" folword="ὁδὸν" verse="LUK 20:21" >If 'the way of God' is established info (see Mt 22:16), then it is not focal,
+but has been pulled forward by the other focal constituent.</reference>
+		<reference osisRef="LUK.21.4!17" type="note" precword="αὐτῆς" folword="πάντα" verse="LUK 21:4" >Contrasts with the ek-phrase in the previous sentence.
+Tom Wright uses two clauses to capture the double focus;
+'but she contributed out of her poverty, and gave her whole
+livelihood'.</reference>
+		<reference osisRef="LUK.21.11!6" type="note" precword="τόπους" folword="λιμοὶ" verse="LUK 21:11" >Focal because of parallel in next line.</reference>
+		<reference osisRef="LUK.21.35!1" type="note" precword="ὡς" folword="παγίς" verse="LUK 21:35" >Alternatively, in P1 in the next clause (KJV, TNT).</reference>
+		<reference osisRef="LUK.21.36!11" type="note" precword="πάντα" folword="τὰ" verse="LUK 21:36" >Marked position in relation to tauta.</reference>
+		<reference osisRef="LUK.22.6!11" type="note" precword="αὐτοῖς" folword="ἦλθεν" verse="LUK 22:6" >Relates to 'crowd', not 'betray'.</reference>
+		<reference osisRef="LUK.22.27!16" type="note" precword="ὑμῶν" folword="εἰμι" verse="LUK 22:27" >May be pre-verbal to leave the DFE isolated at the end of the sentence.</reference>
+		<reference osisRef="LUK.22.41!2" type="note" precword="αὐτὸς" folword="ἀπεσπάσθη" verse="LUK 22:41" >Marked encoding for same subject = 'he himself'.</reference>
+		<reference osisRef="LUK.22.59!13" type="note" precword="οὗτος" folword="μετ’" verse="LUK 22:59" >Theoretically, this constituent could also be focal.</reference>
+		<reference osisRef="LUK.23.12!3" type="note" precword="φίλοι" folword="ὅ" verse="LUK 23:12" >May be part of VP.</reference>
+		<reference osisRef="LUK.23.32!8" type="note" precword="αὐτῷ" folword="ἀναιρεθῆναι" verse="LUK 23:32" >The previous clause is thetic, so, if sun auto: had been part of
+that clause, it should have preceded the subject.</reference>
+		<reference osisRef="LUK.23.47!11" type="note" precword="ὄντως" folword="ὁ" verse="LUK 23:47" >Focally prominent if the rest of the proposition is presupposed.</reference>
+		<reference osisRef="LUK.24.1!11" type="note" precword="ἦλθον" folword="φέρουσαι" verse="LUK 24:1" >Alternatively, 'very early' is in P1, with e:lthon postposed as the DFE.</reference>
+		<reference osisRef="LUK.24.12!18" type="note" precword="ἑαυτὸν" folword="θαυμάζων" verse="LUK 24:12" >Lexham: 'to his [own] home'.</reference>
+		<reference osisRef="LUK.24.21!18" type="note" precword="τρίτην" folword="ταύτην" verse="LUK 24:21" >Is this focally prominent because it is followed by taute:n?</reference>
+		<reference osisRef="LUK.24.29!14" type="note" precword="ἤδη" folword="ἡ" verse="LUK 24:29" >Treated as part of the VP.</reference>
+		<reference osisRef="JHN.1.3!3" type="note" precword="αὐτοῦ" folword="ἐγένετο" verse="JHN 1:3" >OR: panta is in P1, with 'through (him)' focally prominent (P2).</reference>
+		<reference osisRef="JHN.1.6!3" type="note" precword="ἀπεσταλμένος" folword="παρὰ" verse="JHN 1:6" >Head noun followed by participial clause: default order.</reference>
+		<reference osisRef="JHN.1.15!6" type="note" precword="κέκραγεν" folword="λέγων" verse="JHN 1:15" >Complex orienter highlights speech, but use of historical present and
+perfect point forward to more to come.</reference>
+		<reference osisRef="JHN.1.18!14" type="note" precword="ἐκεῖνος" folword="ἐξηγήσατο" verse="JHN 1:18" >Could be the more remote referent, but could be indicating that
+the centre of attention is going to be John, rather than Jesus.</reference>
+		<reference osisRef="JHN.2.12!6" type="note" precword="αὐτὸς" folword="καὶ" verse="JHN 2:12" >Clarificatory: singular verb.</reference>
+		<reference osisRef="JHN.2.17!12" type="note" precword="σου" folword="καταφάγεταί" verse="JHN 2:17" >In Ps 69:9, the subject is in P2 but, because it is arthrous here,
+it appears to be in P1.</reference>
+		<reference osisRef="JHN.4.23!5" type="note" precword="νῦν" folword="ἐστιν" verse="JHN 4:23" >anarthrous</reference>
+		<reference osisRef="JHN.4.33!8" type="note" precword="τις" folword="ἤνεγκεν" verse="JHN 4:33" >In the sense of 'someone else' (other than 'us').</reference>
+		<reference osisRef="JHN.4.37!3" type="note" precword="τούτῳ" folword="ὁ" verse="JHN 4:37" >Some commentators consider 'in this' to be cataphoric,
+referring to v. 38. It would then be in P2, which violates
+the principle that P2 never precedes P1.</reference>
+		<reference osisRef="JHN.5.18!19" type="note" precword="ἴδιον" folword="ἔλεγεν" verse="JHN 5:18" >Marked position in John (also 1:41, 5:43, 7:18).</reference>
+		<reference osisRef="JHN.5.22!10" type="note" precword="πᾶσαν" folword="δέδωκεν" verse="JHN 5:22" >'judgment in all its forms' (Godet).</reference>
+		<reference osisRef="JHN.5.28!3" type="note" precword="τοῦτο" folword="ὅτι" verse="JHN 5:28" >Many scholars: cataphoric.</reference>
+		<reference osisRef="JHN.6.22!28" type="note" precword="ἰησοῦς" folword="εἰς" verse="JHN 6:22" >Order conforms to Principle of Natural Information Flow:
+the disciples were visible to the crowd.</reference>
+		<reference osisRef="JHN.6.61!16" type="note" precword="τοῦτο" folword="ὑμᾶς" verse="JHN 6:61" >On the assumption that v. 60 implies that they were being
+caused to stumble.</reference>
+		<reference osisRef="JHN.7.44!1" type="note" precword="τινὲς" folword="δὲ" verse="JHN 7:44" >'arrest' was activated in v. 32.</reference>
+		<reference osisRef="JHN.8.17!1" type="note" precword="καὶ" folword="ἐν" verse="JHN 8:17" >As in 20:31, simple form of graphw (rather than default periphrastic)
+suggests that constituent is in P2
+(Variant has participle focally prominent.)
+</reference>
+		<reference osisRef="JHN.8.47!13" type="note" precword="ὑμεῖς" folword="οὐκ" verse="JHN 8:47" >If cleft, could be in P1 in second part.</reference>
+		<reference osisRef="JHN.9.23!5" type="note" precword="αὐτοῦ" folword="εἶπαν" verse="JHN 9:23" >If cleft, then in P1 in the second part.</reference>
+		<reference osisRef="JHN.10.18!12" type="note" precword="ἐξουσίαν" folword="ἔχω" verse="JHN 10:18" >But see 19:10-11.</reference>
+		<reference osisRef="JHN.10.29!4" type="note" precword="ὃ" folword="δέδωκέν" verse="JHN 10:29" >Variant: hos.</reference>
+		<reference osisRef="JHN.11.6!12" type="note" precword="τόπῳ" folword="δύο" verse="JHN 11:6" >Why the split constituent?</reference>
+		<reference osisRef="JHN.11.56!9" type="note" precword="ἐν" folword="τῷ" verse="JHN 11:56" >Or the DFE of the matrix clause.</reference>
+		<reference osisRef="JHN.13.32!15" type="note" precword="εὐθὺς" folword="δοξάσει" verse="JHN 13:32" >In P2 because twice post-verb in John.</reference>
+		<reference osisRef="JHN.14.16!11" type="note" precword="μεθ’" folword="ὑμῶν" verse="JHN 14:16" >The focus is on 'with', not 'you'.</reference>
+		<reference osisRef="JHN.15.5!15" type="note" precword="οὗτος" folword="φέρει" verse="JHN 15:5" >P1 reading makes 'much' the DFE. P2 reading seems to fit better with
+the following clause being the reason.</reference>
+		<reference osisRef="JHN.16.6!7" type="note" precword="λύπη" folword="πεπλήρωκεν" verse="JHN 16:6" >I'd have expected 'sorrow' to be focal (thetic), but the article
+implies that it is the topic.</reference>
+		<reference osisRef="JHN.18.2!11" type="note" precword="πολλάκις" folword="συνήχθη" verse="JHN 18:2" >default pre-vb.</reference>
+		<reference osisRef="JHN.18.17!6" type="note" precword="παιδίσκη" folword="ἡ" verse="JHN 18:17" >Order conforms to Principle of Natural Info Flow:
+Peter was the last person mentioned.</reference>
+		<reference osisRef="JHN.18.17!16" type="note" precword="τοῦ" folword="ἀνθρώπου" verse="JHN 18:17" >Split constituent, even though not focal.</reference>
+		<reference osisRef="JHN.18.31!8" type="note" precword="ὑμεῖς" folword="καὶ" verse="JHN 18:31" >Order conforms to Principle of Natural Info Flow:
+'him' is more established than 'you'.</reference>
+		<reference osisRef="JHN.19.10!12" type="note" precword="ἐξουσίαν" folword="ἔχω" verse="JHN 19:10" >But see v 11.</reference>
+		<reference osisRef="JHN.19.21!6" type="note" precword="ἀρχιερεῖς" folword="τῶν" verse="JHN 19:21" >Order conforms to Principle of Natural Info Flow:
+Pilate more established than chief priests.</reference>
+		<reference osisRef="JHN.19.31!14" type="note" precword="σώματα" folword="ἐν" verse="JHN 19:31" >Order probably conforms to Principle of Natural Info Flow:
+cross more established than the bodies.</reference>
+		<reference osisRef="JHN.19.38!7" type="note" precword="ἰωσὴφ" folword="ὁ" verse="JHN 19:38" >Order conforms to Principle of Natural Info Flow:
+Pilate more established than Joseph.</reference>
+		<reference osisRef="JHN.20.20!10" type="note" precword="αὐτοῖς" folword="ἐχάρησαν" verse="JHN 20:20" >Why final? Position (&amp; Lexham) imply that DFE.</reference>
+		<reference osisRef="JHN.21.6!13" type="note" precword="δίκτυον" folword="καὶ" verse="JHN 21:6" >Or right-dislocated for clarification.</reference>
+		<reference osisRef="ACT.1.1!4" type="note" precword="λόγον" folword="ἐποιησάμην" verse="ACT 1:1" >Could be focally prominent/a foil for the second volume.</reference>
+		<reference osisRef="ACT.1.2!10" type="note" precword="οὓς" folword="ἐξελέξατο" verse="ACT 1:2" >See JB Phililips: 'He gave instructions, through the Holy Spirit,
+to the special messengers of his choice'. </reference>
+		<reference osisRef="ACT.1.4!8" type="note" precword="χωρίζεσθαι" folword="ἀλλὰ" verse="ACT 1:4" >On the assumption that they were in or near Jerusalem.
+However, Luke may view the reference  to Jerusalem as new,
+as far as Theophilus is concerned.</reference>
+		<reference osisRef="ACT.1.10!16" type="note" precword="ἐν" folword="ἐσθήσεσι" verse="ACT 1:10" >Is this phrase split, relating to 'two men'? See also 10:30.</reference>
+		<reference osisRef="ACT.2.7!13" type="note" precword="γαλιλαῖοι" folword="καὶ" verse="ACT 2:7" >DFE because topical subject is split?</reference>
+		<reference osisRef="ACT.2.43!13" type="note" precword="ἀποστόλων" folword="ἐγίνετο" verse="ACT 2:43" >Assuming that Luke would expect the apostles to be performing them.</reference>
+		<reference osisRef="ACT.2.46!13" type="note" precword="ἄρτον" folword="μετελάμβανον" verse="ACT 2:46" >The order suggests that arton is the DFE. If so, why?</reference>
+		<reference osisRef="ACT.3.2!2" type="note" precword="τις" folword="ἀνὴρ" verse="ACT 3:2" >Thetic, but tis allows a comment to be made about him.</reference>
+		<reference osisRef="ACT.3.5!6" type="note" precword="τι" folword="παρ’" verse="ACT 3:5" >All the info in this clause is more or less established.</reference>
+		<reference osisRef="ACT.3.21!3" type="note" precword="οὐρανὸν" folword="μὲν" verse="ACT 3:21" >Default position between dei and infinitive.</reference>
+		<reference osisRef="ACT.4.10!28" type="note" precword="τούτῳ" folword="οὗτος" verse="ACT 4:10" >Narrow focus.</reference>
+		<reference osisRef="ACT.4.12!7" type="note" precword="ἡ" folword="σωτηρία" verse="ACT 4:12" >Topical subject postposed.</reference>
+		<reference osisRef="ACT.4.22!1" type="note" precword="ἐτῶν" folword="γὰρ" verse="ACT 4:22" >Alternatively, 'of years' could be in P1, in which case the
+topical subject would be classified as postposed.</reference>
+		<reference osisRef="ACT.4.25!5" type="note" precword="διὰ" folword="πνεύματος" verse="ACT 4:25" >Could be focally prominent, too. UBS notes 'confusion' about this v.</reference>
+		<reference osisRef="ACT.4.32!18" type="note" precword="ἔλεγεν" folword="ἴδιον" verse="ACT 4:32" >Spacer, to highlight what follows.</reference>
+		<reference osisRef="ACT.4.33!6" type="note" precword="μαρτύριον" folword="οἱ" verse="ACT 4:33" >May be part of the VP.</reference>
+		<reference osisRef="ACT.5.1!3" type="note" precword="τις" folword="ἁνανίας" verse="ACT 5:1" >Thetic, but tis allows a comment to be made about him.</reference>
+		<reference osisRef="ACT.5.24!9" type="note" precword="στρατηγὸς" folword="τοῦ" verse="ACT 5:24" >Order conforms to Principle of Natural Info Flow:
+'these words' is more established than the subject.</reference>
+		<reference osisRef="ACT.6.7!15" type="note" precword="σφόδρα" folword="πολύς" verse="ACT 6:7" >Always clause final, so not marked as DFE.</reference>
+		<reference osisRef="ACT.7.5!17" type="note" precword="αὐτὴν" folword="καὶ" verse="ACT 7:5" >Final to separate the two pronouns.</reference>
+		<reference osisRef="ACT.7.30!14" type="note" precword="ἐν" folword="φλογὶ" verse="ACT 7:30" >Thetic, so both subject and second location are focal.</reference>
+		<reference osisRef="ACT.7.34!1" type="note" precword="ἰδὼν" folword="εἶδον" verse="ACT 7:34" >Infinite absolute in Ex 3:7: 'I have surely seen'.</reference>
+		<reference osisRef="ACT.7.34!15" type="note" precword="ἤκουσα" folword="καὶ" verse="ACT 7:34" >This analysis reflects Ex 3:7 MTT &amp; LXX, even though,
+theoretically, the verb could be the DFE.</reference>
+		<reference osisRef="ACT.7.44!4" type="note" precword="μαρτυρίου" folword="ἦν" verse="ACT 7:44" >Not focal (contrast NRSV). Switch from 'the tent/tabernacle of Moloch'.</reference>
+		<reference osisRef="ACT.8.6!10" type="note" precword="ὁμοθυμαδὸν" folword="ἐν" verse="ACT 8:6" >Norm: immediately post-verb</reference>
+		<reference osisRef="ACT.8.9!1" type="note" precword="ἀνὴρ" folword="δέ" verse="ACT 8:9" >thetic</reference>
+		<reference osisRef="ACT.8.26!1" type="note" precword="ἄγγελος" folword="δὲ" verse="ACT 8:26" >Should be thetic. But see v 39.</reference>
+		<reference osisRef="ACT.8.31!10" type="note" precword="τις" folword="ὁδηγήσει" verse="ACT 8:31" >Could be thetic: unless there is someone to guide me.</reference>
+		<reference osisRef="ACT.8.39!18" type="note" precword="εὐνοῦχος" folword="ἐπορεύετο" verse="ACT 8:39" >ouketi normally pre-vb.</reference>
+		<reference osisRef="ACT.9.3!6" type="note" precword="αὐτὸν" folword="ἐγγίζειν" verse="ACT 9:3" >Subject = infinitival clause. I am assuming that auton is in default
+position about the initial verb, rather than in P1 in relation to engizein.
+However, see Petron in 9:32.</reference>
+		<reference osisRef="ACT.9.3!12" type="note" precword="αὐτὸν" folword="περιήστραψεν" verse="ACT 9:3" >Preposed to isolate and give focal prominence to the thetic subject
+at the end of the sentence?</reference>
+		<reference osisRef="ACT.9.6!12" type="note" precword="τί" folword="σε" verse="ACT 9:6" >Focally prominent only if the presupposition is 'it is necessary for you
+to do something'.</reference>
+		<reference osisRef="ACT.9.19!9" type="note" precword="ἐν" folword="δαμασκῷ" verse="ACT 9:19" >Not focally prominent; order conforms to Principle of Natural Info Flow.</reference>
+		<reference osisRef="ACT.9.21!22" type="note" precword="εἰς" folword="τοῦτο" verse="ACT 9:21" >The cataphoric usage has good commentary support.
+I wonder, though, whether eis touto could not mean,
+'for this same purpose' (anaphoric).</reference>
+		<reference osisRef="ACT.9.28!8" type="note" precword="εἰς" folword="ἰερουσαλήμ" verse="ACT 9:28" >Relates to first participle, not second.</reference>
+		<reference osisRef="ACT.9.31!5" type="note" precword="καθ’" folword="ὅλης" verse="ACT 9:31" >Not preceded by an article. Commentaries usually treat this
+as part of the P1 constituent, though.</reference>
+		<reference osisRef="ACT.10.1!1" type="note" precword="ἀνὴρ" folword="δέ" verse="ACT 10:1" >Thetic subject, but tis allows him to become the topic about whom
+a comment is then made.</reference>
+		<reference osisRef="ACT.10.15!9" type="note" precword="ὁ" folword="θεὸς" verse="ACT 10:15" >The topical subjects could be in P1, too.</reference>
+		<reference osisRef="ACT.10.22!4" type="note" precword="κορνήλιος" folword="ἑκατοντάρχης" verse="ACT 10:22" >Thetic subject, but becomes the topic of the rest of the sentence.</reference>
+		<reference osisRef="ACT.10.28!18" type="note" precword="θεὸς" folword="ἔδειξεν" verse="ACT 10:28" >The article suggests that 'God' is not focal.</reference>
+		<reference osisRef="ACT.10.30!26" type="note" precword="ἐν" folword="ἐσθῆτι" verse="ACT 10:30" >Is this phrase split, relating to 'man'? See also 1:10.</reference>
+		<reference osisRef="ACT.10.38!1" type="note" precword="ἰησοῦν" folword="τὸν" verse="ACT 10:38" >Or right-dislocated in relation to 37.</reference>
+		<reference osisRef="ACT.11.21!7" type="note" precword="πολύς" folword="τε" verse="ACT 11:21" >Focal if 'turned to the Lord' is the expected result from the previous
+two sentences.</reference>
+		<reference osisRef="ACT.12.15!3" type="note" precword="πρὸς" folword="αὐτὴν" verse="ACT 12:15" >Rather than going to the gate.</reference>
+		<reference osisRef="ACT.13.18!2" type="note" precword="ὡς" folword="τεσσερακονταετῆ" verse="ACT 13:18" >See v 20 for a similar time expression clause-final.</reference>
+		<reference osisRef="ACT.14.1!5" type="note" precword="κατὰ" folword="τὸ" verse="ACT 14:1" >P1 if understood to mean 'in the same way'.</reference>
+		<reference osisRef="ACT.14.17!7" type="note" precword="οὐρανόθεν" folword="ὑμῖν" verse="ACT 14:17" >If this word begins the next clause, then it would be focally
+prominent and split into three parts.</reference>
+		<reference osisRef="ACT.14.25!5" type="note" precword="τὸν" folword="λόγον" verse="ACT 14:25" >Unclear why the anarthrous locative precedes the articular object,
+unless thematic.</reference>
+		<reference osisRef="ACT.15.21!12" type="note" precword="ἐν" folword="ταῖς" verse="ACT 15:21" >Following NRSV. However, 'in the synagogues' could be in
+default position at the end of the previous clause.</reference>
+		<reference osisRef="ACT.15.32!1" type="note" precword="ἰούδας" folword="τε" verse="ACT 15:32" >Always anarthrous in nominative.</reference>
+		<reference osisRef="ACT.15.36!16" type="note" precword="πᾶσαν" folword="ἐν" verse="ACT 15:36" >May be default order when followed by rel cl - see 20:25.</reference>
+		<reference osisRef="ACT.16.9!6" type="note" precword="τῷ" folword="παύλῳ" verse="ACT 16:9" >The article may suggest that it was expected that it was Paul
+who had the vision.</reference>
+		<reference osisRef="ACT.16.12!14" type="note" precword="ἐν" folword="ταύτῃ" verse="ACT 16:12" >Periphrastic imperfect with locative anchor (default order).</reference>
+		<reference osisRef="ACT.16.26!1" type="note" precword="ἄφνω" folword="δὲ" verse="ACT 16:26" >On the other two occasions, this adverb follows the verb.</reference>
+		<reference osisRef="ACT.17.5!23" type="note" precword="αὐτοὺς" folword="προαγαγεῖν" verse="ACT 17:5" >Object of both aux and infin, so default order.</reference>
+		<reference osisRef="ACT.17.33!1" type="note" precword="οὕτως" folword="ὁ" verse="ACT 17:33" >OR could be focally prominent: 'THAT was how Paul left them'.</reference>
+		<reference osisRef="ACT.18.12!1" type="note" precword="γαλλίωνος" folword="δὲ" verse="ACT 18:12" >Luke treats Gallio as accessible info.</reference>
+		<reference osisRef="ACT.18.18!8" type="note" precword="τοῖς" folword="ἀδελφοῖς" verse="ACT 18:18" >If parsed this when, then translate 'with the brothers'.
+See Mt 15:32 &amp; Mk 8:2.</reference>
+		<reference osisRef="ACT.18.24!1" type="note" precword="ἰουδαῖος" folword="δέ" verse="ACT 18:24" >NRSV 'Now there came to Ephesus a Jew named Apollos...'.</reference>
+		<reference osisRef="ACT.18.28!3" type="note" precword="τοῖς" folword="ἰουδαίοις" verse="ACT 18:28" >Established info, so underlining the violation of Natural Info Flow.</reference>
+		<reference osisRef="ACT.19.4!10" type="note" precword="λέγων" folword="εἰς" verse="ACT 19:4" >Marked order, possibly to allow 'saying' to be immediately followed
+by the content of the speech.</reference>
+		<reference osisRef="ACT.19.14!10" type="note" precword="ποιοῦντες" folword="ἀποκριθὲν" verse="ACT 19:14" >Bailey (Thetic Constructions) considers this sentence to have
+narrow focus, which is why the participle is final. Alternatively,
+touto poiountes is a topical subject, postposed to give prominence
+to the focal predicate that precedes it..</reference>
+		<reference osisRef="ACT.19.20!4" type="note" precword="τοῦ" folword="κυρίου" verse="ACT 19:20" >Lake and others note that this could mean 'according to the
+power of the Lord'. The order of constituents is consistent with
+such a suggestion.</reference>
+		<reference osisRef="ACT.19.24!1" type="note" precword="δημήτριος" folword="γάρ" verse="ACT 19:24" >Thetic subject but, with tis, becomes the topic about which
+a comment is made. Preposed because attention temporarily
+switches to him from Paul.</reference>
+		<reference osisRef="ACT.19.27!4" type="note" precword="τοῦτο" folword="κινδυνεύει" verse="ACT 19:27" >Foil for next clause.</reference>
+		<reference osisRef="ACT.19.36!5" type="note" precword="δέον" folword="ἐστὶν" verse="ACT 19:36" >May be in default position.</reference>
+		<reference osisRef="ACT.20.25!13" type="note" precword="πάντες" folword="ἐν" verse="ACT 20:25" >May be default order when followed by rel cl; see 15:36.</reference>
+		<reference osisRef="ACT.20.29!9" type="note" precword="λύκοι" folword="βαρεῖς" verse="ACT 20:29" >Marked order, with time followed by thetic subject,
+though not clause final.</reference>
+		<reference osisRef="ACT.21.5!5" type="note" precword="ἐξαρτίσαι" folword="τὰς" verse="ACT 21:5" >'to be finished the days' is the subject of egeneto.</reference>
+		<reference osisRef="ACT.21.13!23" type="note" precword="ἑτοίμως" folword="ἔχω" verse="ACT 21:13" >Always in this position.</reference>
+		<reference osisRef="ACT.21.22!4" type="note" precword="πάντως" folword="ἀκούσονται" verse="ACT 21:22" >Always pre-verb, but could be focally prominent.</reference>
+		<reference osisRef="ACT.22.2!9" type="note" precword="μᾶλλον" folword="παρέσχον" verse="ACT 22:2" >Marked because modifies 'quiet', not verb.</reference>
+		<reference osisRef="ACT.22.10!16" type="note" precword="κἀκεῖ" folword="σοι" verse="ACT 22:10" >Alternatively' there' is in P2 (narrow focus): 'THERE is where you will
+be told about...'.</reference>
+		<reference osisRef="ACT.23.13!4" type="note" precword="τεσσεράκοντα" folword="οἱ" verse="ACT 23:13" >'More than 40' is focally prominent because the Principle of Natural
+Information Flow is violated.</reference>
+		<reference osisRef="ACT.25.1!12" type="note" precword="ἀπὸ" folword="καισαρείας" verse="ACT 25:1" >With 'go up, 'to Jerusalem' is nuclear,
+whereas 'from Caesarea' is an adjunct; hence the order.</reference>
+		<reference osisRef="ACT.25.9!17" type="note" precword="ἐκεῖ" folword="περὶ" verse="ACT 25:9" >Narros focus, with the presupposition, 'be judged by me
+concerning these things'. 'There' contrasts with 'here'.</reference>
+		<reference osisRef="ACT.26.2!12" type="note" precword="ἐπὶ" folword="σοῦ" verse="ACT 26:2" >Relates to final verb, not mello:n.</reference>
+		<reference osisRef="ACT.26.12!4" type="note" precword="εἰς" folword="τὴν" verse="ACT 26:12" >Default order ('to Damascus' is nuclear).</reference>
+		<reference osisRef="ACT.26.14!1" type="note" precword="πάντων" folword="τε" verse="ACT 26:14" >'When we had ALL fallen to the ground' (NRSV).</reference>
+		<reference osisRef="ACT.26.15!1" type="note" precword="ἐγὼ" folword="δὲ" verse="ACT 26:15" >Intermediate step.</reference>
+		<reference osisRef="ACT.26.24!16" type="note" precword="γράμματα" folword="εἰς" verse="ACT 26:24" >If 'the great learning' is in P1, then why is it split by 'me'?</reference>
+		<reference osisRef="ACT.27.3!13" type="note" precword="χρησάμενος" folword="ἐπέτρεψεν" verse="ACT 27:3" >Very marked order. 'It was with such kindness that Julius
+treated Paul...' (cleft, with two P1's in second part?).</reference>
+		<reference osisRef="ACT.27.39!5" type="note" precword="τὴν" folword="γῆν" verse="ACT 27:39" >Foil for 'the bay'.</reference>
+		<reference osisRef="ACT.27.42!3" type="note" precword="στρατιωτῶν" folword="βουλὴ" verse="ACT 27:42" >Foil for the centurion.</reference>
+		<reference osisRef="ACT.28.3!5" type="note" precword="φρυγάνων" folword="τι" verse="ACT 28:3" >A foil for 'viper', perhaps, as it would look like a stick.</reference>
+		<reference osisRef="ACT.28.4!14" type="note" precword="ἀλλήλους" folword="ἔλεγον" verse="ACT 28:4" >Not, perhaps, the expected addressees.</reference>
+		<reference osisRef="ACT.28.4!16" type="note" precword="πάντως" folword="φονεύς" verse="ACT 28:4" >Always pre-verb, but could be focally prominent.</reference>
+		<reference osisRef="ACT.28.14!11" type="note" precword="οὕτως" folword="εἰς" verse="ACT 28:14" >'Thus' is focal, with the rest presupposed (Rome is arthrous -
+contrast v 16).</reference>
+		<reference osisRef="ACT.28.20!1" type="note" precword="διὰ" folword="ταύτην" verse="ACT 28:20" >Narrow focus.</reference>
+		<reference osisRef="ACT.28.20!11" type="note" precword="ἕνεκεν" folword="γὰρ" verse="ACT 28:20" >Narrow focus.</reference>
+		<reference osisRef="ACT.28.23!33" type="note" precword="ἀπὸ" folword="πρωῒ" verse="ACT 28:23" >Default order: inner periphery - outer periphery.</reference>
+		<reference osisRef="ACT.28.26!9" type="note" precword="ἀκοῇ" folword="ἀκούσετε" verse="ACT 28:26" >LXX, translating Hebrew verb + infinitive absolute.</reference>
+		<reference osisRef="ROM.2.14!7" type="note" precword="ἔχοντα" folword="φύσει" verse="ROM 2:14" >Focus of marked construction is 'not having', not 'law'.</reference>
+		<reference osisRef="ROM.2.23!11" type="note" precword="θεὸν" folword="ἀτιμάζεις" verse="ROM 2:23" >If focal, I'd have expected 'God' to be anarthrous.</reference>
+		<reference osisRef="ROM.3.28!5" type="note" precword="ἄνθρωπον" folword="χωρὶς" verse="ROM 3:28" >Conforms to Principle of Natural Info Flow.</reference>
+		<reference osisRef="ROM.4.9!17" type="note" precword="ἀβραὰμ" folword="ἡ" verse="ROM 4:9" >Presumably conforms to Principle of Natural Info Flow,
+with 'Abraham' more established than 'faith'.</reference>
+		<reference osisRef="ROM.4.16!11" type="note" precword="βεβαίαν" folword="τὴν" verse="ROM 4:16" >Default position immed after verb.</reference>
+		<reference osisRef="ROM.4.19!5" type="note" precword="πίστει" folword="κατενόησεν" verse="ROM 4:19" >If the variant reading with the negative particle ou is followed,
+then the initial participial clause is backgrounded in relation to
+what follows. If the UBS reading is followed, then it is focally
+prominent.</reference>
+		<reference osisRef="ROM.5.3!9" type="note" precword="θλίψεσιν" folword="εἰδότες" verse="ROM 5:3" >Arthrous: encyclopaedic knowledge.</reference>
+		<reference osisRef="ROM.5.8!15" type="note" precword="χριστὸς" folword="ὑπὲρ" verse="ROM 5:8" >refocus; all the information was established in 6, so 'died for us' is presupposed.
+'It was while we were STILL SINNERS that CHRIST dies for us'.</reference>
+		<reference osisRef="ROM.5.13!4" type="note" precword="ἁμαρτία" folword="ἦν" verse="ROM 5:13" >Anarthrous because of the shift from a specific sin (12) to sin in general.</reference>
+		<reference osisRef="ROM.5.17!6" type="note" precword="παραπτώματι" folword="ὁ" verse="ROM 5:17" >As in v 15. Or might the focus be on 'trespass'?</reference>
+		<reference osisRef="ROM.7.13!11" type="note" precword="ἁμαρτία" folword="ἵνα" verse="ROM 7:13" >In NRSV, 'sin' is focal.</reference>
+		<reference osisRef="ROM.8.32!11" type="note" precword="πάντων" folword="παρέδωκεν" verse="ROM 8:32" >Embedded DFE w/in focal constit.</reference>
+		<reference osisRef="ROM.9.17!9" type="note" precword="αὐτὸ" folword="τοῦτο" verse="ROM 9:17" >Not marked for embedded focal prominence, as always in this position
+when meaning 'same'.</reference>
+		<reference osisRef="ROM.12.10!2" type="note" precword="φιλαδελφίᾳ" folword="εἰς" verse="ROM 12:10" >The presence of the article suggests that, at least to begin with,
+these areas are viewed as sub-categories of 'the good' (v. 9b).</reference>
+		<reference osisRef="ROM.12.21!11" type="note" precword="τὸ" folword="κακόν" verse="ROM 12:21" >A/c Moo, the final 'evil' is in a chiastic arrangement with v 17a. </reference>
+		<reference osisRef="ROM.14.3!16" type="note" precword="ὁ" folword="θεὸς" verse="ROM 14:3" >Could be in P2 (see v 1), but arthrous .</reference>
+		<reference osisRef="ROM.14.13!4" type="note" precword="κρίνωμεν" folword="ἀλλὰ" verse="ROM 14:13" >This analysis takes 'one another' as a foil for 'this' in 13b.</reference>
+		<reference osisRef="ROM.15.12!18" type="note" precword="ἐλπιοῦσιν" folword="ὁ" verse="ROM 15:12" >In the Hebrew of Isa 11:10, the first line has 'amim, whereas the
+second has goyim, which would allow 'on him' to be a PoD, with goyim
+focally prominent. In Greek, though, it is difficult to see how ethne:
+could be focally prominent in the second line.
+(NIV treats 'on him' as focal.)</reference>
+		<reference osisRef="ROM.15.19!18" type="note" precword="ἰλλυρικοῦ" folword="πεπληρωκέναι" verse="ROM 15:19" >Although NIV and NRSV treat this constituent as a PoD,
+the focus on v. 20 is 'where Christ was not named',
+which suggests that it is focal.</reference>
+		<reference osisRef="ROM.16.26!4" type="note" precword="διά" folword="τε" verse="ROM 16:26" >Because anarthrous, may be a series of 3 P2 constituents:
+'and made known...
+...through the prophetic Scriptures
+...a/c to a command of the eternal God
+...for obedience of faith to all the Gentiles'.</reference>
+		<reference osisRef="1CO.1.19!13" type="note" precword="ἀθετήσω" folword="ποῦ" verse="1CO 1:19" >In the Hebrew, the verb is the DFE.</reference>
+		<reference osisRef="1CO.5.1!1" type="note" precword="ὅλως" folword="ἀκούεται" verse="1CO 5:1" >emphatic prominence</reference>
+		<reference osisRef="1CO.5.2!18" type="note" precword="πράξας" folword="ἐγὼ" verse="1CO 5:2" >Order conforms to Principle of Natural Info Flow ('you' are more
+established than the subject).</reference>
+		<reference osisRef="1CO.6.5!5" type="note" precword="οὕτως" folword="οὐκ" verse="1CO 6:5" >Different commenators treat houto:s as a connective (Lenski),
+as a PoD (ICC), or as emphatically prominent (Lightfoot).</reference>
+		<reference osisRef="1CO.6.10!12" type="note" precword="θεοῦ" folword="κληρονομήσουσιν" verse="1CO 6:10" >In P2 because it is anarthrous.</reference>
+		<reference osisRef="1CO.6.12!8" type="note" precword="πάντα" folword="μοι" verse="1CO 6:12" >Although the order is the same as in 12a, the contrast is now
+between panta and hupo tinos.</reference>
+		<reference osisRef="1CO.7.4!2" type="note" precword="γυνὴ" folword="τοῦ" verse="1CO 7:4" >Narrow focus: It is not the WIFE who has authority over her own
+body, but the HUSBAND; etc.</reference>
+		<reference osisRef="1CO.7.17!13" type="note" precword="οὕτως" folword="περιπατείτω" verse="1CO 7:17" >I chose P1, rather than P2, because of houto:s in the next clause.</reference>
+		<reference osisRef="1CO.7.19!7" type="note" precword="ἀκροβυστία" folword="οὐδέν" verse="1CO 7:19" >This could be read, 'and CIRCUMCISION is nothing...'. Because of
+the article, though, 'uncircumcision' is probably the topic.</reference>
+		<reference osisRef="1CO.7.36!18" type="note" precword="θέλει" folword="ποιείτω" verse="1CO 7:36" >If 'what he desires' is viewed as established info, then it could be in P1.</reference>
+		<reference osisRef="1CO.9.10!4" type="note" precword="πάντως" folword="λέγει" verse="1CO 9:10" >Always pre-verb, but could be focally prominent.</reference>
+		<reference osisRef="1CO.9.10!13" type="note" precword="ἐλπίδι" folword="ὁ" verse="1CO 9:10" >Preposing even before subject of 'ought': extra prominence.</reference>
+		<reference osisRef="1CO.9.22!14" type="note" precword="πάντως" folword="τινὰς" verse="1CO 9:22" >Always pre-verb, but could be focally prominent.</reference>
+		<reference osisRef="1CO.10.15!5" type="note" precword="ὑμεῖς" folword="ὅ" verse="1CO 10:15" >'You yourselves' -- ICC.</reference>
+		<reference osisRef="1CO.10.17!11" type="note" precword="πάντες" folword="ἐκ" verse="1CO 10:17" >Norm is for pantes to be anarthrous.</reference>
+		<reference osisRef="1CO.10.27!6" type="note" precword="ἀπίστων" folword="καὶ" verse="1CO 10:27" >Right-dislocated for clarification.</reference>
+		<reference osisRef="1CO.10.30!9" type="note" precword="ἐγὼ" folword="εὐχαριστῶ" verse="1CO 10:30" >I myself.</reference>
+		<reference osisRef="1CO.11.2!7" type="note" precword="μέμνησθε" folword="καί" verse="1CO 11:2" >Paul may well be quoting from what the Corinthians wrote to him
+(commentators), which would explain the narrow focus of these clauses.</reference>
+		<reference osisRef="1CO.11.3!10" type="note" precword="ὁ" folword="χριστός" verse="1CO 11:3" >There is an anarthrous variant. If anarthrous, then 'Christ' would be
+focally prominent (in P2) and 'the head of very man' would be in P1.
+However, this does not explain why pantos andros is preposed.</reference>
+		<reference osisRef="1CO.11.13!5" type="note" precword="πρέπον" folword="ἐστὶν" verse="1CO 11:13" >Default order, with estin as an enclitic?</reference>
+		<reference osisRef="1CO.11.30!8" type="note" precword="ἄρρωστοι" folword="καὶ" verse="1CO 11:30" >'many weak and sick': thetic subject.</reference>
+		<reference osisRef="1CO.12.2!10" type="note" precword="ἄφωνα" folword="ὡς" verse="1CO 12:2" >Articular, so less prominent than 'however you were being led'.
+Could the phrase even be a PoD to indicate that it was not the idols,
+but something more demonic, that resulted in them being led away?</reference>
+		<reference osisRef="1CO.14.18!6" type="note" precword="μᾶλλον" folword="γλώσσαις" verse="1CO 14:18" >Default position of mallon is before the constituent it governs.</reference>
+		<reference osisRef="1CO.14.21!17" type="note" precword="οὐδ’" folword="οὕτως" verse="1CO 14:21" >Gloss should be 'and not even'.</reference>
+		<reference osisRef="1CO.15.11!7" type="note" precword="κηρύσσομεν" folword="καὶ" verse="1CO 15:11" >Verbs are established info from v 1.</reference>
+		<reference osisRef="1CO.15.12!13" type="note" precword="τινες" folword="ὅτι" verse="1CO 15:12" >Conforms to Principle of Natural Info Flow.</reference>
+		<reference osisRef="1CO.15.14!12" type="note" precword="κενὴ" folword="καὶ" verse="1CO 15:14" >'Our proclamation' and 'your faith' are still established (comparre 11).</reference>
+		<reference osisRef="1CO.15.19!10" type="note" precword="μόνον" folword="ἐλεεινότεροι" verse="1CO 15:19" >Here and in Rom 3:29, the constituent to which monon relates
+is in P2.</reference>
+		<reference osisRef="1CO.15.21!5" type="note" precword="θάνατος" folword="καὶ" verse="1CO 15:21" >'Through man' is non-established. But does the parallelism with 22
+affect the analysis?</reference>
+		<reference osisRef="1CO.16.12!17" type="note" precword="πάντως" folword="οὐκ" verse="1CO 16:12" >Always pre-verb, but could be focally prominent.</reference>
+		<reference osisRef="2CO.1.1!23" type="note" precword="πᾶσιν" folword="τοῖς" verse="2CO 1:1" >May be default position in the light of what follows.</reference>
+		<reference osisRef="2CO.1.11!16" type="note" precword="διὰ" folword="πολλῶν" verse="2CO 1:11" >Relates to 'gift', not 'give thanks'.</reference>
+		<reference osisRef="2CO.1.20!19" type="note" precword="δι’" folword="ἡμῶν" verse="2CO 1:20" >As relating to 'glory', not 'Amen': "glory to God by the ministry of Paul
+and his co-workers" (Exegetical Helps).</reference>
+		<reference osisRef="2CO.5.20!5" type="note" precword="ὡς" folword="τοῦ" verse="2CO 5:20" >A minority of commentators relate this clause to what follows.</reference>
+		<reference osisRef="2CO.7.13!2" type="note" precword="τοῦτο" folword="παρακεκλήμεθα" verse="2CO 7:13" >Relating back to vv 6-7.</reference>
+		<reference osisRef="2CO.8.22!11" type="note" precword="πολλάκις" folword="σπουδαῖον" verse="2CO 8:22" >Default is pre-vb.</reference>
+		<reference osisRef="2CO.11.24!3" type="note" precword="πεντάκις" folword="τεσσεράκοντα" verse="2CO 11:24" >If the preceding adverbs ('more frequently, far more, often' are focal,
+then 'five (times)' might well be  focally prominent, too. </reference>
+		<reference osisRef="2CO.12.14!3" type="note" precword="τοῦτο" folword="ἑτοίμως" verse="2CO 12:14" >'Behold, this will be the THIRD time that I am coming...' (AG).
+Alternatively, treat triton touto as a single, focal constituent:
+'Here I am, ready to come to you this third time' (NRSV).</reference>
+		<reference osisRef="2CO.13.10!4" type="note" precword="ἀπὼν" folword="γράφω" verse="2CO 13:10" >If cleft, could be in P2 in second part.</reference>
+		<reference osisRef="GAL.2.4!1" type="note" precword="διὰ" folword="δὲ" verse="GAL 2:4" >Should be PoD for what follows, but lacks a main clause.</reference>
+		<reference osisRef="GAL.2.5!1" type="note" precword="οἷς" folword="οὐδὲ" verse="GAL 2:5" >Continuative relative clause.</reference>
+		<reference osisRef="GAL.2.14!27" type="note" precword="τὰ" folword="ἔθνη" verse="GAL 2:14" >'How is it that [the Gentiles you compel...']?'</reference>
+		<reference osisRef="GAL.2.15!1" type="note" precword="ἡμεῖς" folword="φύσει" verse="GAL 2:15" >Vaz (p. 37), ff Parunak (1992): "Thus the rebuke
+extends from 2:14 through 2:21, and also serves as the
+theological stepping stone for Paul  to launch [in 3:1]
+into the development of his main thesis in 1:11."</reference>
+		<reference osisRef="GAL.2.16!10" type="note" precword="ἐὰν" folword="μὴ" verse="GAL 2:16" >Every other example of ean me:: 'unless' => only justified by
+works of law if (first) have faith in JC. This is then corrected in
+the latter part of the sentence.</reference>
+		<reference osisRef="GAL.3.10!13" type="note" precword="ἐπικατάρατος" folword="πᾶς" verse="GAL 3:10" >Like makarios, behaves like a verb.</reference>
+		<reference osisRef="GAL.3.12!9" type="note" precword="ὁ" folword="ποιήσας" verse="GAL 3:12" >In Lev 18:5, the subject is in P1. Here, in contrast, it could be in P2
+to contrast doing with believing.</reference>
+		<reference osisRef="GAL.4.25!4" type="note" precword="σινᾶ" folword="ὄρος" verse="GAL 4:25" >Variant reading, with 'Hagar' omitted, makes more sense!
+Otherwise, why are 'Sinai' and 'Mount' reversed?</reference>
+		<reference osisRef="GAL.5.7!2" type="note" precword="καλῶς" folword="τίς" verse="GAL 5:7" >Default is pre-verb.</reference>
+		<reference osisRef="GAL.5.24!6" type="note" precword="τὴν" folword="σάρκα" verse="GAL 5:24" >Alternative: 'crucify' is the DFE, with 'with the passions and
+the lusts' right-dislocated.</reference>
+		<reference osisRef="GAL.6.7!3" type="note" precword="θεὸς" folword="οὐ" verse="GAL 6:7" >If theos were thematic, it would be the only instance of anarthrous
+theos in Galatians that was not focally prominent. If converted from 
+passive to active, it would be the DFE. 'No one makes a fool of
+God' (The Message).</reference>
+		<reference osisRef="GAL.6.9!9" type="note" precword="ἰδίῳ" folword="θερίσομεν" verse="GAL 6:9" >Default position with kairos? See 1 Tim 2:6., 6:15, Tit 1:3.</reference>
+		<reference osisRef="GAL.6.10!4" type="note" precword="καιρὸν" folword="ἔχομεν" verse="GAL 6:10" >Not DFE because the same word was used in v 9.</reference>
+		<reference osisRef="EPH.2.3!26" type="note" precword="ὀργῆς" folword="ὡς" verse="EPH 2:3" >Could be focally prominent (split focus).</reference>
+		<reference osisRef="EPH.2.12!19" type="note" precword="ἐλπίδα" folword="μὴ" verse="EPH 2:12" >'hope' mentioned in 1:18; note a- in next lkne.</reference>
+		<reference osisRef="EPH.2.21!5" type="note" precword="συναρμολογουμένη" folword="αὔξει" verse="EPH 2:21" >Implied by context.</reference>
+		<reference osisRef="EPH.3.8!1" type="note" precword="ἐμοὶ" folword="τῷ" verse="EPH 3:8" >Part of a constituent that contains non-established info.
+The rest of the proposition is established info.</reference>
+		<reference osisRef="EPH.3.10!19" type="note" precword="θεοῦ" folword="κατὰ" verse="EPH 3:10" >If this phrase were the DFE, then it would be the only instance in
+Ephesians where an arthrous reference to God was focal.</reference>
+		<reference osisRef="EPH.3.17!13" type="note" precword="ἐρριζωμένοι" folword="καὶ" verse="EPH 3:17" >Doublet suggests that verbs are focally prominent.</reference>
+		<reference osisRef="EPH.4.19!3" type="note" precword="ἑαυτοὺς" folword="παρέδωκαν" verse="EPH 4:19" >May be a switch from remourse with ref to God.</reference>
+		<reference osisRef="EPH.4.29!9" type="note" precword="ἐκπορευέσθω" folword="ἀλλὰ" verse="EPH 4:29" >Negated verb might be focally prominent, too.</reference>
+		<reference osisRef="EPH.5.3!1" type="note" precword="πορνεία" folword="δὲ" verse="EPH 5:3" >Taken as thetic see 4:29, 31; continues in v 4.</reference>
+		<reference osisRef="EPH.6.8!11" type="note" precword="κυρίου" folword="εἴτε" verse="EPH 6:8" >Anarthrous/focally prominent because of implied contrast.</reference>
+		<reference osisRef="EPH.6.20!9" type="note" precword="παρρησιάσωμαι" folword="ὡς" verse="EPH 6:20" >Not DFE because same root as earlier.</reference>
+		<reference osisRef="EPH.6.22!7" type="note" precword="τοῦτο" folword="ἵνα" verse="EPH 6:22" >Anaphoric in the first instance, but then amplified.</reference>
+		<reference osisRef="EPH.6.23!9" type="note" precword="θεοῦ" folword="πατρὸς" verse="EPH 6:23" >Anarthrous, so focally prominent.</reference>
+		<reference osisRef="PHP.1.7!17" type="note" precword="ὑμᾶς" folword="ἔν" verse="PHP 1:7" >Marked order, possibly because the default position immediately
+after the verb is already occupied by 'me'.</reference>
+		<reference osisRef="COL.1.18!21" type="note" precword="αὐτὸς" folword="πρωτεύων" verse="COL 1:18" >Pronominal subject after P2 adds prominence.</reference>
+		<reference osisRef="COL.3.11!15" type="note" precword="τὰ" folword="πάντα" verse="COL 3:11" >I am assuming that ta should be omitted.</reference>
+		<reference osisRef="1TH.2.6!2" type="note" precword="ζητοῦντες" folword="ἐξ" verse="1TH 2:6" >Parallel to the en-phrases in 5; understood egenHthhmen.</reference>
+		<reference osisRef="1TH.2.13!5" type="note" precword="ἡμεῖς" folword="εὐχαριστοῦμεν" verse="1TH 2:13" >If cleft, then in P1 in the second part.</reference>
+		<reference osisRef="1TH.3.12!3" type="note" precword="ὁ" folword="κύριος" verse="1TH 3:12" >A second PoD.</reference>
+		<reference osisRef="1TH.5.16!1" type="note" precword="πάντοτε" folword="χαίρετε" verse="1TH 5:16" >Ambiguous because of pantote in the previous sentence.</reference>
+		<reference osisRef="1TI.2.6!10" type="note" precword="ἰδίοις" folword="εἰς" verse="1TI 2:6" >May be default position with kairos; see Gal 6:9, 1 Tim 6:15, Tit 1:3.</reference>
+		<reference osisRef="1TI.6.15!3" type="note" precword="ἰδίοις" folword="δείξει" verse="1TI 6:15" >May be default position with kairos; see Gal 6:9 &amp; 1 Tim 2:6, Tit 1:3.</reference>
+		<reference osisRef="HEB.2.9!1" type="note" precword="τὸν" folword="δὲ" verse="HEB 2:9" >Taken as left-dislocated because citing another part of the quote. </reference>
+		<reference osisRef="JAS.1.11!32" type="note" precword="μαρανθήσεται" folword="μακάριος" verse="JAS 1:11" >By adding 'even', NIV gives focal prominence to 'while he goes about
+his business'. However, the constituent is articular, so it is more
+likely that the verb is postposed for focal prominence. </reference>
+		<reference osisRef="JAS.1.13!1" type="note" precword="μηδεὶς" folword="πειραζόμενος" verse="JAS 1:13" >P2, but then becomes topical: 'Let there be no-one who,
+on being tempted, says...'.</reference>
+		<reference osisRef="JAS.2.3!15" type="note" precword="καλῶς" folword="καὶ" verse="JAS 2:3" >Default is pre-verb.</reference>
+		<reference osisRef="JAS.2.11!18" type="note" precword="νόμου" folword="οὕτως" verse="JAS 2:11" >Anarthrous: focally prominent (probably because 'transgressor' is
+contrastively prominent).</reference>
+		<reference osisRef="JAS.2.18!25" type="note" precword="τὴν" folword="πίστιν" verse="JAS 2:18" >1st clause: 'your faith' is more established (18b) than 'without the works'.
+2nd clause: 'from the works' is more established (18c) than 'the faith'.</reference>
+		<reference osisRef="JAS.3.13!13" type="note" precword="ἔργα" folword="αὐτοῦ" verse="JAS 3:13" >Following SSA, It take this as the complement of 'let him show by
+his good conduct': 'that his works (are) in the MEEKNESS of wisdom'.</reference>
+		<reference osisRef="JAS.3.18!1" type="note" precword="καρπὸς" folword="δὲ" verse="JAS 3:18" >De: distinct point, so translate singular karpos as 'harvest' (next stage
+after 'fruits'. God's Word for the Nations translates, 'A harvest that 
+has God's approval. [anarthrous cos not uniquely identifiable] 'comes
+from the peace [P2] plantedby peacemakers'.</reference>
+		<reference osisRef="JAS.4.10!3" type="note" precword="κυρίου" folword="καὶ" verse="JAS 4:10" >Anarthrous also in Lk 1:76, 2 Cor 8:21 &amp; Lk 1:15 (articular variant),
+so may be a frozen expression, rather than focally prominent.</reference>
+		<reference osisRef="JAS.5.4!12" type="note" precword="ἀπεστερημένος" folword="ἀφ’" verse="JAS 5:4" >The subject could be thetic, rather than topical.</reference>
+		<reference osisRef="JAS.5.8!12" type="note" precword="κυρίου" folword="ἤγγικεν" verse="JAS 5:8" >This proposition could be thetic.</reference>
+		<reference osisRef="1PE.1.3!22" type="note" precword="δι’" folword="ἀναστάσεως" verse="1PE 1:3" >Unless this PP is modifying elpida.</reference>
+		<reference osisRef="1PE.1.6!6" type="note" precword="εἰ" folword="δέον" verse="1PE 1:6" >Conditional clause may relate to previous span of time, not to what follows.</reference>
+		<reference osisRef="1PE.1.6!7" type="note" precword="δέον" folword="ἐστὶν" verse="1PE 1:6" >As in Acts 19:36, this position may well be default.</reference>
+		<reference osisRef="1PE.1.7!7" type="note" precword="πολυτιμότερον" folword="χρυσίου" verse="1PE 1:7" >Anarthrous: appositive is more prominent than articular (see 9).
+Focal in relation to 'the genuineness of your faith'.</reference>
+		<reference osisRef="1PE.1.9!7" type="note" precword="σωτηρίαν" folword="ψυχῶν" verse="1PE 1:9" >Anarthrous = focally prominent (see 7).</reference>
+		<reference osisRef="1PE.1.10!8" type="note" precword="οἱ" folword="περὶ" verse="1PE 1:10" >Anarthrous + articular: descriptive</reference>
+		<reference osisRef="1PE.1.10!13" type="note" precword="χάριτος" folword="προφητεύσαντες" verse="1PE 1:10" >accesible thru ref to salvation.</reference>
+		<reference osisRef="1PE.1.11!12" type="note" precword="χριστοῦ" folword="προμαρτυρόμενον" verse="1PE 1:11" >Default for Christos in 1 Peter is anarthrous.</reference>
+		<reference osisRef="1PE.1.11!15" type="note" precword="εἰς" folword="χριστὸν" verse="1PE 1:11" >Focus particularly on eis.</reference>
+		<reference osisRef="1PE.1.11!17" type="note" precword="παθήματα" folword="καὶ" verse="1PE 1:11" >Tied back to t testing of your faith Y subsequent glory (v 7).</reference>
+		<reference osisRef="1PE.1.12!19" type="note" precword="πνεύματι" folword="ἁγίῳ" verse="1PE 1:12" >May be anarthrous because thinking of NT manifestation of Holy
+Spirit at Pentecost. Either way, focal.</reference>
+		<reference osisRef="1PE.1.13!1" type="note" precword="διὸ" folword="ἀναζωσάμενοι" verse="1PE 1:13" >3-12 (part of the same sentence) are backgrounded in relation to these
+exhortations, if dio is taken as introducing a continuative relative cl.</reference>
+		<reference osisRef="1PE.1.13!9" type="note" precword="τελείως" folword="ἐλπίσατε" verse="1PE 1:13" >Hapax.</reference>
+		<reference osisRef="1PE.1.14!3" type="note" precword="ὑπακοῆς" folword="μὴ" verse="1PE 1:14" >Previous mention in v 2. Anarthrous because focal within
+'since you are children of OBEDIENCE'.</reference>
+		<reference osisRef="1PE.1.14!10" type="note" precword="ἀγνοίᾳ" folword="ὑμῶν" verse="1PE 1:14" >accessible because of preaching of Gospel, relieving ignorance.</reference>
+		<reference osisRef="1PE.1.14!12" type="note" precword="ἐπιθυμίαις" folword="ἀλλὰ" verse="1PE 1:14" >articular because shared knowledge? Accessible because they
+have been saved/born again, therefore needed to change.</reference>
+		<reference osisRef="1PE.1.15!6" type="note" precword="ἅγιον" folword="καὶ" verse="1PE 1:15" >However this phrase is exegeted, the key word (DFE) is 'holy'.</reference>
+		<reference osisRef="1PE.1.15!8" type="note" precword="αὐτοὶ" folword="ἅγιοι" verse="1PE 1:15" >Identificational articulation/narrow focus.
+'In all conduct' is part of the presupposition,
+but has been made explicit.</reference>
+		<reference osisRef="1PE.1.18!12" type="note" precword="ὑμῶν" folword="ἀναστροφῆς" verse="1PE 1:18" >Position probably gives more prominence to mataias.</reference>
+		<reference osisRef="1PE.1.18!14" type="note" precword="πατροπαραδότου" folword="ἀλλὰ" verse="1PE 1:18" >Because 2 modifiers pre-head  N, postposed, but still anarthrous.</reference>
+		<reference osisRef="1PE.1.19!1" type="note" precword="ἀλλὰ" folword="τιμίῳ" verse="1PE 1:19" >19 could be treated as split focus with the negative in 18b.</reference>
+		<reference osisRef="1PE.1.19!9" type="note" precword="χριστοῦ" folword="προεγνωσμένου" verse="1PE 1:19" >anarthrous appositive,for focal prominence.</reference>
+		<reference osisRef="1PE.1.20!9" type="note" precword="ἐσχάτου" folword="τῶν" verse="1PE 1:20" >established (v 5), but contrastively focal.</reference>
+		<reference osisRef="1PE.1.21!2" type="note" precword="δι’" folword="αὐτοῦ" verse="1PE 1:21" >Peters (p. 257) claims that Art Attrib N is the ONLY order found 
+in 1 Peter, 1:25b is an exception, but order in prob still default.</reference>
+		<reference osisRef="1PE.1.21!6" type="note" precword="θεὸν" folword="τὸν" verse="1PE 1:21" >anarthrous: focally prominent (again at end of verse).</reference>
+		<reference osisRef="1PE.1.21!7" type="note" precword="τὸν" folword="ἐγείραντα" verse="1PE 1:21" >equivalent of non-restrictive relative clause, so on separate line.</reference>
+		<reference osisRef="1PE.1.21!11" type="note" precword="νεκρῶν" folword="καὶ" verse="1PE 1:21" >Established (3) but focally prominent.
+Note the chiasm with 'glory' in the next line.</reference>
+		<reference osisRef="1PE.1.23!8" type="note" precword="διὰ" folword="λόγου" verse="1PE 1:23" >Or appositive to the ek constituent.</reference>
+		<reference osisRef="1PE.1.23!13" type="note" precword="μένοντος" folword="διότι" verse="1PE 1:23" >Although splitting could be simply cos coordinative, allows
+second part to relate to 25.</reference>
+		<reference osisRef="1PE.1.24!14" type="note" precword="ὁ" folword="χόρτος" verse="1PE 1:24" >anarthrous in Hebrew, but arthrous in LXX.</reference>
+		<reference osisRef="1PE.1.25!4" type="note" precword="κυρίου" folword="μένει" verse="1PE 1:25" >Heb &amp; LXX have tou theou. May be anarthrous cos contrastively
+prominent (or translating YHWH).</reference>
+		<reference osisRef="1PE.2.2!1" type="note" precword="ὡς" folword="ἀρτιγέννητα" verse="1PE 2:2" >Although older versions have this constituent in P1,
+its anarthrous nature implies that it is in P2 (see TEV).</reference>
+		<reference osisRef="1PE.2.2!11" type="note" precword="αὐτῷ" folword="αὐξηθῆτε" verse="1PE 2:2" >PoD by renewal (see touto in 1:25), introducing a distinct pt.</reference>
+		<reference osisRef="1PE.2.5!4" type="note" precword="λίθοι" folword="ζῶντες" verse="1PE 2:5" >Anarthrous because different from 4.</reference>
+		<reference osisRef="1PE.2.6!4" type="note" precword="γραφῇ" folword="ἰδοὺ" verse="1PE 2:6" >Other NT books use with article when topical.</reference>
+		<reference osisRef="1PE.2.6!10" type="note" precword="ἀκρογωνιαῖον" folword="ἐκλεκτὸν" verse="1PE 2:6" >Substantival in LXX Hebrew, in which case, appositive..</reference>
+		<reference osisRef="1PE.2.7!1" type="note" precword="ὑμῖν" folword="οὖν" verse="1PE 2:7" >Counterpoint to main point in 7b.</reference>
+		<reference osisRef="1PE.2.7!4" type="note" precword="τιμὴ" folword="τοῖς" verse="1PE 2:7" >See entimon in v 6. See also 1:7 (relating to believers).</reference>
+		<reference osisRef="1PE.2.8!9" type="note" precword="τῷ" folword="λόγῳ" verse="1PE 2:8" >stumble by being disoobedient to the Word. Or (KJV) 'to hhe word'
+relates to 'stumble'.</reference>
+		<reference osisRef="1PE.2.10!9" type="note" precword="οἱ" folword="οὐκ" verse="1PE 2:10" >I take this to be a relative pronoun, introducing the name of Hosea's
+daughter (Loruhamah - 1:6). If read as an article, then appositive to 
+the previoius pair.</reference>
+		<reference osisRef="1PE.2.11!3" type="note" precword="ὡς" folword="παροίκους" verse="1PE 2:11" >Mark Dubis says that, because in accusative,
+should relate to following verb.</reference>
+		<reference osisRef="1PE.2.11!11" type="note" precword="αἵτινες" folword="στρατεύονται" verse="1PE 2:11" >plural: overtones of inclusiveness: 'whichever'. Might even be in
+apposition to 'fleshy lusts'.</reference>
+		<reference osisRef="1PE.2.12!16" type="note" precword="ἐκ" folword="τῶν" verse="1PE 2:12" >Or P1, not relating to following participle.</reference>
+		<reference osisRef="1PE.2.13!3" type="note" precword="ἀνθρωπίνῃ" folword="κτίσει" verse="1PE 2:13" >Same order in Jas 3:16, but opposite order in Jas 1:17.</reference>
+		<reference osisRef="1PE.2.14!4" type="note" precword="δι’" folword="αὐτοῦ" verse="1PE 2:14" >Or, perhaps, dia is focally prominent.</reference>
+		<reference osisRef="1PE.2.15!14" type="note" precword="ἀγνωσίαν" folword="ὡς" verse="1PE 2:15" >Articular constrains readers to relate 'ignorance' and 'foolish'
+to something in context (e.g. v 12). See also 1:14.</reference>
+		<reference osisRef="1PE.2.16!9" type="note" precword="κακίας" folword="τὴν" verse="1PE 2:16" >Appears to relate to 'evil doers' in 2:14, rather than to 2:1.</reference>
+		<reference osisRef="1PE.2.17!5" type="note" precword="ἀγαπᾶτε" folword="τὸν" verse="1PE 2:17" >Switch from perfective (aorist) to imperfective (present)
+probably means the first command is generic and the
+others, specific instances of 'honouring everyone'.</reference>
+		<reference osisRef="1PE.2.18!3" type="note" precword="ὑποτασσόμενοι" folword="ἐν" verse="1PE 2:18" >May well relate back to 2:13-16, rather than v 17.</reference>
+		<reference osisRef="1PE.2.20!18" type="note" precword="θεῷ" folword="εἰς" verse="1PE 2:20" >anarthrous: focally prominent.</reference>
+		<reference osisRef="1PE.2.22!2" type="note" precword="ἁμαρτίαν" folword="οὐκ" verse="1PE 2:22" >Order as in LXX. In Hebrew, 'violence' is in P2. Because of ref to
+sinning in v 21, though, could be in P1.</reference>
+		<reference osisRef="1PE.2.24!19" type="note" precword="δικαιοσύνῃ" folword="ζήσωμεν" verse="1PE 2:24" >Constrained to be related to what has been previously been said.</reference>
+		<reference osisRef="1PE.2.24!24" type="note" precword="ἰάθητε" folword="ἦτε" verse="1PE 2:24" >LXX 1st person plural.</reference>
+		<reference osisRef="1PE.2.25!5" type="note" precword="πλανώμενοι" folword="ἀλλὰ" verse="1PE 2:25" >LXX: 'we were led astray',</reference>
+		<reference osisRef="1PE.3.1!6" type="note" precword="ἰδίοις" folword="ἀνδράσιν" verse="1PE 3:1" >Usually pre-head noun, though there are exceptions.
+Also, Art Atrib N is default.</reference>
+		<reference osisRef="1PE.3.3!2" type="note" precword="ἔστω" folword="οὐχ" verse="1PE 3:3" >Let yours be not... but... </reference>
+		<reference osisRef="1PE.3.4!9" type="note" precword="ἀφθάρτῳ" folword="τοῦ" verse="1PE 3:4" >Articular constrains readers to relate to something in context =
+earlier in the chapter.</reference>
+		<reference osisRef="1PE.3.5!7" type="note" precword="γυναῖκες" folword="αἱ" verse="1PE 3:5" >Articular: readers instructed to relate it to known info.</reference>
+		<reference osisRef="1PE.3.5!11" type="note" precword="θεὸν" folword="ἐκόσμουν" verse="1PE 3:5" >Anarthrous: focally prominent.</reference>
+		<reference osisRef="1PE.3.7!11" type="note" precword="γυναικείῳ" folword="ἀπονέμοντες" verse="1PE 3:7" >Could be for clarification.</reference>
+		<reference osisRef="1PE.3.8!4" type="note" precword="πάντες" folword="ὁμόφρονες" verse="1PE 3:8" >Anarthrous because vocative?</reference>
+		<reference osisRef="1PE.3.9!10" type="note" precword="τοὐναντίον" folword="δὲ" verse="1PE 3:9" >Always initial.</reference>
+		<reference osisRef="1PE.3.9!15" type="note" precword="τοῦτο" folword="ἐκλήθητε" verse="1PE 3:9" >Could be cataphoric, pointing forward to the hina clause.</reference>
+		<reference osisRef="1PE.3.10!16" type="note" precword="χείλη" folword="τοῦ" verse="1PE 3:10" >LXX also anarthrous. Ellipsis of verb and article.</reference>
+		<reference osisRef="1PE.3.12!2" type="note" precword="ὀφθαλμοὶ" folword="κυρίου" verse="1PE 3:12" >Anarthrous construct form in Hebrew.</reference>
+		<reference osisRef="1PE.3.15!3" type="note" precword="τὸν" folword="χριστὸν" verse="1PE 3:15" >See Isaiah 8:13 LXX. First time Christos is articular in 1 Peter.
+Constrains Christon to be related back to something in context
+= kurion.</reference>
+		<reference osisRef="1PE.3.15!16" type="note" precword="αἰτοῦντι" folword="ὑμᾶς" verse="1PE 3:15" >Articular cos apologian makes it accessible.</reference>
+		<reference osisRef="1PE.3.17!1" type="note" precword="κρεῖττον" folword="γὰρ" verse="1PE 3:17" >I take the anarthrous infinitival clause as the complement of kreitton,
+rather than its subject. Suffering for doing good: more prominent
+than if it had been an embedded subject.</reference>
+		<reference osisRef="1PE.3.17!7" type="note" precword="θέλημα" folword="τοῦ" verse="1PE 3:17" >Could be related back to 14?</reference>
+		<reference osisRef="1PE.3.19!7" type="note" precword="πνεύμασιν" folword="πορευθεὶς" verse="1PE 3:19" >Arthrous if 'pneumati (18) is taken to mean 'in the realm of the spirit',
+which makes 'the spirits in prison' to be accessed, in line with 
+extra- bilbical Jewish literature of the time.</reference>
+		<reference osisRef="1PE.3.20!1" type="note" precword="ἀπειθήσασίν" folword="ποτε" verse="1PE 3:20" >Understood as a post-nuclear adverbial participle (Grudem).</reference>
+		<reference osisRef="1PE.3.20!8" type="note" precword="μακροθυμία" folword="ἐν" verse="1PE 3:20" >Arthrous because accessed by 'the spirits in prison'.
+Grudem cites Jewish extra-biblical literature to show a unanimous
+emphasis on God's waiting for sinners to repent, and connecting
+his patience specifically with the time of the flood.
+</reference>
+		<reference osisRef="1PE.3.21!13" type="note" precword="συνειδήσεως" folword="ἀγαθῆς" verse="1PE 3:21" >Not same referent as in 16, broader.</reference>
+		<reference osisRef="1PE.3.21!18" type="note" precword="δι’" folword="ἀναστάσεως" verse="1PE 3:21" >Assuming that relates to swsei, rather than 'pledge'.</reference>
+		<reference osisRef="1PE.4.1!4" type="note" precword="σαρκὶ" folword="καὶ" verse="1PE 4:1" >As in 3:19, not specifically 'in his flesh', but 'in the bodily realm'.</reference>
+		<reference osisRef="1PE.4.2!12" type="note" precword="σαρκὶ" folword="βιῶσαι" verse="1PE 4:2" >Suffering in flesh is a sub-group of remaining in flesh.</reference>
+		<reference osisRef="1PE.4.2!14" type="note" precword="χρόνον" folword="ἀρκετὸς" verse="1PE 4:2" >Postposed in anticipation of 3. Not focally prominent.</reference>
+		<reference osisRef="1PE.4.3!10" type="note" precword="κατειργάσθαι" folword="πεπορευμένους" verse="1PE 4:3" >Taking 'the desire of the Gentiles' (articular) to refer to v 2.</reference>
+		<reference osisRef="1PE.4.3!14" type="note" precword="ἐπιθυμίαις" folword="οἰνοφλυγίαις" verse="1PE 4:3" >Used more specifically than in 2 (generic).</reference>
+		<reference osisRef="1PE.4.4!12" type="note" precword="ἀνάχυσιν" folword="βλασφημοῦντες" verse="1PE 4:4" >Could be embedded DFE. </reference>
+		<reference osisRef="1PE.4.6!5" type="note" precword="νεκροῖς" folword="εὐηγγελίσθη" verse="1PE 4:6" >Referent is not same as in 5.</reference>
+		<reference osisRef="1PE.4.8!6" type="note" precword="ἀγάπην" folword="ἐκτενῆ" verse="1PE 4:8" >See 1:22 &amp; 2:17.</reference>
+		<reference osisRef="1PE.4.8!10" type="note" precword="ἀγάπη" folword="καλύπτει" verse="1PE 4:8" >Alludes to Prov 10:12 MTT, but reverse order.</reference>
+		<reference osisRef="1PE.4.10!1" type="note" precword="ἕκαστος" folword="καθὼς" verse="1PE 4:10" >Note switch back to plural in following participial clause.
+So relates only to kathws clause, but more prominent than if in
+default position after kathws.</reference>
+		<reference osisRef="1PE.4.12!7" type="note" precword="πυρώσει" folword="πρὸς" verse="1PE 4:12" >Order corresponds to Principle of NIF.</reference>
+		<reference osisRef="1PE.4.13!13" type="note" precword="ἀποκαλύψει" folword="τῆς" verse="1PE 4:13" >Arthrous ref to concept not mentioned for a while implies that the
+referent is thematic over a larger span.</reference>
+		<reference osisRef="1PE.4.14!16" type="note" precword="ἐφ’" folword="ὑμᾶς" verse="1PE 4:14" >Focus is eph, not whole constituent. Altve: subject is focal,
+but arthrous (contrast Is 11:2).</reference>
+		<reference osisRef="1PE.4.15!4" type="note" precword="ὑμῶν" folword="πασχέτω" verse="1PE 4:15" >Prominent because ff negative particle, but not focal.</reference>
+		<reference osisRef="1PE.4.18!5" type="note" precword="μόλις" folword="σῴζεται" verse="1PE 4:18" >Always found in this position in NT.</reference>
+		<reference osisRef="1PE.5.1!6" type="note" precword="ὁ" folword="συμπρεσβύτερος" verse="1PE 5:1" >Instructs readers to find uniquely identifiable referent in mental
+representation.</reference>
+		<reference osisRef="1PE.5.1!13" type="note" precword="παθημάτων" folword="ὁ" verse="1PE 5:1" >In isolation, order is ambiguous, but 'sufferings' contrasts with 'glory'
+in next clause.</reference>
+		<reference osisRef="1PE.5.2!5" type="note" precword="ποίμνιον" folword="τοῦ" verse="1PE 5:2" >Conforms to Natural Info Flow; norm for Peter.</reference>
+		<reference osisRef="1PE.5.2!14" type="note" precword="θεόν" folword="μηδὲ" verse="1PE 5:2" >Second focus; see 'as GOD would have it' (ESV).</reference>
+		<reference osisRef="1PE.5.3!9" type="note" precword="τοῦ" folword="ποιμνίου" verse="1PE 5:3" >Split focus, but established info.</reference>
+		<reference osisRef="1PE.5.4!10" type="note" precword="στέφανον" folword="ὁμοίως" verse="1PE 5:4" >Sign of honour, consistent with honour-shame theme in book.</reference>
+		<reference osisRef="1PE.5.5!2" type="note" precword="νεώτεροι" folword="ὑποτάγητε" verse="1PE 5:5" >Vocative, equivalent of PoD. Variants have the article (with de or
+de kai).</reference>
+		<reference osisRef="1PE.5.5!4" type="note" precword="πρεσβυτέροις" folword="πάντες" verse="1PE 5:5" >Dubis finds a parallel between this passage and Ezek 9. In 9:6,
+zaqen is used to refer to both elders and old man. The absence
+of the article opens the way for the same to be true here.</reference>
+		<reference osisRef="1PE.5.5!12" type="note" precword="ὁ" folword="θεὸς" verse="1PE 5:5" >Variant because kurios is anarthrous in LXX. Topical, so theos should have
+article!</reference>
+		<reference osisRef="1PE.5.5!15" type="note" precword="ἀντιτάσσεται" folword="ταπεινοῖς" verse="1PE 5:5" >In Hebrew, the verb is clearly focal. If 'lording it over' (v 3) presupposes
+being proud, then the verb is the DFE here, too.</reference>
+		<reference osisRef="1PE.5.6!6" type="note" precword="χεῖρα" folword="τοῦ" verse="1PE 5:6" >Articular relates to suffering - see Dubis.</reference>
+		<reference osisRef="1PE.5.6!10" type="note" precword="ὑμᾶς" folword="ὑψώσῃ" verse="1PE 5:6" >'You', rather than God, are the topic: distinct point. 'God' is default
+propositional topic, which is cancelled (?) by P1 constituent.</reference>
+		<reference osisRef="1PE.5.8!4" type="note" precword="ἀντίδικος" folword="ὑμῶν" verse="1PE 5:8" >Adjectival usage - several grammarians treat it as such. This explains
+the absence of the article with diabolos (variant exists).</reference>
+		<reference osisRef="1PE.5.8!12" type="note" precword="τινα" folword="καταπιεῖν" verse="1PE 5:8" >Taken as an embedded question, so default order.</reference>
+		<reference osisRef="1PE.5.9!8" type="note" precword="αὐτὰ" folword="τῶν" verse="1PE 5:9" >the same experiences of the devil as a roaring lion; viz., of
+the sufferings.</reference>
+		<reference osisRef="1PE.5.9!13" type="note" precword="τῷ" folword="κόσμῳ" verse="1PE 5:9" >Particularly if anarthrous.</reference>
+		<reference osisRef="1PE.5.10!5" type="note" precword="χάριτος" folword="ὁ" verse="1PE 5:10" >anarthrous: multi-faceted, could be looking forward, rather than backward.</reference>
+		<reference osisRef="1PE.5.12!3" type="note" precword="ὑμῖν" folword="τοῦ" verse="1PE 5:12" >The appositive constituent could be a continuation of the initial P2
+constituent. Within the apposition, is topical.</reference>
+		<reference osisRef="2PE.3.11!5" type="note" precword="ποταποὺς" folword="δεῖ" verse="2PE 3:11" >Default position for interrogative.</reference>
+		<reference osisRef="1JN.2.1!20" type="note" precword="δίκαιον" folword="καὶ" verse="1JN 2:1" >Anarthrous; focally prominent?</reference>
+		<reference osisRef="1JN.2.4!20" type="note" precword="ἔστιν" folword="ὃς" verse="1JN 2:4" >See NRSV.</reference>
+		<reference osisRef="1JN.2.5!17" type="note" precword="τούτῳ" folword="γινώσκομεν" verse="1JN 2:5" >Alternative: anaphoric, closing the inclusio begun at v 3.</reference>
+		<reference osisRef="1JN.2.22!10" type="note" precword="ἰησοῦς" folword="οὐκ" verse="1JN 2:22" >Could be in P2, but see 4:15.</reference>
+		<reference osisRef="1JN.3.1!17" type="note" precword="κόσμος" folword="οὐ" verse="1JN 3:1" >If cleft, could be in P1 in second part.</reference>
+		<reference osisRef="1JN.3.19!3" type="note" precword="τούτῳ" folword="γνωσόμεθα" verse="1JN 3:19" >Because 20 begins with hoti (some MSS),
+en touto: could well be cataphoric
+(even though supported by very few commentators).</reference>
+		<reference osisRef="1JN.3.20!1" type="note" precword="ὅτι" folword="ἐὰν" verse="1JN 3:20" >Other MSS: ho ti...</reference>
+		<reference osisRef="1JN.5.1!5" type="note" precword="ἰησοῦς" folword="ἐστιν" verse="1JN 5:1" >As in 2:22, could be in P1 or P2.</reference>
+		<reference osisRef="2JN.1.6!12" type="note" precword="αὕτη" folword="ἡ" verse="2JN 1:6" >Refocus on established information</reference>
+		<reference osisRef="JUD.1.7!1" type="note" precword="ὡς" folword="σόδομα" verse="JUD 1:7" >Taken as a separate point ('I wish to remind you how...').</reference>
+		<reference osisRef="REV.1.10!2" type="note" precword="ἐν" folword="πνεύματι" verse="REV 1:10" >Default order, because en pneumati is the complement (core
+constituent) of egenome:n.</reference>
+		<reference osisRef="REV.1.16!25" type="note" precword="ἥλιος" folword="φαίνει" verse="REV 1:16" >Theoretically, ho he:lios is preposed in relation to phainei.
+However, it may be that, in clauses governed by ho:s,
+the default position for the subject is immediately after ho:s. </reference>
+		<reference osisRef="REV.2.3!2" type="note" precword="ὑπομονὴν" folword="ἔχεις" verse="REV 2:3" >There is an arthrous reference to endurance in v. 2,
+so 'have' could be prominent. However, the absence of the
+article suggests that 'endurance' is focally prominent.</reference>
+		<reference osisRef="REV.2.26!8" type="note" precword="τέλους" folword="τὰ" verse="REV 2:26" >The order is marked, but is complicated by the fact that 'until end' is
+anarthrous, whereas 'my works' is arthrous. Assuming that 'until end'
+parallels 'until I come' (v. 25), though, the order of constituents may
+still be judged to conform to the Principle of Natural Information Flow,
+with 'my works' the DFE.</reference>
+		<reference osisRef="REV.3.9!10" type="note" precword="ἑαυτοὺς" folword="ἰουδαίους" verse="REV 3:9" >An alternative analysis has 'themselves' as the object of 'declaring.</reference>
+		<reference osisRef="REV.10.4!24" type="note" precword="αὐτὰ" folword="γράψῃς" verse="REV 10:4" >'Them' over against other matters?</reference>
+		<reference osisRef="REV.16.21!30" type="note" precword="σφόδρα" folword="καὶ" verse="REV 16:21" >Always clause final.</reference>
+		<reference osisRef="REV.18.11!17" type="note" precword="οὐκέτι" folword="γόμον" verse="REV 18:11" >Norm is pre-vb.</reference>
+		<reference osisRef="REV.19.5!3" type="note" precword="ἀπὸ" folword="τοῦ" verse="REV 19:5" >Maybe asingle focal constituent: 'a voice from the throne'?</reference>
+		<reference osisRef="REV.20.14!13" type="note" precword="οὗτος" folword="ὁ" verse="REV 20:14" >Identificational - see 6b.</reference>
+		<reference osisRef="REV.22.3!3" type="note" precword="κατάθεμα" folword="οὐκ" verse="REV 22:3" >Thetic.</reference>
+	</references>
+</annotations>

@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markup>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>Constituent Negation</name>
+		<description>Negative pro-forms when they are in P2 indicate that the constituent has been negated rather than the clause as a whole.</description>
+		<type name="markup" />
+		<defaultstyle label="Constit" bkcolor="" fontcolor="" brdrcolor="#FF008000" brdrline="Solid" brdrpos="A,U,B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
+	</header>
+	<references>
+		<reference osisRef="MAT.5.13!15-MAT.5.13!16" type="Constituent Negation" label="Constit" verse="MAT 5:13" >εἰς οὐδὲν</reference>
+		<reference osisRef="MAT.6.24!1" type="Constituent Negation" label="Constit" verse="MAT 6:24" >οὐδεὶς</reference>
+		<reference osisRef="MAT.8.4!7" type="Constituent Negation" label="Constit" verse="MAT 8:4" >μηδενὶ</reference>
+		<reference osisRef="MAT.8.10!13-MAT.8.10!14" type="Constituent Negation" label="Constit" verse="MAT 8:10" >παρ’ οὐδενὶ</reference>
+		<reference osisRef="MAT.9.16!1" type="Constituent Negation" label="Constit" verse="MAT 9:16" >οὐδεὶς</reference>
+		<reference osisRef="MAT.9.30!13" type="Constituent Negation" label="Constit" verse="MAT 9:30" >μηδεὶς</reference>
+		<reference osisRef="MAT.10.26!5" type="Constituent Negation" label="Constit" verse="MAT 10:26" >οὐδὲν</reference>
+		<reference osisRef="MAT.11.27!9" type="Constituent Negation" label="Constit" verse="MAT 11:27" >οὐδεὶς</reference>
+		<reference osisRef="MAT.13.34!13" type="Constituent Negation" label="Constit" verse="MAT 13:34" >οὐδὲν</reference>
+		<reference osisRef="MAT.16.20!6" type="Constituent Negation" label="Constit" verse="MAT 16:20" >μηδενὶ</reference>
+		<reference osisRef="MAT.17.8!6" type="Constituent Negation" label="Constit" verse="MAT 17:8" >οὐδένα</reference>
+		<reference osisRef="MAT.17.9!12" type="Constituent Negation" label="Constit" verse="MAT 17:9" >μηδενὶ</reference>
+		<reference osisRef="MAT.17.20!29" type="Constituent Negation" label="Constit" verse="MAT 17:20" >οὐδὲν</reference>
+		<reference osisRef="MAT.20.7!4" type="Constituent Negation" label="Constit" verse="MAT 20:7" >οὐδεὶς</reference>
+		<reference osisRef="MAT.21.19!12" type="Constituent Negation" label="Constit" verse="MAT 21:19" >οὐδὲν</reference>
+		<reference osisRef="MAT.22.46!2" type="Constituent Negation" label="Constit" verse="MAT 22:46" >οὐδεὶς</reference>
+		<reference osisRef="MAT.23.16!13" type="Constituent Negation" label="Constit" verse="MAT 23:16" >οὐδέν</reference>
+		<reference osisRef="MAT.23.18!8" type="Constituent Negation" label="Constit" verse="MAT 23:18" >οὐδέν</reference>
+		<reference osisRef="MAT.24.36!8" type="Constituent Negation" label="Constit" verse="MAT 24:36" >οὐδεὶς</reference>
+		<reference osisRef="MAT.26.62!7" type="Constituent Negation" label="Constit" verse="MAT 26:62" >οὐδὲν</reference>
+		<reference osisRef="MAT.27.12!11" type="Constituent Negation" label="Constit" verse="MAT 27:12" >οὐδὲν</reference>
+		<reference osisRef="MAT.27.24!6" type="Constituent Negation" label="Constit" verse="MAT 27:24" >οὐδὲν</reference>
+		<reference osisRef="MRK.1.44!5" type="Constituent Negation" label="Constit" verse="MRK 1:44" >μηδενὶ</reference>
+		<reference osisRef="MRK.1.44!6" type="Constituent Negation" label="Constit" verse="MRK 1:44" >μηδὲν</reference>
+		<reference osisRef="MRK.2.21!1" type="Constituent Negation" label="Constit" verse="MRK 2:21" >οὐδεὶς</reference>
+		<reference osisRef="MRK.2.22!2" type="Constituent Negation" label="Constit" verse="MRK 2:22" >οὐδεὶς</reference>
+		<reference osisRef="MRK.5.3!12" type="Constituent Negation" label="Constit" verse="MRK 5:3" >οὐδεὶς</reference>
+		<reference osisRef="MRK.5.4!20" type="Constituent Negation" label="Constit" verse="MRK 5:4" >οὐδεὶς</reference>
+		<reference osisRef="MRK.5.26!14" type="Constituent Negation" label="Constit" verse="MRK 5:26" >μηδὲν</reference>
+		<reference osisRef="MRK.5.37!4" type="Constituent Negation" label="Constit" verse="MRK 5:37" >οὐδένα</reference>
+		<reference osisRef="MRK.5.43!6" type="Constituent Negation" label="Constit" verse="MRK 5:43" >μηδεὶς</reference>
+		<reference osisRef="MRK.6.8!5" type="Constituent Negation" label="Constit" verse="MRK 6:8" >μηδὲν</reference>
+		<reference osisRef="MRK.7.12!4" type="Constituent Negation" label="Constit" verse="MRK 7:12" >οὐδὲν</reference>
+		<reference osisRef="MRK.7.15!1" type="Constituent Negation" label="Constit" verse="MRK 7:15" >οὐδέν</reference>
+		<reference osisRef="MRK.7.15!3-MRK.7.15!8" type="Constituent Negation" label="Constit" verse="MRK 7:15" >ἔξωθεν τοῦ ἀνθρώπου εἰσπορευόμενον εἰς αὐτὸν</reference>
+		<reference osisRef="MRK.7.24!13" type="Constituent Negation" label="Constit" verse="MRK 7:24" >οὐδένα</reference>
+		<reference osisRef="MRK.7.36!5" type="Constituent Negation" label="Constit" verse="MRK 7:36" >μηδενὶ</reference>
+		<reference osisRef="MRK.8.30!5" type="Constituent Negation" label="Constit" verse="MRK 8:30" >μηδενὶ</reference>
+		<reference osisRef="MRK.9.8!5" type="Constituent Negation" label="Constit" verse="MRK 9:8" >οὐδένα</reference>
+		<reference osisRef="MRK.9.9!10" type="Constituent Negation" label="Constit" verse="MRK 9:9" >μηδενὶ</reference>
+		<reference osisRef="MRK.9.29!7-MRK.9.29!8" type="Constituent Negation" label="Constit" verse="MRK 9:29" >ἐν οὐδενὶ</reference>
+		<reference osisRef="MRK.9.39!8" type="Constituent Negation" label="Constit" verse="MRK 9:39" >οὐδεὶς</reference>
+		<reference osisRef="MRK.10.18!10" type="Constituent Negation" label="Constit" verse="MRK 10:18" >οὐδεὶς</reference>
+		<reference osisRef="MRK.10.29!7" type="Constituent Negation" label="Constit" verse="MRK 10:29" >οὐδείς</reference>
+		<reference osisRef="MRK.11.2!21" type="Constituent Negation" label="Constit" verse="MRK 11:2" >οὐδεὶς</reference>
+		<reference osisRef="MRK.11.2!23" type="Constituent Negation" label="Constit" verse="MRK 11:2" >ἀνθρώπων</reference>
+		<reference osisRef="MRK.11.13!19" type="Constituent Negation" label="Constit" verse="MRK 11:13" >οὐδὲν</reference>
+		<reference osisRef="MRK.11.14!11" type="Constituent Negation" label="Constit" verse="MRK 11:14" >μηδεὶς</reference>
+		<reference osisRef="MRK.12.34!20" type="Constituent Negation" label="Constit" verse="MRK 12:34" >οὐδεὶς</reference>
+		<reference osisRef="MRK.13.32!9" type="Constituent Negation" label="Constit" verse="MRK 13:32" >οὐδεὶς</reference>
+		<reference osisRef="MRK.15.5!5" type="Constituent Negation" label="Constit" verse="MRK 15:5" >οὐδὲν</reference>
+		<reference osisRef="MRK.16.8!14" type="Constituent Negation" label="Constit" verse="MRK 16:8" >οὐδενὶ</reference>
+		<reference osisRef="MRK.16.8!15" type="Constituent Negation" label="Constit" verse="MRK 16:8" >οὐδὲν</reference>
+		<reference osisRef="LUK.1.61!6" type="Constituent Negation" label="Constit" verse="LUK 1:61" >οὐδείς</reference>
+		<reference osisRef="LUK.3.14!14" type="Constituent Negation" label="Constit" verse="LUK 3:14" >μηδένα</reference>
+		<reference osisRef="LUK.4.24!7-LUK.4.24!8" type="Constituent Negation" label="Constit" verse="LUK 4:24" >οὐδεὶς προφήτης</reference>
+		<reference osisRef="LUK.4.26!2-LUK.4.26!4" type="Constituent Negation" label="Constit" verse="LUK 4:26" >πρὸς οὐδεμίαν αὐτῶν</reference>
+		<reference osisRef="LUK.4.27!13-LUK.4.27!14" type="Constituent Negation" label="Constit" verse="LUK 4:27" >οὐδεὶς αὐτῶν</reference>
+		<reference osisRef="LUK.4.35!23" type="Constituent Negation" label="Constit" verse="LUK 4:35" >μηδὲν</reference>
+		<reference osisRef="LUK.5.5!10" type="Constituent Negation" label="Constit" verse="LUK 5:5" >οὐδὲν</reference>
+		<reference osisRef="LUK.5.14!5" type="Constituent Negation" label="Constit" verse="LUK 5:14" >μηδενὶ</reference>
+		<reference osisRef="LUK.5.36!8" type="Constituent Negation" label="Constit" verse="LUK 5:36" >οὐδεὶς</reference>
+		<reference osisRef="LUK.5.37!2" type="Constituent Negation" label="Constit" verse="LUK 5:37" >οὐδεὶς</reference>
+		<reference osisRef="LUK.5.39!2" type="Constituent Negation" label="Constit" verse="LUK 5:39" >οὐδεὶς</reference>
+		<reference osisRef="LUK.6.35!10" type="Constituent Negation" label="Constit" verse="LUK 6:35" >μηδὲν</reference>
+		<reference osisRef="LUK.7.28!8" type="Constituent Negation" label="Constit" verse="LUK 7:28" >οὐδείς</reference>
+		<reference osisRef="LUK.8.16!1" type="Constituent Negation" label="Constit" verse="LUK 8:16" >οὐδεὶς</reference>
+		<reference osisRef="LUK.8.43!18-LUK.8.43!19" type="Constituent Negation" label="Constit" verse="LUK 8:43" >ἀπ’ οὐδενὸς</reference>
+		<reference osisRef="LUK.8.56!10" type="Constituent Negation" label="Constit" verse="LUK 8:56" >μηδενὶ</reference>
+		<reference osisRef="LUK.9.3!5" type="Constituent Negation" label="Constit" verse="LUK 9:3" >μηδὲν</reference>
+		<reference osisRef="LUK.9.21!6" type="Constituent Negation" label="Constit" verse="LUK 9:21" >μηδενὶ</reference>
+		<reference osisRef="LUK.9.36!14" type="Constituent Negation" label="Constit" verse="LUK 9:36" >οὐδενὶ</reference>
+		<reference osisRef="LUK.9.62!7" type="Constituent Negation" label="Constit" verse="LUK 9:62" >οὐδεὶς</reference>
+		<reference osisRef="LUK.10.4!9" type="Constituent Negation" label="Constit" verse="LUK 10:4" >μηδένα</reference>
+		<reference osisRef="LUK.10.19!20" type="Constituent Negation" label="Constit" verse="LUK 10:19" >οὐδὲν</reference>
+		<reference osisRef="LUK.10.22!9" type="Constituent Negation" label="Constit" verse="LUK 10:22" >οὐδεὶς</reference>
+		<reference osisRef="LUK.11.33!1" type="Constituent Negation" label="Constit" verse="LUK 11:33" >οὐδεὶς</reference>
+		<reference osisRef="LUK.12.2!1" type="Constituent Negation" label="Constit" verse="LUK 12:2" >οὐδὲν</reference>
+		<reference osisRef="LUK.12.2!3" type="Constituent Negation" label="Constit" verse="LUK 12:2" >συγκεκαλυμμένον</reference>
+		<reference osisRef="LUK.14.24!5-LUK.14.24!10" type="Constituent Negation" label="Constit" verse="LUK 14:24" >οὐδεὶς τῶν ἀνδρῶν ἐκείνων τῶν κεκλημένων</reference>
+		<reference osisRef="LUK.15.16!12" type="Constituent Negation" label="Constit" verse="LUK 15:16" >οὐδεὶς</reference>
+		<reference osisRef="LUK.16.13!1-LUK.16.13!2" type="Constituent Negation" label="Constit" verse="LUK 16:13" >οὐδεὶς οἰκέτης</reference>
+		<reference osisRef="LUK.18.19!10" type="Constituent Negation" label="Constit" verse="LUK 18:19" >οὐδεὶς</reference>
+		<reference osisRef="LUK.18.29!9" type="Constituent Negation" label="Constit" verse="LUK 18:29" >οὐδείς</reference>
+		<reference osisRef="LUK.18.34!3-LUK.18.34!4" type="Constituent Negation" label="Constit" verse="LUK 18:34" >οὐδὲν τούτων</reference>
+		<reference osisRef="LUK.19.30!15" type="Constituent Negation" label="Constit" verse="LUK 19:30" >οὐδεὶς</reference>
+		<reference osisRef="LUK.19.30!17" type="Constituent Negation" label="Constit" verse="LUK 19:30" >ἀνθρώπων</reference>
+		<reference osisRef="LUK.23.4!11" type="Constituent Negation" label="Constit" verse="LUK 23:4" >οὐδὲν</reference>
+		<reference osisRef="LUK.23.4!13" type="Constituent Negation" label="Constit" verse="LUK 23:4" >αἴτιον</reference>
+		<reference osisRef="LUK.23.9!9" type="Constituent Negation" label="Constit" verse="LUK 23:9" >οὐδὲν</reference>
+		<reference osisRef="LUK.23.14!19" type="Constituent Negation" label="Constit" verse="LUK 23:14" >οὐθὲν</reference>
+		<reference osisRef="LUK.23.15!11-LUK.23.15!13" type="Constituent Negation" label="Constit" verse="LUK 23:15" >οὐδὲν ἄξιον θανάτου</reference>
+		<reference osisRef="LUK.23.22!12-LUK.23.22!14" type="Constituent Negation" label="Constit" verse="LUK 23:22" >οὐδὲν αἴτιον θανάτου</reference>
+		<reference osisRef="LUK.23.41!12-LUK.23.41!13" type="Constituent Negation" label="Constit" verse="LUK 23:41" >οὐδὲν ἄτοπον</reference>
+		<reference osisRef="JHN.1.18!2" type="Constituent Negation" label="Constit" verse="JHN 1:18" >οὐδεὶς</reference>
+		<reference osisRef="JHN.3.2!16" type="Constituent Negation" label="Constit" verse="JHN 3:2" >οὐδεὶς</reference>
+		<reference osisRef="JHN.3.13!2" type="Constituent Negation" label="Constit" verse="JHN 3:13" >οὐδεὶς</reference>
+		<reference osisRef="JHN.3.32!11" type="Constituent Negation" label="Constit" verse="JHN 3:32" >οὐδεὶς</reference>
+		<reference osisRef="JHN.4.27!14" type="Constituent Negation" label="Constit" verse="JHN 4:27" >οὐδεὶς</reference>
+		<reference osisRef="JHN.6.44!1" type="Constituent Negation" label="Constit" verse="JHN 6:44" >οὐδεὶς</reference>
+		<reference osisRef="JHN.6.65!8" type="Constituent Negation" label="Constit" verse="JHN 6:65" >οὐδεὶς</reference>
+		<reference osisRef="JHN.7.4!1" type="Constituent Negation" label="Constit" verse="JHN 7:4" >οὐδεὶς</reference>
+		<reference osisRef="JHN.7.13!1" type="Constituent Negation" label="Constit" verse="JHN 7:13" >οὐδεὶς</reference>
+		<reference osisRef="JHN.7.19!8-JHN.7.19!10" type="Constituent Negation" label="Constit" verse="JHN 7:19" >οὐδεὶς ἐξ ὑμῶν</reference>
+		<reference osisRef="JHN.7.26!6" type="Constituent Negation" label="Constit" verse="JHN 7:26" >οὐδὲν</reference>
+		<reference osisRef="JHN.7.27!11" type="Constituent Negation" label="Constit" verse="JHN 7:27" >οὐδεὶς</reference>
+		<reference osisRef="JHN.7.30!6" type="Constituent Negation" label="Constit" verse="JHN 7:30" >οὐδεὶς</reference>
+		<reference osisRef="JHN.7.44!9" type="Constituent Negation" label="Constit" verse="JHN 7:44" >οὐδεὶς</reference>
+		<reference osisRef="JHN.8.10!10" type="Constituent Negation" label="Constit" verse="JHN 8:10" >οὐδείς</reference>
+		<reference osisRef="JHN.8.20!13" type="Constituent Negation" label="Constit" verse="JHN 8:20" >οὐδεὶς</reference>
+		<reference osisRef="JHN.8.33!8" type="Constituent Negation" label="Constit" verse="JHN 8:33" >οὐδενὶ</reference>
+		<reference osisRef="JHN.8.54!10" type="Constituent Negation" label="Constit" verse="JHN 8:54" >οὐδέν</reference>
+		<reference osisRef="JHN.9.4!15" type="Constituent Negation" label="Constit" verse="JHN 9:4" >οὐδεὶς</reference>
+		<reference osisRef="JHN.10.18!1" type="Constituent Negation" label="Constit" verse="JHN 10:18" >οὐδεὶς</reference>
+		<reference osisRef="JHN.10.29!11" type="Constituent Negation" label="Constit" verse="JHN 10:29" >οὐδεὶς</reference>
+		<reference osisRef="JHN.13.28!3" type="Constituent Negation" label="Constit" verse="JHN 13:28" >οὐδεὶς</reference>
+		<reference osisRef="JHN.13.28!5-JHN.13.28!6" type="Constituent Negation" label="Constit" verse="JHN 13:28" >τῶν ἀνακειμένων</reference>
+		<reference osisRef="JHN.14.6!15" type="Constituent Negation" label="Constit" verse="JHN 14:6" >οὐδεὶς</reference>
+		<reference osisRef="JHN.15.13!4" type="Constituent Negation" label="Constit" verse="JHN 15:13" >οὐδεὶς</reference>
+		<reference osisRef="JHN.15.24!9-JHN.15.24!10" type="Constituent Negation" label="Constit" verse="JHN 15:24" >οὐδεὶς ἄλλος</reference>
+		<reference osisRef="JHN.16.5!9-JHN.16.5!11" type="Constituent Negation" label="Constit" verse="JHN 16:5" >οὐδεὶς ἐξ ὑμῶν</reference>
+		<reference osisRef="JHN.16.22!21" type="Constituent Negation" label="Constit" verse="JHN 16:22" >οὐδεὶς</reference>
+		<reference osisRef="JHN.16.29!12" type="Constituent Negation" label="Constit" verse="JHN 16:29" >οὐδεμίαν</reference>
+		<reference osisRef="JHN.17.12!18-JHN.17.12!20" type="Constituent Negation" label="Constit" verse="JHN 17:12" >οὐδεὶς ἐξ αὐτῶν</reference>
+		<reference osisRef="JHN.18.38!20" type="Constituent Negation" label="Constit" verse="JHN 18:38" >οὐδεμίαν</reference>
+		<reference osisRef="JHN.18.38!24" type="Constituent Negation" label="Constit" verse="JHN 18:38" >αἰτίαν</reference>
+		<reference osisRef="JHN.19.4!18-JHN.19.4!19" type="Constituent Negation" label="Constit" verse="JHN 19:4" >οὐδεμίαν αἰτίαν</reference>
+		<reference osisRef="JHN.19.41!18" type="Constituent Negation" label="Constit" verse="JHN 19:41" >οὐδεὶς</reference>
+		<reference osisRef="JHN.21.12!7" type="Constituent Negation" label="Constit" verse="JHN 21:12" >οὐδεὶς</reference>
+		<reference osisRef="JHN.21.12!10-JHN.21.12!11" type="Constituent Negation" label="Constit" verse="JHN 21:12" >τῶν μαθητῶν</reference>
+		<reference osisRef="ACT.4.14!10" type="Constituent Negation" label="Constit" verse="ACT 4:14" >οὐδὲν</reference>
+		<reference osisRef="ACT.4.21!6" type="Constituent Negation" label="Constit" verse="ACT 4:21" >μηδὲν</reference>
+		<reference osisRef="ACT.5.13!4" type="Constituent Negation" label="Constit" verse="ACT 5:13" >οὐδεὶς</reference>
+		<reference osisRef="ACT.5.23!20" type="Constituent Negation" label="Constit" verse="ACT 5:23" >οὐδένα</reference>
+		<reference osisRef="ACT.8.24!14" type="Constituent Negation" label="Constit" verse="ACT 8:24" >μηδὲν</reference>
+		<reference osisRef="ACT.9.7!13" type="Constituent Negation" label="Constit" verse="ACT 9:7" >μηδένα</reference>
+		<reference osisRef="ACT.9.8!12" type="Constituent Negation" label="Constit" verse="ACT 9:8" >οὐδὲν</reference>
+		<reference osisRef="ACT.10.20!8" type="Constituent Negation" label="Constit" verse="ACT 10:20" >μηδὲν</reference>
+		<reference osisRef="ACT.11.12!8" type="Constituent Negation" label="Constit" verse="ACT 11:12" >μηδὲν</reference>
+		<reference osisRef="ACT.11.19!19" type="Constituent Negation" label="Constit" verse="ACT 11:19" >μηδενὶ</reference>
+		<reference osisRef="ACT.15.9!2" type="Constituent Negation" label="Constit" verse="ACT 15:9" >οὐθὲν</reference>
+		<reference osisRef="ACT.17.21!8-ACT.17.21!10" type="Constituent Negation" label="Constit" verse="ACT 17:21" >εἰς οὐδὲν ἕτερον</reference>
+		<reference osisRef="ACT.18.10!7" type="Constituent Negation" label="Constit" verse="ACT 18:10" >οὐδεὶς</reference>
+		<reference osisRef="ACT.18.17!12-ACT.18.17!13" type="Constituent Negation" label="Constit" verse="ACT 18:17" >οὐδὲν τούτων</reference>
+		<reference osisRef="ACT.19.27!20-ACT.19.27!21" type="Constituent Negation" label="Constit" verse="ACT 19:27" >εἰς οὐθὲν</reference>
+		<reference osisRef="ACT.20.20!2" type="Constituent Negation" label="Constit" verse="ACT 20:20" >οὐδὲν</reference>
+		<reference osisRef="ACT.20.20!4-ACT.20.20!5" type="Constituent Negation" label="Constit" verse="ACT 20:20" >τῶν συμφερόντων</reference>
+		<reference osisRef="ACT.20.24!2-ACT.20.24!3" type="Constituent Negation" label="Constit" verse="ACT 20:24" >οὐδενὸς λόγου</reference>
+		<reference osisRef="ACT.21.24!22" type="Constituent Negation" label="Constit" verse="ACT 21:24" >οὐδέν</reference>
+		<reference osisRef="ACT.23.9!16-ACT.23.9!17" type="Constituent Negation" label="Constit" verse="ACT 23:9" >οὐδὲν κακὸν</reference>
+		<reference osisRef="ACT.23.14!12" type="Constituent Negation" label="Constit" verse="ACT 23:14" >μηδενὸς</reference>
+		<reference osisRef="ACT.23.22!9" type="Constituent Negation" label="Constit" verse="ACT 23:22" >μηδενὶ</reference>
+		<reference osisRef="ACT.25.10!16" type="Constituent Negation" label="Constit" verse="ACT 25:10" >οὐδὲν</reference>
+		<reference osisRef="ACT.25.11!18-ACT.25.11!21" type="Constituent Negation" label="Constit" verse="ACT 25:11" >ὧν οὗτοι κατηγοροῦσίν μου</reference>
+		<reference osisRef="ACT.25.11!22" type="Constituent Negation" label="Constit" verse="ACT 25:11" >οὐδείς</reference>
+		<reference osisRef="ACT.25.18!6-ACT.25.18!7" type="Constituent Negation" label="Constit" verse="ACT 25:18" >οὐδεμίαν αἰτίαν</reference>
+		<reference osisRef="ACT.26.22!18" type="Constituent Negation" label="Constit" verse="ACT 26:22" >οὐδὲν</reference>
+		<reference osisRef="ACT.26.31!8-ACT.26.31!13" type="Constituent Negation" label="Constit" verse="ACT 26:31" >οὐδὲν θανάτου ἢ δεσμῶν ἄξιόν τι</reference>
+		<reference osisRef="ACT.27.33!20" type="Constituent Negation" label="Constit" verse="ACT 27:33" >μηθὲν</reference>
+		<reference osisRef="ACT.27.34!13" type="Constituent Negation" label="Constit" verse="ACT 27:34" >οὐδενὸς</reference>
+		<reference osisRef="ACT.27.34!15" type="Constituent Negation" label="Constit" verse="ACT 27:34" >ὑμῶν</reference>
+		<reference osisRef="ACT.28.17!22-ACT.28.17!23" type="Constituent Negation" label="Constit" verse="ACT 28:17" >οὐδὲν ἐναντίον</reference>
+		<reference osisRef="ROM.8.1!1" type="Constituent Negation" label="Constit" verse="ROM 8:1" >οὐδὲν</reference>
+		<reference osisRef="ROM.8.1!4" type="Constituent Negation" label="Constit" verse="ROM 8:1" >κατάκριμα</reference>
+		<reference osisRef="ROM.12.17!1" type="Constituent Negation" label="Constit" verse="ROM 12:17" >μηδενὶ</reference>
+		<reference osisRef="ROM.13.8!1" type="Constituent Negation" label="Constit" verse="ROM 13:8" >μηδενὶ</reference>
+		<reference osisRef="ROM.13.8!2" type="Constituent Negation" label="Constit" verse="ROM 13:8" >μηδὲν</reference>
+		<reference osisRef="ROM.14.7!1" type="Constituent Negation" label="Constit" verse="ROM 14:7" >οὐδεὶς</reference>
+		<reference osisRef="ROM.14.7!7" type="Constituent Negation" label="Constit" verse="ROM 14:7" >οὐδεὶς</reference>
+		<reference osisRef="ROM.14.14!8" type="Constituent Negation" label="Constit" verse="ROM 14:14" >οὐδὲν</reference>
+		<reference osisRef="1CO.1.14!5-1CO.1.14!6" type="Constituent Negation" label="Constit" verse="1CO 1:14" >οὐδένα ὑμῶν</reference>
+		<reference osisRef="1CO.2.8!2-1CO.2.8!7" type="Constituent Negation" label="Constit" verse="1CO 2:8" >οὐδεὶς τῶν ἀρχόντων τοῦ αἰῶνος τούτου</reference>
+		<reference osisRef="1CO.2.11!22" type="Constituent Negation" label="Constit" verse="1CO 2:11" >οὐδεὶς</reference>
+		<reference osisRef="1CO.2.15!9-1CO.2.15!10" type="Constituent Negation" label="Constit" verse="1CO 2:15" >ὑπ’ οὐδενὸς</reference>
+		<reference osisRef="1CO.3.11!4" type="Constituent Negation" label="Constit" verse="1CO 3:11" >οὐδεὶς</reference>
+		<reference osisRef="1CO.3.18!1" type="Constituent Negation" label="Constit" verse="1CO 3:18" >μηδεὶς</reference>
+		<reference osisRef="1CO.3.21!2" type="Constituent Negation" label="Constit" verse="1CO 3:21" >μηδεὶς</reference>
+		<reference osisRef="1CO.4.4!1" type="Constituent Negation" label="Constit" verse="1CO 4:4" >οὐδὲν</reference>
+		<reference osisRef="1CO.7.19!3" type="Constituent Negation" label="Constit" verse="1CO 7:19" >οὐδέν</reference>
+		<reference osisRef="1CO.7.19!8" type="Constituent Negation" label="Constit" verse="1CO 7:19" >οὐδέν</reference>
+		<reference osisRef="1CO.8.4!9" type="Constituent Negation" label="Constit" verse="1CO 8:4" >οὐδὲν</reference>
+		<reference osisRef="1CO.8.4!15-1CO.8.4!16" type="Constituent Negation" label="Constit" verse="1CO 8:4" >οὐδεὶς θεὸς</reference>
+		<reference osisRef="1CO.9.15!25" type="Constituent Negation" label="Constit" verse="1CO 9:15" >οὐδεὶς</reference>
+		<reference osisRef="1CO.10.24!1" type="Constituent Negation" label="Constit" verse="1CO 10:24" >μηδεὶς</reference>
+		<reference osisRef="1CO.10.25!7" type="Constituent Negation" label="Constit" verse="1CO 10:25" >μηδὲν</reference>
+		<reference osisRef="1CO.10.27!15" type="Constituent Negation" label="Constit" verse="1CO 10:27" >μηδὲν</reference>
+		<reference osisRef="1CO.12.3!5" type="Constituent Negation" label="Constit" verse="1CO 12:3" >οὐδεὶς</reference>
+		<reference osisRef="1CO.12.3!14" type="Constituent Negation" label="Constit" verse="1CO 12:3" >οὐδεὶς</reference>
+		<reference osisRef="1CO.13.2!27" type="Constituent Negation" label="Constit" verse="1CO 13:2" >οὐθέν</reference>
+		<reference osisRef="1CO.13.3!19" type="Constituent Negation" label="Constit" verse="1CO 13:3" >οὐδὲν</reference>
+		<reference osisRef="1CO.14.2!10" type="Constituent Negation" label="Constit" verse="1CO 14:2" >οὐδεὶς</reference>
+		<reference osisRef="1CO.14.10!10" type="Constituent Negation" label="Constit" verse="1CO 14:10" >οὐδὲν</reference>
+		<reference osisRef="2CO.5.16!6" type="Constituent Negation" label="Constit" verse="2CO 5:16" >οὐδένα</reference>
+		<reference osisRef="2CO.6.3!1" type="Constituent Negation" label="Constit" verse="2CO 6:3" >μηδεμίαν</reference>
+		<reference osisRef="2CO.6.3!2-2CO.6.3!3" type="Constituent Negation" label="Constit" verse="2CO 6:3" >ἐν μηδενὶ</reference>
+		<reference osisRef="2CO.6.10!12" type="Constituent Negation" label="Constit" verse="2CO 6:10" >μηδὲν</reference>
+		<reference osisRef="2CO.7.2!3" type="Constituent Negation" label="Constit" verse="2CO 7:2" >οὐδένα</reference>
+		<reference osisRef="2CO.7.2!5" type="Constituent Negation" label="Constit" verse="2CO 7:2" >οὐδένα</reference>
+		<reference osisRef="2CO.7.2!7" type="Constituent Negation" label="Constit" verse="2CO 7:2" >οὐδένα</reference>
+		<reference osisRef="2CO.7.5!7" type="Constituent Negation" label="Constit" verse="2CO 7:5" >οὐδεμίαν</reference>
+		<reference osisRef="2CO.7.5!9" type="Constituent Negation" label="Constit" verse="2CO 7:5" >ἄνεσιν</reference>
+		<reference osisRef="2CO.7.9!16-2CO.7.9!17" type="Constituent Negation" label="Constit" verse="2CO 7:9" >ἐν μηδενὶ</reference>
+		<reference osisRef="2CO.11.5!3" type="Constituent Negation" label="Constit" verse="2CO 11:5" >μηδὲν</reference>
+		<reference osisRef="2CO.12.11!12" type="Constituent Negation" label="Constit" verse="2CO 12:11" >οὐδὲν</reference>
+		<reference osisRef="2CO.12.11!20" type="Constituent Negation" label="Constit" verse="2CO 12:11" >οὐδέν</reference>
+		<reference osisRef="GAL.2.6!10" type="Constituent Negation" label="Constit" verse="GAL 2:6" >οὐδέν</reference>
+		<reference osisRef="GAL.2.6!23" type="Constituent Negation" label="Constit" verse="GAL 2:6" >οὐδὲν</reference>
+		<reference osisRef="GAL.3.11!5" type="Constituent Negation" label="Constit" verse="GAL 3:11" >οὐδεὶς</reference>
+		<reference osisRef="GAL.3.15!9" type="Constituent Negation" label="Constit" verse="GAL 3:15" >οὐδεὶς</reference>
+		<reference osisRef="GAL.4.1!10" type="Constituent Negation" label="Constit" verse="GAL 4:1" >οὐδὲν</reference>
+		<reference osisRef="GAL.4.12!11" type="Constituent Negation" label="Constit" verse="GAL 4:12" >οὐδέν</reference>
+		<reference osisRef="GAL.5.2!11" type="Constituent Negation" label="Constit" verse="GAL 5:2" >οὐδὲν</reference>
+		<reference osisRef="GAL.5.10!8-GAL.5.10!9" type="Constituent Negation" label="Constit" verse="GAL 5:10" >οὐδὲν ἄλλο</reference>
+		<reference osisRef="GAL.6.3!7" type="Constituent Negation" label="Constit" verse="GAL 6:3" >μηδὲν</reference>
+		<reference osisRef="GAL.6.17!5" type="Constituent Negation" label="Constit" verse="GAL 6:17" >μηδεὶς</reference>
+		<reference osisRef="EPH.5.6!1" type="Constituent Negation" label="Constit" verse="EPH 5:6" >μηδεὶς</reference>
+		<reference osisRef="EPH.5.29!1" type="Constituent Negation" label="Constit" verse="EPH 5:29" >οὐδεὶς</reference>
+		<reference osisRef="PHP.1.20!8-PHP.1.20!9" type="Constituent Negation" label="Constit" verse="PHP 1:20" >ἐν οὐδενὶ</reference>
+		<reference osisRef="PHP.2.3!1" type="Constituent Negation" label="Constit" verse="PHP 2:3" >μηδὲν</reference>
+		<reference osisRef="PHP.2.20!1" type="Constituent Negation" label="Constit" verse="PHP 2:20" >οὐδένα</reference>
+		<reference osisRef="PHP.4.6!1" type="Constituent Negation" label="Constit" verse="PHP 4:6" >μηδὲν</reference>
+		<reference osisRef="PHP.4.15!15" type="Constituent Negation" label="Constit" verse="PHP 4:15" >οὐδεμία</reference>
+		<reference osisRef="PHP.4.15!17" type="Constituent Negation" label="Constit" verse="PHP 4:15" >ἐκκλησία</reference>
+		<reference osisRef="COL.2.4!4" type="Constituent Negation" label="Constit" verse="COL 2:4" >μηδεὶς</reference>
+		<reference osisRef="COL.2.18!1" type="Constituent Negation" label="Constit" verse="COL 2:18" >μηδεὶς</reference>
+		<reference osisRef="1TH.3.3!2" type="Constituent Negation" label="Constit" verse="1TH 3:3" >μηδένα</reference>
+		<reference osisRef="1TH.4.12!8" type="Constituent Negation" label="Constit" verse="1TH 4:12" >μηδενὸς</reference>
+		<reference osisRef="2TH.3.11!8" type="Constituent Negation" label="Constit" verse="2TH 3:11" >μηδὲν</reference>
+		<reference osisRef="1TI.4.4!7" type="Constituent Negation" label="Constit" verse="1TI 4:4" >οὐδὲν</reference>
+		<reference osisRef="1TI.4.12!1" type="Constituent Negation" label="Constit" verse="1TI 4:12" >μηδείς</reference>
+		<reference osisRef="1TI.5.21!17" type="Constituent Negation" label="Constit" verse="1TI 5:21" >μηδὲν</reference>
+		<reference osisRef="1TI.5.22!3" type="Constituent Negation" label="Constit" verse="1TI 5:22" >μηδενὶ</reference>
+		<reference osisRef="1TI.6.4!2" type="Constituent Negation" label="Constit" verse="1TI 6:4" >μηδὲν</reference>
+		<reference osisRef="1TI.6.7!1" type="Constituent Negation" label="Constit" verse="1TI 6:7" >οὐδὲν</reference>
+		<reference osisRef="2TI.2.4!1-2TI.2.4!2" type="Constituent Negation" label="Constit" verse="2TI 2:4" >οὐδεὶς στρατευόμενος</reference>
+		<reference osisRef="2TI.4.16!6" type="Constituent Negation" label="Constit" verse="2TI 4:16" >οὐδείς</reference>
+		<reference osisRef="TIT.1.15!10" type="Constituent Negation" label="Constit" verse="TIT 1:15" >οὐδὲν</reference>
+		<reference osisRef="TIT.2.15!10" type="Constituent Negation" label="Constit" verse="TIT 2:15" >μηδείς</reference>
+		<reference osisRef="TIT.3.2!1" type="Constituent Negation" label="Constit" verse="TIT 3:2" >μηδένα</reference>
+		<reference osisRef="TIT.3.13!9" type="Constituent Negation" label="Constit" verse="TIT 3:13" >μηδὲν</reference>
+		<reference osisRef="PHM.1.14!6" type="Constituent Negation" label="Constit" verse="PHM 1:14" >οὐδὲν</reference>
+		<reference osisRef="HEB.2.8!14" type="Constituent Negation" label="Constit" verse="HEB 2:8" >οὐδὲν</reference>
+		<reference osisRef="HEB.6.13!8-HEB.6.13!9" type="Constituent Negation" label="Constit" verse="HEB 6:13" >κατ’ οὐδενὸς</reference>
+		<reference osisRef="HEB.6.13!11" type="Constituent Negation" label="Constit" verse="HEB 6:13" >μείζονος</reference>
+		<reference osisRef="HEB.7.13!11" type="Constituent Negation" label="Constit" verse="HEB 7:13" >οὐδεὶς</reference>
+		<reference osisRef="HEB.7.14!15" type="Constituent Negation" label="Constit" verse="HEB 7:14" >οὐδὲν</reference>
+		<reference osisRef="HEB.7.19!1" type="Constituent Negation" label="Constit" verse="HEB 7:19" >οὐδὲν</reference>
+		<reference osisRef="HEB.12.14!10" type="Constituent Negation" label="Constit" verse="HEB 12:14" >οὐδεὶς</reference>
+		<reference osisRef="JAS.1.4!12-JAS.1.4!13" type="Constituent Negation" label="Constit" verse="JAS 1:4" >ἐν μηδενὶ</reference>
+		<reference osisRef="JAS.1.6!5" type="Constituent Negation" label="Constit" verse="JAS 1:6" >μηδὲν</reference>
+		<reference osisRef="JAS.1.13!1" type="Constituent Negation" label="Constit" verse="JAS 1:13" >μηδεὶς</reference>
+		<reference osisRef="JAS.3.8!4" type="Constituent Negation" label="Constit" verse="JAS 3:8" >οὐδεὶς</reference>
+		<reference osisRef="1JN.3.7!2" type="Constituent Negation" label="Constit" verse="1JN 3:7" >μηδεὶς</reference>
+		<reference osisRef="1JN.4.12!2" type="Constituent Negation" label="Constit" verse="1JN 4:12" >οὐδεὶς</reference>
+		<reference osisRef="3JN.1.7!6" type="Constituent Negation" label="Constit" verse="3JN 1:7" >μηδὲν</reference>
+		<reference osisRef="REV.2.10!1" type="Constituent Negation" label="Constit" verse="REV 2:10" >μηδὲν</reference>
+		<reference osisRef="REV.2.17!32" type="Constituent Negation" label="Constit" verse="REV 2:17" >οὐδεὶς</reference>
+		<reference osisRef="REV.3.7!23" type="Constituent Negation" label="Constit" verse="REV 3:7" >οὐδεὶς</reference>
+		<reference osisRef="REV.3.7!28" type="Constituent Negation" label="Constit" verse="REV 3:7" >οὐδεὶς</reference>
+		<reference osisRef="REV.3.8!12" type="Constituent Negation" label="Constit" verse="REV 3:8" >οὐδεὶς</reference>
+		<reference osisRef="REV.3.11!7" type="Constituent Negation" label="Constit" verse="REV 3:11" >μηδεὶς</reference>
+		<reference osisRef="REV.3.17!9" type="Constituent Negation" label="Constit" verse="REV 3:17" >οὐδὲν</reference>
+		<reference osisRef="REV.5.3!2" type="Constituent Negation" label="Constit" verse="REV 5:3" >οὐδεὶς</reference>
+		<reference osisRef="REV.5.4!5" type="Constituent Negation" label="Constit" verse="REV 5:4" >οὐδεὶς</reference>
+		<reference osisRef="REV.7.9!11" type="Constituent Negation" label="Constit" verse="REV 7:9" >οὐδεὶς</reference>
+		<reference osisRef="REV.14.3!18" type="Constituent Negation" label="Constit" verse="REV 14:3" >οὐδεὶς</reference>
+		<reference osisRef="REV.15.8!17" type="Constituent Negation" label="Constit" verse="REV 15:8" >οὐδεὶς</reference>
+		<reference osisRef="REV.18.11!15" type="Constituent Negation" label="Constit" verse="REV 18:11" >οὐδεὶς</reference>
+		<reference osisRef="REV.19.12!19" type="Constituent Negation" label="Constit" verse="REV 19:12" >οὐδεὶς</reference>
+	</references>
+</markup>

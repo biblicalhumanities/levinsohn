@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markup>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>Ambiguous</name>
+		<description>Marked but ambiguous constituent order.</description>
+		<type name="markup" />
+		<defaultstyle label="*" bkcolor="" fontcolor="" brdrcolor="" brdrline="Solid" brdrpos="None" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
+	</header>
+	<references>
+		<reference osisRef="MAT.5.36!10-MAT.5.36!11" type="Ambiguous" label="*" verse="MAT 5:36" >μίαν τρίχα</reference>
+		<reference osisRef="MAT.5.42!6-MAT.5.42!12" type="Ambiguous" label="*" verse="MAT 5:42" >τὸν θέλοντα ἀπὸ σοῦ δανίσασθαι μὴ ἀποστραφῇς</reference>
+		<reference osisRef="MAT.6.15!8-MAT.6.15!10" type="Ambiguous" label="*" verse="MAT 6:15" >ὁ πατὴρ ὑμῶν</reference>
+		<reference osisRef="MAT.6.19!9-MAT.6.19!12" type="Ambiguous" label="*" verse="MAT 6:19" >σὴς καὶ βρῶσις ἀφανίζει</reference>
+		<reference osisRef="MAT.6.24!16-MAT.6.24!17" type="Ambiguous" label="*" verse="MAT 6:24" >ἑνὸς ἀνθέξεται</reference>
+		<reference osisRef="MAT.7.8!1-MAT.7.8!4" type="Ambiguous" label="*" verse="MAT 7:8" >πᾶς γὰρ ὁ αἰτῶν</reference>
+		<reference osisRef="MAT.7.8!7-MAT.7.8!8" type="Ambiguous" label="*" verse="MAT 7:8" >ὁ ζητῶν</reference>
+		<reference osisRef="MAT.7.8!11-MAT.7.8!12" type="Ambiguous" label="*" verse="MAT 7:8" >τῷ κρούοντι</reference>
+		<reference osisRef="MAT.7.22!11-MAT.7.22!14" type="Ambiguous" label="*" verse="MAT 7:22" >τῷ σῷ ὀνόματι ἐπροφητεύσαμεν</reference>
+		<reference osisRef="MAT.8.16!14-MAT.8.16!18" type="Ambiguous" label="*" verse="MAT 8:16" >πάντας τοὺς κακῶς ἔχοντας ἐθεράπευσεν</reference>
+		<reference osisRef="MAT.9.17!31-MAT.9.17!32" type="Ambiguous" label="*" verse="MAT 9:17" >ἀμφότεροι συντηροῦνται</reference>
+		<reference osisRef="MAT.9.22!11-MAT.9.22!13" type="Ambiguous" label="*" verse="MAT 9:22" >ἡ πίστις σου</reference>
+		<reference osisRef="MAT.10.8!9-MAT.10.8!10" type="Ambiguous" label="*" verse="MAT 10:8" >δωρεὰν ἐλάβετε</reference>
+		<reference osisRef="MAT.12.10!13-MAT.12.10!15" type="Ambiguous" label="*" verse="MAT 12:10" >τοῖς σάββασιν θεραπεῦσαι</reference>
+		<reference osisRef="MAT.13.6!6-MAT.13.6!11" type="Ambiguous" label="*" verse="MAT 13:6" >διὰ τὸ μὴ ἔχειν ῥίζαν ἐξηράνθη</reference>
+		<reference osisRef="MAT.14.9!5-MAT.14.9!10" type="Ambiguous" label="*" verse="MAT 14:9" >διὰ τοὺς ὅρκους καὶ τοὺς συνανακειμένους</reference>
+		<reference osisRef="MAT.16.21!29-MAT.16.21!31" type="Ambiguous" label="*" verse="MAT 16:21" >τῇ τρίτῃ ἡμέρᾳ</reference>
+		<reference osisRef="MAT.17.23!5-MAT.17.23!7" type="Ambiguous" label="*" verse="MAT 17:23" >τῇ τρίτῃ ἡμέρᾳ</reference>
+		<reference osisRef="MAT.18.28!23-MAT.18.28!24" type="Ambiguous" label="*" verse="MAT 18:28" >τι ὀφείλεις</reference>
+		<reference osisRef="MAT.20.19!14-MAT.20.19!16" type="Ambiguous" label="*" verse="MAT 20:19" >τῇ τρίτῃ ἡμέρᾳ</reference>
+		<reference osisRef="MAT.23.13!22-MAT.23.13!25" type="Ambiguous" label="*" verse="MAT 23:13" >τοὺς εἰσερχομένους ἀφίετε εἰσελθεῖν</reference>
+		<reference osisRef="MAT.24.13!6-MAT.24.13!7" type="Ambiguous" label="*" verse="MAT 24:13" >οὗτος σωθήσεται</reference>
+		<reference osisRef="MAT.25.30!2-MAT.25.30!4" type="Ambiguous" label="*" verse="MAT 25:30" >τὸν ἀχρεῖον δοῦλον</reference>
+		<reference osisRef="MAT.26.25!14-MAT.26.25!15" type="Ambiguous" label="*" verse="MAT 26:25" >σὺ εἶπας</reference>
+		<reference osisRef="MAT.26.64!5-MAT.26.64!6" type="Ambiguous" label="*" verse="MAT 26:64" >σὺ εἶπας</reference>
+		<reference osisRef="MAT.27.4!12-MAT.27.4!13" type="Ambiguous" label="*" verse="MAT 27:4" >σὺ ὄψῃ</reference>
+		<reference osisRef="MAT.27.11!24-MAT.27.11!25" type="Ambiguous" label="*" verse="MAT 27:11" >σὺ λέγεις</reference>
+		<reference osisRef="MRK.1.39!13-MRK.1.39!15" type="Ambiguous" label="*" verse="MRK 1:39" >τὰ δαιμόνια ἐκβάλλων</reference>
+		<reference osisRef="MRK.2.13!8-MRK.2.13!10" type="Ambiguous" label="*" verse="MRK 2:13" >πᾶς ὁ ὄχλος</reference>
+		<reference osisRef="MRK.2.18!17-MRK.2.18!25" type="Ambiguous" label="*" verse="MRK 2:18" >οἱ μαθηταὶ ἰωάννου καὶ οἱ μαθηταὶ τῶν φαρισαίων νηστεύουσιν</reference>
+		<reference osisRef="MRK.3.25!3-MRK.3.25!5" type="Ambiguous" label="*" verse="MRK 3:25" >οἰκία ἐφ’ ἑαυτὴν</reference>
+		<reference osisRef="MRK.4.6!8-MRK.4.6!13" type="Ambiguous" label="*" verse="MRK 4:6" >διὰ τὸ μὴ ἔχειν ῥίζαν ἐξηράνθη</reference>
+		<reference osisRef="MRK.4.7!15-MRK.4.7!17" type="Ambiguous" label="*" verse="MRK 4:7" >καρπὸν οὐκ ἔδωκεν</reference>
+		<reference osisRef="MRK.4.34!10-MRK.4.34!12" type="Ambiguous" label="*" verse="MRK 4:34" >τοῖς ἰδίοις μαθηταῖς</reference>
+		<reference osisRef="MRK.4.38!7-MRK.4.38!10" type="Ambiguous" label="*" verse="MRK 4:38" >ἐπὶ τὸ προσκεφάλαιον καθεύδων</reference>
+		<reference osisRef="MRK.5.30!9-MRK.5.30!10" type="Ambiguous" label="*" verse="MRK 5:30" >ἐξ αὐτοῦ</reference>
+		<reference osisRef="MRK.5.34!6-MRK.5.34!8" type="Ambiguous" label="*" verse="MRK 5:34" >ἡ πίστις σου</reference>
+		<reference osisRef="MRK.6.26!6-MRK.6.26!11" type="Ambiguous" label="*" verse="MRK 6:26" >διὰ τοὺς ὅρκους καὶ τοὺς ἀνακειμένους</reference>
+		<reference osisRef="MRK.6.48!14-MRK.6.48!18" type="Ambiguous" label="*" verse="MRK 6:48" >περὶ τετάρτην φυλακὴν τῆς νυκτὸς</reference>
+		<reference osisRef="MRK.8.31!27-MRK.8.31!29" type="Ambiguous" label="*" verse="MRK 8:31" >μετὰ τρεῖς ἡμέρας</reference>
+		<reference osisRef="MRK.9.3!10-MRK.9.3!13" type="Ambiguous" label="*" verse="MRK 9:3" >γναφεὺς ἐπὶ τῆς γῆς</reference>
+		<reference osisRef="MRK.9.12!20-MRK.9.12!21" type="Ambiguous" label="*" verse="MRK 9:12" >πολλὰ πάθῃ</reference>
+		<reference osisRef="MRK.9.31!23-MRK.9.31!25" type="Ambiguous" label="*" verse="MRK 9:31" >μετὰ τρεῖς ἡμέρας</reference>
+		<reference osisRef="MRK.9.49!3-MRK.9.49!4" type="Ambiguous" label="*" verse="MRK 9:49" >πυρὶ ἁλισθήσεται</reference>
+		<reference osisRef="MRK.10.1!21-MRK.10.1!22" type="Ambiguous" label="*" verse="MRK 10:1" >ὡς εἰώθει</reference>
+		<reference osisRef="MRK.10.2!9-MRK.10.2!10" type="Ambiguous" label="*" verse="MRK 10:2" >γυναῖκα ἀπολῦσαι</reference>
+		<reference osisRef="MRK.10.14!18" type="Ambiguous" label="*" verse="MRK 10:14" >τῶν</reference>
+		<reference osisRef="MRK.10.14!20" type="Ambiguous" label="*" verse="MRK 10:14" >τοιούτων</reference>
+		<reference osisRef="MRK.10.34!13-MRK.10.34!15" type="Ambiguous" label="*" verse="MRK 10:34" >μετὰ τρεῖς ἡμέρας</reference>
+		<reference osisRef="MRK.10.52!7-MRK.10.52!9" type="Ambiguous" label="*" verse="MRK 10:52" >ἡ πίστις σου</reference>
+		<reference osisRef="MRK.11.3!10-MRK.11.3!12" type="Ambiguous" label="*" verse="MRK 11:3" >ὁ κύριος αὐτοῦ</reference>
+		<reference osisRef="MRK.11.15!21-MRK.11.15!32" type="Ambiguous" label="*" verse="MRK 11:15" >τὰς τραπέζας τῶν κολλυβιστῶν καὶ τὰς καθέδρας τῶν πωλούντων τὰς περιστερὰς κατέστρεψεν</reference>
+		<reference osisRef="MRK.11.25!13-MRK.11.25!19" type="Ambiguous" label="*" verse="MRK 11:25" >ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς</reference>
+		<reference osisRef="MRK.11.32!8" type="Ambiguous" label="*" verse="MRK 11:32" >ἅπαντες</reference>
+		<reference osisRef="MRK.12.40!8" type="Ambiguous" label="*" verse="MRK 12:40" >προφάσει</reference>
+		<reference osisRef="MRK.13.5!9" type="Ambiguous" label="*" verse="MRK 13:5" >τις</reference>
+		<reference osisRef="MRK.13.25!5-MRK.13.25!8" type="Ambiguous" label="*" verse="MRK 13:25" >ἐκ τοῦ οὐρανοῦ πίπτοντες</reference>
+		<reference osisRef="MRK.13.34!20-MRK.13.34!21" type="Ambiguous" label="*" verse="MRK 13:34" >τῷ θυρωρῷ</reference>
+		<reference osisRef="MRK.14.6!7-MRK.14.6!9" type="Ambiguous" label="*" verse="MRK 14:6" >τί αὐτῇ κόπους</reference>
+		<reference osisRef="MRK.14.7!9-MRK.14.7!10" type="Ambiguous" label="*" verse="MRK 14:7" >ὅταν θέλητε</reference>
+		<reference osisRef="MRK.14.14!18-MRK.14.14!19" type="Ambiguous" label="*" verse="MRK 14:14" >τὸ πάσχα</reference>
+		<reference osisRef="MRK.14.36!6" type="Ambiguous" label="*" verse="MRK 14:36" >πάντα</reference>
+		<reference osisRef="MRK.14.49!6-MRK.14.49!8" type="Ambiguous" label="*" verse="MRK 14:49" >ἐν τῷ ἱερῷ</reference>
+		<reference osisRef="MRK.14.67!9-MRK.14.67!10" type="Ambiguous" label="*" verse="MRK 14:67" >καὶ σὺ</reference>
+		<reference osisRef="MRK.14.69!12-MRK.14.69!14" type="Ambiguous" label="*" verse="MRK 14:69" >οὗτος ἐξ αὐτῶν</reference>
+		<reference osisRef="LUK.1.10!2-LUK.1.10!4" type="Ambiguous" label="*" verse="LUK 1:10" >πᾶν τὸ πλῆθος</reference>
+		<reference osisRef="LUK.1.10!6-LUK.1.10!7" type="Ambiguous" label="*" verse="LUK 1:10" >τοῦ λαοῦ</reference>
+		<reference osisRef="LUK.2.38!2-LUK.2.38!4" type="Ambiguous" label="*" verse="LUK 2:38" >αὐτῇ τῇ ὥρᾳ</reference>
+		<reference osisRef="LUK.3.5!1-LUK.3.5!3" type="Ambiguous" label="*" verse="LUK 3:5" >πᾶσα φάραγξ πληρωθήσεται</reference>
+		<reference osisRef="LUK.3.5!5-LUK.3.5!9" type="Ambiguous" label="*" verse="LUK 3:5" >πᾶν ὄρος καὶ βουνὸς ταπεινωθήσεται</reference>
+		<reference osisRef="LUK.3.8!13" type="Ambiguous" label="*" verse="LUK 3:8" >πατέρα</reference>
+		<reference osisRef="LUK.3.17!2-LUK.3.17!3" type="Ambiguous" label="*" verse="LUK 3:17" >τὸ πτύον</reference>
+		<reference osisRef="LUK.4.20!10-LUK.4.20!15" type="Ambiguous" label="*" verse="LUK 4:20" >πάντων οἱ ὀφθαλμοὶ ἐν τῇ συναγωγῇ</reference>
+		<reference osisRef="LUK.4.21!7" type="Ambiguous" label="*" verse="LUK 4:21" >σήμερον</reference>
+		<reference osisRef="LUK.4.23!14-LUK.4.23!19" type="Ambiguous" label="*" verse="LUK 4:23" >ὅσα ἠκούσαμεν γενόμενα εἰς τὴν καφαρναοὺμ</reference>
+		<reference osisRef="LUK.4.41!27" type="Ambiguous" label="*" verse="LUK 4:41" >αὐτὸν</reference>
+		<reference osisRef="LUK.5.34!9-LUK.5.34!12" type="Ambiguous" label="*" verse="LUK 5:34" >τοὺς υἱοὺς τοῦ νυμφῶνος</reference>
+		<reference osisRef="LUK.6.7!10-LUK.6.7!13" type="Ambiguous" label="*" verse="LUK 6:7" >ἐν τῷ σαββάτῳ θεραπεύει</reference>
+		<reference osisRef="LUK.6.23!17-LUK.6.23!19" type="Ambiguous" label="*" verse="LUK 6:23" >κατὰ τὰ αὐτὰ</reference>
+		<reference osisRef="LUK.6.26!9-LUK.6.26!11" type="Ambiguous" label="*" verse="LUK 6:26" >κατὰ τὰ αὐτὰ</reference>
+		<reference osisRef="LUK.6.34!12-LUK.6.34!14" type="Ambiguous" label="*" verse="LUK 6:34" >καὶ ἁμαρτωλοὶ ἁμαρτωλοῖς</reference>
+		<reference osisRef="LUK.6.38!15" type="Ambiguous" label="*" verse="LUK 6:38" >ᾧ</reference>
+		<reference osisRef="LUK.6.38!17-LUK.6.38!18" type="Ambiguous" label="*" verse="LUK 6:38" >μέτρῳ μετρεῖτε</reference>
+		<reference osisRef="LUK.6.42!18-LUK.6.42!25" type="Ambiguous" label="*" verse="LUK 6:42" >τὴν ἐν τῷ ὀφθαλμῷ σου δοκὸν οὐ βλέπων</reference>
+		<reference osisRef="LUK.7.42!5-LUK.7.42!6" type="Ambiguous" label="*" verse="LUK 7:42" >ἀμφοτέροις ἐχαρίσατο</reference>
+		<reference osisRef="LUK.7.47!18-LUK.7.47!19" type="Ambiguous" label="*" verse="LUK 7:47" >ὀλίγον ἀγαπᾷ</reference>
+		<reference osisRef="LUK.7.50!6-LUK.7.50!8" type="Ambiguous" label="*" verse="LUK 7:50" >ἡ πίστις σου</reference>
+		<reference osisRef="LUK.8.13!16-LUK.8.13!18" type="Ambiguous" label="*" verse="LUK 8:13" >ῥίζαν οὐκ ἔχουσιν</reference>
+		<reference osisRef="LUK.8.21!15-LUK.8.21!21" type="Ambiguous" label="*" verse="LUK 8:21" >τὸν λόγον τοῦ θεοῦ ἀκούοντες καὶ ποιοῦντες</reference>
+		<reference osisRef="LUK.8.45!16-LUK.8.45!17" type="Ambiguous" label="*" verse="LUK 8:45" >οἱ ὄχλοι</reference>
+		<reference osisRef="LUK.8.48!6-LUK.8.48!8" type="Ambiguous" label="*" verse="LUK 8:48" >ἡ πίστις σου</reference>
+		<reference osisRef="LUK.9.22!22-LUK.9.22!24" type="Ambiguous" label="*" verse="LUK 9:22" >τῇ τρίτῃ ἡμέρᾳ</reference>
+		<reference osisRef="LUK.10.6!3" type="Ambiguous" label="*" verse="LUK 10:6" >ἐκεῖ</reference>
+		<reference osisRef="LUK.11.10!1-LUK.11.10!4" type="Ambiguous" label="*" verse="LUK 11:10" >πᾶς γὰρ ὁ αἰτῶν</reference>
+		<reference osisRef="LUK.11.10!7-LUK.11.10!8" type="Ambiguous" label="*" verse="LUK 11:10" >ὁ ζητῶν</reference>
+		<reference osisRef="LUK.11.10!11-LUK.11.10!12" type="Ambiguous" label="*" verse="LUK 11:10" >τῷ κρούοντι</reference>
+		<reference osisRef="LUK.11.13!15-LUK.11.13!19" type="Ambiguous" label="*" verse="LUK 11:13" >ὁ πατὴρ ὁ ἐξ οὐρανοῦ</reference>
+		<reference osisRef="LUK.11.52!15-LUK.11.52!17" type="Ambiguous" label="*" verse="LUK 11:52" >τοὺς εἰσερχομένους ἐκωλύσατε</reference>
+		<reference osisRef="LUK.12.12!1" type="Ambiguous" label="*" verse="LUK 12:12" >τὸ</reference>
+		<reference osisRef="LUK.12.12!3-LUK.12.12!4" type="Ambiguous" label="*" verse="LUK 12:12" >ἅγιον πνεῦμα</reference>
+		<reference osisRef="LUK.12.24!16-LUK.12.24!17" type="Ambiguous" label="*" verse="LUK 12:24" >ὁ θεὸς</reference>
+		<reference osisRef="LUK.12.33!19-LUK.12.33!21" type="Ambiguous" label="*" verse="LUK 12:33" >κλέπτης οὐκ ἐγγίζει</reference>
+		<reference osisRef="LUK.12.33!23-LUK.12.33!24" type="Ambiguous" label="*" verse="LUK 12:33" >σὴς διαφθείρει</reference>
+		<reference osisRef="LUK.13.31!15" type="Ambiguous" label="*" verse="LUK 13:31" >ἡρῴδης</reference>
+		<reference osisRef="LUK.13.35!18" type="Ambiguous" label="*" verse="LUK 13:35" >εὐλογημένος</reference>
+		<reference osisRef="LUK.14.20!7-LUK.14.20!8" type="Ambiguous" label="*" verse="LUK 14:20" >διὰ τοῦτο</reference>
+		<reference osisRef="LUK.14.33!3-LUK.14.33!12" type="Ambiguous" label="*" verse="LUK 14:33" >πᾶς ἐξ ὑμῶν ὃς οὐκ ἀποτάσσεται πᾶσιν τοῖς ἑαυτοῦ ὑπάρχουσιν</reference>
+		<reference osisRef="LUK.15.17!15-LUK.15.17!17" type="Ambiguous" label="*" verse="LUK 15:17" >λιμῷ ὧδε ἀπόλλυμαι</reference>
+		<reference osisRef="LUK.15.31!12-LUK.15.31!15" type="Ambiguous" label="*" verse="LUK 15:31" >πάντα τὰ ἐμὰ σά</reference>
+		<reference osisRef="LUK.16.1!7-LUK.16.1!10" type="Ambiguous" label="*" verse="LUK 16:1" >ἄνθρωπός τις ἦν πλούσιος</reference>
+		<reference osisRef="LUK.16.9!5" type="Ambiguous" label="*" verse="LUK 16:9" >ἑαυτοῖς</reference>
+		<reference osisRef="LUK.16.10!15-LUK.16.10!18" type="Ambiguous" label="*" verse="LUK 16:10" >καὶ ἐν πολλῷ ἄδικός</reference>
+		<reference osisRef="LUK.16.13!17-LUK.16.13!18" type="Ambiguous" label="*" verse="LUK 16:13" >ἑνὸς ἀνθέξεται</reference>
+		<reference osisRef="LUK.16.16!16-LUK.16.16!19" type="Ambiguous" label="*" verse="LUK 16:16" >πᾶς εἰς αὐτὴν βιάζεται</reference>
+		<reference osisRef="LUK.16.17!4-LUK.16.17!9" type="Ambiguous" label="*" verse="LUK 16:17" >τὸν οὐρανὸν καὶ τὴν γῆν παρελθεῖν</reference>
+		<reference osisRef="LUK.16.26!23-LUK.16.26!25" type="Ambiguous" label="*" verse="LUK 16:26" >πρὸς ἡμᾶς διαπερῶσιν</reference>
+		<reference osisRef="LUK.17.22!10-LUK.17.22!17" type="Ambiguous" label="*" verse="LUK 17:22" >μίαν τῶν ἡμερῶν τοῦ υἱοῦ τοῦ ἀνθρώπου ἰδεῖν</reference>
+		<reference osisRef="LUK.18.2!8-LUK.18.2!11" type="Ambiguous" label="*" verse="LUK 18:2" >τὸν θεὸν μὴ φοβούμενος</reference>
+		<reference osisRef="LUK.18.2!13-LUK.18.2!15" type="Ambiguous" label="*" verse="LUK 18:2" >ἄνθρωπον μὴ ἐντρεπόμενος</reference>
+		<reference osisRef="LUK.18.4!14-LUK.18.4!17" type="Ambiguous" label="*" verse="LUK 18:4" >τὸν θεὸν οὐ φοβοῦμαι</reference>
+		<reference osisRef="LUK.18.4!19-LUK.18.4!20" type="Ambiguous" label="*" verse="LUK 18:4" >ἄνθρωπον ἐντρέπομαι</reference>
+		<reference osisRef="LUK.18.6!7-LUK.18.6!10" type="Ambiguous" label="*" verse="LUK 18:6" >ὁ κριτὴς τῆς ἀδικίας</reference>
+		<reference osisRef="LUK.18.16!17" type="Ambiguous" label="*" verse="LUK 18:16" >τῶν</reference>
+		<reference osisRef="LUK.18.16!19" type="Ambiguous" label="*" verse="LUK 18:16" >τοιούτων</reference>
+		<reference osisRef="LUK.18.21!4-LUK.18.21!5" type="Ambiguous" label="*" verse="LUK 18:21" >ταῦτα πάντα</reference>
+		<reference osisRef="LUK.18.33!6-LUK.18.33!9" type="Ambiguous" label="*" verse="LUK 18:33" >τῇ ἡμέρᾳ τῇ τρίτῃ</reference>
+		<reference osisRef="LUK.18.42!7-LUK.18.42!9" type="Ambiguous" label="*" verse="LUK 18:42" >ἡ πίστις σου</reference>
+		<reference osisRef="LUK.19.8!20-LUK.19.8!22" type="Ambiguous" label="*" verse="LUK 19:8" >τινός τι ἐσυκοφάντησα</reference>
+		<reference osisRef="LUK.19.27!2-LUK.19.27!12" type="Ambiguous" label="*" verse="LUK 19:27" >τοὺς ἐχθρούς μου τούτους τοὺς μὴ θελήσαντάς με βασιλεῦσαι ἐπ’ αὐτοὺς</reference>
+		<reference osisRef="LUK.19.31!12-LUK.19.31!14" type="Ambiguous" label="*" verse="LUK 19:31" >ὁ κύριος αὐτοῦ</reference>
+		<reference osisRef="LUK.19.38!10-LUK.19.38!12" type="Ambiguous" label="*" verse="LUK 19:38" >ἐν οὐρανῷ εἰρήνη</reference>
+		<reference osisRef="LUK.20.47!8" type="Ambiguous" label="*" verse="LUK 20:47" >προφάσει</reference>
+		<reference osisRef="LUK.21.8!18-LUK.21.8!20" type="Ambiguous" label="*" verse="LUK 21:8" >ὁ καιρὸς ἤγγικεν</reference>
+		<reference osisRef="LUK.21.35!1-LUK.21.35!2" type="Ambiguous" label="*" verse="LUK 21:35" >ὡς παγίς</reference>
+		<reference osisRef="LUK.22.11!16-LUK.22.11!17" type="Ambiguous" label="*" verse="LUK 22:11" >τὸ πάσχα</reference>
+		<reference osisRef="LUK.22.15!7-LUK.22.15!9" type="Ambiguous" label="*" verse="LUK 22:15" >τοῦτο τὸ πάσχα</reference>
+		<reference osisRef="LUK.22.19!16-LUK.22.19!18" type="Ambiguous" label="*" verse="LUK 22:19" >ὑπὲρ ὑμῶν διδόμενον</reference>
+		<reference osisRef="LUK.22.20!20-LUK.22.20!22" type="Ambiguous" label="*" verse="LUK 22:20" >ὑπὲρ ὑμῶν ἐκχυννόμενον</reference>
+		<reference osisRef="LUK.22.27!14-LUK.22.27!16" type="Ambiguous" label="*" verse="LUK 22:27" >ἐν μέσῳ ὑμῶν</reference>
+		<reference osisRef="LUK.22.31!4-LUK.22.31!5" type="Ambiguous" label="*" verse="LUK 22:31" >ὁ σατανᾶς</reference>
+		<reference osisRef="LUK.22.38!6" type="Ambiguous" label="*" verse="LUK 22:38" >μάχαιραι</reference>
+		<reference osisRef="LUK.22.53!17" type="Ambiguous" label="*" verse="LUK 22:53" >αὕτη</reference>
+		<reference osisRef="LUK.22.59!12-LUK.22.59!13" type="Ambiguous" label="*" verse="LUK 22:59" >καὶ οὗτος</reference>
+		<reference osisRef="LUK.22.61!20-LUK.22.61!23" type="Ambiguous" label="*" verse="LUK 22:61" >πρὶν ἀλέκτορα φωνῆσαι σήμερον</reference>
+		<reference osisRef="LUK.23.32!7-LUK.23.32!8" type="Ambiguous" label="*" verse="LUK 23:32" >σὺν αὐτῷ</reference>
+		<reference osisRef="LUK.24.1!6-LUK.24.1!11" type="Ambiguous" label="*" verse="LUK 24:1" >ὄρθρου βαθέως ἐπὶ τὸ μνῆμα ἦλθον</reference>
+		<reference osisRef="LUK.24.7!16-LUK.24.7!19" type="Ambiguous" label="*" verse="LUK 24:7" >τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι</reference>
+		<reference osisRef="LUK.24.39!19-LUK.24.39!23" type="Ambiguous" label="*" verse="LUK 24:39" >σάρκα καὶ ὀστέα οὐκ ἔχει</reference>
+		<reference osisRef="JHN.2.18!13-JHN.2.18!14" type="Ambiguous" label="*" verse="JHN 2:18" >ταῦτα ποιεῖς</reference>
+		<reference osisRef="JHN.2.19!11-JHN.2.19!13" type="Ambiguous" label="*" verse="JHN 2:19" >ἐν τρισὶν ἡμέραις</reference>
+		<reference osisRef="JHN.2.23!13" type="Ambiguous" label="*" verse="JHN 2:23" >πολλοὶ</reference>
+		<reference osisRef="JHN.2.25!7" type="Ambiguous" label="*" verse="JHN 2:25" >τις</reference>
+		<reference osisRef="JHN.2.25!12" type="Ambiguous" label="*" verse="JHN 2:25" >αὐτὸς</reference>
+		<reference osisRef="JHN.3.28!1-JHN.3.28!4" type="Ambiguous" label="*" verse="JHN 3:28" >αὐτοὶ ὑμεῖς μοι μαρτυρεῖτε</reference>
+		<reference osisRef="JHN.4.35!9-JHN.4.35!11" type="Ambiguous" label="*" verse="JHN 4:35" >ὁ θερισμὸς ἔρχεται</reference>
+		<reference osisRef="JHN.5.27!5-JHN.5.27!6" type="Ambiguous" label="*" verse="JHN 5:27" >κρίσιν ποιεῖν</reference>
+		<reference osisRef="JHN.5.40!8-JHN.5.40!9" type="Ambiguous" label="*" verse="JHN 5:40" >ζωὴν ἔχητε</reference>
+		<reference osisRef="JHN.5.45!4" type="Ambiguous" label="*" verse="JHN 5:45" >ἐγὼ</reference>
+		<reference osisRef="JHN.6.50!1" type="Ambiguous" label="*" verse="JHN 6:50" >οὗτός</reference>
+		<reference osisRef="JHN.6.52!11" type="Ambiguous" label="*" verse="JHN 6:52" >ἡμῖν</reference>
+		<reference osisRef="JHN.6.54!1-JHN.6.54!10" type="Ambiguous" label="*" verse="JHN 6:54" >ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα</reference>
+		<reference osisRef="JHN.6.57!16" type="Ambiguous" label="*" verse="JHN 6:57" >κἀκεῖνος</reference>
+		<reference osisRef="JHN.8.2!9-JHN.8.2!11" type="Ambiguous" label="*" verse="JHN 8:2" >πᾶς ὁ λαὸς</reference>
+		<reference osisRef="JHN.8.6!15-JHN.8.6!16" type="Ambiguous" label="*" verse="JHN 8:6" >τῷ δακτύλῳ</reference>
+		<reference osisRef="JHN.8.24!15-JHN.8.24!16" type="Ambiguous" label="*" verse="JHN 8:24" >ἐγώ εἰμι</reference>
+		<reference osisRef="JHN.8.25!11-JHN.8.25!12" type="Ambiguous" label="*" verse="JHN 8:25" >τὴν ἀρχὴν</reference>
+		<reference osisRef="JHN.8.28!15-JHN.8.28!16" type="Ambiguous" label="*" verse="JHN 8:28" >ἐγώ εἰμι</reference>
+		<reference osisRef="JHN.8.30!4" type="Ambiguous" label="*" verse="JHN 8:30" >πολλοὶ</reference>
+		<reference osisRef="JHN.8.45!1-JHN.8.45!6" type="Ambiguous" label="*" verse="JHN 8:45" >ἐγὼ δὲ ὅτι τὴν ἀλήθειαν λέγω</reference>
+		<reference osisRef="JHN.8.58!8-JHN.8.58!12" type="Ambiguous" label="*" verse="JHN 8:58" >πρὶν ἀβραὰμ γενέσθαι ἐγὼ εἰμί</reference>
+		<reference osisRef="JHN.9.32!10-JHN.9.32!11" type="Ambiguous" label="*" verse="JHN 9:32" >τυφλοῦ γεγεννημένου</reference>
+		<reference osisRef="JHN.10.3!13-JHN.10.3!15" type="Ambiguous" label="*" verse="JHN 10:3" >τὰ ἴδια πρόβατα</reference>
+		<reference osisRef="JHN.10.4!2-JHN.10.4!5" type="Ambiguous" label="*" verse="JHN 10:4" >τὰ ἴδια πάντα ἐκβάλῃ</reference>
+		<reference osisRef="JHN.10.5!1-JHN.10.5!5" type="Ambiguous" label="*" verse="JHN 10:5" >ἀλλοτρίῳ δὲ οὐ μὴ ἀκολουθήσουσιν</reference>
+		<reference osisRef="JHN.10.7!11" type="Ambiguous" label="*" verse="JHN 10:7" >ἐγώ</reference>
+		<reference osisRef="JHN.10.14!1" type="Ambiguous" label="*" verse="JHN 10:14" >ἐγώ</reference>
+		<reference osisRef="JHN.10.16!12" type="Ambiguous" label="*" verse="JHN 10:16" >κἀκεῖνα</reference>
+		<reference osisRef="JHN.11.19!1" type="Ambiguous" label="*" verse="JHN 11:19" >πολλοὶ</reference>
+		<reference osisRef="JHN.11.19!3-JHN.11.19!5" type="Ambiguous" label="*" verse="JHN 11:19" >ἐκ τῶν ἰουδαίων</reference>
+		<reference osisRef="JHN.11.25!5" type="Ambiguous" label="*" verse="JHN 11:25" >ἐγώ</reference>
+		<reference osisRef="JHN.11.32!24" type="Ambiguous" label="*" verse="JHN 11:32" >μου</reference>
+		<reference osisRef="JHN.11.50!7-JHN.11.50!8" type="Ambiguous" label="*" verse="JHN 11:50" >εἷς ἄνθρωπος</reference>
+		<reference osisRef="JHN.11.52!9-JHN.11.52!15" type="Ambiguous" label="*" verse="JHN 11:52" >καὶ τὰ τέκνα τοῦ θεοῦ τὰ διεσκορπισμένα</reference>
+		<reference osisRef="JHN.12.17!10-JHN.12.17!11" type="Ambiguous" label="*" verse="JHN 12:17" >τὸν λάζαρον</reference>
+		<reference osisRef="JHN.12.35!6-JHN.12.35!12" type="Ambiguous" label="*" verse="JHN 12:35" >ἔτι μικρὸν χρόνον τὸ φῶς ἐν ὑμῖν</reference>
+		<reference osisRef="JHN.12.46!13-JHN.12.46!17" type="Ambiguous" label="*" verse="JHN 12:46" >ἐν τῇ σκοτίᾳ μὴ μείνῃ</reference>
+		<reference osisRef="JHN.13.35!1-JHN.13.35!2" type="Ambiguous" label="*" verse="JHN 13:35" >ἐν τούτῳ</reference>
+		<reference osisRef="JHN.14.21!9" type="Ambiguous" label="*" verse="JHN 14:21" >ἐκεῖνός</reference>
+		<reference osisRef="JHN.15.5!15" type="Ambiguous" label="*" verse="JHN 15:5" >οὗτος</reference>
+		<reference osisRef="JHN.17.8!16-JHN.17.8!18" type="Ambiguous" label="*" verse="JHN 17:8" >παρὰ σοῦ ἐξῆλθον</reference>
+		<reference osisRef="JHN.19.12!14-JHN.19.12!15" type="Ambiguous" label="*" verse="JHN 19:12" >τοῦτον ἀπολύσῃς</reference>
+		<reference osisRef="JHN.20.9!9-JHN.20.9!11" type="Ambiguous" label="*" verse="JHN 20:9" >ἐκ νεκρῶν ἀναστῆναι</reference>
+		<reference osisRef="ACT.1.1!1-ACT.1.1!4" type="Ambiguous" label="*" verse="ACT 1:1" >τὸν μὲν πρῶτον λόγον</reference>
+		<reference osisRef="ACT.1.4!5-ACT.1.4!8" type="Ambiguous" label="*" verse="ACT 1:4" >ἀπὸ ἱεροσολύμων μὴ χωρίζεσθαι</reference>
+		<reference osisRef="ACT.5.15!18-ACT.5.15!20" type="Ambiguous" label="*" verse="ACT 5:15" >κἂν ἡ σκιὰ</reference>
+		<reference osisRef="ACT.5.42!4-ACT.5.42!9" type="Ambiguous" label="*" verse="ACT 5:42" >ἐν τῷ ἱερῷ καὶ κατ’ οἶκον</reference>
+		<reference osisRef="ACT.8.26!1" type="Ambiguous" label="*" verse="ACT 8:26" >ἄγγελος</reference>
+		<reference osisRef="ACT.8.26!3" type="Ambiguous" label="*" verse="ACT 8:26" >κυρίου</reference>
+		<reference osisRef="ACT.9.5!12-ACT.9.5!13" type="Ambiguous" label="*" verse="ACT 9:5" >σὺ διώκεις</reference>
+		<reference osisRef="ACT.9.20!3-ACT.9.20!5" type="Ambiguous" label="*" verse="ACT 9:20" >ἐν ταῖς συναγωγαῖς</reference>
+		<reference osisRef="ACT.9.21!22-ACT.9.21!23" type="Ambiguous" label="*" verse="ACT 9:21" >εἰς τοῦτο</reference>
+		<reference osisRef="ACT.10.15!9-ACT.10.15!11" type="Ambiguous" label="*" verse="ACT 10:15" >ὁ θεὸς ἐκαθάρισεν</reference>
+		<reference osisRef="ACT.10.15!12-ACT.10.15!14" type="Ambiguous" label="*" verse="ACT 10:15" >σὺ μὴ κοίνου</reference>
+		<reference osisRef="ACT.10.38!26-ACT.10.38!27" type="Ambiguous" label="*" verse="ACT 10:38" >ὁ θεὸς</reference>
+		<reference osisRef="ACT.11.9!10-ACT.11.9!12" type="Ambiguous" label="*" verse="ACT 11:9" >ὁ θεὸς ἐκαθάρισεν</reference>
+		<reference osisRef="ACT.11.9!13-ACT.11.9!15" type="Ambiguous" label="*" verse="ACT 11:9" >σὺ μὴ κοίνου</reference>
+		<reference osisRef="ACT.11.21!7-ACT.11.21!11" type="Ambiguous" label="*" verse="ACT 11:21" >πολύς τε ἀριθμὸς ὁ πιστεύσας</reference>
+		<reference osisRef="ACT.12.15!3-ACT.12.15!4" type="Ambiguous" label="*" verse="ACT 12:15" >πρὸς αὐτὴν</reference>
+		<reference osisRef="ACT.13.18!2-ACT.13.18!4" type="Ambiguous" label="*" verse="ACT 13:18" >ὡς τεσσερακονταετῆ χρόνον</reference>
+		<reference osisRef="ACT.13.23!1-ACT.13.23!8" type="Ambiguous" label="*" verse="ACT 13:23" >τούτου ὁ θεὸς ἀπὸ τοῦ σπέρματος κατ’ ἐπαγγελίαν</reference>
+		<reference osisRef="ACT.14.1!5-ACT.14.1!7" type="Ambiguous" label="*" verse="ACT 14:1" >κατὰ τὸ αὐτὸ</reference>
+		<reference osisRef="ACT.16.18!12-ACT.16.18!13" type="Ambiguous" label="*" verse="ACT 16:18" >τῷ πνεύματι</reference>
+		<reference osisRef="ACT.17.33!1" type="Ambiguous" label="*" verse="ACT 17:33" >οὕτως</reference>
+		<reference osisRef="ACT.18.10!2" type="Ambiguous" label="*" verse="ACT 18:10" >ἐγώ</reference>
+		<reference osisRef="ACT.18.17!12-ACT.18.17!16" type="Ambiguous" label="*" verse="ACT 18:17" >οὐδὲν τούτων τῷ γαλλίωνι ἔμελεν</reference>
+		<reference osisRef="ACT.18.18!8-ACT.18.18!10" type="Ambiguous" label="*" verse="ACT 18:18" >τοῖς ἀδελφοῖς ἀποταξάμενος</reference>
+		<reference osisRef="ACT.19.38!11-ACT.19.38!13" type="Ambiguous" label="*" verse="ACT 19:38" >πρός τινα λόγον</reference>
+		<reference osisRef="ACT.20.18!20-ACT.20.18!21" type="Ambiguous" label="*" verse="ACT 20:18" >μεθ’ ὑμῶν</reference>
+		<reference osisRef="ACT.20.28!10-ACT.20.28!13" type="Ambiguous" label="*" verse="ACT 20:28" >τὸ πνεῦμα τὸ ἅγιον</reference>
+		<reference osisRef="ACT.20.31!6-ACT.20.31!8" type="Ambiguous" label="*" verse="ACT 20:31" >νύκτα καὶ ἡμέραν</reference>
+		<reference osisRef="ACT.21.4!10-ACT.21.4!11" type="Ambiguous" label="*" verse="ACT 21:4" >τῷ παύλῳ</reference>
+		<reference osisRef="ACT.21.7!3-ACT.21.7!4" type="Ambiguous" label="*" verse="ACT 21:7" >τὸν πλοῦν</reference>
+		<reference osisRef="ACT.22.8!17-ACT.22.8!18" type="Ambiguous" label="*" verse="ACT 22:8" >σὺ διώκεις</reference>
+		<reference osisRef="ACT.23.3!4-ACT.23.3!5" type="Ambiguous" label="*" verse="ACT 23:3" >πρὸς αὐτὸν</reference>
+		<reference osisRef="ACT.23.31!5-ACT.23.31!8" type="Ambiguous" label="*" verse="ACT 23:31" >κατὰ τὸ διατεταγμένον αὐτοῖς</reference>
+		<reference osisRef="ACT.23.35!5-ACT.23.35!9" type="Ambiguous" label="*" verse="ACT 23:35" >καὶ οἱ κατήγοροί σου παραγένωνται</reference>
+		<reference osisRef="ACT.26.20!2-ACT.26.20!17" type="Ambiguous" label="*" verse="ACT 26:20" >τοῖς ἐν δαμασκῷ πρῶτόν τε καὶ ἱεροσολύμοις πᾶσάν τε τὴν χώραν τῆς ἰουδαίας καὶ τοῖς ἔθνεσιν</reference>
+		<reference osisRef="ACT.27.19!4" type="Ambiguous" label="*" verse="ACT 27:19" >αὐτόχειρες</reference>
+		<reference osisRef="ACT.27.39!5-ACT.27.39!8" type="Ambiguous" label="*" verse="ACT 27:39" >τὴν γῆν οὐκ ἐπεγίνωσκον</reference>
+		<reference osisRef="ROM.1.18!14-ROM.1.18!18" type="Ambiguous" label="*" verse="ROM 1:18" >τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων</reference>
+		<reference osisRef="ROM.1.20!5-ROM.1.20!9" type="Ambiguous" label="*" verse="ROM 1:20" >ἀπὸ κτίσεως κόσμου τοῖς ποιήμασιν</reference>
+		<reference osisRef="ROM.1.27!19-ROM.1.27!23" type="Ambiguous" label="*" verse="ROM 1:27" >ἄρσενες ἐν ἄρσεσιν τὴν ἀσχημοσύνην</reference>
+		<reference osisRef="ROM.2.23!10-ROM.2.23!12" type="Ambiguous" label="*" verse="ROM 2:23" >τὸν θεὸν ἀτιμάζεις</reference>
+		<reference osisRef="ROM.2.26!5-ROM.2.26!9" type="Ambiguous" label="*" verse="ROM 2:26" >τὰ δικαιώματα τοῦ νόμου φυλάσσῃ</reference>
+		<reference osisRef="ROM.3.7!7-ROM.3.7!10" type="Ambiguous" label="*" verse="ROM 3:7" >ἐν τῷ ἐμῷ ψεύσματι</reference>
+		<reference osisRef="ROM.3.12!1-ROM.3.12!2" type="Ambiguous" label="*" verse="ROM 3:12" >πάντες ἐξέκλιναν</reference>
+		<reference osisRef="ROM.3.17!2-ROM.3.17!5" type="Ambiguous" label="*" verse="ROM 3:17" >ὁδὸν εἰρήνης οὐκ ἔγνωσαν</reference>
+		<reference osisRef="ROM.3.21!3-ROM.3.21!4" type="Ambiguous" label="*" verse="ROM 3:21" >χωρὶς νόμου</reference>
+		<reference osisRef="ROM.3.31!1" type="Ambiguous" label="*" verse="ROM 3:31" >νόμον</reference>
+		<reference osisRef="ROM.4.19!2-ROM.4.19!5" type="Ambiguous" label="*" verse="ROM 4:19" >μὴ ἀσθενήσας τῇ πίστει</reference>
+		<reference osisRef="ROM.5.7!11-ROM.5.7!15" type="Ambiguous" label="*" verse="ROM 5:7" >τάχα τις καὶ τολμᾷ ἀποθανεῖν</reference>
+		<reference osisRef="ROM.5.17!4-ROM.5.17!6" type="Ambiguous" label="*" verse="ROM 5:17" >τοῦ ἑνὸς παραπτώματι</reference>
+		<reference osisRef="ROM.7.19!12-ROM.7.19!13" type="Ambiguous" label="*" verse="ROM 7:19" >τοῦτο πράσσω</reference>
+		<reference osisRef="ROM.8.9!11-ROM.8.9!12" type="Ambiguous" label="*" verse="ROM 8:9" >πνεῦμα θεοῦ</reference>
+		<reference osisRef="ROM.8.9!19-ROM.8.9!22" type="Ambiguous" label="*" verse="ROM 8:9" >πνεῦμα χριστοῦ οὐκ ἔχει</reference>
+		<reference osisRef="ROM.8.26!10" type="Ambiguous" label="*" verse="ROM 8:26" >τὸ</reference>
+		<reference osisRef="ROM.8.26!12-ROM.8.26!17" type="Ambiguous" label="*" verse="ROM 8:26" >τί προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν</reference>
+		<reference osisRef="ROM.9.13!3-ROM.9.13!5" type="Ambiguous" label="*" verse="ROM 9:13" >τὸν ἰακὼβ ἠγάπησα</reference>
+		<reference osisRef="ROM.9.13!6-ROM.9.13!9" type="Ambiguous" label="*" verse="ROM 9:13" >τὸν δὲ ἠσαῦ ἐμίσησα</reference>
+		<reference osisRef="ROM.9.16!11-ROM.9.16!12" type="Ambiguous" label="*" verse="ROM 9:16" >ἐλεῶντος θεοῦ</reference>
+		<reference osisRef="ROM.10.10!1" type="Ambiguous" label="*" verse="ROM 10:10" >καρδίᾳ</reference>
+		<reference osisRef="ROM.10.10!6" type="Ambiguous" label="*" verse="ROM 10:10" >στόματι</reference>
+		<reference osisRef="ROM.10.21!1" type="Ambiguous" label="*" verse="ROM 10:21" >πρὸς</reference>
+		<reference osisRef="ROM.10.21!3-ROM.10.21!4" type="Ambiguous" label="*" verse="ROM 10:21" >τὸν ἰσραὴλ</reference>
+		<reference osisRef="ROM.11.36!2-ROM.11.36!9" type="Ambiguous" label="*" verse="ROM 11:36" >ἐξ αὐτοῦ καὶ δι’ αὐτοῦ καὶ εἰς αὐτὸν</reference>
+		<reference osisRef="ROM.12.10!3-ROM.12.10!5" type="Ambiguous" label="*" verse="ROM 12:10" >εἰς ἀλλήλους φιλόστοργοι</reference>
+		<reference osisRef="ROM.14.3!16-ROM.14.3!17" type="Ambiguous" label="*" verse="ROM 14:3" >ὁ θεὸς</reference>
+		<reference osisRef="ROM.14.4!8-ROM.14.4!13" type="Ambiguous" label="*" verse="ROM 14:4" >τῷ ἰδίῳ κυρίῳ στήκει ἢ πίπτει</reference>
+		<reference osisRef="ROM.14.15!3-ROM.14.15!8" type="Ambiguous" label="*" verse="ROM 14:15" >διὰ βρῶμα ὁ ἀδελφός σου λυπεῖται</reference>
+		<reference osisRef="ROM.15.6!2-ROM.15.6!5" type="Ambiguous" label="*" verse="ROM 15:6" >ὁμοθυμαδὸν ἐν ἑνὶ στόματι</reference>
+		<reference osisRef="ROM.15.9!18-ROM.15.9!21" type="Ambiguous" label="*" verse="ROM 15:9" >τῷ ὀνόματί σου ψαλῶ</reference>
+		<reference osisRef="ROM.15.12!17-ROM.15.12!18" type="Ambiguous" label="*" verse="ROM 15:12" >ἔθνη ἐλπιοῦσιν</reference>
+		<reference osisRef="ROM.15.21!4-ROM.15.21!8" type="Ambiguous" label="*" verse="ROM 15:21" >οἷς οὐκ ἀνηγγέλη περὶ αὐτοῦ</reference>
+		<reference osisRef="ROM.15.21!11-ROM.15.21!13" type="Ambiguous" label="*" verse="ROM 15:21" >οἳ οὐκ ἀκηκόασιν</reference>
+		<reference osisRef="ROM.15.24!20-ROM.15.24!22" type="Ambiguous" label="*" verse="ROM 15:24" >ἀπὸ μέρους ἐμπλησθῶ</reference>
+		<reference osisRef="1CO.1.19!9-1CO.1.19!13" type="Ambiguous" label="*" verse="1CO 1:19" >τὴν σύνεσιν τῶν συνετῶν ἀθετήσω</reference>
+		<reference osisRef="1CO.1.28!16-1CO.1.28!18" type="Ambiguous" label="*" verse="1CO 1:28" >τὰ ὄντα καταργήσῃ</reference>
+		<reference osisRef="1CO.2.1!6-1CO.2.1!12" type="Ambiguous" label="*" verse="1CO 2:1" >ἦλθον οὐ καθ’ ὑπεροχὴν λόγου ἢ σοφίας</reference>
+		<reference osisRef="1CO.2.10!1" type="Ambiguous" label="*" verse="1CO 2:10" >ἡμῖν</reference>
+		<reference osisRef="1CO.2.13!14-1CO.2.13!16" type="Ambiguous" label="*" verse="1CO 2:13" >πνευματικοῖς πνευματικὰ συγκρίνοντες</reference>
+		<reference osisRef="1CO.3.5!16-1CO.3.5!18" type="Ambiguous" label="*" verse="1CO 3:5" >ὁ κύριος ἔδωκεν</reference>
+		<reference osisRef="1CO.3.11!1-1CO.3.11!9" type="Ambiguous" label="*" verse="1CO 3:11" >θεμέλιον γὰρ ἄλλον οὐδεὶς δύναται θεῖναι παρὰ τὸν κείμενον</reference>
+		<reference osisRef="1CO.3.13!6-1CO.3.13!9" type="Ambiguous" label="*" verse="1CO 3:13" >ἡ γὰρ ἡμέρα δηλώσει</reference>
+		<reference osisRef="1CO.4.4!1-1CO.4.4!4" type="Ambiguous" label="*" verse="1CO 4:4" >οὐδὲν γὰρ ἐμαυτῷ σύνοιδα</reference>
+		<reference osisRef="1CO.6.5!5" type="Ambiguous" label="*" verse="1CO 6:5" >οὕτως</reference>
+		<reference osisRef="1CO.6.12!8-1CO.6.12!10" type="Ambiguous" label="*" verse="1CO 6:12" >πάντα μοι ἔξεστιν</reference>
+		<reference osisRef="1CO.7.16!14-1CO.7.16!16" type="Ambiguous" label="*" verse="1CO 7:16" >τὴν γυναῖκα σώσεις</reference>
+		<reference osisRef="1CO.7.17!13-1CO.7.17!14" type="Ambiguous" label="*" verse="1CO 7:17" >οὕτως περιπατείτω</reference>
+		<reference osisRef="1CO.7.20!7-1CO.7.20!9" type="Ambiguous" label="*" verse="1CO 7:20" >ἐν ταύτῃ μενέτω</reference>
+		<reference osisRef="1CO.7.36!17-1CO.7.36!19" type="Ambiguous" label="*" verse="1CO 7:36" >ὃ θέλει ποιείτω</reference>
+		<reference osisRef="1CO.8.11!13-1CO.8.11!14" type="Ambiguous" label="*" verse="1CO 8:11" >χριστὸς ἀπέθανεν</reference>
+		<reference osisRef="1CO.8.13!3" type="Ambiguous" label="*" verse="1CO 8:13" >βρῶμα</reference>
+		<reference osisRef="1CO.8.13!17-1CO.8.13!20" type="Ambiguous" label="*" verse="1CO 8:13" >τὸν ἀδελφόν μου σκανδαλίσω</reference>
+		<reference osisRef="1CO.9.15!25-1CO.9.15!26" type="Ambiguous" label="*" verse="1CO 9:15" >οὐδεὶς κενώσει</reference>
+		<reference osisRef="1CO.9.20!8-1CO.9.20!9" type="Ambiguous" label="*" verse="1CO 9:20" >ἰουδαίους κερδήσω</reference>
+		<reference osisRef="1CO.10.9!10-1CO.10.9!13" type="Ambiguous" label="*" verse="1CO 10:9" >ὑπὸ τῶν ὄφεων ἀπώλλυντο</reference>
+		<reference osisRef="1CO.10.19!5-1CO.10.19!6" type="Ambiguous" label="*" verse="1CO 10:19" >εἰδωλόθυτόν τί</reference>
+		<reference osisRef="1CO.10.19!10-1CO.10.19!11" type="Ambiguous" label="*" verse="1CO 10:19" >εἴδωλόν τί</reference>
+		<reference osisRef="1CO.11.26!9-1CO.11.26!11" type="Ambiguous" label="*" verse="1CO 11:26" >τὸ ποτήριον πίνητε</reference>
+		<reference osisRef="1CO.12.2!6-1CO.12.2!10" type="Ambiguous" label="*" verse="1CO 12:2" >πρὸς τὰ εἴδωλα τὰ ἄφωνα</reference>
+		<reference osisRef="1CO.12.13!8-1CO.12.13!11" type="Ambiguous" label="*" verse="1CO 12:13" >εἰς ἓν σῶμα ἐβαπτίσθημεν</reference>
+		<reference osisRef="1CO.12.13!22-1CO.12.13!24" type="Ambiguous" label="*" verse="1CO 12:13" >ἓν πνεῦμα ἐποτίσθημεν</reference>
+		<reference osisRef="1CO.12.29!2-1CO.12.29!3" type="Ambiguous" label="*" verse="1CO 12:29" >πάντες ἀπόστολοι</reference>
+		<reference osisRef="1CO.14.29!1" type="Ambiguous" label="*" verse="1CO 14:29" >προφῆται</reference>
+		<reference osisRef="1CO.15.18!2-1CO.15.18!7" type="Ambiguous" label="*" verse="1CO 15:18" >καὶ οἱ κοιμηθέντες ἐν χριστῷ ἀπώλοντο</reference>
+		<reference osisRef="1CO.15.21!3-1CO.15.21!5" type="Ambiguous" label="*" verse="1CO 15:21" >δι’ ἀνθρώπου θάνατος</reference>
+		<reference osisRef="1CO.15.21!7-1CO.15.21!10" type="Ambiguous" label="*" verse="1CO 15:21" >δι’ ἀνθρώπου ἀνάστασις νεκρῶν</reference>
+		<reference osisRef="1CO.16.5!8-1CO.16.5!10" type="Ambiguous" label="*" verse="1CO 16:5" >μακεδονίαν γὰρ διέρχομαι</reference>
+		<reference osisRef="2CO.1.9!3-2CO.1.9!4" type="Ambiguous" label="*" verse="2CO 1:9" >ἐν ἑαυτοῖς</reference>
+		<reference osisRef="2CO.2.10!3-2CO.2.10!4" type="Ambiguous" label="*" verse="2CO 2:10" >τι χαρίζεσθε</reference>
+		<reference osisRef="2CO.2.10!8-2CO.2.10!10" type="Ambiguous" label="*" verse="2CO 2:10" >ἐγὼ ὃ κεχάρισμαι</reference>
+		<reference osisRef="2CO.2.10!12-2CO.2.10!13" type="Ambiguous" label="*" verse="2CO 2:10" >τι κεχάρισμαι</reference>
+		<reference osisRef="2CO.4.2!18-2CO.4.2!21" type="Ambiguous" label="*" verse="2CO 4:2" >τῇ φανερώσει τῆς ἀληθείας</reference>
+		<reference osisRef="2CO.4.6!6-2CO.4.6!9" type="Ambiguous" label="*" verse="2CO 4:6" >ἐκ σκότους φῶς λάμψει</reference>
+		<reference osisRef="2CO.4.8!1-2CO.4.8!3" type="Ambiguous" label="*" verse="2CO 4:8" >ἐν παντὶ θλιβόμενοι</reference>
+		<reference osisRef="2CO.5.21!5-2CO.5.21!8" type="Ambiguous" label="*" verse="2CO 5:21" >ὑπὲρ ἡμῶν ἁμαρτίαν ἐποίησεν</reference>
+		<reference osisRef="2CO.6.16!8" type="Ambiguous" label="*" verse="2CO 6:16" >ἡμεῖς</reference>
+		<reference osisRef="2CO.7.2!3-2CO.7.2!4" type="Ambiguous" label="*" verse="2CO 7:2" >οὐδένα ἠδικήσαμεν</reference>
+		<reference osisRef="2CO.7.16!3-2CO.7.16!4" type="Ambiguous" label="*" verse="2CO 7:16" >ἐν παντὶ</reference>
+		<reference osisRef="2CO.11.6!12-2CO.11.6!13" type="Ambiguous" label="*" verse="2CO 11:6" >ἐν παντὶ</reference>
+		<reference osisRef="2CO.11.24!3" type="Ambiguous" label="*" verse="2CO 11:24" >πεντάκις</reference>
+		<reference osisRef="2CO.11.25!1-2CO.11.25!2" type="Ambiguous" label="*" verse="2CO 11:25" >τρὶς ἐραβδίσθην</reference>
+		<reference osisRef="2CO.11.25!7" type="Ambiguous" label="*" verse="2CO 11:25" >νυχθήμερον</reference>
+		<reference osisRef="2CO.13.10!1-2CO.13.10!2" type="Ambiguous" label="*" verse="2CO 13:10" >διὰ τοῦτο</reference>
+		<reference osisRef="GAL.2.19!10-GAL.2.19!11" type="Ambiguous" label="*" verse="GAL 2:19" >χριστῷ συνεσταύρωμαι</reference>
+		<reference osisRef="GAL.3.12!9-GAL.3.12!11" type="Ambiguous" label="*" verse="GAL 3:12" >ὁ ποιήσας αὐτὰ</reference>
+		<reference osisRef="GAL.4.25!4" type="Ambiguous" label="*" verse="GAL 4:25" >σινᾶ</reference>
+		<reference osisRef="GAL.5.4!8-GAL.5.4!10" type="Ambiguous" label="*" verse="GAL 5:4" >τῆς χάριτος ἐξεπέσατε</reference>
+		<reference osisRef="GAL.5.16!6-GAL.5.16!10" type="Ambiguous" label="*" verse="GAL 5:16" >ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε</reference>
+		<reference osisRef="GAL.5.24!6-GAL.5.24!14" type="Ambiguous" label="*" verse="GAL 5:24" >τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις</reference>
+		<reference osisRef="GAL.6.7!3-GAL.6.7!5" type="Ambiguous" label="*" verse="GAL 6:7" >θεὸς οὐ μυκτηρίζεται</reference>
+		<reference osisRef="GAL.6.9!7-GAL.6.9!10" type="Ambiguous" label="*" verse="GAL 6:9" >καιρῷ γὰρ ἰδίῳ θερίσομεν</reference>
+		<reference osisRef="GAL.6.10!4-GAL.6.10!5" type="Ambiguous" label="*" verse="GAL 6:10" >καιρὸν ἔχομεν</reference>
+		<reference osisRef="GAL.6.12!12-GAL.6.12!17" type="Ambiguous" label="*" verse="GAL 6:12" >τῷ σταυρῷ τοῦ χριστοῦ μὴ διώκωνται</reference>
+		<reference osisRef="EPH.3.10!15-EPH.3.10!19" type="Ambiguous" label="*" verse="EPH 3:10" >ἡ πολυποίκιλος σοφία τοῦ θεοῦ</reference>
+		<reference osisRef="EPH.3.17!11-EPH.3.17!15" type="Ambiguous" label="*" verse="EPH 3:17" >ἐν ἀγάπῃ ἐρριζωμένοι καὶ τεθεμελιωμένοι</reference>
+		<reference osisRef="EPH.4.19!3" type="Ambiguous" label="*" verse="EPH 4:19" >ἑαυτοὺς</reference>
+		<reference osisRef="EPH.4.26!5-EPH.4.26!6" type="Ambiguous" label="*" verse="EPH 4:26" >ὁ ἥλιος</reference>
+		<reference osisRef="EPH.5.6!1" type="Ambiguous" label="*" verse="EPH 5:6" >μηδεὶς</reference>
+		<reference osisRef="EPH.5.33!8-EPH.5.33!10" type="Ambiguous" label="*" verse="EPH 5:33" >τὴν ἑαυτοῦ γυναῖκα</reference>
+		<reference osisRef="PHP.2.22!1-PHP.2.22!5" type="Ambiguous" label="*" verse="PHP 2:22" >τὴν δὲ δοκιμὴν αὐτοῦ γινώσκετε</reference>
+		<reference osisRef="PHP.3.8!20-PHP.3.8!22" type="Ambiguous" label="*" verse="PHP 3:8" >τὰ πάντα ἐζημιώθην</reference>
+		<reference osisRef="COL.1.7!11-COL.1.7!14" type="Ambiguous" label="*" verse="COL 1:7" >πιστὸς ὑπὲρ ὑμῶν διάκονος</reference>
+		<reference osisRef="COL.1.16!19-COL.1.16!26" type="Ambiguous" label="*" verse="COL 1:16" >εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι</reference>
+		<reference osisRef="COL.2.19!11-COL.2.19!18" type="Ambiguous" label="*" verse="COL 2:19" >διὰ τῶν ἁφῶν καὶ συνδέσμων ἐπιχορηγούμενον καὶ συμβιβαζόμενον</reference>
+		<reference osisRef="COL.3.13!8-COL.3.13!9" type="Ambiguous" label="*" verse="COL 3:13" >πρός τινα</reference>
+		<reference osisRef="COL.3.16!20-COL.3.16!22" type="Ambiguous" label="*" verse="COL 3:16" >ἐν τῇ χάριτι</reference>
+		<reference osisRef="COL.4.7!1-COL.4.7!4" type="Ambiguous" label="*" verse="COL 4:7" >τὰ κατ’ ἐμὲ πάντα</reference>
+		<reference osisRef="1TH.2.7!16" type="Ambiguous" label="*" verse="1TH 2:7" >τροφὸς</reference>
+		<reference osisRef="1TH.2.15!11-1TH.2.15!12" type="Ambiguous" label="*" verse="1TH 2:15" >ἡμᾶς ἐκδιωξάντων</reference>
+		<reference osisRef="1TH.2.15!14-1TH.2.15!16" type="Ambiguous" label="*" verse="1TH 2:15" >θεῷ μὴ ἀρεσκόντων</reference>
+		<reference osisRef="1TH.2.15!18-1TH.2.15!20" type="Ambiguous" label="*" verse="1TH 2:15" >πᾶσιν ἀνθρώποις ἐναντίων</reference>
+		<reference osisRef="1TH.2.16!3-1TH.2.16!5" type="Ambiguous" label="*" verse="1TH 2:16" >τοῖς ἔθνεσιν λαλῆσαι</reference>
+		<reference osisRef="1TH.3.6!26-1TH.3.6!27" type="Ambiguous" label="*" verse="1TH 3:6" >ἡμᾶς ἰδεῖν</reference>
+		<reference osisRef="1TH.4.6!13-1TH.4.6!14" type="Ambiguous" label="*" verse="1TH 4:6" >ἔκδικος κύριος</reference>
+		<reference osisRef="1TH.5.10!10-1TH.5.10!13" type="Ambiguous" label="*" verse="1TH 5:10" >ἅμα σὺν αὐτῷ ζήσωμεν</reference>
+		<reference osisRef="1TH.5.16!1-1TH.5.16!2" type="Ambiguous" label="*" verse="1TH 5:16" >πάντοτε χαίρετε</reference>
+		<reference osisRef="1TH.5.19!1-1TH.5.19!4" type="Ambiguous" label="*" verse="1TH 5:19" >τὸ πνεῦμα μὴ σβέννυτε</reference>
+		<reference osisRef="1TH.5.20!1-1TH.5.20!3" type="Ambiguous" label="*" verse="1TH 5:20" >προφητείας μὴ ἐξουθενεῖτε</reference>
+		<reference osisRef="1TH.5.21!4-1TH.5.21!6" type="Ambiguous" label="*" verse="1TH 5:21" >τὸ καλὸν κατέχετε</reference>
+		<reference osisRef="1TI.1.16!2-1TI.1.16!3" type="Ambiguous" label="*" verse="1TI 1:16" >διὰ τοῦτο</reference>
+		<reference osisRef="1TI.3.4!6" type="Ambiguous" label="*" verse="1TI 3:4" >τέκνα</reference>
+		<reference osisRef="1TI.4.10!1-1TI.4.10!2" type="Ambiguous" label="*" verse="1TI 4:10" >εἰς τοῦτο</reference>
+		<reference osisRef="1TI.4.12!3-1TI.4.12!5" type="Ambiguous" label="*" verse="1TI 4:12" >τῆς νεότητος καταφρονείτω</reference>
+		<reference osisRef="1TI.4.14!4-1TI.4.14!5" type="Ambiguous" label="*" verse="1TI 4:14" >ἐν σοὶ</reference>
+		<reference osisRef="1TI.4.16!8-1TI.4.16!10" type="Ambiguous" label="*" verse="1TI 4:16" >τοῦτο γὰρ ποιῶν</reference>
+		<reference osisRef="1TI.5.8!4-1TI.5.8!10" type="Ambiguous" label="*" verse="1TI 5:8" >τῶν ἰδίων καὶ μάλιστα οἰκείων οὐ προνοεῖ</reference>
+		<reference osisRef="1TI.5.8!11-1TI.5.8!13" type="Ambiguous" label="*" verse="1TI 5:8" >τὴν πίστιν ἤρνηται</reference>
+		<reference osisRef="1TI.5.10!10-1TI.5.10!12" type="Ambiguous" label="*" verse="1TI 5:10" >ἁγίων πόδας ἔνιψεν</reference>
+		<reference osisRef="1TI.5.19!1-1TI.5.19!5" type="Ambiguous" label="*" verse="1TI 5:19" >κατὰ πρεσβυτέρου κατηγορίαν μὴ παραδέχου</reference>
+		<reference osisRef="1TI.6.2!23-1TI.6.2!26" type="Ambiguous" label="*" verse="1TI 6:2" >ταῦτα δίδασκε καὶ παρακάλει</reference>
+		<reference osisRef="1TI.6.8!6-1TI.6.8!7" type="Ambiguous" label="*" verse="1TI 6:8" >τούτοις ἀρκεσθησόμεθα</reference>
+		<reference osisRef="1TI.6.20!3-1TI.6.20!5" type="Ambiguous" label="*" verse="1TI 6:20" >τὴν παραθήκην φύλαξον</reference>
+		<reference osisRef="2TI.1.13!6-2TI.1.13!7" type="Ambiguous" label="*" verse="2TI 1:13" >παρ’ ἐμοῦ</reference>
+		<reference osisRef="2TI.2.4!9-2TI.2.4!11" type="Ambiguous" label="*" verse="2TI 2:4" >τῷ στρατολογήσαντι ἀρέσῃ</reference>
+		<reference osisRef="2TI.2.18!2-2TI.2.18!5" type="Ambiguous" label="*" verse="2TI 2:18" >περὶ τὴν ἀλήθειαν ἠστόχησαν</reference>
+		<reference osisRef="2TI.4.5!10-2TI.4.5!13" type="Ambiguous" label="*" verse="2TI 4:5" >τὴν διακονίαν σου πληροφόρησον</reference>
+		<reference osisRef="2TI.4.11!1" type="Ambiguous" label="*" verse="2TI 4:11" >λουκᾶς</reference>
+		<reference osisRef="2TI.4.12!1" type="Ambiguous" label="*" verse="2TI 4:12" >τύχικον</reference>
+		<reference osisRef="TIT.3.10!3-TIT.3.10!8" type="Ambiguous" label="*" verse="TIT 3:10" >μετὰ μίαν καὶ δευτέραν νουθεσίαν παραιτοῦ</reference>
+		<reference osisRef="HEB.1.10!2" type="Ambiguous" label="*" verse="HEB 1:10" >σὺ</reference>
+		<reference osisRef="HEB.1.10!5" type="Ambiguous" label="*" verse="HEB 1:10" >κύριε</reference>
+		<reference osisRef="HEB.2.8!24-HEB.2.8!25" type="Ambiguous" label="*" verse="HEB 2:8" >πάντα ὑποτεταγμένα</reference>
+		<reference osisRef="HEB.2.9!20-HEB.2.9!21" type="Ambiguous" label="*" verse="HEB 2:9" >χάριτι θεοῦ</reference>
+		<reference osisRef="HEB.2.10!13-HEB.2.10!17" type="Ambiguous" label="*" verse="HEB 2:10" >πολλοὺς υἱοὺς εἰς δόξαν ἀγαγόντα</reference>
+		<reference osisRef="HEB.2.10!18-HEB.2.10!25" type="Ambiguous" label="*" verse="HEB 2:10" >τὸν ἀρχηγὸν τῆς σωτηρίας αὐτῶν διὰ παθημάτων τελειῶσαι</reference>
+		<reference osisRef="HEB.2.15!5-HEB.2.15!6" type="Ambiguous" label="*" verse="HEB 2:15" >φόβῳ θανάτου</reference>
+		<reference osisRef="HEB.2.15!7-HEB.2.15!10" type="Ambiguous" label="*" verse="HEB 2:15" >διὰ παντὸς τοῦ ζῆν</reference>
+		<reference osisRef="HEB.3.3!15-HEB.3.3!17" type="Ambiguous" label="*" verse="HEB 3:3" >ὁ κατασκευάσας αὐτόν</reference>
+		<reference osisRef="HEB.3.6!14-HEB.3.6!21" type="Ambiguous" label="*" verse="HEB 3:6" >τὴν παρρησίαν καὶ τὸ καύχημα τῆς ἐλπίδος κατάσχωμεν</reference>
+		<reference osisRef="HEB.5.14!8-HEB.5.14!10" type="Ambiguous" label="*" verse="HEB 5:14" >διὰ τὴν ἕξιν</reference>
+		<reference osisRef="HEB.6.13!1" type="Ambiguous" label="*" verse="HEB 6:13" >τῷ</reference>
+		<reference osisRef="HEB.6.13!3" type="Ambiguous" label="*" verse="HEB 6:13" >ἀβραὰμ</reference>
+		<reference osisRef="HEB.6.18!2-HEB.6.18!11" type="Ambiguous" label="*" verse="HEB 6:18" >διὰ δύο πραγμάτων ἀμεταθέτων ἐν οἷς ἀδύνατον ψεύσασθαι τὸν θεόν</reference>
+		<reference osisRef="HEB.7.4!7" type="Ambiguous" label="*" verse="HEB 7:4" >δεκάτην</reference>
+		<reference osisRef="HEB.7.6!10-HEB.7.6!13" type="Ambiguous" label="*" verse="HEB 7:6" >τὸν ἔχοντα τὰς ἐπαγγελίας</reference>
+		<reference osisRef="HEB.7.26!1" type="Ambiguous" label="*" verse="HEB 7:26" >τοιοῦτος</reference>
+		<reference osisRef="HEB.8.12!8-HEB.8.12!10" type="Ambiguous" label="*" verse="HEB 8:12" >τῶν ἁμαρτιῶν αὐτῶν</reference>
+		<reference osisRef="HEB.9.6!5" type="Ambiguous" label="*" verse="HEB 9:6" >εἰς</reference>
+		<reference osisRef="HEB.9.6!7-HEB.9.6!9" type="Ambiguous" label="*" verse="HEB 9:6" >τὴν πρώτην σκηνὴν</reference>
+		<reference osisRef="HEB.9.8!1" type="Ambiguous" label="*" verse="HEB 9:8" >τοῦτο</reference>
+		<reference osisRef="HEB.9.14!8-HEB.9.14!10" type="Ambiguous" label="*" verse="HEB 9:14" >διὰ πνεύματος αἰωνίου</reference>
+		<reference osisRef="HEB.9.15!2-HEB.9.15!3" type="Ambiguous" label="*" verse="HEB 9:15" >διὰ τοῦτο</reference>
+		<reference osisRef="HEB.10.1!27-HEB.10.1!29" type="Ambiguous" label="*" verse="HEB 10:1" >τοὺς προσερχομένους τελειῶσαι</reference>
+		<reference osisRef="HEB.10.2!15-HEB.10.2!16" type="Ambiguous" label="*" verse="HEB 10:2" >ἅπαξ κεκαθαρισμένους</reference>
+		<reference osisRef="HEB.10.5!7-HEB.10.5!11" type="Ambiguous" label="*" verse="HEB 10:5" >θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας</reference>
+		<reference osisRef="HEB.10.6!1-HEB.10.6!6" type="Ambiguous" label="*" verse="HEB 10:6" >ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ εὐδόκησας</reference>
+		<reference osisRef="HEB.10.9!14-HEB.10.9!16" type="Ambiguous" label="*" verse="HEB 10:9" >τὸ δεύτερον στήσῃ</reference>
+		<reference osisRef="HEB.10.29!23-HEB.10.29!27" type="Ambiguous" label="*" verse="HEB 10:29" >τὸ πνεῦμα τῆς χάριτος ἐνυβρίσας</reference>
+		<reference osisRef="HEB.10.36!6-HEB.10.36!10" type="Ambiguous" label="*" verse="HEB 10:36" >τὸ θέλημα τοῦ θεοῦ ποιήσαντες</reference>
+		<reference osisRef="HEB.11.30!2-HEB.11.30!4" type="Ambiguous" label="*" verse="HEB 11:30" >τὰ τείχη ἰεριχὼ</reference>
+		<reference osisRef="HEB.11.40!3-HEB.11.40!4" type="Ambiguous" label="*" verse="HEB 11:40" >περὶ ἡμῶν</reference>
+		<reference osisRef="HEB.12.7!1-HEB.12.7!3" type="Ambiguous" label="*" verse="HEB 12:7" >εἰς παιδείαν ὑπομένετε</reference>
+		<reference osisRef="HEB.12.10!4-HEB.12.10!6" type="Ambiguous" label="*" verse="HEB 12:10" >πρὸς ὀλίγας ἡμέρας</reference>
+		<reference osisRef="HEB.13.1!1-HEB.13.1!3" type="Ambiguous" label="*" verse="HEB 13:1" >ἡ φιλαδελφία μενέτω</reference>
+		<reference osisRef="HEB.13.2!1-HEB.13.2!4" type="Ambiguous" label="*" verse="HEB 13:2" >τῆς φιλοξενίας μὴ ἐπιλανθάνεσθε</reference>
+		<reference osisRef="HEB.13.10!5" type="Ambiguous" label="*" verse="HEB 13:10" >φαγεῖν</reference>
+		<reference osisRef="JAS.1.11!28-JAS.1.11!32" type="Ambiguous" label="*" verse="JAS 1:11" >ἐν ταῖς πορείαις αὐτοῦ μαρανθήσεται</reference>
+		<reference osisRef="JAS.5.4!13-JAS.5.4!15" type="Ambiguous" label="*" verse="JAS 5:4" >ἀφ’ ὑμῶν κράζει</reference>
+		<reference osisRef="JAS.5.8!9-JAS.5.8!13" type="Ambiguous" label="*" verse="JAS 5:8" >ἡ παρουσία τοῦ κυρίου ἤγγικεν</reference>
+		<reference osisRef="1PE.2.15!2" type="Ambiguous" label="*" verse="1PE 2:15" >οὕτως</reference>
+		<reference osisRef="1PE.2.17!1-1PE.2.17!2" type="Ambiguous" label="*" verse="1PE 2:17" >πάντας τιμήσατε</reference>
+		<reference osisRef="1PE.2.17!3-1PE.2.17!5" type="Ambiguous" label="*" verse="1PE 2:17" >τὴν ἀδελφότητα ἀγαπᾶτε</reference>
+		<reference osisRef="1PE.2.17!6-1PE.2.17!8" type="Ambiguous" label="*" verse="1PE 2:17" >τὸν θεὸν φοβεῖσθε</reference>
+		<reference osisRef="1PE.3.9!14-1PE.3.9!16" type="Ambiguous" label="*" verse="1PE 3:9" >εἰς τοῦτο ἐκλήθητε</reference>
+		<reference osisRef="1PE.3.18!4" type="Ambiguous" label="*" verse="1PE 3:18" >ἅπαξ</reference>
+		<reference osisRef="1PE.3.18!12" type="Ambiguous" label="*" verse="1PE 3:18" >ὑμᾶς</reference>
+		<reference osisRef="1PE.5.1!11-1PE.5.1!13" type="Ambiguous" label="*" verse="1PE 5:1" >τοῦ χριστοῦ παθημάτων</reference>
+		<reference osisRef="1PE.5.1!17-1PE.5.1!19" type="Ambiguous" label="*" verse="1PE 5:1" >μελλούσης ἀποκαλύπτεσθαι δόξης</reference>
+		<reference osisRef="1PE.5.5!14-1PE.5.5!15" type="Ambiguous" label="*" verse="1PE 5:5" >ὑπερηφάνοις ἀντιτάσσεται</reference>
+		<reference osisRef="2PE.1.8!3-2PE.1.8!6" type="Ambiguous" label="*" verse="2PE 1:8" >ὑμῖν ὑπάρχοντα καὶ πλεονάζοντα</reference>
+		<reference osisRef="2PE.1.19!22" type="Ambiguous" label="*" verse="2PE 1:19" >φωσφόρος</reference>
+		<reference osisRef="2PE.2.2!2" type="Ambiguous" label="*" verse="2PE 2:2" >πολλοὶ</reference>
+		<reference osisRef="2PE.2.3!2-2PE.2.3!3" type="Ambiguous" label="*" verse="2PE 2:3" >ἐν πλεονεξίᾳ</reference>
+		<reference osisRef="2PE.2.3!11-2PE.2.3!13" type="Ambiguous" label="*" verse="2PE 2:3" >ἔκπαλαι οὐκ ἀργεῖ</reference>
+		<reference osisRef="2PE.2.8!1-2PE.2.8!17" type="Ambiguous" label="*" verse="2PE 2:8" >βλέμματι γὰρ καὶ ἀκοῇ ὁ δίκαιος ἐγκατοικῶν ἐν αὐτοῖς ἡμέραν ἐξ ἡμέρας ψυχὴν δικαίαν ἀνόμοις ἔργοις ἐβασάνιζεν</reference>
+		<reference osisRef="2PE.2.9!3" type="Ambiguous" label="*" verse="2PE 2:9" >εὐσεβεῖς</reference>
+		<reference osisRef="2PE.2.9!7" type="Ambiguous" label="*" verse="2PE 2:9" >ἀδίκους</reference>
+		<reference osisRef="2PE.3.1!1-2PE.3.1!2" type="Ambiguous" label="*" verse="2PE 3:1" >ταύτην ἤδη</reference>
+		<reference osisRef="2PE.3.9!16-2PE.3.9!17" type="Ambiguous" label="*" verse="2PE 3:9" >τινας ἀπολέσθαι</reference>
+		<reference osisRef="2PE.3.11!1-2PE.3.11!4" type="Ambiguous" label="*" verse="2PE 3:11" >τούτων οὕτως πάντων λυομένων</reference>
+		<reference osisRef="1JN.2.18!19-1JN.2.18!21" type="Ambiguous" label="*" verse="1JN 2:18" >ἐσχάτη ὥρα ἐστίν</reference>
+		<reference osisRef="1JN.2.19!1-1JN.2.19!3" type="Ambiguous" label="*" verse="1JN 2:19" >ἐξ ἡμῶν ἐξῆλθαν</reference>
+		<reference osisRef="1JN.2.21!15-1JN.2.21!21" type="Ambiguous" label="*" verse="1JN 2:21" >πᾶν ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν</reference>
+		<reference osisRef="1JN.2.22!10" type="Ambiguous" label="*" verse="1JN 2:22" >ἰησοῦς</reference>
+		<reference osisRef="1JN.3.2!3-1JN.3.2!5" type="Ambiguous" label="*" verse="1JN 3:2" >τέκνα θεοῦ ἐσμεν</reference>
+		<reference osisRef="1JN.3.10!1-1JN.3.10!2" type="Ambiguous" label="*" verse="1JN 3:10" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.5.1!9-1JN.5.1!12" type="Ambiguous" label="*" verse="1JN 5:1" >ἐκ τοῦ θεοῦ γεγέννηται</reference>
+		<reference osisRef="1JN.5.6!25-1JN.5.6!26" type="Ambiguous" label="*" verse="1JN 5:6" >τὸ πνεῦμά</reference>
+		<reference osisRef="3JN.1.3!13-3JN.1.3!15" type="Ambiguous" label="*" verse="3JN 1:3" >ἐν ἀληθείᾳ περιπατεῖς</reference>
+		<reference osisRef="JUD.1.6!18-JUD.1.6!21" type="Ambiguous" label="*" verse="JUD 1:6" >δεσμοῖς ἀϊδίοις ὑπὸ ζόφον</reference>
+		<reference osisRef="REV.1.11!2-REV.1.11!3" type="Ambiguous" label="*" verse="REV 1:11" >ὃ βλέπεις</reference>
+		<reference osisRef="REV.2.3!2-REV.2.3!3" type="Ambiguous" label="*" verse="REV 2:3" >ὑπομονὴν ἔχεις</reference>
+		<reference osisRef="REV.2.23!2-REV.2.23!4" type="Ambiguous" label="*" verse="REV 2:23" >τὰ τέκνα αὐτῆς</reference>
+		<reference osisRef="REV.2.25!2-REV.2.25!3" type="Ambiguous" label="*" verse="REV 2:25" >ὃ ἔχετε</reference>
+		<reference osisRef="REV.2.27!8-REV.2.27!12" type="Ambiguous" label="*" verse="REV 2:27" >τὰ σκεύη τὰ κεραμικὰ συντρίβεται</reference>
+		<reference osisRef="REV.2.28!2" type="Ambiguous" label="*" verse="REV 2:28" >κἀγὼ</reference>
+		<reference osisRef="REV.3.5!3" type="Ambiguous" label="*" verse="REV 3:5" >οὕτως</reference>
+		<reference osisRef="REV.3.19!2-REV.3.19!7" type="Ambiguous" label="*" verse="REV 3:19" >ὅσους ἐὰν φιλῶ ἐλέγχω καὶ παιδεύω</reference>
+		<reference osisRef="REV.6.6!20-REV.6.6!24" type="Ambiguous" label="*" verse="REV 6:6" >τὸ ἔλαιον καὶ τὸν οἶνον</reference>
+		<reference osisRef="REV.6.8!17-REV.6.8!18" type="Ambiguous" label="*" verse="REV 6:8" >ὁ ᾅδης</reference>
+		<reference osisRef="REV.8.9!15-REV.8.9!18" type="Ambiguous" label="*" verse="REV 8:9" >τὸ τρίτον τῶν πλοίων</reference>
+		<reference osisRef="REV.10.4!24-REV.10.4!25" type="Ambiguous" label="*" verse="REV 10:4" >αὐτὰ γράψῃς</reference>
+		<reference osisRef="REV.11.2!2-REV.11.2!7" type="Ambiguous" label="*" verse="REV 11:2" >τὴν αὐλὴν τὴν ἔξωθεν τοῦ ναοῦ</reference>
+		<reference osisRef="REV.11.2!19-REV.11.2!22" type="Ambiguous" label="*" verse="REV 11:2" >τὴν πόλιν τὴν ἁγίαν</reference>
+		<reference osisRef="REV.11.14!1-REV.11.14!4" type="Ambiguous" label="*" verse="REV 11:14" >ἡ οὐαὶ ἡ δευτέρα</reference>
+		<reference osisRef="REV.16.20!2-REV.16.20!4" type="Ambiguous" label="*" verse="REV 16:20" >πᾶσα νῆσος ἔφυγεν</reference>
+		<reference osisRef="REV.16.20!6-REV.16.20!8" type="Ambiguous" label="*" verse="REV 16:20" >ὄρη οὐχ εὑρέθησαν</reference>
+		<reference osisRef="REV.17.16!21-REV.17.16!24" type="Ambiguous" label="*" verse="REV 17:16" >τὰς σάρκας αὐτῆς φάγονται</reference>
+		<reference osisRef="REV.18.7!22-REV.18.7!24" type="Ambiguous" label="*" verse="REV 18:7" >χήρα οὐκ εἰμὶ</reference>
+		<reference osisRef="REV.19.5!3-REV.19.5!5" type="Ambiguous" label="*" verse="REV 19:5" >ἀπὸ τοῦ θρόνου</reference>
+		<reference osisRef="REV.21.3!27-REV.21.3!29" type="Ambiguous" label="*" verse="REV 21:3" >αὐτὸς ὁ θεὸς</reference>
+		<reference osisRef="REV.21.6!18-REV.21.6!19" type="Ambiguous" label="*" verse="REV 21:6" >τῷ διψῶντι</reference>
+		<reference osisRef="REV.21.13!1-REV.21.13!2" type="Ambiguous" label="*" verse="REV 21:13" >ἀπὸ ἀνατολῆς</reference>
+	</references>
+</markup>

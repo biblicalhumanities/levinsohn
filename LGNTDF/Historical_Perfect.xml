@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markup>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>Historical Perfect</name>
+		<description>Highlights not the speech or act to which it refers but the event(s) that follow (DFNTG §12.2).</description>
+		<type name="markup" />
+		<defaultstyle label="" bkcolor="" fontcolor="" brdrcolor="#FF00FF00" brdrline="Solid" brdrpos="A,U,B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
+	</header>
+	<references>
+		<reference osisRef="JHN.1.15!6" type="Historical Perfect" label="" verse="JHN 1:15" >κέκραγεν</reference>
+		<reference osisRef="2CO.12.9!2" type="Historical Perfect" label="" verse="2CO 12:9" >εἴρηκέν</reference>
+		<reference osisRef="REV.5.7!4" type="Historical Perfect" label="" verse="REV 5:7" >εἴληφεν</reference>
+		<reference osisRef="REV.7.14!2" type="Historical Perfect" label="" verse="REV 7:14" >εἴρηκα</reference>
+		<reference osisRef="REV.8.5!2" type="Historical Perfect" label="" verse="REV 8:5" >εἴληφεν</reference>
+		<reference osisRef="REV.19.13!7" type="Historical Perfect" label="" verse="REV 19:13" >κέκληται</reference>
+	</references>
+</markup>

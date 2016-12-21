@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markup>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>Cataphoric referent</name>
+		<description>The clause or sentence to which a cataphoric reference refers when NOT introduced with ὅτι or ἵνα.</description>
+		<type name="markup" />
+		<defaultstyle label="CataRef" bkcolor="" fontcolor="" brdrcolor="#FFFF0000" brdrline="Dots" brdrpos="A,U,B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
+	</header>
+	<references>
+		<reference osisRef="MAT.2.6!1-MAT.2.6!24" type="Cataphoric referent" label="CataRef" verse="MAT 2:6" >καὶ σὺ βηθλέεμ γῆ ἰούδα οὐδαμῶς ἐλαχίστη εἶ ἐν τοῖς ἡγεμόσιν ἰούδα ἐκ σοῦ γὰρ ἐξελεύσεται ἡγούμενος ὅστις ποιμανεῖ τὸν λαόν μου τὸν ἰσραήλ</reference>
+		<reference osisRef="MRK.4.15!12-MRK.4.15!26" type="Cataphoric referent" label="CataRef" verse="MRK 4:15" >καὶ ὅταν ἀκούσωσιν εὐθὺς ἔρχεται ὁ σατανᾶς καὶ αἴρει τὸν λόγον τὸν ἐσπαρμένον εἰς αὐτούς</reference>
+		<reference osisRef="MRK.4.16!9-MRK.4.17!27" type="Cataphoric referent" label="CataRef" verse="MRK 4:16 - 7" >οἳ ὅταν ἀκούσωσιν τὸν λόγον εὐθὺς μετὰ χαρᾶς λαμβάνουσιν αὐτόν καὶ οὐκ ἔχουσιν ῥίζαν ἐν ἑαυτοῖς ἀλλὰ πρόσκαιροί εἰσιν</reference>
+		<reference osisRef="MRK.4.20!11-MRK.4.20!26" type="Cataphoric referent" label="CataRef" verse="MRK 4:20" >οἵτινες ἀκούουσιν τὸν λόγον καὶ παραδέχονται καὶ καρποφοροῦσιν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν</reference>
+		<reference osisRef="MRK.12.24!9-MRK.12.24!17" type="Cataphoric referent" label="CataRef" verse="MRK 12:24" >μὴ εἰδότες τὰς γραφὰς μηδὲ τὴν δύναμιν τοῦ θεοῦ</reference>
+		<reference osisRef="LUK.2.12!6-LUK.2.12!12" type="Cataphoric referent" label="CataRef" verse="LUK 2:12" >εὑρήσετε βρέφος ἐσπαργανωμένον καὶ κείμενον ἐν φάτνῃ</reference>
+		<reference osisRef="LUK.3.20!6-LUK.3.20!11" type="Cataphoric referent" label="CataRef" verse="LUK 3:20" >καὶ κατέκλεισεν τὸν ἰωάννην ἐν φυλακῇ</reference>
+		<reference osisRef="LUK.4.23!11-LUK.4.23!26" type="Cataphoric referent" label="CataRef" verse="LUK 4:23" >ἰατρέ θεράπευσον σεαυτόν ὅσα ἠκούσαμεν γενόμενα εἰς τὴν καφαρναοὺμ ποίησον καὶ ὧδε ἐν τῇ πατρίδι σου</reference>
+		<reference osisRef="LUK.6.4!1-LUK.6.4!28" type="Cataphoric referent" label="CataRef" verse="LUK 6:4" >ὡς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ καὶ τοὺς ἄρτους τῆς προθέσεως λαβὼν ἔφαγεν καὶ ἔδωκεν τοῖς μετ’ αὐτοῦ οὓς οὐκ ἔξεστιν φαγεῖν εἰ μὴ μόνους τοὺς ἱερεῖς</reference>
+		<reference osisRef="LUK.8.21!14-LUK.8.21!21" type="Cataphoric referent" label="CataRef" verse="LUK 8:21" >οἱ τὸν λόγον τοῦ θεοῦ ἀκούοντες καὶ ποιοῦντες</reference>
+		<reference osisRef="LUK.10.11!19-LUK.10.11!24" type="Cataphoric referent" label="CataRef" verse="LUK 10:11" >ὅτι ἤγγικεν ἡ βασιλεία τοῦ θεοῦ</reference>
+		<reference osisRef="LUK.10.20!6-LUK.10.20!10" type="Cataphoric referent" label="CataRef" verse="LUK 10:20" >ὅτι τὰ πνεύματα ὑμῖν ὑποτάσσεται</reference>
+		<reference osisRef="LUK.22.37!12-LUK.22.37!16" type="Cataphoric referent" label="CataRef" verse="LUK 22:37" >τὸ καὶ μετὰ ἀνόμων ἐλογίσθη</reference>
+		<reference osisRef="JHN.1.20!8-JHN.1.20!13" type="Cataphoric referent" label="CataRef" verse="JHN 1:20" >ὅτι ἐγὼ οὐκ εἰμὶ ὁ χριστός</reference>
+		<reference osisRef="ACT.13.47!7-ACT.13.47!20" type="Cataphoric referent" label="CataRef" verse="ACT 13:47" >τέθεικά σε εἰς φῶς ἐθνῶν τοῦ εἶναί σε εἰς σωτηρίαν ἕως ἐσχάτου τῆς γῆς</reference>
+		<reference osisRef="ACT.15.29!1-ACT.15.29!8" type="Cataphoric referent" label="CataRef" verse="ACT 15:29" >ἀπέχεσθαι εἰδωλοθύτων καὶ αἵματος καὶ πνικτῶν καὶ πορνείας</reference>
+		<reference osisRef="ACT.26.16!14-ACT.26.18!71" type="Cataphoric referent" label="CataRef" verse="ACT 26:16 - 8" >προχειρίσασθαί σε ὑπηρέτην καὶ μάρτυρα ὧν τε εἶδές με ὧν τε ὀφθήσομαί σοι ἐξαιρούμενός σε ἐκ τοῦ λαοῦ καὶ ἐκ τῶν ἐθνῶν εἰς οὓς ἐγὼ ἀποστέλλω σε ἀνοῖξαι ὀφθαλμοὺς αὐτῶν τοῦ ἐπιστρέψαι ἀπὸ σκότους εἰς φῶς καὶ τῆς ἐξουσίας τοῦ σατανᾶ ἐπὶ τὸν θεόν τοῦ λαβεῖν αὐτοὺς ἄφεσιν ἁμαρτιῶν καὶ κλῆρον ἐν τοῖς ἡγιασμένοις πίστει τῇ εἰς ἐμέ</reference>
+		<reference osisRef="ROM.11.27!8-ROM.11.27!12" type="Cataphoric referent" label="CataRef" verse="ROM 11:27" >ὅταν ἀφέλωμαι τὰς ἁμαρτίας αὐτῶν</reference>
+		<reference osisRef="1CO.4.1!5-1CO.4.1!11" type="Cataphoric referent" label="CataRef" verse="1CO 4:1" >ὡς ὑπηρέτας χριστοῦ καὶ οἰκονόμους μυστηρίων θεοῦ</reference>
+		<reference osisRef="1CO.7.37!26-1CO.7.37!29" type="Cataphoric referent" label="CataRef" verse="1CO 7:37" >τηρεῖν τὴν ἑαυτοῦ παρθένον</reference>
+		<reference osisRef="2CO.2.1!5-2CO.2.1!12" type="Cataphoric referent" label="CataRef" verse="2CO 2:1" >τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν</reference>
+		<reference osisRef="2CO.8.20!3-2CO.8.20!14" type="Cataphoric referent" label="CataRef" verse="2CO 8:20" >μή τις ἡμᾶς μωμήσηται ἐν τῇ ἁδρότητι ταύτῃ τῇ διακονουμένῃ ὑφ’ ἡμῶν</reference>
+		<reference osisRef="2CO.13.9!13-2CO.13.9!15" type="Cataphoric referent" label="CataRef" verse="2CO 13:9" >τὴν ὑμῶν κατάρτισιν</reference>
+		<reference osisRef="GAL.3.2!7-GAL.3.2!16" type="Cataphoric referent" label="CataRef" verse="GAL 3:2" >ἐξ ἔργων νόμου τὸ πνεῦμα ἐλάβετε ἢ ἐξ ἀκοῆς πίστεως</reference>
+		<reference osisRef="GAL.3.17!4-GAL.3.17!23" type="Cataphoric referent" label="CataRef" verse="GAL 3:17" >διαθήκην προκεκυρωμένην ὑπὸ τοῦ θεοῦ ὁ μετὰ τετρακόσια καὶ τριάκοντα ἔτη γεγονὼς νόμος οὐκ ἀκυροῖ εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν</reference>
+		<reference osisRef="GAL.5.14!9-GAL.5.14!16" type="Cataphoric referent" label="CataRef" verse="GAL 5:14" >ἐν τῷ ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν</reference>
+		<reference osisRef="1TH.4.3!7-1TH.4.3!9" type="Cataphoric referent" label="CataRef" verse="1TH 4:3" >ὁ ἁγιασμὸς ὑμῶν</reference>
+		<reference osisRef="1TI.2.10!7-1TI.2.10!9" type="Cataphoric referent" label="CataRef" verse="1TI 2:10" >δι’ ἔργων ἀγαθῶν</reference>
+		<reference osisRef="1TI.5.10!5-1TI.5.10!20" type="Cataphoric referent" label="CataRef" verse="1TI 5:10" >εἰ ἐτεκνοτρόφησεν εἰ ἐξενοδόχησεν εἰ ἁγίων πόδας ἔνιψεν εἰ θλιβομένοις ἐπήρκεσεν εἰ παντὶ ἔργῳ ἀγαθῷ ἐπηκολούθησεν</reference>
+		<reference osisRef="JAS.4.1!10-JAS.4.1!19" type="Cataphoric referent" label="CataRef" verse="JAS 4:1" >ἐκ τῶν ἡδονῶν ὑμῶν τῶν στρατευομένων ἐν τοῖς μέλεσιν ὑμῶν</reference>
+		<reference osisRef="1PE.2.15!8-1PE.2.15!14" type="Cataphoric referent" label="CataRef" verse="1PE 2:15" >ἀγαθοποιοῦντας φιμοῦν τὴν τῶν ἀφρόνων ἀνθρώπων ἀγνωσίαν</reference>
+		<reference osisRef="1PE.2.19!4-1PE.2.19!12" type="Cataphoric referent" label="CataRef" verse="1PE 2:19" >εἰ διὰ συνείδησιν θεοῦ ὑποφέρει τις λύπας πάσχων ἀδίκως</reference>
+		<reference osisRef="1JN.2.3!8-1JN.2.3!12" type="Cataphoric referent" label="CataRef" verse="1JN 2:3" >ἐὰν τὰς ἐντολὰς αὐτοῦ τηρῶμεν</reference>
+		<reference osisRef="1JN.2.6!1-1JN.2.6!13" type="Cataphoric referent" label="CataRef" verse="1JN 2:6" >ὁ λέγων ἐν αὐτῷ μένειν ὀφείλει καθὼς ἐκεῖνος περιεπάτησεν καὶ αὐτὸς οὕτως περιπατεῖν</reference>
+		<reference osisRef="1JN.2.25!10-1JN.2.25!13" type="Cataphoric referent" label="CataRef" verse="1JN 2:25" >τὴν ζωὴν τὴν αἰώνιον</reference>
+		<reference osisRef="1JN.3.10!14-1JN.3.10!30" type="Cataphoric referent" label="CataRef" verse="1JN 3:10" >πᾶς ὁ μὴ ποιῶν δικαιοσύνην οὐκ ἔστιν ἐκ τοῦ θεοῦ καὶ ὁ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ</reference>
+		<reference osisRef="1JN.3.24!22-1JN.3.24!27" type="Cataphoric referent" label="CataRef" verse="1JN 3:24" >ἐκ τοῦ πνεύματος οὗ ἡμῖν ἔδωκεν</reference>
+		<reference osisRef="1JN.4.2!8-1JN.4.2!20" type="Cataphoric referent" label="CataRef" verse="1JN 4:2" >πᾶν πνεῦμα ὃ ὁμολογεῖ ἰησοῦν χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ ἐστιν</reference>
+		<reference osisRef="1JN.4.13!12-1JN.4.13!18" type="Cataphoric referent" label="CataRef" verse="1JN 4:13" >ὅτι ἐκ τοῦ πνεύματος αὐτοῦ δέδωκεν ἡμῖν</reference>
+		<reference osisRef="1JN.5.2!10-1JN.5.2!18" type="Cataphoric referent" label="CataRef" verse="1JN 5:2" >ὅταν τὸν θεὸν ἀγαπῶμεν καὶ τὰς ἐντολὰς αὐτοῦ ποιῶμεν</reference>
+		<reference osisRef="1JN.5.4!20-1JN.5.4!22" type="Cataphoric referent" label="CataRef" verse="1JN 5:4" >ἡ πίστις ἡμῶν</reference>
+	</references>
+</markup>

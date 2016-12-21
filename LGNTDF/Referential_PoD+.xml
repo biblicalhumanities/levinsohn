@@ -1,0 +1,664 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markup>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>Referential PoD+</name>
+		<description>Topical prominence - In Greek, prominence is given to active participants and props who are the current centre of attention (NARR §4.6) by omitting the article (DFNTG §§9.2.3-9.4), by adding αυτος ‘-self’ (e.g. in 1 Th 3:11), by using the proximal demonstrative οὗτος (NARR chap. 9, Appendix 1; e.g. in 3:3), and by postposing the constituent concerned (e.g. Mt 14:29). If such constituents are in postion P1, they are demonstrating topical prominence (e.g. 1 Th 2:1).</description>
+		<type name="markup" />
+		<defaultstyle label="Top+" bkcolor="" fontcolor="" brdrcolor="" brdrline="Solid" brdrpos="U,B" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
+	</header>
+	<references>
+		<reference osisRef="MAT.1.19!1" type="Referential PoD+" label="Top+" verse="MAT 1:19" >ἰωσὴφ</reference>
+		<reference osisRef="MAT.1.20!1" type="Referential PoD+" label="Top+" verse="MAT 1:20" >ταῦτα</reference>
+		<reference osisRef="MAT.1.22!1" type="Referential PoD+" label="Top+" verse="MAT 1:22" >τοῦτο</reference>
+		<reference osisRef="MAT.1.22!3" type="Referential PoD+" label="Top+" verse="MAT 1:22" >ὅλον</reference>
+		<reference osisRef="MAT.2.7!2" type="Referential PoD+" label="Top+" verse="MAT 2:7" >ἡρῴδης</reference>
+		<reference osisRef="MAT.2.16!2" type="Referential PoD+" label="Top+" verse="MAT 2:16" >ἡρῴδης</reference>
+		<reference osisRef="MAT.3.3!1" type="Referential PoD+" label="Top+" verse="MAT 3:3" >οὗτος</reference>
+		<reference osisRef="MAT.3.4!1" type="Referential PoD+" label="Top+" verse="MAT 3:4" >αὐτὸς</reference>
+		<reference osisRef="MAT.3.4!3-MAT.3.4!4" type="Referential PoD+" label="Top+" verse="MAT 3:4" >ὁ ἰωάννης</reference>
+		<reference osisRef="MAT.3.17!8" type="Referential PoD+" label="Top+" verse="MAT 3:17" >οὗτός</reference>
+		<reference osisRef="MAT.4.3!14-MAT.4.3!16" type="Referential PoD+" label="Top+" verse="MAT 4:3" >οἱ λίθοι οὗτοι</reference>
+		<reference osisRef="MAT.5.19!29" type="Referential PoD+" label="Top+" verse="MAT 5:19" >οὗτος</reference>
+		<reference osisRef="MAT.5.37!10" type="Referential PoD+" label="Top+" verse="MAT 5:37" >τὸ</reference>
+		<reference osisRef="MAT.5.37!12-MAT.5.37!13" type="Referential PoD+" label="Top+" verse="MAT 5:37" >περισσὸν τούτων</reference>
+		<reference osisRef="MAT.6.32!1" type="Referential PoD+" label="Top+" verse="MAT 6:32" >πάντα</reference>
+		<reference osisRef="MAT.6.32!3" type="Referential PoD+" label="Top+" verse="MAT 6:32" >ταῦτα</reference>
+		<reference osisRef="MAT.6.33!13-MAT.6.33!14" type="Referential PoD+" label="Top+" verse="MAT 6:33" >ταῦτα πάντα</reference>
+		<reference osisRef="MAT.7.12!16" type="Referential PoD+" label="Top+" verse="MAT 7:12" >οὗτος</reference>
+		<reference osisRef="MAT.9.3!9" type="Referential PoD+" label="Top+" verse="MAT 9:3" >οὗτος</reference>
+		<reference osisRef="MAT.9.18!1" type="Referential PoD+" label="Top+" verse="MAT 9:18" >ταῦτα</reference>
+		<reference osisRef="MAT.10.5!1-MAT.10.5!3" type="Referential PoD+" label="Top+" verse="MAT 10:5" >τούτους τοὺς δώδεκα</reference>
+		<reference osisRef="MAT.11.7!1" type="Referential PoD+" label="Top+" verse="MAT 11:7" >τούτων</reference>
+		<reference osisRef="MAT.11.10!1" type="Referential PoD+" label="Top+" verse="MAT 11:10" >οὗτός</reference>
+		<reference osisRef="MAT.12.23!9" type="Referential PoD+" label="Top+" verse="MAT 12:23" >οὗτός</reference>
+		<reference osisRef="MAT.12.24!6" type="Referential PoD+" label="Top+" verse="MAT 12:24" >οὗτος</reference>
+		<reference osisRef="MAT.13.19!21" type="Referential PoD+" label="Top+" verse="MAT 13:19" >οὗτός</reference>
+		<reference osisRef="MAT.13.20!7" type="Referential PoD+" label="Top+" verse="MAT 13:20" >οὗτός</reference>
+		<reference osisRef="MAT.13.22!7" type="Referential PoD+" label="Top+" verse="MAT 13:22" >οὗτός</reference>
+		<reference osisRef="MAT.13.23!8" type="Referential PoD+" label="Top+" verse="MAT 13:23" >οὗτός</reference>
+		<reference osisRef="MAT.13.34!1-MAT.13.34!2" type="Referential PoD+" label="Top+" verse="MAT 13:34" >ταῦτα πάντα</reference>
+		<reference osisRef="MAT.13.38!11" type="Referential PoD+" label="Top+" verse="MAT 13:38" >οὗτοί</reference>
+		<reference osisRef="MAT.13.55!2" type="Referential PoD+" label="Top+" verse="MAT 13:55" >οὗτός</reference>
+		<reference osisRef="MAT.14.2!6" type="Referential PoD+" label="Top+" verse="MAT 14:2" >οὗτός</reference>
+		<reference osisRef="MAT.15.8!1-MAT.15.8!3" type="Referential PoD+" label="Top+" verse="MAT 15:8" >ὁ λαὸς οὗτος</reference>
+		<reference osisRef="MAT.17.5!16" type="Referential PoD+" label="Top+" verse="MAT 17:5" >οὗτός</reference>
+		<reference osisRef="MAT.19.26!9" type="Referential PoD+" label="Top+" verse="MAT 19:26" >τοῦτο</reference>
+		<reference osisRef="MAT.20.12!2-MAT.20.12!4" type="Referential PoD+" label="Top+" verse="MAT 20:12" >οὗτοι οἱ ἔσχατοι</reference>
+		<reference osisRef="MAT.21.1!16" type="Referential PoD+" label="Top+" verse="MAT 21:1" >ἰησοῦς</reference>
+		<reference osisRef="MAT.21.4!1" type="Referential PoD+" label="Top+" verse="MAT 21:4" >τοῦτο</reference>
+		<reference osisRef="MAT.21.11!5" type="Referential PoD+" label="Top+" verse="MAT 21:11" >οὗτός</reference>
+		<reference osisRef="MAT.21.26!9" type="Referential PoD+" label="Top+" verse="MAT 21:26" >πάντες</reference>
+		<reference osisRef="MAT.21.38!10" type="Referential PoD+" label="Top+" verse="MAT 21:38" >οὗτός</reference>
+		<reference osisRef="MAT.21.42!15" type="Referential PoD+" label="Top+" verse="MAT 21:42" >οὗτος</reference>
+		<reference osisRef="MAT.23.23!31" type="Referential PoD+" label="Top+" verse="MAT 23:23" >ταῦτα</reference>
+		<reference osisRef="MAT.24.8!1" type="Referential PoD+" label="Top+" verse="MAT 24:8" >πάντα</reference>
+		<reference osisRef="MAT.24.8!3" type="Referential PoD+" label="Top+" verse="MAT 24:8" >ταῦτα</reference>
+		<reference osisRef="MAT.26.11!8" type="Referential PoD+" label="Top+" verse="MAT 26:11" >ἐμὲ</reference>
+		<reference osisRef="MAT.26.26!18" type="Referential PoD+" label="Top+" verse="MAT 26:26" >τοῦτό</reference>
+		<reference osisRef="MAT.26.28!1" type="Referential PoD+" label="Top+" verse="MAT 26:28" >τοῦτο</reference>
+		<reference osisRef="MAT.26.33!12" type="Referential PoD+" label="Top+" verse="MAT 26:33" >ἐγὼ</reference>
+		<reference osisRef="MAT.26.56!1" type="Referential PoD+" label="Top+" verse="MAT 26:56" >τοῦτο</reference>
+		<reference osisRef="MAT.26.56!3" type="Referential PoD+" label="Top+" verse="MAT 26:56" >ὅλον</reference>
+		<reference osisRef="MAT.26.61!2" type="Referential PoD+" label="Top+" verse="MAT 26:61" >οὗτος</reference>
+		<reference osisRef="MAT.26.62!10" type="Referential PoD+" label="Top+" verse="MAT 26:62" >οὗτοί</reference>
+		<reference osisRef="MAT.26.71!13" type="Referential PoD+" label="Top+" verse="MAT 26:71" >οὗτος</reference>
+		<reference osisRef="MAT.27.32!8" type="Referential PoD+" label="Top+" verse="MAT 27:32" >τοῦτον</reference>
+		<reference osisRef="MAT.27.37!11" type="Referential PoD+" label="Top+" verse="MAT 27:37" >οὗτός</reference>
+		<reference osisRef="MAT.27.46!16" type="Referential PoD+" label="Top+" verse="MAT 27:46" >τοῦτ’</reference>
+		<reference osisRef="MAT.27.57!12-MAT.27.57!13" type="Referential PoD+" label="Top+" verse="MAT 27:57" >καὶ αὐτὸς</reference>
+		<reference osisRef="MAT.27.58!1" type="Referential PoD+" label="Top+" verse="MAT 27:58" >οὗτος</reference>
+		<reference osisRef="MRK.2.7!2" type="Referential PoD+" label="Top+" verse="MRK 2:7" >οὗτος</reference>
+		<reference osisRef="MRK.4.18!9" type="Referential PoD+" label="Top+" verse="MRK 4:18" >οὗτοί</reference>
+		<reference osisRef="MRK.6.3!2" type="Referential PoD+" label="Top+" verse="MRK 6:3" >οὗτός</reference>
+		<reference osisRef="MRK.6.16!10" type="Referential PoD+" label="Top+" verse="MRK 6:16" >οὗτος</reference>
+		<reference osisRef="MRK.6.17!1" type="Referential PoD+" label="Top+" verse="MRK 6:17" >αὐτὸς</reference>
+		<reference osisRef="MRK.6.17!3-MRK.6.17!4" type="Referential PoD+" label="Top+" verse="MRK 6:17" >ὁ ἡρῴδης</reference>
+		<reference osisRef="MRK.6.21!6" type="Referential PoD+" label="Top+" verse="MRK 6:21" >ἡρῴδης</reference>
+		<reference osisRef="MRK.7.2!10" type="Referential PoD+" label="Top+" verse="MRK 7:2" >τοῦτ’</reference>
+		<reference osisRef="MRK.7.6!15-MRK.7.6!17" type="Referential PoD+" label="Top+" verse="MRK 7:6" >οὗτος ὁ λαὸς</reference>
+		<reference osisRef="MRK.7.23!1-MRK.7.23!4" type="Referential PoD+" label="Top+" verse="MRK 7:23" >πάντα ταῦτα τὰ πονηρὰ</reference>
+		<reference osisRef="MRK.8.12!8-MRK.8.12!10" type="Referential PoD+" label="Top+" verse="MRK 8:12" >ἡ γενεὰ αὕτη</reference>
+		<reference osisRef="MRK.9.7!12" type="Referential PoD+" label="Top+" verse="MRK 9:7" >οὗτός</reference>
+		<reference osisRef="MRK.9.21!10" type="Referential PoD+" label="Top+" verse="MRK 9:21" >τοῦτο</reference>
+		<reference osisRef="MRK.9.29!4-MRK.9.29!6" type="Referential PoD+" label="Top+" verse="MRK 9:29" >τοῦτο τὸ γένος</reference>
+		<reference osisRef="MRK.10.10!8-MRK.10.10!9" type="Referential PoD+" label="Top+" verse="MRK 10:10" >περὶ τούτου</reference>
+		<reference osisRef="MRK.10.20!6-MRK.10.20!7" type="Referential PoD+" label="Top+" verse="MRK 10:20" >ταῦτα πάντα</reference>
+		<reference osisRef="MRK.12.7!9" type="Referential PoD+" label="Top+" verse="MRK 12:7" >οὗτός</reference>
+		<reference osisRef="MRK.12.10!11" type="Referential PoD+" label="Top+" verse="MRK 12:10" >οὗτος</reference>
+		<reference osisRef="MRK.12.36!1-MRK.12.36!2" type="Referential PoD+" label="Top+" verse="MRK 12:36" >αὐτὸς δαυὶδ</reference>
+		<reference osisRef="MRK.12.40!11" type="Referential PoD+" label="Top+" verse="MRK 12:40" >οὗτοι</reference>
+		<reference osisRef="MRK.12.43!12-MRK.12.43!16" type="Referential PoD+" label="Top+" verse="MRK 12:43" >ἡ χήρα αὕτη ἡ πτωχὴ</reference>
+		<reference osisRef="MRK.12.44!1" type="Referential PoD+" label="Top+" verse="MRK 12:44" >πάντες</reference>
+		<reference osisRef="MRK.12.44!8" type="Referential PoD+" label="Top+" verse="MRK 12:44" >αὕτη</reference>
+		<reference osisRef="MRK.13.13!15" type="Referential PoD+" label="Top+" verse="MRK 13:13" >οὗτος</reference>
+		<reference osisRef="MRK.14.7!15" type="Referential PoD+" label="Top+" verse="MRK 14:7" >ἐμὲ</reference>
+		<reference osisRef="MRK.14.22!14" type="Referential PoD+" label="Top+" verse="MRK 14:22" >τοῦτό</reference>
+		<reference osisRef="MRK.14.24!4" type="Referential PoD+" label="Top+" verse="MRK 14:24" >τοῦτό</reference>
+		<reference osisRef="MRK.14.27!7" type="Referential PoD+" label="Top+" verse="MRK 14:27" >πάντες</reference>
+		<reference osisRef="MRK.14.60!15" type="Referential PoD+" label="Top+" verse="MRK 14:60" >οὗτοί</reference>
+		<reference osisRef="MRK.15.39!15-MRK.15.39!17" type="Referential PoD+" label="Top+" verse="MRK 15:39" >οὗτος ὁ ἄνθρωπος</reference>
+		<reference osisRef="MRK.15.43!9-MRK.15.43!10" type="Referential PoD+" label="Top+" verse="MRK 15:43" >καὶ αὐτὸς</reference>
+		<reference osisRef="MRK.16.1!5-MRK.16.1!12" type="Referential PoD+" label="Top+" verse="MRK 16:1" >μαρία ἡ μαγδαληνὴ καὶ μαρία ἡ τοῦ ἰακώβου</reference>
+		<reference osisRef="MRK.16.8!32-MRK.16.8!35" type="Referential PoD+" label="Top+" verse="MRK 16:8" >καὶ αὐτὸς ὁ ἰησοῦς</reference>
+		<reference osisRef="LUK.1.32!1" type="Referential PoD+" label="Top+" verse="LUK 1:32" >οὗτος</reference>
+		<reference osisRef="LUK.1.36!7-LUK.1.36!8" type="Referential PoD+" label="Top+" verse="LUK 1:36" >καὶ αὐτὴ</reference>
+		<reference osisRef="LUK.1.36!15" type="Referential PoD+" label="Top+" verse="LUK 1:36" >οὗτος</reference>
+		<reference osisRef="LUK.2.2!1" type="Referential PoD+" label="Top+" verse="LUK 2:2" >αὕτη</reference>
+		<reference osisRef="LUK.2.25!11-LUK.2.25!13" type="Referential PoD+" label="Top+" verse="LUK 2:25" >ὁ ἄνθρωπος οὗτος</reference>
+		<reference osisRef="LUK.2.34!13" type="Referential PoD+" label="Top+" verse="LUK 2:34" >οὗτος</reference>
+		<reference osisRef="LUK.2.35!2" type="Referential PoD+" label="Top+" verse="LUK 2:35" >σοῦ</reference>
+		<reference osisRef="LUK.2.35!4" type="Referential PoD+" label="Top+" verse="LUK 2:35" >αὐτῆς</reference>
+		<reference osisRef="LUK.2.36!10" type="Referential PoD+" label="Top+" verse="LUK 2:36" >αὕτη</reference>
+		<reference osisRef="LUK.2.52!2" type="Referential PoD+" label="Top+" verse="LUK 2:52" >ἰησοῦς</reference>
+		<reference osisRef="LUK.3.23!2" type="Referential PoD+" label="Top+" verse="LUK 3:23" >αὐτὸς</reference>
+		<reference osisRef="LUK.3.23!4" type="Referential PoD+" label="Top+" verse="LUK 3:23" >ἰησοῦς</reference>
+		<reference osisRef="LUK.4.1!1" type="Referential PoD+" label="Top+" verse="LUK 4:1" >ἰησοῦς</reference>
+		<reference osisRef="LUK.5.6!2" type="Referential PoD+" label="Top+" verse="LUK 5:6" >τοῦτο</reference>
+		<reference osisRef="LUK.6.23!17-LUK.6.23!19" type="Referential PoD+" label="Top+" verse="LUK 6:23" >κατὰ τὰ αὐτὰ</reference>
+		<reference osisRef="LUK.6.26!9-LUK.6.26!11" type="Referential PoD+" label="Top+" verse="LUK 6:26" >κατὰ τὰ αὐτὰ</reference>
+		<reference osisRef="LUK.7.2!1" type="Referential PoD+" label="Top+" verse="LUK 7:2" >ἑκατοντάρχου</reference>
+		<reference osisRef="LUK.7.2!3" type="Referential PoD+" label="Top+" verse="LUK 7:2" >τινος</reference>
+		<reference osisRef="LUK.7.27!1" type="Referential PoD+" label="Top+" verse="LUK 7:27" >οὗτός</reference>
+		<reference osisRef="LUK.7.28!3-LUK.7.28!7" type="Referential PoD+" label="Top+" verse="LUK 7:28" >μείζων ἐν γεννητοῖς γυναικῶν ἰωάννου</reference>
+		<reference osisRef="LUK.7.44!24" type="Referential PoD+" label="Top+" verse="LUK 7:44" >αὕτη</reference>
+		<reference osisRef="LUK.7.45!5" type="Referential PoD+" label="Top+" verse="LUK 7:45" >αὕτη</reference>
+		<reference osisRef="LUK.7.46!7" type="Referential PoD+" label="Top+" verse="LUK 7:46" >αὕτη</reference>
+		<reference osisRef="LUK.8.8!14" type="Referential PoD+" label="Top+" verse="LUK 8:8" >ταῦτα</reference>
+		<reference osisRef="LUK.8.13!15" type="Referential PoD+" label="Top+" verse="LUK 8:13" >οὗτοι</reference>
+		<reference osisRef="LUK.8.14!7" type="Referential PoD+" label="Top+" verse="LUK 8:14" >οὗτοί</reference>
+		<reference osisRef="LUK.8.15!7" type="Referential PoD+" label="Top+" verse="LUK 8:15" >οὗτοί</reference>
+		<reference osisRef="LUK.9.9!4" type="Referential PoD+" label="Top+" verse="LUK 9:9" >ἰωάννην</reference>
+		<reference osisRef="LUK.9.20!10" type="Referential PoD+" label="Top+" verse="LUK 9:20" >πέτρος</reference>
+		<reference osisRef="LUK.9.24!20" type="Referential PoD+" label="Top+" verse="LUK 9:24" >οὗτος</reference>
+		<reference osisRef="LUK.9.26!10" type="Referential PoD+" label="Top+" verse="LUK 9:26" >τοῦτον</reference>
+		<reference osisRef="LUK.9.34!1" type="Referential PoD+" label="Top+" verse="LUK 9:34" >ταῦτα</reference>
+		<reference osisRef="LUK.9.35!8" type="Referential PoD+" label="Top+" verse="LUK 9:35" >οὗτός</reference>
+		<reference osisRef="LUK.10.42!5" type="Referential PoD+" label="Top+" verse="LUK 10:42" >μαριὰμ</reference>
+		<reference osisRef="LUK.11.29!7-LUK.11.29!9" type="Referential PoD+" label="Top+" verse="LUK 11:29" >ἡ γενεὰ αὕτη</reference>
+		<reference osisRef="LUK.11.42!25" type="Referential PoD+" label="Top+" verse="LUK 11:42" >ταῦτα</reference>
+		<reference osisRef="LUK.12.30!1" type="Referential PoD+" label="Top+" verse="LUK 12:30" >ταῦτα</reference>
+		<reference osisRef="LUK.12.30!3" type="Referential PoD+" label="Top+" verse="LUK 12:30" >πάντα</reference>
+		<reference osisRef="LUK.12.31!7" type="Referential PoD+" label="Top+" verse="LUK 12:31" >ταῦτα</reference>
+		<reference osisRef="LUK.12.56!11-LUK.12.56!12" type="Referential PoD+" label="Top+" verse="LUK 12:56" >τὸν καιρὸν</reference>
+		<reference osisRef="LUK.12.56!14" type="Referential PoD+" label="Top+" verse="LUK 12:56" >τοῦτον</reference>
+		<reference osisRef="LUK.13.2!7-LUK.13.2!9" type="Referential PoD+" label="Top+" verse="LUK 13:2" >οἱ γαλιλαῖοι οὗτοι</reference>
+		<reference osisRef="LUK.13.16!1" type="Referential PoD+" label="Top+" verse="LUK 13:16" >ταύτην</reference>
+		<reference osisRef="LUK.13.17!2" type="Referential PoD+" label="Top+" verse="LUK 13:17" >ταῦτα</reference>
+		<reference osisRef="LUK.14.30!3-LUK.14.30!5" type="Referential PoD+" label="Top+" verse="LUK 14:30" >οὗτος ὁ ἄνθρωπος</reference>
+		<reference osisRef="LUK.15.2!11" type="Referential PoD+" label="Top+" verse="LUK 15:2" >οὗτος</reference>
+		<reference osisRef="LUK.15.24!2-LUK.15.24!5" type="Referential PoD+" label="Top+" verse="LUK 15:24" >οὗτος ὁ υἱός μου</reference>
+		<reference osisRef="LUK.15.32!7-LUK.15.32!10" type="Referential PoD+" label="Top+" verse="LUK 15:32" >ὁ ἀδελφός σου οὗτος</reference>
+		<reference osisRef="LUK.16.1!15" type="Referential PoD+" label="Top+" verse="LUK 16:1" >οὗτος</reference>
+		<reference osisRef="LUK.16.25!16" type="Referential PoD+" label="Top+" verse="LUK 16:25" >λάζαρος</reference>
+		<reference osisRef="LUK.18.21!4-LUK.18.21!5" type="Referential PoD+" label="Top+" verse="LUK 18:21" >ταῦτα πάντα</reference>
+		<reference osisRef="LUK.19.27!2-LUK.19.27!12" type="Referential PoD+" label="Top+" verse="LUK 19:27" >τοὺς ἐχθρούς μου τούτους τοὺς μὴ θελήσαντάς με βασιλεῦσαι ἐπ’ αὐτοὺς</reference>
+		<reference osisRef="LUK.20.6!14" type="Referential PoD+" label="Top+" verse="LUK 20:6" >ἰωάννην</reference>
+		<reference osisRef="LUK.20.14!10" type="Referential PoD+" label="Top+" verse="LUK 20:14" >οὗτός</reference>
+		<reference osisRef="LUK.20.17!17" type="Referential PoD+" label="Top+" verse="LUK 20:17" >οὗτος</reference>
+		<reference osisRef="LUK.20.28!13" type="Referential PoD+" label="Top+" verse="LUK 20:28" >οὗτος</reference>
+		<reference osisRef="LUK.20.37!6-LUK.20.37!7" type="Referential PoD+" label="Top+" verse="LUK 20:37" >καὶ μωϋσῆς</reference>
+		<reference osisRef="LUK.20.42!1" type="Referential PoD+" label="Top+" verse="LUK 20:42" >αὐτὸς</reference>
+		<reference osisRef="LUK.20.42!3" type="Referential PoD+" label="Top+" verse="LUK 20:42" >δαυὶδ</reference>
+		<reference osisRef="LUK.20.47!11" type="Referential PoD+" label="Top+" verse="LUK 20:47" >οὗτοι</reference>
+		<reference osisRef="LUK.21.3!7-LUK.21.3!11" type="Referential PoD+" label="Top+" verse="LUK 21:3" >ἡ χήρα αὕτη ἡ πτωχὴ</reference>
+		<reference osisRef="LUK.21.4!1" type="Referential PoD+" label="Top+" verse="LUK 21:4" >πάντες</reference>
+		<reference osisRef="LUK.21.4!3" type="Referential PoD+" label="Top+" verse="LUK 21:4" >οὗτοι</reference>
+		<reference osisRef="LUK.21.4!12" type="Referential PoD+" label="Top+" verse="LUK 21:4" >αὕτη</reference>
+		<reference osisRef="LUK.21.24!12" type="Referential PoD+" label="Top+" verse="LUK 21:24" >ἰερουσαλὴμ</reference>
+		<reference osisRef="LUK.22.19!10" type="Referential PoD+" label="Top+" verse="LUK 22:19" >τοῦτό</reference>
+		<reference osisRef="LUK.22.19!19" type="Referential PoD+" label="Top+" verse="LUK 22:19" >τοῦτο</reference>
+		<reference osisRef="LUK.22.20!9-LUK.22.20!11" type="Referential PoD+" label="Top+" verse="LUK 22:20" >τοῦτο τὸ ποτήριον</reference>
+		<reference osisRef="LUK.22.41!2" type="Referential PoD+" label="Top+" verse="LUK 22:41" >αὐτὸς</reference>
+		<reference osisRef="LUK.22.48!1" type="Referential PoD+" label="Top+" verse="LUK 22:48" >ἰησοῦς</reference>
+		<reference osisRef="LUK.22.71!9" type="Referential PoD+" label="Top+" verse="LUK 22:71" >αὐτοὶ</reference>
+		<reference osisRef="LUK.23.2!6" type="Referential PoD+" label="Top+" verse="LUK 23:2" >τοῦτον</reference>
+		<reference osisRef="LUK.23.6!1" type="Referential PoD+" label="Top+" verse="LUK 23:6" >πιλᾶτος</reference>
+		<reference osisRef="LUK.23.13!1" type="Referential PoD+" label="Top+" verse="LUK 23:13" >πιλᾶτος</reference>
+		<reference osisRef="LUK.23.24!2" type="Referential PoD+" label="Top+" verse="LUK 23:24" >πιλᾶτος</reference>
+		<reference osisRef="LUK.23.35!17" type="Referential PoD+" label="Top+" verse="LUK 23:35" >οὗτός</reference>
+		<reference osisRef="LUK.23.41!10" type="Referential PoD+" label="Top+" verse="LUK 23:41" >οὗτος</reference>
+		<reference osisRef="LUK.23.46!16" type="Referential PoD+" label="Top+" verse="LUK 23:46" >τοῦτο</reference>
+		<reference osisRef="LUK.23.47!12-LUK.23.47!14" type="Referential PoD+" label="Top+" verse="LUK 23:47" >ὁ ἄνθρωπος οὗτος</reference>
+		<reference osisRef="LUK.23.51!1" type="Referential PoD+" label="Top+" verse="LUK 23:51" >οὗτος</reference>
+		<reference osisRef="LUK.23.52!1" type="Referential PoD+" label="Top+" verse="LUK 23:52" >οὗτος</reference>
+		<reference osisRef="LUK.24.36!1" type="Referential PoD+" label="Top+" verse="LUK 24:36" >ταῦτα</reference>
+		<reference osisRef="LUK.24.40!2" type="Referential PoD+" label="Top+" verse="LUK 24:40" >τοῦτο</reference>
+		<reference osisRef="JHN.1.2!1" type="Referential PoD+" label="Top+" verse="JHN 1:2" >οὗτος</reference>
+		<reference osisRef="JHN.1.7!1" type="Referential PoD+" label="Top+" verse="JHN 1:7" >οὗτος</reference>
+		<reference osisRef="JHN.1.7!11" type="Referential PoD+" label="Top+" verse="JHN 1:7" >πάντες</reference>
+		<reference osisRef="JHN.1.15!1" type="Referential PoD+" label="Top+" verse="JHN 1:15" >ἰωάννης</reference>
+		<reference osisRef="JHN.1.18!1" type="Referential PoD+" label="Top+" verse="JHN 1:18" >θεὸν</reference>
+		<reference osisRef="JHN.1.28!1" type="Referential PoD+" label="Top+" verse="JHN 1:28" >ταῦτα</reference>
+		<reference osisRef="JHN.1.33!26" type="Referential PoD+" label="Top+" verse="JHN 1:33" >οὗτός</reference>
+		<reference osisRef="JHN.1.34!6" type="Referential PoD+" label="Top+" verse="JHN 1:34" >οὗτός</reference>
+		<reference osisRef="JHN.2.22!11" type="Referential PoD+" label="Top+" verse="JHN 2:22" >τοῦτο</reference>
+		<reference osisRef="JHN.2.24!1" type="Referential PoD+" label="Top+" verse="JHN 2:24" >αὐτὸς</reference>
+		<reference osisRef="JHN.2.24!3" type="Referential PoD+" label="Top+" verse="JHN 2:24" >ἰησοῦς</reference>
+		<reference osisRef="JHN.3.2!1" type="Referential PoD+" label="Top+" verse="JHN 3:2" >οὗτος</reference>
+		<reference osisRef="JHN.3.10!13" type="Referential PoD+" label="Top+" verse="JHN 3:10" >ταῦτα</reference>
+		<reference osisRef="JHN.3.26!21" type="Referential PoD+" label="Top+" verse="JHN 3:26" >οὗτος</reference>
+		<reference osisRef="JHN.3.29!24" type="Referential PoD+" label="Top+" verse="JHN 3:29" >αὕτη</reference>
+		<reference osisRef="JHN.3.29!26-JHN.3.29!29" type="Referential PoD+" label="Top+" verse="JHN 3:29" >ἡ χαρὰ ἡ ἐμὴ</reference>
+		<reference osisRef="JHN.3.32!5" type="Referential PoD+" label="Top+" verse="JHN 3:32" >τοῦτο</reference>
+		<reference osisRef="JHN.4.18!13" type="Referential PoD+" label="Top+" verse="JHN 4:18" >τοῦτο</reference>
+		<reference osisRef="JHN.4.42!18" type="Referential PoD+" label="Top+" verse="JHN 4:42" >οὗτός</reference>
+		<reference osisRef="JHN.4.44!1" type="Referential PoD+" label="Top+" verse="JHN 4:44" >αὐτὸς</reference>
+		<reference osisRef="JHN.4.44!3" type="Referential PoD+" label="Top+" verse="JHN 4:44" >ἰησοῦς</reference>
+		<reference osisRef="JHN.4.47!1" type="Referential PoD+" label="Top+" verse="JHN 4:47" >οὗτος</reference>
+		<reference osisRef="JHN.5.6!1" type="Referential PoD+" label="Top+" verse="JHN 5:6" >τοῦτον</reference>
+		<reference osisRef="JHN.5.16!10" type="Referential PoD+" label="Top+" verse="JHN 5:16" >ταῦτα</reference>
+		<reference osisRef="JHN.5.19!32" type="Referential PoD+" label="Top+" verse="JHN 5:19" >ταῦτα</reference>
+		<reference osisRef="JHN.5.23!2" type="Referential PoD+" label="Top+" verse="JHN 5:23" >πάντες</reference>
+		<reference osisRef="JHN.5.34!10" type="Referential PoD+" label="Top+" verse="JHN 5:34" >ταῦτα</reference>
+		<reference osisRef="JHN.5.38!14" type="Referential PoD+" label="Top+" verse="JHN 5:38" >τούτῳ</reference>
+		<reference osisRef="JHN.6.6!1" type="Referential PoD+" label="Top+" verse="JHN 6:6" >τοῦτο</reference>
+		<reference osisRef="JHN.6.6!6" type="Referential PoD+" label="Top+" verse="JHN 6:6" >αὐτὸς</reference>
+		<reference osisRef="JHN.6.9!13" type="Referential PoD+" label="Top+" verse="JHN 6:9" >ταῦτα</reference>
+		<reference osisRef="JHN.6.14!10" type="Referential PoD+" label="Top+" verse="JHN 6:14" >οὗτός</reference>
+		<reference osisRef="JHN.6.15!1" type="Referential PoD+" label="Top+" verse="JHN 6:15" >ἰησοῦς</reference>
+		<reference osisRef="JHN.6.27!22" type="Referential PoD+" label="Top+" verse="JHN 6:27" >τοῦτον</reference>
+		<reference osisRef="JHN.6.42!4" type="Referential PoD+" label="Top+" verse="JHN 6:42" >οὗτός</reference>
+		<reference osisRef="JHN.6.50!1" type="Referential PoD+" label="Top+" verse="JHN 6:50" >οὗτός</reference>
+		<reference osisRef="JHN.6.59!1" type="Referential PoD+" label="Top+" verse="JHN 6:59" >ταῦτα</reference>
+		<reference osisRef="JHN.6.71!7" type="Referential PoD+" label="Top+" verse="JHN 6:71" >οὗτος</reference>
+		<reference osisRef="JHN.7.15!7" type="Referential PoD+" label="Top+" verse="JHN 7:15" >οὗτος</reference>
+		<reference osisRef="JHN.7.18!18" type="Referential PoD+" label="Top+" verse="JHN 7:18" >οὗτος</reference>
+		<reference osisRef="JHN.7.22!3" type="Referential PoD+" label="Top+" verse="JHN 7:22" >μωϋσῆς</reference>
+		<reference osisRef="JHN.7.25!8" type="Referential PoD+" label="Top+" verse="JHN 7:25" >οὗτός</reference>
+		<reference osisRef="JHN.7.26!15" type="Referential PoD+" label="Top+" verse="JHN 7:26" >οὗτός</reference>
+		<reference osisRef="JHN.7.27!2" type="Referential PoD+" label="Top+" verse="JHN 7:27" >τοῦτον</reference>
+		<reference osisRef="JHN.7.39!1" type="Referential PoD+" label="Top+" verse="JHN 7:39" >τοῦτο</reference>
+		<reference osisRef="JHN.7.39!19" type="Referential PoD+" label="Top+" verse="JHN 7:39" >ἰησοῦς</reference>
+		<reference osisRef="JHN.7.40!10" type="Referential PoD+" label="Top+" verse="JHN 7:40" >οὗτός</reference>
+		<reference osisRef="JHN.7.41!3" type="Referential PoD+" label="Top+" verse="JHN 7:41" >οὗτός</reference>
+		<reference osisRef="JHN.7.49!2-JHN.7.49!9" type="Referential PoD+" label="Top+" verse="JHN 7:49" >ὁ ὄχλος οὗτος ὁ μὴ γινώσκων τὸν νόμον</reference>
+		<reference osisRef="JHN.8.1!1" type="Referential PoD+" label="Top+" verse="JHN 8:1" >ἰησοῦς</reference>
+		<reference osisRef="JHN.8.4!4-JHN.8.4!6" type="Referential PoD+" label="Top+" verse="JHN 8:4" >αὕτη ἡ γυνὴ</reference>
+		<reference osisRef="JHN.8.6!1" type="Referential PoD+" label="Top+" verse="JHN 8:6" >τοῦτο</reference>
+		<reference osisRef="JHN.8.20!1-JHN.8.20!3" type="Referential PoD+" label="Top+" verse="JHN 8:20" >ταῦτα τὰ ῥήματα</reference>
+		<reference osisRef="JHN.8.30!1" type="Referential PoD+" label="Top+" verse="JHN 8:30" >ταῦτα</reference>
+		<reference osisRef="JHN.8.40!17" type="Referential PoD+" label="Top+" verse="JHN 8:40" >τοῦτο</reference>
+		<reference osisRef="JHN.8.59!8" type="Referential PoD+" label="Top+" verse="JHN 8:59" >ἰησοῦς</reference>
+		<reference osisRef="JHN.9.6!1" type="Referential PoD+" label="Top+" verse="JHN 9:6" >ταῦτα</reference>
+		<reference osisRef="JHN.9.19!5" type="Referential PoD+" label="Top+" verse="JHN 9:19" >οὗτός</reference>
+		<reference osisRef="JHN.9.20!10" type="Referential PoD+" label="Top+" verse="JHN 9:20" >οὗτός</reference>
+		<reference osisRef="JHN.9.22!1" type="Referential PoD+" label="Top+" verse="JHN 9:22" >ταῦτα</reference>
+		<reference osisRef="JHN.9.24!20-JHN.9.24!22" type="Referential PoD+" label="Top+" verse="JHN 9:24" >οὗτος ὁ ἄνθρωπος</reference>
+		<reference osisRef="JHN.9.29!8" type="Referential PoD+" label="Top+" verse="JHN 9:29" >τοῦτον</reference>
+		<reference osisRef="JHN.9.30!7-JHN.9.30!8" type="Referential PoD+" label="Top+" verse="JHN 9:30" >ἐν τούτῳ</reference>
+		<reference osisRef="JHN.10.3!1" type="Referential PoD+" label="Top+" verse="JHN 10:3" >τούτῳ</reference>
+		<reference osisRef="JHN.10.6!1-JHN.10.6!3" type="Referential PoD+" label="Top+" verse="JHN 10:6" >ταύτην τὴν παροιμίαν</reference>
+		<reference osisRef="JHN.10.18!22-JHN.10.18!24" type="Referential PoD+" label="Top+" verse="JHN 10:18" >ταύτην τὴν ἐντολὴν</reference>
+		<reference osisRef="JHN.10.21!3-JHN.10.21!5" type="Referential PoD+" label="Top+" verse="JHN 10:21" >ταῦτα τὰ ῥήματα</reference>
+		<reference osisRef="JHN.10.25!21" type="Referential PoD+" label="Top+" verse="JHN 10:25" >ταῦτα</reference>
+		<reference osisRef="JHN.11.4!6-JHN.11.4!8" type="Referential PoD+" label="Top+" verse="JHN 11:4" >αὕτη ἡ ἀσθένεια</reference>
+		<reference osisRef="JHN.11.11!1" type="Referential PoD+" label="Top+" verse="JHN 11:11" >ταῦτα</reference>
+		<reference osisRef="JHN.11.20!11" type="Referential PoD+" label="Top+" verse="JHN 11:20" >μαριὰμ</reference>
+		<reference osisRef="JHN.11.28!2" type="Referential PoD+" label="Top+" verse="JHN 11:28" >τοῦτο</reference>
+		<reference osisRef="JHN.11.33!1" type="Referential PoD+" label="Top+" verse="JHN 11:33" >ἰησοῦς</reference>
+		<reference osisRef="JHN.11.38!1" type="Referential PoD+" label="Top+" verse="JHN 11:38" >ἰησοῦς</reference>
+		<reference osisRef="JHN.11.47!14-JHN.11.47!16" type="Referential PoD+" label="Top+" verse="JHN 11:47" >οὗτος ὁ ἄνθρωπος</reference>
+		<reference osisRef="JHN.12.5!3-JHN.12.5!5" type="Referential PoD+" label="Top+" verse="JHN 12:5" >τοῦτο τὸ μύρον</reference>
+		<reference osisRef="JHN.12.16!16" type="Referential PoD+" label="Top+" verse="JHN 12:16" >ταῦτα</reference>
+		<reference osisRef="JHN.12.16!22" type="Referential PoD+" label="Top+" verse="JHN 12:16" >ταῦτα</reference>
+		<reference osisRef="JHN.12.21!1" type="Referential PoD+" label="Top+" verse="JHN 12:21" >οὗτοι</reference>
+		<reference osisRef="JHN.12.33!1" type="Referential PoD+" label="Top+" verse="JHN 12:33" >τοῦτο</reference>
+		<reference osisRef="JHN.12.36!13" type="Referential PoD+" label="Top+" verse="JHN 12:36" >ταῦτα</reference>
+		<reference osisRef="JHN.12.41!1" type="Referential PoD+" label="Top+" verse="JHN 12:41" >ταῦτα</reference>
+		<reference osisRef="JHN.12.44!1" type="Referential PoD+" label="Top+" verse="JHN 12:44" >ἰησοῦς</reference>
+		<reference osisRef="JHN.13.17!2" type="Referential PoD+" label="Top+" verse="JHN 13:17" >ταῦτα</reference>
+		<reference osisRef="JHN.13.21!1" type="Referential PoD+" label="Top+" verse="JHN 13:21" >ταῦτα</reference>
+		<reference osisRef="JHN.13.28!1" type="Referential PoD+" label="Top+" verse="JHN 13:28" >τοῦτο</reference>
+		<reference osisRef="JHN.14.25!1" type="Referential PoD+" label="Top+" verse="JHN 14:25" >ταῦτα</reference>
+		<reference osisRef="JHN.15.5!15" type="Referential PoD+" label="Top+" verse="JHN 15:5" >οὗτος</reference>
+		<reference osisRef="JHN.15.11!1" type="Referential PoD+" label="Top+" verse="JHN 15:11" >ταῦτα</reference>
+		<reference osisRef="JHN.15.17!1" type="Referential PoD+" label="Top+" verse="JHN 15:17" >ταῦτα</reference>
+		<reference osisRef="JHN.15.21!2-JHN.15.21!3" type="Referential PoD+" label="Top+" verse="JHN 15:21" >ταῦτα πάντα</reference>
+		<reference osisRef="JHN.16.1!1" type="Referential PoD+" label="Top+" verse="JHN 16:1" >ταῦτα</reference>
+		<reference osisRef="JHN.16.3!2" type="Referential PoD+" label="Top+" verse="JHN 16:3" >ταῦτα</reference>
+		<reference osisRef="JHN.16.4!2" type="Referential PoD+" label="Top+" verse="JHN 16:4" >ταῦτα</reference>
+		<reference osisRef="JHN.16.4!17" type="Referential PoD+" label="Top+" verse="JHN 16:4" >ταῦτα</reference>
+		<reference osisRef="JHN.16.6!3" type="Referential PoD+" label="Top+" verse="JHN 16:6" >ταῦτα</reference>
+		<reference osisRef="JHN.16.25!1" type="Referential PoD+" label="Top+" verse="JHN 16:25" >ταῦτα</reference>
+		<reference osisRef="JHN.16.33!1" type="Referential PoD+" label="Top+" verse="JHN 16:33" >ταῦτα</reference>
+		<reference osisRef="JHN.17.1!1" type="Referential PoD+" label="Top+" verse="JHN 17:1" >ταῦτα</reference>
+		<reference osisRef="JHN.17.13!7" type="Referential PoD+" label="Top+" verse="JHN 17:13" >ταῦτα</reference>
+		<reference osisRef="JHN.17.21!2" type="Referential PoD+" label="Top+" verse="JHN 17:21" >πάντες</reference>
+		<reference osisRef="JHN.17.25!14" type="Referential PoD+" label="Top+" verse="JHN 17:25" >οὗτοι</reference>
+		<reference osisRef="JHN.18.1!1" type="Referential PoD+" label="Top+" verse="JHN 18:1" >ταῦτα</reference>
+		<reference osisRef="JHN.18.4!1" type="Referential PoD+" label="Top+" verse="JHN 18:4" >ἰησοῦς</reference>
+		<reference osisRef="JHN.18.22!1" type="Referential PoD+" label="Top+" verse="JHN 18:22" >ταῦτα</reference>
+		<reference osisRef="JHN.19.20!1" type="Referential PoD+" label="Top+" verse="JHN 19:20" >τοῦτον</reference>
+		<reference osisRef="JHN.19.20!3-JHN.19.20!4" type="Referential PoD+" label="Top+" verse="JHN 19:20" >τὸν τίτλον</reference>
+		<reference osisRef="JHN.19.26!1" type="Referential PoD+" label="Top+" verse="JHN 19:26" >ἰησοῦς</reference>
+		<reference osisRef="JHN.20.11!1" type="Referential PoD+" label="Top+" verse="JHN 20:11" >μαρία</reference>
+		<reference osisRef="JHN.20.14!1" type="Referential PoD+" label="Top+" verse="JHN 20:14" >ταῦτα</reference>
+		<reference osisRef="JHN.20.15!9" type="Referential PoD+" label="Top+" verse="JHN 20:15" >ἐκείνη</reference>
+		<reference osisRef="JHN.20.20!2" type="Referential PoD+" label="Top+" verse="JHN 20:20" >τοῦτο</reference>
+		<reference osisRef="JHN.20.22!2" type="Referential PoD+" label="Top+" verse="JHN 20:22" >τοῦτο</reference>
+		<reference osisRef="JHN.20.31!7" type="Referential PoD+" label="Top+" verse="JHN 20:31" >ἰησοῦς</reference>
+		<reference osisRef="JHN.21.14!1" type="Referential PoD+" label="Top+" verse="JHN 21:14" >τοῦτο</reference>
+		<reference osisRef="JHN.21.19!1" type="Referential PoD+" label="Top+" verse="JHN 21:19" >τοῦτο</reference>
+		<reference osisRef="JHN.21.19!11" type="Referential PoD+" label="Top+" verse="JHN 21:19" >τοῦτο</reference>
+		<reference osisRef="JHN.21.21!10" type="Referential PoD+" label="Top+" verse="JHN 21:21" >οὗτος</reference>
+		<reference osisRef="JHN.21.24!1" type="Referential PoD+" label="Top+" verse="JHN 21:24" >οὗτός</reference>
+		<reference osisRef="ACT.1.9!2" type="Referential PoD+" label="Top+" verse="ACT 1:9" >ταῦτα</reference>
+		<reference osisRef="ACT.1.11!12-ACT.1.11!21" type="Referential PoD+" label="Top+" verse="ACT 1:11" >οὗτος ὁ ἰησοῦς ὁ ἀναλημφθεὶς ἀφ’ ὑμῶν εἰς τὸν οὐρανὸν</reference>
+		<reference osisRef="ACT.1.14!1-ACT.1.14!2" type="Referential PoD+" label="Top+" verse="ACT 1:14" >οὗτοι πάντες</reference>
+		<reference osisRef="ACT.1.18!1" type="Referential PoD+" label="Top+" verse="ACT 1:18" >οὗτος</reference>
+		<reference osisRef="ACT.1.19!18" type="Referential PoD+" label="Top+" verse="ACT 1:19" >τοῦτ’</reference>
+		<reference osisRef="ACT.2.7!8-ACT.2.7!9" type="Referential PoD+" label="Top+" verse="ACT 2:7" >ἅπαντες οὗτοί</reference>
+		<reference osisRef="ACT.2.15!6" type="Referential PoD+" label="Top+" verse="ACT 2:15" >οὗτοι</reference>
+		<reference osisRef="ACT.2.16!2" type="Referential PoD+" label="Top+" verse="ACT 2:16" >τοῦτό</reference>
+		<reference osisRef="ACT.2.23!1-ACT.2.23!12" type="Referential PoD+" label="Top+" verse="ACT 2:23" >τοῦτον τῇ ὡρισμένῃ βουλῇ καὶ προγνώσει τοῦ θεοῦ ἔκδοτον διὰ χειρὸς ἀνόμων</reference>
+		<reference osisRef="ACT.2.32!1-ACT.2.32!3" type="Referential PoD+" label="Top+" verse="ACT 2:32" >τοῦτον τὸν ἰησοῦν</reference>
+		<reference osisRef="ACT.2.38!1" type="Referential PoD+" label="Top+" verse="ACT 2:38" >πέτρος</reference>
+		<reference osisRef="ACT.3.1!1" type="Referential PoD+" label="Top+" verse="ACT 3:1" >πέτρος</reference>
+		<reference osisRef="ACT.3.1!3-ACT.3.1!4" type="Referential PoD+" label="Top+" verse="ACT 3:1" >καὶ ἰωάννης</reference>
+		<reference osisRef="ACT.4.8!2" type="Referential PoD+" label="Top+" verse="ACT 4:8" >πέτρος</reference>
+		<reference osisRef="ACT.4.11!1" type="Referential PoD+" label="Top+" verse="ACT 4:11" >οὗτός</reference>
+		<reference osisRef="ACT.5.31!1" type="Referential PoD+" label="Top+" verse="ACT 5:31" >τοῦτον</reference>
+		<reference osisRef="ACT.6.8!1" type="Referential PoD+" label="Top+" verse="ACT 6:8" >στέφανος</reference>
+		<reference osisRef="ACT.6.13!6-ACT.6.13!8" type="Referential PoD+" label="Top+" verse="ACT 6:13" >ὁ ἄνθρωπος οὗτος</reference>
+		<reference osisRef="ACT.6.14!6-ACT.6.14!9" type="Referential PoD+" label="Top+" verse="ACT 6:14" >ἰησοῦς ὁ ναζωραῖος οὗτος</reference>
+		<reference osisRef="ACT.7.1!6" type="Referential PoD+" label="Top+" verse="ACT 7:1" >ταῦτα</reference>
+		<reference osisRef="ACT.7.19!1" type="Referential PoD+" label="Top+" verse="ACT 7:19" >οὗτος</reference>
+		<reference osisRef="ACT.7.35!13" type="Referential PoD+" label="Top+" verse="ACT 7:35" >τοῦτον</reference>
+		<reference osisRef="ACT.7.36!1" type="Referential PoD+" label="Top+" verse="ACT 7:36" >οὗτος</reference>
+		<reference osisRef="ACT.7.37!1" type="Referential PoD+" label="Top+" verse="ACT 7:37" >οὗτός</reference>
+		<reference osisRef="ACT.7.38!1" type="Referential PoD+" label="Top+" verse="ACT 7:38" >οὗτός</reference>
+		<reference osisRef="ACT.7.60!16" type="Referential PoD+" label="Top+" verse="ACT 7:60" >τοῦτο</reference>
+		<reference osisRef="ACT.8.1!1" type="Referential PoD+" label="Top+" verse="ACT 8:1" >σαῦλος</reference>
+		<reference osisRef="ACT.8.3!1" type="Referential PoD+" label="Top+" verse="ACT 8:3" >σαῦλος</reference>
+		<reference osisRef="ACT.8.5!1" type="Referential PoD+" label="Top+" verse="ACT 8:5" >φίλιππος</reference>
+		<reference osisRef="ACT.8.10!9" type="Referential PoD+" label="Top+" verse="ACT 8:10" >οὗτός</reference>
+		<reference osisRef="ACT.8.20!1" type="Referential PoD+" label="Top+" verse="ACT 8:20" >πέτρος</reference>
+		<reference osisRef="ACT.8.26!22" type="Referential PoD+" label="Top+" verse="ACT 8:26" >αὕτη</reference>
+		<reference osisRef="ACT.8.39!7-ACT.8.39!8" type="Referential PoD+" label="Top+" verse="ACT 8:39" >πνεῦμα κυρίου</reference>
+		<reference osisRef="ACT.8.40!1" type="Referential PoD+" label="Top+" verse="ACT 8:40" >φίλιππος</reference>
+		<reference osisRef="ACT.9.20!10" type="Referential PoD+" label="Top+" verse="ACT 9:20" >οὗτός</reference>
+		<reference osisRef="ACT.9.21!9" type="Referential PoD+" label="Top+" verse="ACT 9:21" >οὗτός</reference>
+		<reference osisRef="ACT.9.22!1" type="Referential PoD+" label="Top+" verse="ACT 9:22" >σαῦλος</reference>
+		<reference osisRef="ACT.9.22!15" type="Referential PoD+" label="Top+" verse="ACT 9:22" >οὗτός</reference>
+		<reference osisRef="ACT.9.26!10" type="Referential PoD+" label="Top+" verse="ACT 9:26" >πάντες</reference>
+		<reference osisRef="ACT.9.27!1" type="Referential PoD+" label="Top+" verse="ACT 9:27" >βαρναβᾶς</reference>
+		<reference osisRef="ACT.9.32!3" type="Referential PoD+" label="Top+" verse="ACT 9:32" >πέτρον</reference>
+		<reference osisRef="ACT.9.36!13" type="Referential PoD+" label="Top+" verse="ACT 9:36" >αὕτη</reference>
+		<reference osisRef="ACT.10.6!1" type="Referential PoD+" label="Top+" verse="ACT 10:6" >οὗτος</reference>
+		<reference osisRef="ACT.10.15!2" type="Referential PoD+" label="Top+" verse="ACT 10:15" >φωνὴ</reference>
+		<reference osisRef="ACT.10.16!1" type="Referential PoD+" label="Top+" verse="ACT 10:16" >τοῦτο</reference>
+		<reference osisRef="ACT.10.32!11" type="Referential PoD+" label="Top+" verse="ACT 10:32" >οὗτος</reference>
+		<reference osisRef="ACT.10.36!13" type="Referential PoD+" label="Top+" verse="ACT 10:36" >οὗτός</reference>
+		<reference osisRef="ACT.10.40!1" type="Referential PoD+" label="Top+" verse="ACT 10:40" >τοῦτον</reference>
+		<reference osisRef="ACT.10.42!10" type="Referential PoD+" label="Top+" verse="ACT 10:42" >οὗτός</reference>
+		<reference osisRef="ACT.10.43!1" type="Referential PoD+" label="Top+" verse="ACT 10:43" >τούτῳ</reference>
+		<reference osisRef="ACT.11.10!1" type="Referential PoD+" label="Top+" verse="ACT 11:10" >τοῦτο</reference>
+		<reference osisRef="ACT.12.19!1" type="Referential PoD+" label="Top+" verse="ACT 12:19" >ἡρῴδης</reference>
+		<reference osisRef="ACT.12.25!1" type="Referential PoD+" label="Top+" verse="ACT 12:25" >βαρναβᾶς</reference>
+		<reference osisRef="ACT.12.25!3-ACT.12.25!4" type="Referential PoD+" label="Top+" verse="ACT 12:25" >καὶ σαῦλος</reference>
+		<reference osisRef="ACT.13.7!10" type="Referential PoD+" label="Top+" verse="ACT 13:7" >οὗτος</reference>
+		<reference osisRef="ACT.13.9!1" type="Referential PoD+" label="Top+" verse="ACT 13:9" >σαῦλος</reference>
+		<reference osisRef="ACT.13.13!14" type="Referential PoD+" label="Top+" verse="ACT 13:13" >ἰωάννης</reference>
+		<reference osisRef="ACT.13.23!1" type="Referential PoD+" label="Top+" verse="ACT 13:23" >τούτου</reference>
+		<reference osisRef="ACT.13.23!4-ACT.13.23!6" type="Referential PoD+" label="Top+" verse="ACT 13:23" >ἀπὸ τοῦ σπέρματος</reference>
+		<reference osisRef="ACT.13.33!2" type="Referential PoD+" label="Top+" verse="ACT 13:33" >ταύτην</reference>
+		<reference osisRef="ACT.13.38!8-ACT.13.38!9" type="Referential PoD+" label="Top+" verse="ACT 13:38" >διὰ τούτου</reference>
+		<reference osisRef="ACT.13.39!1-ACT.13.39!2" type="Referential PoD+" label="Top+" verse="ACT 13:39" >ἐν τούτῳ</reference>
+		<reference osisRef="ACT.14.9!1" type="Referential PoD+" label="Top+" verse="ACT 14:9" >οὗτος</reference>
+		<reference osisRef="ACT.14.18!2" type="Referential PoD+" label="Top+" verse="ACT 14:18" >ταῦτα</reference>
+		<reference osisRef="ACT.15.14!1" type="Referential PoD+" label="Top+" verse="ACT 15:14" >συμεὼν</reference>
+		<reference osisRef="ACT.15.15!2" type="Referential PoD+" label="Top+" verse="ACT 15:15" >τούτῳ</reference>
+		<reference osisRef="ACT.15.21!1" type="Referential PoD+" label="Top+" verse="ACT 15:21" >μωϋσῆς</reference>
+		<reference osisRef="ACT.15.32!6" type="Referential PoD+" label="Top+" verse="ACT 15:32" >αὐτοὶ</reference>
+		<reference osisRef="ACT.15.35!1" type="Referential PoD+" label="Top+" verse="ACT 15:35" >παῦλος</reference>
+		<reference osisRef="ACT.15.35!3-ACT.15.35!4" type="Referential PoD+" label="Top+" verse="ACT 15:35" >καὶ βαρναβᾶς</reference>
+		<reference osisRef="ACT.15.37!1" type="Referential PoD+" label="Top+" verse="ACT 15:37" >βαρναβᾶς</reference>
+		<reference osisRef="ACT.15.38!1" type="Referential PoD+" label="Top+" verse="ACT 15:38" >παῦλος</reference>
+		<reference osisRef="ACT.15.40!1" type="Referential PoD+" label="Top+" verse="ACT 15:40" >παῦλος</reference>
+		<reference osisRef="ACT.16.3!1" type="Referential PoD+" label="Top+" verse="ACT 16:3" >τοῦτον</reference>
+		<reference osisRef="ACT.16.17!1" type="Referential PoD+" label="Top+" verse="ACT 16:17" >αὕτη</reference>
+		<reference osisRef="ACT.16.17!9-ACT.16.17!11" type="Referential PoD+" label="Top+" verse="ACT 16:17" >οὗτοι οἱ ἄνθρωποι</reference>
+		<reference osisRef="ACT.16.18!1" type="Referential PoD+" label="Top+" verse="ACT 16:18" >τοῦτο</reference>
+		<reference osisRef="ACT.16.20!7-ACT.16.20!9" type="Referential PoD+" label="Top+" verse="ACT 16:20" >οὗτοι οἱ ἄνθρωποι</reference>
+		<reference osisRef="ACT.16.25!5-ACT.16.25!7" type="Referential PoD+" label="Top+" verse="ACT 16:25" >παῦλος καὶ σιλᾶς</reference>
+		<reference osisRef="ACT.16.26!19" type="Referential PoD+" label="Top+" verse="ACT 16:26" >πάντων</reference>
+		<reference osisRef="ACT.17.6!19" type="Referential PoD+" label="Top+" verse="ACT 17:6" >οὗτοι</reference>
+		<reference osisRef="ACT.17.7!5-ACT.17.7!6" type="Referential PoD+" label="Top+" verse="ACT 17:7" >οὗτοι πάντες</reference>
+		<reference osisRef="ACT.17.11!1" type="Referential PoD+" label="Top+" verse="ACT 17:11" >οὗτοι</reference>
+		<reference osisRef="ACT.17.24!12" type="Referential PoD+" label="Top+" verse="ACT 17:24" >οὗτος</reference>
+		<reference osisRef="ACT.18.25!1" type="Referential PoD+" label="Top+" verse="ACT 18:25" >οὗτος</reference>
+		<reference osisRef="ACT.18.26!1" type="Referential PoD+" label="Top+" verse="ACT 18:26" >οὗτός</reference>
+		<reference osisRef="ACT.19.1!10" type="Referential PoD+" label="Top+" verse="ACT 19:1" >παῦλον</reference>
+		<reference osisRef="ACT.19.4!18" type="Referential PoD+" label="Top+" verse="ACT 19:4" >τοῦτ’</reference>
+		<reference osisRef="ACT.19.10!1" type="Referential PoD+" label="Top+" verse="ACT 19:10" >τοῦτο</reference>
+		<reference osisRef="ACT.19.17!1" type="Referential PoD+" label="Top+" verse="ACT 19:17" >τοῦτο</reference>
+		<reference osisRef="ACT.19.26!14-ACT.19.26!16" type="Referential PoD+" label="Top+" verse="ACT 19:26" >ὁ παῦλος οὗτος</reference>
+		<reference osisRef="ACT.19.30!1" type="Referential PoD+" label="Top+" verse="ACT 19:30" >παύλου</reference>
+		<reference osisRef="ACT.19.40!23" type="Referential PoD+" label="Top+" verse="ACT 19:40" >ταῦτα</reference>
+		<reference osisRef="ACT.20.5!1" type="Referential PoD+" label="Top+" verse="ACT 20:5" >οὗτοι</reference>
+		<reference osisRef="ACT.20.30!2-ACT.20.30!4" type="Referential PoD+" label="Top+" verse="ACT 20:30" >ἐξ ὑμῶν αὐτῶν</reference>
+		<reference osisRef="ACT.20.34!1" type="Referential PoD+" label="Top+" verse="ACT 20:34" >αὐτοὶ</reference>
+		<reference osisRef="ACT.20.36!2" type="Referential PoD+" label="Top+" verse="ACT 20:36" >ταῦτα</reference>
+		<reference osisRef="ACT.21.9!1" type="Referential PoD+" label="Top+" verse="ACT 21:9" >τούτῳ</reference>
+		<reference osisRef="ACT.21.20!21" type="Referential PoD+" label="Top+" verse="ACT 21:20" >πάντες</reference>
+		<reference osisRef="ACT.21.24!1" type="Referential PoD+" label="Top+" verse="ACT 21:24" >τούτους</reference>
+		<reference osisRef="ACT.21.28!5" type="Referential PoD+" label="Top+" verse="ACT 21:28" >οὗτός</reference>
+		<reference osisRef="ACT.22.19!4" type="Referential PoD+" label="Top+" verse="ACT 22:19" >αὐτοὶ</reference>
+		<reference osisRef="ACT.22.20!10-ACT.22.20!11" type="Referential PoD+" label="Top+" verse="ACT 22:20" >καὶ αὐτὸς</reference>
+		<reference osisRef="ACT.22.26!13" type="Referential PoD+" label="Top+" verse="ACT 22:26" >ὁ</reference>
+		<reference osisRef="ACT.22.26!15-ACT.22.26!16" type="Referential PoD+" label="Top+" verse="ACT 22:26" >ἄνθρωπος οὗτος</reference>
+		<reference osisRef="ACT.23.7!1" type="Referential PoD+" label="Top+" verse="ACT 23:7" >τοῦτο</reference>
+		<reference osisRef="ACT.23.22!12" type="Referential PoD+" label="Top+" verse="ACT 23:22" >ταῦτα</reference>
+		<reference osisRef="ACT.23.27!1-ACT.23.27!3" type="Referential PoD+" label="Top+" verse="ACT 23:27" >τὸν ἄνδρα τοῦτον</reference>
+		<reference osisRef="ACT.24.9!7" type="Referential PoD+" label="Top+" verse="ACT 24:9" >ταῦτα</reference>
+		<reference osisRef="ACT.25.1!1" type="Referential PoD+" label="Top+" verse="ACT 25:1" >φῆστος</reference>
+		<reference osisRef="ACT.25.11!19" type="Referential PoD+" label="Top+" verse="ACT 25:11" >οὗτοι</reference>
+		<reference osisRef="ACT.25.22!1" type="Referential PoD+" label="Top+" verse="ACT 25:22" >ἀγρίππας</reference>
+		<reference osisRef="ACT.25.25!9" type="Referential PoD+" label="Top+" verse="ACT 25:25" >αὐτοῦ</reference>
+		<reference osisRef="ACT.25.25!11" type="Referential PoD+" label="Top+" verse="ACT 25:25" >τούτου</reference>
+		<reference osisRef="ACT.26.1!1" type="Referential PoD+" label="Top+" verse="ACT 26:1" >ἀγρίππας</reference>
+		<reference osisRef="ACT.26.24!1" type="Referential PoD+" label="Top+" verse="ACT 26:24" >ταῦτα</reference>
+		<reference osisRef="ACT.26.32!1" type="Referential PoD+" label="Top+" verse="ACT 26:32" >ἀγρίππας</reference>
+		<reference osisRef="ACT.27.31!11" type="Referential PoD+" label="Top+" verse="ACT 27:31" >οὗτοι</reference>
+		<reference osisRef="ACT.27.34!6" type="Referential PoD+" label="Top+" verse="ACT 27:34" >τοῦτο</reference>
+		<reference osisRef="ACT.28.9!1" type="Referential PoD+" label="Top+" verse="ACT 28:9" >τούτου</reference>
+		<reference osisRef="ACT.28.22!8" type="Referential PoD+" label="Top+" verse="ACT 28:22" >περὶ</reference>
+		<reference osisRef="ACT.28.22!11-ACT.28.22!13" type="Referential PoD+" label="Top+" verse="ACT 28:22" >τῆς αἱρέσεως ταύτης</reference>
+		<reference osisRef="ROM.1.12!1" type="Referential PoD+" label="Top+" verse="ROM 1:12" >τοῦτο</reference>
+		<reference osisRef="ROM.2.14!13" type="Referential PoD+" label="Top+" verse="ROM 2:14" >οὗτοι</reference>
+		<reference osisRef="ROM.3.23!1" type="Referential PoD+" label="Top+" verse="ROM 3:23" >πάντες</reference>
+		<reference osisRef="ROM.3.31!1" type="Referential PoD+" label="Top+" verse="ROM 3:31" >νόμον</reference>
+		<reference osisRef="ROM.4.9!1-ROM.4.9!2" type="Referential PoD+" label="Top+" verse="ROM 4:9" >ὁ μακαρισμὸς</reference>
+		<reference osisRef="ROM.4.9!4" type="Referential PoD+" label="Top+" verse="ROM 4:9" >οὗτος</reference>
+		<reference osisRef="ROM.5.6!3" type="Referential PoD+" label="Top+" verse="ROM 5:6" >χριστὸς</reference>
+		<reference osisRef="ROM.7.10!12" type="Referential PoD+" label="Top+" verse="ROM 7:10" >αὕτη</reference>
+		<reference osisRef="ROM.7.18!8" type="Referential PoD+" label="Top+" verse="ROM 7:18" >τοῦτ’</reference>
+		<reference osisRef="ROM.7.24!7-ROM.7.24!12" type="Referential PoD+" label="Top+" verse="ROM 7:24" >ἐκ τοῦ σώματος τοῦ θανάτου τούτου</reference>
+		<reference osisRef="ROM.8.9!23" type="Referential PoD+" label="Top+" verse="ROM 8:9" >οὗτος</reference>
+		<reference osisRef="ROM.8.14!6" type="Referential PoD+" label="Top+" verse="ROM 8:14" >οὗτοι</reference>
+		<reference osisRef="ROM.8.21!2-ROM.8.21!5" type="Referential PoD+" label="Top+" verse="ROM 8:21" >καὶ αὐτὴ ἡ κτίσις</reference>
+		<reference osisRef="ROM.8.26!19-ROM.8.26!21" type="Referential PoD+" label="Top+" verse="ROM 8:26" >αὐτὸ τὸ πνεῦμα</reference>
+		<reference osisRef="ROM.8.30!4" type="Referential PoD+" label="Top+" verse="ROM 8:30" >τούτους</reference>
+		<reference osisRef="ROM.8.30!10" type="Referential PoD+" label="Top+" verse="ROM 8:30" >τούτους</reference>
+		<reference osisRef="ROM.8.30!16" type="Referential PoD+" label="Top+" verse="ROM 8:30" >τούτους</reference>
+		<reference osisRef="ROM.9.8!1" type="Referential PoD+" label="Top+" verse="ROM 9:8" >τοῦτ’</reference>
+		<reference osisRef="ROM.10.6!19" type="Referential PoD+" label="Top+" verse="ROM 10:6" >τοῦτ’</reference>
+		<reference osisRef="ROM.10.7!7" type="Referential PoD+" label="Top+" verse="ROM 10:7" >τοῦτ’</reference>
+		<reference osisRef="ROM.10.8!18" type="Referential PoD+" label="Top+" verse="ROM 10:8" >τοῦτ’</reference>
+		<reference osisRef="ROM.10.12!9" type="Referential PoD+" label="Top+" verse="ROM 10:12" >ὁ</reference>
+		<reference osisRef="ROM.10.12!11-ROM.10.12!13" type="Referential PoD+" label="Top+" verse="ROM 10:12" >αὐτὸς κύριος πάντων</reference>
+		<reference osisRef="ROM.11.7!6" type="Referential PoD+" label="Top+" verse="ROM 11:7" >τοῦτο</reference>
+		<reference osisRef="ROM.11.31!3" type="Referential PoD+" label="Top+" verse="ROM 11:31" >οὗτοι</reference>
+		<reference osisRef="ROM.16.18!1" type="Referential PoD+" label="Top+" verse="ROM 16:18" >οἱ</reference>
+		<reference osisRef="ROM.16.18!3" type="Referential PoD+" label="Top+" verse="ROM 16:18" >τοιοῦτοι</reference>
+		<reference osisRef="1CO.3.23!4" type="Referential PoD+" label="Top+" verse="1CO 3:23" >χριστὸς</reference>
+		<reference osisRef="1CO.4.6!1" type="Referential PoD+" label="Top+" verse="1CO 4:6" >ταῦτα</reference>
+		<reference osisRef="1CO.6.11!2" type="Referential PoD+" label="Top+" verse="1CO 6:11" >ταῦτά</reference>
+		<reference osisRef="1CO.6.12!13" type="Referential PoD+" label="Top+" verse="1CO 6:12" >ἐγὼ</reference>
+		<reference osisRef="1CO.7.6!1" type="Referential PoD+" label="Top+" verse="1CO 7:6" >τοῦτο</reference>
+		<reference osisRef="1CO.7.12!16" type="Referential PoD+" label="Top+" verse="1CO 7:12" >αὕτη</reference>
+		<reference osisRef="1CO.7.13!9" type="Referential PoD+" label="Top+" verse="1CO 7:13" >οὗτος</reference>
+		<reference osisRef="1CO.7.26!3" type="Referential PoD+" label="Top+" verse="1CO 7:26" >τοῦτο</reference>
+		<reference osisRef="1CO.7.35!1" type="Referential PoD+" label="Top+" verse="1CO 7:35" >τοῦτο</reference>
+		<reference osisRef="1CO.8.1!7" type="Referential PoD+" label="Top+" verse="1CO 8:1" >πάντες</reference>
+		<reference osisRef="1CO.8.3!7" type="Referential PoD+" label="Top+" verse="1CO 8:3" >οὗτος</reference>
+		<reference osisRef="1CO.8.9!5-1CO.8.9!8" type="Referential PoD+" label="Top+" verse="1CO 8:9" >ἡ ἐξουσία ὑμῶν αὕτη</reference>
+		<reference osisRef="1CO.10.1!17" type="Referential PoD+" label="Top+" verse="1CO 10:1" >πάντες</reference>
+		<reference osisRef="1CO.10.2!2" type="Referential PoD+" label="Top+" verse="1CO 10:2" >πάντες</reference>
+		<reference osisRef="1CO.10.3!2" type="Referential PoD+" label="Top+" verse="1CO 10:3" >πάντες</reference>
+		<reference osisRef="1CO.10.4!2" type="Referential PoD+" label="Top+" verse="1CO 10:4" >πάντες</reference>
+		<reference osisRef="1CO.10.6!1" type="Referential PoD+" label="Top+" verse="1CO 10:6" >ταῦτα</reference>
+		<reference osisRef="1CO.10.11!1" type="Referential PoD+" label="Top+" verse="1CO 10:11" >ταῦτα</reference>
+		<reference osisRef="1CO.10.28!6" type="Referential PoD+" label="Top+" verse="1CO 10:28" >τοῦτο</reference>
+		<reference osisRef="1CO.10.31!9" type="Referential PoD+" label="Top+" verse="1CO 10:31" >πάντα</reference>
+		<reference osisRef="1CO.11.24!6" type="Referential PoD+" label="Top+" verse="1CO 11:24" >τοῦτό</reference>
+		<reference osisRef="1CO.11.24!14" type="Referential PoD+" label="Top+" verse="1CO 11:24" >τοῦτο</reference>
+		<reference osisRef="1CO.11.25!9-1CO.11.25!11" type="Referential PoD+" label="Top+" verse="1CO 11:25" >τοῦτο τὸ ποτήριον</reference>
+		<reference osisRef="1CO.11.25!20" type="Referential PoD+" label="Top+" verse="1CO 11:25" >τοῦτο</reference>
+		<reference osisRef="1CO.12.11!1" type="Referential PoD+" label="Top+" verse="1CO 12:11" >πάντα</reference>
+		<reference osisRef="1CO.12.11!3" type="Referential PoD+" label="Top+" verse="1CO 12:11" >ταῦτα</reference>
+		<reference osisRef="1CO.12.13!3-1CO.12.13!5" type="Referential PoD+" label="Top+" verse="1CO 12:13" >ἐν ἑνὶ πνεύματι</reference>
+		<reference osisRef="1CO.12.13!21" type="Referential PoD+" label="Top+" verse="1CO 12:13" >πάντες</reference>
+		<reference osisRef="1CO.12.23!8" type="Referential PoD+" label="Top+" verse="1CO 12:23" >τούτοις</reference>
+		<reference osisRef="1CO.12.29!2" type="Referential PoD+" label="Top+" verse="1CO 12:29" >πάντες</reference>
+		<reference osisRef="1CO.12.29!5" type="Referential PoD+" label="Top+" verse="1CO 12:29" >πάντες</reference>
+		<reference osisRef="1CO.12.29!8" type="Referential PoD+" label="Top+" verse="1CO 12:29" >πάντες</reference>
+		<reference osisRef="1CO.12.29!11" type="Referential PoD+" label="Top+" verse="1CO 12:29" >πάντες</reference>
+		<reference osisRef="1CO.12.30!2" type="Referential PoD+" label="Top+" verse="1CO 12:30" >πάντες</reference>
+		<reference osisRef="1CO.12.30!7" type="Referential PoD+" label="Top+" verse="1CO 12:30" >πάντες</reference>
+		<reference osisRef="1CO.12.30!11" type="Referential PoD+" label="Top+" verse="1CO 12:30" >πάντες</reference>
+		<reference osisRef="1CO.14.23!11" type="Referential PoD+" label="Top+" verse="1CO 14:23" >πάντες</reference>
+		<reference osisRef="1CO.14.26!18" type="Referential PoD+" label="Top+" verse="1CO 14:26" >πάντα</reference>
+		<reference osisRef="1CO.14.40!1" type="Referential PoD+" label="Top+" verse="1CO 14:40" >πάντα</reference>
+		<reference osisRef="1CO.15.3!10" type="Referential PoD+" label="Top+" verse="1CO 15:3" >χριστὸς</reference>
+		<reference osisRef="1CO.15.51!5" type="Referential PoD+" label="Top+" verse="1CO 15:51" >πάντες</reference>
+		<reference osisRef="1CO.15.51!8" type="Referential PoD+" label="Top+" verse="1CO 15:51" >πάντες</reference>
+		<reference osisRef="1CO.15.54!3-1CO.15.54!5" type="Referential PoD+" label="Top+" verse="1CO 15:54" >τὸ φθαρτὸν τοῦτο</reference>
+		<reference osisRef="1CO.15.54!9-1CO.15.54!11" type="Referential PoD+" label="Top+" verse="1CO 15:54" >τὸ θνητὸν τοῦτο</reference>
+		<reference osisRef="2CO.1.9!2" type="Referential PoD+" label="Top+" verse="2CO 1:9" >αὐτοὶ</reference>
+		<reference osisRef="2CO.1.17!1" type="Referential PoD+" label="Top+" verse="2CO 1:17" >τοῦτο</reference>
+		<reference osisRef="2CO.2.16!16-2CO.2.16!17" type="Referential PoD+" label="Top+" verse="2CO 2:16" >πρὸς ταῦτα</reference>
+		<reference osisRef="2CO.3.13!4" type="Referential PoD+" label="Top+" verse="2CO 3:13" >μωϋσῆς</reference>
+		<reference osisRef="2CO.3.14!11-2CO.3.14!13" type="Referential PoD+" label="Top+" verse="2CO 3:14" >τὸ αὐτὸ κάλυμμα</reference>
+		<reference osisRef="2CO.7.11!3-2CO.7.11!8" type="Referential PoD+" label="Top+" verse="2CO 7:11" >αὐτὸ τοῦτο τὸ κατὰ θεὸν λυπηθῆναι</reference>
+		<reference osisRef="2CO.8.10!6" type="Referential PoD+" label="Top+" verse="2CO 8:10" >τοῦτο</reference>
+		<reference osisRef="2CO.9.5!17" type="Referential PoD+" label="Top+" verse="2CO 9:5" >ταύτην</reference>
+		<reference osisRef="2CO.10.1!1" type="Referential PoD+" label="Top+" verse="2CO 10:1" >αὐτὸς</reference>
+		<reference osisRef="2CO.10.1!3-2CO.10.1!4" type="Referential PoD+" label="Top+" verse="2CO 10:1" >ἐγὼ παῦλος</reference>
+		<reference osisRef="2CO.10.11!13" type="Referential PoD+" label="Top+" verse="2CO 10:11" >τοιοῦτοι</reference>
+		<reference osisRef="2CO.11.10!7-2CO.11.10!9" type="Referential PoD+" label="Top+" verse="2CO 11:10" >ἡ καύχησις αὕτη</reference>
+		<reference osisRef="2CO.11.13!1" type="Referential PoD+" label="Top+" verse="2CO 11:13" >οἱ</reference>
+		<reference osisRef="2CO.11.13!3" type="Referential PoD+" label="Top+" verse="2CO 11:13" >τοιοῦτοι</reference>
+		<reference osisRef="2CO.11.14!4" type="Referential PoD+" label="Top+" verse="2CO 11:14" >αὐτὸς</reference>
+		<reference osisRef="2CO.11.14!6-2CO.11.14!7" type="Referential PoD+" label="Top+" verse="2CO 11:14" >ὁ σατανᾶς</reference>
+		<reference osisRef="2CO.12.13!13-2CO.12.13!14" type="Referential PoD+" label="Top+" verse="2CO 12:13" >αὐτὸς ἐγὼ</reference>
+		<reference osisRef="GAL.2.18!5" type="Referential PoD+" label="Top+" verse="GAL 2:18" >ταῦτα</reference>
+		<reference osisRef="GAL.3.7!7" type="Referential PoD+" label="Top+" verse="GAL 3:7" >οὗτοι</reference>
+		<reference osisRef="GAL.4.24!4" type="Referential PoD+" label="Top+" verse="GAL 4:24" >αὗται</reference>
+		<reference osisRef="GAL.5.17!14" type="Referential PoD+" label="Top+" verse="GAL 5:17" >ταῦτα</reference>
+		<reference osisRef="GAL.5.23!3-GAL.5.23!5" type="Referential PoD+" label="Top+" verse="GAL 5:23" >κατὰ τῶν τοιούτων</reference>
+		<reference osisRef="GAL.6.7!11" type="Referential PoD+" label="Top+" verse="GAL 6:7" >τοῦτο</reference>
+		<reference osisRef="EPH.2.8!9" type="Referential PoD+" label="Top+" verse="EPH 2:8" >τοῦτο</reference>
+		<reference osisRef="EPH.5.23!14" type="Referential PoD+" label="Top+" verse="EPH 5:23" >αὐτὸς</reference>
+		<reference osisRef="EPH.5.32!1-EPH.5.32!3" type="Referential PoD+" label="Top+" verse="EPH 5:32" >τὸ μυστήριον τοῦτο</reference>
+		<reference osisRef="EPH.6.1!9" type="Referential PoD+" label="Top+" verse="EPH 6:1" >τοῦτο</reference>
+		<reference osisRef="EPH.6.8!8" type="Referential PoD+" label="Top+" verse="EPH 6:8" >τοῦτο</reference>
+		<reference osisRef="PHP.1.7!5" type="Referential PoD+" label="Top+" verse="PHP 1:7" >τοῦτο</reference>
+		<reference osisRef="PHP.1.19!4" type="Referential PoD+" label="Top+" verse="PHP 1:19" >τοῦτό</reference>
+		<reference osisRef="PHP.1.22!7" type="Referential PoD+" label="Top+" verse="PHP 1:22" >τοῦτό</reference>
+		<reference osisRef="PHP.1.25!2" type="Referential PoD+" label="Top+" verse="PHP 1:25" >τοῦτο</reference>
+		<reference osisRef="PHP.1.28!18" type="Referential PoD+" label="Top+" verse="PHP 1:28" >τοῦτο</reference>
+		<reference osisRef="PHP.2.11!2-PHP.2.11!3" type="Referential PoD+" label="Top+" verse="PHP 2:11" >πᾶσα γλῶσσα</reference>
+		<reference osisRef="PHP.2.23!1" type="Referential PoD+" label="Top+" verse="PHP 2:23" >τοῦτον</reference>
+		<reference osisRef="PHP.2.29!10-PHP.2.29!11" type="Referential PoD+" label="Top+" verse="PHP 2:29" >τοὺς τοιούτους</reference>
+		<reference osisRef="PHP.3.7!6" type="Referential PoD+" label="Top+" verse="PHP 3:7" >ταῦτα</reference>
+		<reference osisRef="COL.2.4!1" type="Referential PoD+" label="Top+" verse="COL 2:4" >τοῦτο</reference>
+		<reference osisRef="COL.3.20!8" type="Referential PoD+" label="Top+" verse="COL 3:20" >τοῦτο</reference>
+		<reference osisRef="COL.4.11!10" type="Referential PoD+" label="Top+" verse="COL 4:11" >οὗτοι</reference>
+		<reference osisRef="1TH.2.1!1" type="Referential PoD+" label="Top+" verse="1TH 2:1" >αὐτοὶ</reference>
+		<reference osisRef="1TH.3.3!8" type="Referential PoD+" label="Top+" verse="1TH 3:3" >αὐτοὶ</reference>
+		<reference osisRef="1TH.3.11!1" type="Referential PoD+" label="Top+" verse="1TH 3:11" >αὐτὸς</reference>
+		<reference osisRef="1TH.3.11!3-1TH.3.11!4" type="Referential PoD+" label="Top+" verse="1TH 3:11" >ὁ θεὸς</reference>
+		<reference osisRef="1TH.4.9!10" type="Referential PoD+" label="Top+" verse="1TH 4:9" >αὐτοὶ</reference>
+		<reference osisRef="1TH.4.9!12" type="Referential PoD+" label="Top+" verse="1TH 4:9" >ὑμεῖς</reference>
+		<reference osisRef="1TH.4.14!5" type="Referential PoD+" label="Top+" verse="1TH 4:14" >ἰησοῦς</reference>
+		<reference osisRef="1TH.4.16!2-1TH.4.16!4" type="Referential PoD+" label="Top+" verse="1TH 4:16" >αὐτὸς ὁ κύριος</reference>
+		<reference osisRef="1TH.5.2!1" type="Referential PoD+" label="Top+" verse="1TH 5:2" >αὐτοὶ</reference>
+		<reference osisRef="1TH.5.18!4" type="Referential PoD+" label="Top+" verse="1TH 5:18" >τοῦτο</reference>
+		<reference osisRef="1TH.5.23!1" type="Referential PoD+" label="Top+" verse="1TH 5:23" >αὐτὸς</reference>
+		<reference osisRef="1TH.5.23!3-1TH.5.23!6" type="Referential PoD+" label="Top+" verse="1TH 5:23" >ὁ θεὸς τῆς εἰρήνης</reference>
+		<reference osisRef="1TH.5.23!11" type="Referential PoD+" label="Top+" verse="1TH 5:23" >ὁλόκληρον</reference>
+		<reference osisRef="2TH.1.4!2-2TH.1.4!3" type="Referential PoD+" label="Top+" verse="2TH 1:4" >αὐτοὺς ἡμᾶς</reference>
+		<reference osisRef="2TH.2.16!1" type="Referential PoD+" label="Top+" verse="2TH 2:16" >αὐτὸς</reference>
+		<reference osisRef="2TH.2.16!3-2TH.2.16!25" type="Referential PoD+" label="Top+" verse="2TH 2:16" >ὁ κύριος ἡμῶν ἰησοῦς χριστὸς καὶ ὁ θεὸς ὁ πατὴρ ἡμῶν ὁ ἀγαπήσας ἡμᾶς καὶ δοὺς παράκλησιν αἰωνίαν καὶ ἐλπίδα ἀγαθὴν ἐν χάριτι</reference>
+		<reference osisRef="2TH.3.7!1" type="Referential PoD+" label="Top+" verse="2TH 3:7" >αὐτοὶ</reference>
+		<reference osisRef="2TH.3.12!1" type="Referential PoD+" label="Top+" verse="2TH 3:12" >τοῖς</reference>
+		<reference osisRef="2TH.3.12!3" type="Referential PoD+" label="Top+" verse="2TH 3:12" >τοιούτοις</reference>
+		<reference osisRef="2TH.3.14!12" type="Referential PoD+" label="Top+" verse="2TH 3:14" >τοῦτον</reference>
+		<reference osisRef="2TH.3.16!1" type="Referential PoD+" label="Top+" verse="2TH 3:16" >αὐτὸς</reference>
+		<reference osisRef="2TH.3.16!3-2TH.3.16!6" type="Referential PoD+" label="Top+" verse="2TH 3:16" >ὁ κύριος τῆς εἰρήνης</reference>
+		<reference osisRef="1TI.2.3!1" type="Referential PoD+" label="Top+" verse="1TI 2:3" >τοῦτο</reference>
+		<reference osisRef="1TI.2.14!2" type="Referential PoD+" label="Top+" verse="1TI 2:14" >ἀδὰμ</reference>
+		<reference osisRef="1TI.3.10!1-1TI.3.10!2" type="Referential PoD+" label="Top+" verse="1TI 3:10" >καὶ οὗτοι</reference>
+		<reference osisRef="1TI.3.14!1" type="Referential PoD+" label="Top+" verse="1TI 3:14" >ταῦτά</reference>
+		<reference osisRef="1TI.4.6!1" type="Referential PoD+" label="Top+" verse="1TI 4:6" >ταῦτα</reference>
+		<reference osisRef="1TI.5.4!20" type="Referential PoD+" label="Top+" verse="1TI 5:4" >τοῦτο</reference>
+		<reference osisRef="1TI.5.21!13" type="Referential PoD+" label="Top+" verse="1TI 5:21" >ταῦτα</reference>
+		<reference osisRef="1TI.5.24!1-1TI.5.24!2" type="Referential PoD+" label="Top+" verse="1TI 5:24" >τινῶν ἀνθρώπων</reference>
+		<reference osisRef="2TI.2.2!9" type="Referential PoD+" label="Top+" verse="2TI 2:2" >ταῦτα</reference>
+		<reference osisRef="TIT.1.13!1-TIT.1.13!3" type="Referential PoD+" label="Top+" verse="TIT 1:13" >ἡ μαρτυρία αὕτη</reference>
+		<reference osisRef="TIT.2.15!1" type="Referential PoD+" label="Top+" verse="TIT 2:15" >ταῦτα</reference>
+		<reference osisRef="TIT.3.8!18" type="Referential PoD+" label="Top+" verse="TIT 3:8" >ταῦτά</reference>
+		<reference osisRef="PHM.1.9!6" type="Referential PoD+" label="Top+" verse="PHM 1:9" >τοιοῦτος</reference>
+		<reference osisRef="PHM.1.12!5" type="Referential PoD+" label="Top+" verse="PHM 1:12" >τοῦτ’</reference>
+		<reference osisRef="PHM.1.18!8" type="Referential PoD+" label="Top+" verse="PHM 1:18" >τοῦτο</reference>
+		<reference osisRef="HEB.2.14!26" type="Referential PoD+" label="Top+" verse="HEB 2:14" >τοῦτ’</reference>
+		<reference osisRef="HEB.6.3!2" type="Referential PoD+" label="Top+" verse="HEB 6:3" >τοῦτο</reference>
+		<reference osisRef="HEB.7.1!1" type="Referential PoD+" label="Top+" verse="HEB 7:1" >οὗτος</reference>
+		<reference osisRef="HEB.7.1!3-HEB.7.1!4" type="Referential PoD+" label="Top+" verse="HEB 7:1" >ὁ μελχισέδεκ</reference>
+		<reference osisRef="HEB.7.5!19" type="Referential PoD+" label="Top+" verse="HEB 7:5" >τοῦτ’</reference>
+		<reference osisRef="HEB.7.27!21" type="Referential PoD+" label="Top+" verse="HEB 7:27" >τοῦτο</reference>
+		<reference osisRef="HEB.9.6!1" type="Referential PoD+" label="Top+" verse="HEB 9:6" >τούτων</reference>
+		<reference osisRef="HEB.9.11!1" type="Referential PoD+" label="Top+" verse="HEB 9:11" >χριστὸς</reference>
+		<reference osisRef="HEB.9.11!16" type="Referential PoD+" label="Top+" verse="HEB 9:11" >τοῦτ’</reference>
+		<reference osisRef="HEB.9.20!2" type="Referential PoD+" label="Top+" verse="HEB 9:20" >τοῦτο</reference>
+		<reference osisRef="HEB.9.23!12" type="Referential PoD+" label="Top+" verse="HEB 9:23" >αὐτὰ</reference>
+		<reference osisRef="HEB.9.23!14-HEB.9.23!15" type="Referential PoD+" label="Top+" verse="HEB 9:23" >τὰ ἐπουράνια</reference>
+		<reference osisRef="HEB.10.12!1" type="Referential PoD+" label="Top+" verse="HEB 10:12" >οὗτος</reference>
+		<reference osisRef="HEB.10.20!11" type="Referential PoD+" label="Top+" verse="HEB 10:20" >τοῦτ’</reference>
+		<reference osisRef="HEB.11.11!2-HEB.11.11!4" type="Referential PoD+" label="Top+" verse="HEB 11:11" >καὶ αὐτὴ σάρρα</reference>
+		<reference osisRef="HEB.11.12!7" type="Referential PoD+" label="Top+" verse="HEB 11:12" >ταῦτα</reference>
+		<reference osisRef="HEB.11.16!5" type="Referential PoD+" label="Top+" verse="HEB 11:16" >τοῦτ’</reference>
+		<reference osisRef="HEB.11.39!2-HEB.11.39!3" type="Referential PoD+" label="Top+" verse="HEB 11:39" >οὗτοι πάντες</reference>
+		<reference osisRef="HEB.13.11!15" type="Referential PoD+" label="Top+" verse="HEB 13:11" >τούτων</reference>
+		<reference osisRef="HEB.13.15!11" type="Referential PoD+" label="Top+" verse="HEB 13:15" >τοῦτ’</reference>
+		<reference osisRef="JAS.1.23!10" type="Referential PoD+" label="Top+" verse="JAS 1:23" >οὗτος</reference>
+		<reference osisRef="JAS.1.25!19" type="Referential PoD+" label="Top+" verse="JAS 1:25" >οὗτος</reference>
+		<reference osisRef="JAS.1.26!14" type="Referential PoD+" label="Top+" verse="JAS 1:26" >τούτου</reference>
+		<reference osisRef="JAS.2.5!6-JAS.2.5!7" type="Referential PoD+" label="Top+" verse="JAS 2:5" >ὁ θεὸς</reference>
+		<reference osisRef="JAS.2.6!7-JAS.2.6!8" type="Referential PoD+" label="Top+" verse="JAS 2:6" >οἱ πλούσιοι</reference>
+		<reference osisRef="JAS.2.6!12" type="Referential PoD+" label="Top+" verse="JAS 2:6" >αὐτοὶ</reference>
+		<reference osisRef="JAS.2.7!2" type="Referential PoD+" label="Top+" verse="JAS 2:7" >αὐτοὶ</reference>
+		<reference osisRef="JAS.3.2!11" type="Referential PoD+" label="Top+" verse="JAS 3:2" >οὗτος</reference>
+		<reference osisRef="JAS.3.10!13" type="Referential PoD+" label="Top+" verse="JAS 3:10" >ταῦτα</reference>
+		<reference osisRef="JAS.4.16!8-JAS.4.16!10" type="Referential PoD+" label="Top+" verse="JAS 4:16" >πᾶσα καύχησις τοιαύτη</reference>
+		<reference osisRef="1PE.1.25!9" type="Referential PoD+" label="Top+" verse="1PE 1:25" >τοῦτο</reference>
+		<reference osisRef="1PE.2.7!14" type="Referential PoD+" label="Top+" verse="1PE 2:7" >οὗτος</reference>
+		<reference osisRef="1PE.2.20!15" type="Referential PoD+" label="Top+" verse="1PE 2:20" >τοῦτο</reference>
+		<reference osisRef="1PE.2.24!5" type="Referential PoD+" label="Top+" verse="1PE 2:24" >αὐτὸς</reference>
+		<reference osisRef="1PE.3.18!3" type="Referential PoD+" label="Top+" verse="1PE 3:18" >χριστὸς</reference>
+		<reference osisRef="1PE.3.20!17" type="Referential PoD+" label="Top+" verse="1PE 3:20" >τοῦτ’</reference>
+		<reference osisRef="1PE.4.1!1" type="Referential PoD+" label="Top+" verse="1PE 4:1" >χριστοῦ</reference>
+		<reference osisRef="1PE.4.10!1" type="Referential PoD+" label="Top+" verse="1PE 4:10" >ἕκαστος</reference>
+		<reference osisRef="1PE.4.15!3-1PE.4.15!4" type="Referential PoD+" label="Top+" verse="1PE 4:15" >τις ὑμῶν</reference>
+		<reference osisRef="1PE.5.9!7-1PE.5.9!10" type="Referential PoD+" label="Top+" verse="1PE 5:9" >τὰ αὐτὰ τῶν παθημάτων</reference>
+		<reference osisRef="1PE.5.10!19" type="Referential PoD+" label="Top+" verse="1PE 5:10" >αὐτὸς</reference>
+		<reference osisRef="1PE.5.12!15" type="Referential PoD+" label="Top+" verse="1PE 5:12" >ταύτην</reference>
+		<reference osisRef="2PE.1.8!1" type="Referential PoD+" label="Top+" verse="2PE 1:8" >ταῦτα</reference>
+		<reference osisRef="2PE.1.10!12" type="Referential PoD+" label="Top+" verse="2PE 1:10" >ταῦτα</reference>
+		<reference osisRef="2PE.1.18!2-2PE.1.18!4" type="Referential PoD+" label="Top+" verse="2PE 1:18" >ταύτην τὴν φωνὴν</reference>
+		<reference osisRef="2PE.2.12!1" type="Referential PoD+" label="Top+" verse="2PE 2:12" >οὗτοι</reference>
+		<reference osisRef="2PE.2.17!1" type="Referential PoD+" label="Top+" verse="2PE 2:17" >οὗτοί</reference>
+		<reference osisRef="2PE.2.19!4" type="Referential PoD+" label="Top+" verse="2PE 2:19" >αὐτοὶ</reference>
+		<reference osisRef="2PE.3.14!3" type="Referential PoD+" label="Top+" verse="2PE 3:14" >ταῦτα</reference>
+		<reference osisRef="1JN.1.4!2" type="Referential PoD+" label="Top+" verse="1JN 1:4" >ταῦτα</reference>
+		<reference osisRef="1JN.2.1!3" type="Referential PoD+" label="Top+" verse="1JN 2:1" >ταῦτα</reference>
+		<reference osisRef="1JN.2.5!8-1JN.2.5!10" type="Referential PoD+" label="Top+" verse="1JN 2:5" >ἀληθῶς ἐν τούτῳ</reference>
+		<reference osisRef="1JN.2.26!1" type="Referential PoD+" label="Top+" verse="1JN 2:26" >ταῦτα</reference>
+		<reference osisRef="1JN.2.27!22-1JN.2.27!24" type="Referential PoD+" label="Top+" verse="1JN 2:27" >τὸ αὐτοῦ χρῖσμα</reference>
+		<reference osisRef="1JN.4.3!15" type="Referential PoD+" label="Top+" verse="1JN 4:3" >τοῦτό</reference>
+		<reference osisRef="1JN.4.12!1" type="Referential PoD+" label="Top+" verse="1JN 4:12" >θεὸν</reference>
+		<reference osisRef="1JN.5.6!1" type="Referential PoD+" label="Top+" verse="1JN 5:6" >οὗτός</reference>
+		<reference osisRef="1JN.5.11!14-1JN.5.11!16" type="Referential PoD+" label="Top+" verse="1JN 5:11" >αὕτη ἡ ζωὴ</reference>
+		<reference osisRef="1JN.5.13!1" type="Referential PoD+" label="Top+" verse="1JN 5:13" >ταῦτα</reference>
+		<reference osisRef="1JN.5.20!28" type="Referential PoD+" label="Top+" verse="1JN 5:20" >οὗτός</reference>
+		<reference osisRef="2JN.1.7!16" type="Referential PoD+" label="Top+" verse="2JN 1:7" >οὗτός</reference>
+		<reference osisRef="2JN.1.9!20" type="Referential PoD+" label="Top+" verse="2JN 1:9" >οὗτος</reference>
+		<reference osisRef="JUD.1.8!3-JUD.1.8!5" type="Referential PoD+" label="Top+" verse="JUD 1:8" >καὶ οὗτοι ἐνυπνιαζόμενοι</reference>
+		<reference osisRef="JUD.1.10!1" type="Referential PoD+" label="Top+" verse="JUD 1:10" >οὗτοι</reference>
+		<reference osisRef="JUD.1.10!16-JUD.1.10!17" type="Referential PoD+" label="Top+" verse="JUD 1:10" >ἐν τούτοις</reference>
+		<reference osisRef="JUD.1.12!1" type="Referential PoD+" label="Top+" verse="JUD 1:12" >οὗτοί</reference>
+		<reference osisRef="JUD.1.16!1" type="Referential PoD+" label="Top+" verse="JUD 1:16" >οὗτοί</reference>
+		<reference osisRef="JUD.1.19!1" type="Referential PoD+" label="Top+" verse="JUD 1:19" >οὗτοί</reference>
+		<reference osisRef="REV.1.4!1" type="Referential PoD+" label="Top+" verse="REV 1:4" >ἰωάννης</reference>
+		<reference osisRef="REV.7.13!9-REV.7.13!15" type="Referential PoD+" label="Top+" verse="REV 7:13" >οὗτοι οἱ περιβεβλημένοι τὰς στολὰς τὰς λευκὰς</reference>
+		<reference osisRef="REV.7.14!11" type="Referential PoD+" label="Top+" verse="REV 7:14" >οὗτοί</reference>
+		<reference osisRef="REV.11.4!1" type="Referential PoD+" label="Top+" verse="REV 11:4" >οὗτοί</reference>
+		<reference osisRef="REV.11.6!1" type="Referential PoD+" label="Top+" verse="REV 11:6" >οὗτοι</reference>
+		<reference osisRef="REV.11.10!17-REV.11.10!20" type="Referential PoD+" label="Top+" verse="REV 11:10" >οὗτοι οἱ δύο προφῆται</reference>
+		<reference osisRef="REV.14.4!1" type="Referential PoD+" label="Top+" verse="REV 14:4" >οὗτοί</reference>
+		<reference osisRef="REV.14.4!11" type="Referential PoD+" label="Top+" verse="REV 14:4" >οὗτοι</reference>
+		<reference osisRef="REV.14.4!19" type="Referential PoD+" label="Top+" verse="REV 14:4" >οὗτοι</reference>
+		<reference osisRef="REV.17.13!1" type="Referential PoD+" label="Top+" verse="REV 17:13" >οὗτοι</reference>
+		<reference osisRef="REV.17.14!1" type="Referential PoD+" label="Top+" verse="REV 17:14" >οὗτοι</reference>
+		<reference osisRef="REV.17.16!10" type="Referential PoD+" label="Top+" verse="REV 17:16" >οὗτοι</reference>
+		<reference osisRef="REV.19.9!18" type="Referential PoD+" label="Top+" verse="REV 19:9" >οὗτοι</reference>
+		<reference osisRef="REV.20.5!12" type="Referential PoD+" label="Top+" verse="REV 20:5" >αὕτη</reference>
+		<reference osisRef="REV.20.6!12-REV.20.6!13" type="Referential PoD+" label="Top+" verse="REV 20:6" >ἐπὶ τούτων</reference>
+		<reference osisRef="REV.21.5!16-REV.21.5!18" type="Referential PoD+" label="Top+" verse="REV 21:5" >οὗτοι οἱ λόγοι</reference>
+		<reference osisRef="REV.22.6!4-REV.22.6!6" type="Referential PoD+" label="Top+" verse="REV 22:6" >οὗτοι οἱ λόγοι</reference>
+	</references>
+</markup>

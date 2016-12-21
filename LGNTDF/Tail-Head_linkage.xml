@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markup>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>Tail-Head linkage</name>
+		<description>Point of departure involving renewal - Tail-head linkage involves “the repetition in a subordinate clause, at the beginning (the ‘head’) of a new sentence, of at least the main verb of the previous sentence (the tail)” (Dooley &amp; Levinsohn 2001:16).</description>
+		<type name="markup" />
+		<defaultstyle label="T-H" bkcolor="" fontcolor="" brdrcolor="" brdrline="Solid" brdrpos="None" fontstyle="Italic" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
+	</header>
+	<references>
+		<reference osisRef="MAT.2.13!1-MAT.2.13!3" type="Tail-Head linkage" label="T-H" verse="MAT 2:13" >ἀναχωρησάντων δὲ αὐτῶν</reference>
+		<reference osisRef="MAT.6.7!1" type="Tail-Head linkage" label="T-H" verse="MAT 6:7" >προσευχόμενοι</reference>
+		<reference osisRef="MAT.7.28!3-MAT.7.28!9" type="Tail-Head linkage" label="T-H" verse="MAT 7:28" >ὅτε ἐτέλεσεν ὁ ἰησοῦς τοὺς λόγους τούτους</reference>
+		<reference osisRef="MAT.9.18!1-MAT.9.18!4" type="Tail-Head linkage" label="T-H" verse="MAT 9:18" >ταῦτα αὐτοῦ λαλοῦντος αὐτοῖς</reference>
+		<reference osisRef="MAT.10.19!1" type="Tail-Head linkage" label="T-H" verse="MAT 10:19" >ὅταν</reference>
+		<reference osisRef="MAT.10.19!3-MAT.10.19!4" type="Tail-Head linkage" label="T-H" verse="MAT 10:19" >παραδῶσιν ὑμᾶς</reference>
+		<reference osisRef="MAT.11.1!3-MAT.11.1!11" type="Tail-Head linkage" label="T-H" verse="MAT 11:1" >ὅτε ἐτέλεσεν ὁ ἰησοῦς διατάσσων τοῖς δώδεκα μαθηταῖς αὐτοῦ</reference>
+		<reference osisRef="MAT.12.46!1-MAT.12.46!5" type="Tail-Head linkage" label="T-H" verse="MAT 12:46" >ἔτι αὐτοῦ λαλοῦντος τοῖς ὄχλοις</reference>
+		<reference osisRef="MAT.13.4!2-MAT.13.4!5" type="Tail-Head linkage" label="T-H" verse="MAT 13:4" >ἐν τῷ σπείρειν αὐτὸν</reference>
+		<reference osisRef="MAT.13.53!3-MAT.13.53!9" type="Tail-Head linkage" label="T-H" verse="MAT 13:53" >ὅτε ἐτέλεσεν ὁ ἰησοῦς τὰς παραβολὰς ταύτας</reference>
+		<reference osisRef="MAT.17.5!1-MAT.17.5!3" type="Tail-Head linkage" label="T-H" verse="MAT 17:5" >ἔτι αὐτοῦ λαλοῦντος</reference>
+		<reference osisRef="MAT.19.1!3-MAT.19.1!9" type="Tail-Head linkage" label="T-H" verse="MAT 19:1" >ὅτε ἐτέλεσεν ὁ ἰησοῦς τοὺς λόγους τούτους</reference>
+		<reference osisRef="MAT.26.1!3-MAT.26.1!10" type="Tail-Head linkage" label="T-H" verse="MAT 26:1" >ὅτε ἐτέλεσεν ὁ ἰησοῦς πάντας τοὺς λόγους τούτους</reference>
+		<reference osisRef="MAT.26.47!2-MAT.26.47!4" type="Tail-Head linkage" label="T-H" verse="MAT 26:47" >ἔτι αὐτοῦ λαλοῦντος</reference>
+		<reference osisRef="MAT.27.31!2-MAT.27.31!4" type="Tail-Head linkage" label="T-H" verse="MAT 27:31" >ὅτε ἐνέπαιξαν αὐτῷ</reference>
+		<reference osisRef="MRK.2.19!20-MRK.2.19!26" type="Tail-Head linkage" label="T-H" verse="MRK 2:19" >ὅσον χρόνον ἔχουσιν τὸν νυμφίον μετ’ αὐτῶν</reference>
+		<reference osisRef="MRK.4.4!3-MRK.4.4!5" type="Tail-Head linkage" label="T-H" verse="MRK 4:4" >ἐν τῷ σπείρειν</reference>
+		<reference osisRef="MRK.14.43!3-MRK.14.43!5" type="Tail-Head linkage" label="T-H" verse="MRK 14:43" >ἔτι αὐτοῦ λαλοῦντος</reference>
+		<reference osisRef="MRK.16.19!6-MRK.16.19!9" type="Tail-Head linkage" label="T-H" verse="MRK 16:19" >μετὰ τὸ λαλῆσαι αὐτοῖς</reference>
+		<reference osisRef="LUK.8.5!10-LUK.8.5!13" type="Tail-Head linkage" label="T-H" verse="LUK 8:5" >ἐν τῷ σπείρειν αὐτὸν</reference>
+		<reference osisRef="LUK.8.8!14-LUK.8.8!15" type="Tail-Head linkage" label="T-H" verse="LUK 8:8" >ταῦτα λέγων</reference>
+		<reference osisRef="LUK.8.49!1-LUK.8.49!3" type="Tail-Head linkage" label="T-H" verse="LUK 8:49" >ἔτι αὐτοῦ λαλοῦντος</reference>
+		<reference osisRef="LUK.9.34!1" type="Tail-Head linkage" label="T-H" verse="LUK 9:34" >ταῦτα</reference>
+		<reference osisRef="LUK.9.34!3-LUK.9.34!4" type="Tail-Head linkage" label="T-H" verse="LUK 9:34" >αὐτοῦ λέγοντος</reference>
+		<reference osisRef="LUK.11.27!3-LUK.11.27!7" type="Tail-Head linkage" label="T-H" verse="LUK 11:27" >ἐν τῷ λέγειν αὐτὸν ταῦτα</reference>
+		<reference osisRef="LUK.13.17!2-LUK.13.17!4" type="Tail-Head linkage" label="T-H" verse="LUK 13:17" >ταῦτα λέγοντος αὐτοῦ</reference>
+		<reference osisRef="LUK.19.28!2-LUK.19.28!3" type="Tail-Head linkage" label="T-H" verse="LUK 19:28" >εἰπὼν ταῦτα</reference>
+		<reference osisRef="LUK.22.47!1-LUK.22.47!3" type="Tail-Head linkage" label="T-H" verse="LUK 22:47" >ἔτι αὐτοῦ λαλοῦντος</reference>
+		<reference osisRef="LUK.22.60!12-LUK.22.60!14" type="Tail-Head linkage" label="T-H" verse="LUK 22:60" >ἔτι λαλοῦντος αὐτοῦ</reference>
+		<reference osisRef="LUK.22.67!12-LUK.22.67!14" type="Tail-Head linkage" label="T-H" verse="LUK 22:67" >ἐὰν ὑμῖν εἴπω</reference>
+		<reference osisRef="LUK.23.46!16" type="Tail-Head linkage" label="T-H" verse="LUK 23:46" >τοῦτο</reference>
+		<reference osisRef="LUK.23.46!18" type="Tail-Head linkage" label="T-H" verse="LUK 23:46" >εἰπὼν</reference>
+		<reference osisRef="LUK.24.15!3-LUK.24.15!6" type="Tail-Head linkage" label="T-H" verse="LUK 24:15" >ἐν τῷ ὁμιλεῖν αὐτοὺς</reference>
+		<reference osisRef="LUK.24.36!1-LUK.24.36!4" type="Tail-Head linkage" label="T-H" verse="LUK 24:36" >ταῦτα δὲ αὐτῶν λαλούντων</reference>
+		<reference osisRef="LUK.24.40!2-LUK.24.40!3" type="Tail-Head linkage" label="T-H" verse="LUK 24:40" >τοῦτο εἰπὼν</reference>
+		<reference osisRef="LUK.24.51!3-LUK.24.51!7" type="Tail-Head linkage" label="T-H" verse="LUK 24:51" >ἐν τῷ εὐλογεῖν αὐτὸν αὐτοὺς</reference>
+		<reference osisRef="JHN.7.9!1" type="Tail-Head linkage" label="T-H" verse="JHN 7:9" >ταῦτα</reference>
+		<reference osisRef="JHN.7.9!3" type="Tail-Head linkage" label="T-H" verse="JHN 7:9" >εἰπὼν</reference>
+		<reference osisRef="JHN.8.30!1-JHN.8.30!3" type="Tail-Head linkage" label="T-H" verse="JHN 8:30" >ταῦτα αὐτοῦ λαλοῦντος</reference>
+		<reference osisRef="JHN.9.6!1-JHN.9.6!2" type="Tail-Head linkage" label="T-H" verse="JHN 9:6" >ταῦτα εἰπὼν</reference>
+		<reference osisRef="JHN.11.12!7-JHN.11.12!8" type="Tail-Head linkage" label="T-H" verse="JHN 11:12" >εἰ κεκοίμηται</reference>
+		<reference osisRef="JHN.11.28!2-JHN.11.28!3" type="Tail-Head linkage" label="T-H" verse="JHN 11:28" >τοῦτο εἰποῦσα</reference>
+		<reference osisRef="JHN.11.43!2-JHN.11.43!3" type="Tail-Head linkage" label="T-H" verse="JHN 11:43" >ταῦτα εἰπὼν</reference>
+		<reference osisRef="JHN.13.8!16-JHN.13.8!19" type="Tail-Head linkage" label="T-H" verse="JHN 13:8" >ἐὰν μὴ νίψω σε</reference>
+		<reference osisRef="JHN.13.21!1-JHN.13.21!4" type="Tail-Head linkage" label="T-H" verse="JHN 13:21" >ταῦτα εἰπὼν ὁ ἰησοῦς</reference>
+		<reference osisRef="JHN.13.31!1" type="Tail-Head linkage" label="T-H" verse="JHN 13:31" >ὅτε</reference>
+		<reference osisRef="JHN.13.31!3" type="Tail-Head linkage" label="T-H" verse="JHN 13:31" >ἐξῆλθεν</reference>
+		<reference osisRef="JHN.13.32!1-JHN.13.32!6" type="Tail-Head linkage" label="T-H" verse="JHN 13:32" >εἰ ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ</reference>
+		<reference osisRef="JHN.14.3!2-JHN.14.3!7" type="Tail-Head linkage" label="T-H" verse="JHN 14:3" >ἐὰν πορευθῶ καὶ ἑτοιμάσω τόπον ὑμῖν</reference>
+		<reference osisRef="JHN.18.1!1-JHN.18.1!3" type="Tail-Head linkage" label="T-H" verse="JHN 18:1" >ταῦτα εἰπὼν ἰησοῦς</reference>
+		<reference osisRef="JHN.18.6!1" type="Tail-Head linkage" label="T-H" verse="JHN 18:6" >ὡς</reference>
+		<reference osisRef="JHN.18.6!3-JHN.18.6!6" type="Tail-Head linkage" label="T-H" verse="JHN 18:6" >εἶπεν αὐτοῖς ἐγώ εἰμι</reference>
+		<reference osisRef="JHN.18.22!1" type="Tail-Head linkage" label="T-H" verse="JHN 18:22" >ταῦτα</reference>
+		<reference osisRef="JHN.18.22!3-JHN.18.22!4" type="Tail-Head linkage" label="T-H" verse="JHN 18:22" >αὐτοῦ εἰπόντος</reference>
+		<reference osisRef="JHN.18.38!9-JHN.18.38!10" type="Tail-Head linkage" label="T-H" verse="JHN 18:38" >τοῦτο εἰπὼν</reference>
+		<reference osisRef="JHN.20.11!9" type="Tail-Head linkage" label="T-H" verse="JHN 20:11" >ὡς</reference>
+		<reference osisRef="JHN.20.11!11" type="Tail-Head linkage" label="T-H" verse="JHN 20:11" >ἔκλαιεν</reference>
+		<reference osisRef="JHN.20.14!1-JHN.20.14!2" type="Tail-Head linkage" label="T-H" verse="JHN 20:14" >ταῦτα εἰποῦσα</reference>
+		<reference osisRef="JHN.20.20!2-JHN.20.20!3" type="Tail-Head linkage" label="T-H" verse="JHN 20:20" >τοῦτο εἰπὼν</reference>
+		<reference osisRef="JHN.20.22!2-JHN.20.22!3" type="Tail-Head linkage" label="T-H" verse="JHN 20:22" >τοῦτο εἰπὼν</reference>
+		<reference osisRef="JHN.21.19!11-JHN.21.19!12" type="Tail-Head linkage" label="T-H" verse="JHN 21:19" >τοῦτο εἰπὼν</reference>
+		<reference osisRef="JHN.21.21!1" type="Tail-Head linkage" label="T-H" verse="JHN 21:21" >τοῦτον</reference>
+		<reference osisRef="JHN.21.21!3-JHN.21.21!5" type="Tail-Head linkage" label="T-H" verse="JHN 21:21" >ἰδὼν ὁ πέτρος</reference>
+		<reference osisRef="ACT.1.9!2-ACT.1.9!3" type="Tail-Head linkage" label="T-H" verse="ACT 1:9" >ταῦτα εἰπὼν</reference>
+		<reference osisRef="ACT.4.1!1" type="Tail-Head linkage" label="T-H" verse="ACT 4:1" >λαλούντων</reference>
+		<reference osisRef="ACT.4.1!3-ACT.4.1!6" type="Tail-Head linkage" label="T-H" verse="ACT 4:1" >αὐτῶν πρὸς τὸν λαὸν</reference>
+		<reference osisRef="ACT.4.23!1" type="Tail-Head linkage" label="T-H" verse="ACT 4:23" >ἀπολυθέντες</reference>
+		<reference osisRef="ACT.7.60!16-ACT.7.60!17" type="Tail-Head linkage" label="T-H" verse="ACT 7:60" >τοῦτο εἰπὼν</reference>
+		<reference osisRef="ACT.14.18!2-ACT.14.18!3" type="Tail-Head linkage" label="T-H" verse="ACT 14:18" >ταῦτα λέγοντες</reference>
+		<reference osisRef="ACT.17.29!1" type="Tail-Head linkage" label="T-H" verse="ACT 17:29" >γένος</reference>
+		<reference osisRef="ACT.17.29!3-ACT.17.29!5" type="Tail-Head linkage" label="T-H" verse="ACT 17:29" >ὑπάρχοντες τοῦ θεοῦ</reference>
+		<reference osisRef="ACT.19.40!23-ACT.19.40!24" type="Tail-Head linkage" label="T-H" verse="ACT 19:40" >ταῦτα εἰπὼν</reference>
+		<reference osisRef="ACT.20.36!2-ACT.20.36!3" type="Tail-Head linkage" label="T-H" verse="ACT 20:36" >ταῦτα εἰπὼν</reference>
+		<reference osisRef="ACT.23.7!1" type="Tail-Head linkage" label="T-H" verse="ACT 23:7" >τοῦτο</reference>
+		<reference osisRef="ACT.23.7!3-ACT.23.7!4" type="Tail-Head linkage" label="T-H" verse="ACT 23:7" >αὐτοῦ εἰπόντος</reference>
+		<reference osisRef="ACT.26.24!1" type="Tail-Head linkage" label="T-H" verse="ACT 26:24" >ταῦτα</reference>
+		<reference osisRef="ACT.26.24!3-ACT.26.24!4" type="Tail-Head linkage" label="T-H" verse="ACT 26:24" >αὐτοῦ ἀπολογουμένου</reference>
+		<reference osisRef="ACT.27.35!1" type="Tail-Head linkage" label="T-H" verse="ACT 27:35" >εἴπας</reference>
+		<reference osisRef="ACT.27.35!3" type="Tail-Head linkage" label="T-H" verse="ACT 27:35" >ταῦτα</reference>
+		<reference osisRef="ROM.5.10!16" type="Tail-Head linkage" label="T-H" verse="ROM 5:10" >καταλλαγέντες</reference>
+		<reference osisRef="ROM.7.16!1" type="Tail-Head linkage" label="T-H" verse="ROM 7:16" >εἰ</reference>
+		<reference osisRef="ROM.7.16!3-ROM.7.16!7" type="Tail-Head linkage" label="T-H" verse="ROM 7:16" >ὃ οὐ θέλω τοῦτο ποιῶ</reference>
+		<reference osisRef="ROM.7.20!1" type="Tail-Head linkage" label="T-H" verse="ROM 7:20" >εἰ</reference>
+		<reference osisRef="ROM.7.20!3-ROM.7.20!8" type="Tail-Head linkage" label="T-H" verse="ROM 7:20" >ὃ οὐ θέλω ἐγὼ τοῦτο ποιῶ</reference>
+		<reference osisRef="ROM.8.17!1" type="Tail-Head linkage" label="T-H" verse="ROM 8:17" >εἰ</reference>
+		<reference osisRef="ROM.8.17!3" type="Tail-Head linkage" label="T-H" verse="ROM 8:17" >τέκνα</reference>
+		<reference osisRef="ROM.12.20!13" type="Tail-Head linkage" label="T-H" verse="ROM 12:20" >τοῦτο</reference>
+		<reference osisRef="ROM.12.20!15" type="Tail-Head linkage" label="T-H" verse="ROM 12:20" >ποιῶν</reference>
+		<reference osisRef="1CO.15.13!1" type="Tail-Head linkage" label="T-H" verse="1CO 15:13" >εἰ</reference>
+		<reference osisRef="1CO.15.13!3-1CO.15.13!6" type="Tail-Head linkage" label="T-H" verse="1CO 15:13" >ἀνάστασις νεκρῶν οὐκ ἔστιν</reference>
+		<reference osisRef="1CO.15.14!1" type="Tail-Head linkage" label="T-H" verse="1CO 15:14" >εἰ</reference>
+		<reference osisRef="1CO.15.14!3-1CO.15.14!5" type="Tail-Head linkage" label="T-H" verse="1CO 15:14" >χριστὸς οὐκ ἐγήγερται</reference>
+		<reference osisRef="1CO.15.17!1" type="Tail-Head linkage" label="T-H" verse="1CO 15:17" >εἰ</reference>
+		<reference osisRef="1CO.15.17!3-1CO.15.17!5" type="Tail-Head linkage" label="T-H" verse="1CO 15:17" >χριστὸς οὐκ ἐγήγερται</reference>
+		<reference osisRef="1CO.15.54!1" type="Tail-Head linkage" label="T-H" verse="1CO 15:54" >ὅταν</reference>
+		<reference osisRef="1CO.15.54!3-1CO.15.54!13" type="Tail-Head linkage" label="T-H" verse="1CO 15:54" >τὸ φθαρτὸν τοῦτο ἐνδύσηται ἀφθαρσίαν καὶ τὸ θνητὸν τοῦτο ἐνδύσηται ἀθανασίαν</reference>
+		<reference osisRef="GAL.1.10!12-GAL.1.10!15" type="Tail-Head linkage" label="T-H" verse="GAL 1:10" >εἰ ἔτι ἀνθρώποις ἤρεσκον</reference>
+		<reference osisRef="GAL.3.29!1" type="Tail-Head linkage" label="T-H" verse="GAL 3:29" >εἰ</reference>
+		<reference osisRef="GAL.3.29!3-GAL.3.29!4" type="Tail-Head linkage" label="T-H" verse="GAL 3:29" >ὑμεῖς χριστοῦ</reference>
+		<reference osisRef="GAL.4.7!7" type="Tail-Head linkage" label="T-H" verse="GAL 4:7" >εἰ</reference>
+		<reference osisRef="GAL.4.7!9" type="Tail-Head linkage" label="T-H" verse="GAL 4:7" >υἱός</reference>
+		<reference osisRef="1TH.5.8!3-1TH.5.8!4" type="Tail-Head linkage" label="T-H" verse="1TH 5:8" >ἡμέρας ὄντες</reference>
+		<reference osisRef="JAS.4.11!18" type="Tail-Head linkage" label="T-H" verse="JAS 4:11" >εἰ</reference>
+		<reference osisRef="JAS.4.11!20-JAS.4.11!21" type="Tail-Head linkage" label="T-H" verse="JAS 4:11" >νόμον κρίνεις</reference>
+		<reference osisRef="2PE.3.11!1-2PE.3.11!4" type="Tail-Head linkage" label="T-H" verse="2PE 3:11" >τούτων οὕτως πάντων λυομένων</reference>
+		<reference osisRef="2PE.3.14!3-2PE.3.14!4" type="Tail-Head linkage" label="T-H" verse="2PE 3:14" >ταῦτα προσδοκῶντες</reference>
+		<reference osisRef="1JN.2.24!9-1JN.2.24!16" type="Tail-Head linkage" label="T-H" verse="1JN 2:24" >ἐὰν ἐν ὑμῖν μείνῃ ὃ ἀπ’ ἀρχῆς ἠκούσατε</reference>
+		<reference osisRef="1JN.4.12!5-1JN.4.12!7" type="Tail-Head linkage" label="T-H" verse="1JN 4:12" >ἐὰν ἀγαπῶμεν ἀλλήλους</reference>
+		<reference osisRef="REV.1.12!11" type="Tail-Head linkage" label="T-H" verse="REV 1:12" >ἐπιστρέψας</reference>
+		<reference osisRef="REV.1.17!2-REV.1.17!4" type="Tail-Head linkage" label="T-H" verse="REV 1:17" >ὅτε εἶδον αὐτόν</reference>
+		<reference osisRef="REV.4.9!2-REV.4.9!22" type="Tail-Head linkage" label="T-H" verse="REV 4:9" >ὅταν δώσουσιν τὰ ζῷα δόξαν καὶ τιμὴν καὶ εὐχαριστίαν τῷ καθημένῳ ἐπὶ τῷ θρόνῳ τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
+		<reference osisRef="REV.10.3!9-REV.10.3!10" type="Tail-Head linkage" label="T-H" verse="REV 10:3" >ὅτε ἔκραξεν</reference>
+		<reference osisRef="REV.10.4!2-REV.10.4!6" type="Tail-Head linkage" label="T-H" verse="REV 10:4" >ὅτε ἐλάλησαν αἱ ἑπτὰ βρονταί</reference>
+		<reference osisRef="REV.10.10!23-REV.10.10!25" type="Tail-Head linkage" label="T-H" verse="REV 10:10" >ὅτε ἔφαγον αὐτό</reference>
+		<reference osisRef="REV.20.7!2-REV.20.7!6" type="Tail-Head linkage" label="T-H" verse="REV 20:7" >ὅταν τελεσθῇ τὰ χίλια ἔτη</reference>
+		<reference osisRef="REV.22.8!9-REV.22.8!12" type="Tail-Head linkage" label="T-H" verse="REV 22:8" >ὅτε ἤκουσα καὶ ἔβλεψα</reference>
+	</references>
+</markup>

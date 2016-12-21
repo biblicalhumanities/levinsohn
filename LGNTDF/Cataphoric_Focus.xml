@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markup>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>Cataphoric Focus</name>
+		<description>An expression that points forward to and highlights something which ‘is about to be expressed.’</description>
+		<type name="markup" />
+		<defaultstyle label="Cata" bkcolor="" fontcolor="" brdrcolor="#FFFF0000" brdrline="Dots" brdrpos="A,U,B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
+	</header>
+	<references>
+		<reference osisRef="MAT.1.18!7" type="Cataphoric Focus" label="Cata" verse="MAT 1:18" >οὕτως</reference>
+		<reference osisRef="MAT.2.5!9" type="Cataphoric Focus" label="Cata" verse="MAT 2:5" >οὕτως</reference>
+		<reference osisRef="MAT.6.9!1" type="Cataphoric Focus" label="Cata" verse="MAT 6:9" >οὕτως</reference>
+		<reference osisRef="MAT.10.2!8" type="Cataphoric Focus" label="Cata" verse="MAT 10:2" >ταῦτα</reference>
+		<reference osisRef="MAT.24.43!1" type="Cataphoric Focus" label="Cata" verse="MAT 24:43" >ἐκεῖνο</reference>
+		<reference osisRef="MRK.4.15!1" type="Cataphoric Focus" label="Cata" verse="MRK 4:15" >οὗτοι</reference>
+		<reference osisRef="MRK.4.16!2" type="Cataphoric Focus" label="Cata" verse="MRK 4:16" >οὗτοί</reference>
+		<reference osisRef="MRK.4.20!2" type="Cataphoric Focus" label="Cata" verse="MRK 4:20" >ἐκεῖνοί</reference>
+		<reference osisRef="MRK.4.26!3" type="Cataphoric Focus" label="Cata" verse="MRK 4:26" >οὕτως</reference>
+		<reference osisRef="MRK.10.19!1-MRK.10.19!2" type="Cataphoric Focus" label="Cata" verse="MRK 10:19" >τὰς ἐντολὰς</reference>
+		<reference osisRef="MRK.10.21!11" type="Cataphoric Focus" label="Cata" verse="MRK 10:21" >ἕν</reference>
+		<reference osisRef="MRK.12.10!2-MRK.12.10!4" type="Cataphoric Focus" label="Cata" verse="MRK 12:10" >τὴν γραφὴν ταύτην</reference>
+		<reference osisRef="MRK.12.24!6-MRK.12.24!7" type="Cataphoric Focus" label="Cata" verse="MRK 12:24" >διὰ τοῦτο</reference>
+		<reference osisRef="MRK.12.31!2" type="Cataphoric Focus" label="Cata" verse="MRK 12:31" >αὕτη</reference>
+		<reference osisRef="MRK.16.17!1" type="Cataphoric Focus" label="Cata" verse="MRK 16:17" >σημεῖα</reference>
+		<reference osisRef="MRK.16.17!5" type="Cataphoric Focus" label="Cata" verse="MRK 16:17" >ταῦτα</reference>
+		<reference osisRef="LUK.1.43!4" type="Cataphoric Focus" label="Cata" verse="LUK 1:43" >τοῦτο</reference>
+		<reference osisRef="LUK.2.12!2" type="Cataphoric Focus" label="Cata" verse="LUK 2:12" >τοῦτο</reference>
+		<reference osisRef="LUK.3.20!2-LUK.3.20!3" type="Cataphoric Focus" label="Cata" verse="LUK 3:20" >καὶ τοῦτο</reference>
+		<reference osisRef="LUK.4.23!8-LUK.4.23!10" type="Cataphoric Focus" label="Cata" verse="LUK 4:23" >τὴν παραβολὴν ταύτην</reference>
+		<reference osisRef="LUK.6.3!9" type="Cataphoric Focus" label="Cata" verse="LUK 6:3" >τοῦτο</reference>
+		<reference osisRef="LUK.8.11!3" type="Cataphoric Focus" label="Cata" verse="LUK 8:11" >αὕτη</reference>
+		<reference osisRef="LUK.10.11!17" type="Cataphoric Focus" label="Cata" verse="LUK 10:11" >τοῦτο</reference>
+		<reference osisRef="LUK.10.20!2-LUK.10.20!3" type="Cataphoric Focus" label="Cata" verse="LUK 10:20" >ἐν τούτῳ</reference>
+		<reference osisRef="LUK.12.18!3" type="Cataphoric Focus" label="Cata" verse="LUK 12:18" >τοῦτο</reference>
+		<reference osisRef="LUK.12.39!1" type="Cataphoric Focus" label="Cata" verse="LUK 12:39" >τοῦτο</reference>
+		<reference osisRef="LUK.13.6!3-LUK.13.6!5" type="Cataphoric Focus" label="Cata" verse="LUK 13:6" >ταύτην τὴν παραβολήν</reference>
+		<reference osisRef="LUK.15.3!5-LUK.15.3!7" type="Cataphoric Focus" label="Cata" verse="LUK 15:3" >τὴν παραβολὴν ταύτην</reference>
+		<reference osisRef="LUK.18.9!17-LUK.18.9!19" type="Cataphoric Focus" label="Cata" verse="LUK 18:9" >τὴν παραβολὴν ταύτην</reference>
+		<reference osisRef="LUK.18.11!6" type="Cataphoric Focus" label="Cata" verse="LUK 18:11" >ταῦτα</reference>
+		<reference osisRef="LUK.18.22!8" type="Cataphoric Focus" label="Cata" verse="LUK 18:22" >ἕν</reference>
+		<reference osisRef="LUK.19.31!9" type="Cataphoric Focus" label="Cata" verse="LUK 19:31" >οὕτως</reference>
+		<reference osisRef="LUK.20.9!7-LUK.20.9!9" type="Cataphoric Focus" label="Cata" verse="LUK 20:9" >τὴν παραβολὴν ταύτην</reference>
+		<reference osisRef="LUK.20.17!9-LUK.20.17!11" type="Cataphoric Focus" label="Cata" verse="LUK 20:17" >τὸ γεγραμμένον τοῦτο</reference>
+		<reference osisRef="LUK.22.37!5-LUK.22.37!7" type="Cataphoric Focus" label="Cata" verse="LUK 22:37" >τοῦτο τὸ γεγραμμένον</reference>
+		<reference osisRef="LUK.24.44!5" type="Cataphoric Focus" label="Cata" verse="LUK 24:44" >οὗτοι</reference>
+		<reference osisRef="JHN.1.19!2" type="Cataphoric Focus" label="Cata" verse="JHN 1:19" >αὕτη</reference>
+		<reference osisRef="JHN.3.19!1" type="Cataphoric Focus" label="Cata" verse="JHN 3:19" >αὕτη</reference>
+		<reference osisRef="JHN.5.18!1-JHN.5.18!2" type="Cataphoric Focus" label="Cata" verse="JHN 5:18" >διὰ τοῦτο</reference>
+		<reference osisRef="JHN.6.29!7" type="Cataphoric Focus" label="Cata" verse="JHN 6:29" >τοῦτό</reference>
+		<reference osisRef="JHN.6.39!1" type="Cataphoric Focus" label="Cata" verse="JHN 6:39" >τοῦτο</reference>
+		<reference osisRef="JHN.6.40!1" type="Cataphoric Focus" label="Cata" verse="JHN 6:40" >τοῦτο</reference>
+		<reference osisRef="JHN.8.47!11-JHN.8.47!12" type="Cataphoric Focus" label="Cata" verse="JHN 8:47" >διὰ τοῦτο</reference>
+		<reference osisRef="JHN.9.25!9" type="Cataphoric Focus" label="Cata" verse="JHN 9:25" >ἓν</reference>
+		<reference osisRef="JHN.10.17!1-JHN.10.17!2" type="Cataphoric Focus" label="Cata" verse="JHN 10:17" >διὰ τοῦτό</reference>
+		<reference osisRef="JHN.15.8!1-JHN.15.8!2" type="Cataphoric Focus" label="Cata" verse="JHN 15:8" >ἐν τούτῳ</reference>
+		<reference osisRef="JHN.15.12!1" type="Cataphoric Focus" label="Cata" verse="JHN 15:12" >αὕτη</reference>
+		<reference osisRef="JHN.15.13!2" type="Cataphoric Focus" label="Cata" verse="JHN 15:13" >ταύτης</reference>
+		<reference osisRef="JHN.16.17!11-JHN.16.17!14" type="Cataphoric Focus" label="Cata" verse="JHN 16:17" >τοῦτο ὃ λέγει ἡμῖν</reference>
+		<reference osisRef="JHN.16.19!11-JHN.16.19!12" type="Cataphoric Focus" label="Cata" verse="JHN 16:19" >περὶ τούτου</reference>
+		<reference osisRef="JHN.17.3!1" type="Cataphoric Focus" label="Cata" verse="JHN 17:3" >αὕτη</reference>
+		<reference osisRef="JHN.21.1!17" type="Cataphoric Focus" label="Cata" verse="JHN 21:1" >οὕτως</reference>
+		<reference osisRef="JHN.21.23!3-JHN.21.23!5" type="Cataphoric Focus" label="Cata" verse="JHN 21:23" >οὗτος ὁ λόγος</reference>
+		<reference osisRef="ACT.2.14!22" type="Cataphoric Focus" label="Cata" verse="ACT 2:14" >τοῦτο</reference>
+		<reference osisRef="ACT.2.22!4-ACT.2.22!6" type="Cataphoric Focus" label="Cata" verse="ACT 2:22" >τοὺς λόγους τούτους</reference>
+		<reference osisRef="ACT.7.6!3" type="Cataphoric Focus" label="Cata" verse="ACT 7:6" >οὕτως</reference>
+		<reference osisRef="ACT.8.32!9" type="Cataphoric Focus" label="Cata" verse="ACT 8:32" >αὕτη</reference>
+		<reference osisRef="ACT.9.21!22-ACT.9.21!23" type="Cataphoric Focus" label="Cata" verse="ACT 9:21" >εἰς τοῦτο</reference>
+		<reference osisRef="ACT.13.34!12" type="Cataphoric Focus" label="Cata" verse="ACT 13:34" >οὕτως</reference>
+		<reference osisRef="ACT.13.47!1" type="Cataphoric Focus" label="Cata" verse="ACT 13:47" >οὕτως</reference>
+		<reference osisRef="ACT.15.28!15-ACT.15.28!17" type="Cataphoric Focus" label="Cata" verse="ACT 15:28" >τούτων τῶν ἐπάναγκες</reference>
+		<reference osisRef="ACT.21.11!19" type="Cataphoric Focus" label="Cata" verse="ACT 21:11" >τάδε</reference>
+		<reference osisRef="ACT.21.23!1" type="Cataphoric Focus" label="Cata" verse="ACT 21:23" >τοῦτο</reference>
+		<reference osisRef="ACT.23.25!4-ACT.23.25!6" type="Cataphoric Focus" label="Cata" verse="ACT 23:25" >τὸν τύπον τοῦτον</reference>
+		<reference osisRef="ACT.24.14!3" type="Cataphoric Focus" label="Cata" verse="ACT 24:14" >τοῦτό</reference>
+		<reference osisRef="ACT.24.21!2-ACT.24.21!5" type="Cataphoric Focus" label="Cata" verse="ACT 24:21" >περὶ μιᾶς ταύτης φωνῆς</reference>
+		<reference osisRef="ACT.26.16!9-ACT.26.16!10" type="Cataphoric Focus" label="Cata" verse="ACT 26:16" >εἰς τοῦτο</reference>
+		<reference osisRef="ROM.2.3!3" type="Cataphoric Focus" label="Cata" verse="ROM 2:3" >τοῦτο</reference>
+		<reference osisRef="ROM.6.6!1" type="Cataphoric Focus" label="Cata" verse="ROM 6:6" >τοῦτο</reference>
+		<reference osisRef="ROM.9.9!5" type="Cataphoric Focus" label="Cata" verse="ROM 9:9" >οὗτος</reference>
+		<reference osisRef="ROM.9.17!8-ROM.9.17!10" type="Cataphoric Focus" label="Cata" verse="ROM 9:17" >εἰς αὐτὸ τοῦτο</reference>
+		<reference osisRef="ROM.10.6!6" type="Cataphoric Focus" label="Cata" verse="ROM 10:6" >οὕτως</reference>
+		<reference osisRef="ROM.11.27!2" type="Cataphoric Focus" label="Cata" verse="ROM 11:27" >αὕτη</reference>
+		<reference osisRef="ROM.13.9!16-ROM.13.9!19" type="Cataphoric Focus" label="Cata" verse="ROM 13:9" >ἐν τῷ λόγῳ τούτῳ</reference>
+		<reference osisRef="ROM.13.11!2" type="Cataphoric Focus" label="Cata" verse="ROM 13:11" >τοῦτο</reference>
+		<reference osisRef="ROM.14.9!1-ROM.14.9!2" type="Cataphoric Focus" label="Cata" verse="ROM 14:9" >εἰς τοῦτο</reference>
+		<reference osisRef="ROM.14.13!6" type="Cataphoric Focus" label="Cata" verse="ROM 14:13" >τοῦτο</reference>
+		<reference osisRef="1CO.1.12!3" type="Cataphoric Focus" label="Cata" verse="1CO 1:12" >τοῦτο</reference>
+		<reference osisRef="1CO.4.1!1" type="Cataphoric Focus" label="Cata" verse="1CO 4:1" >οὕτως</reference>
+		<reference osisRef="1CO.7.29!1" type="Cataphoric Focus" label="Cata" verse="1CO 7:29" >τοῦτο</reference>
+		<reference osisRef="1CO.7.37!20" type="Cataphoric Focus" label="Cata" verse="1CO 7:37" >τοῦτο</reference>
+		<reference osisRef="1CO.9.3!8" type="Cataphoric Focus" label="Cata" verse="1CO 9:3" >αὕτη</reference>
+		<reference osisRef="1CO.11.17!1" type="Cataphoric Focus" label="Cata" verse="1CO 11:17" >τοῦτο</reference>
+		<reference osisRef="1CO.15.50!1" type="Cataphoric Focus" label="Cata" verse="1CO 15:50" >τοῦτο</reference>
+		<reference osisRef="2CO.1.12!5" type="Cataphoric Focus" label="Cata" verse="2CO 1:12" >αὕτη</reference>
+		<reference osisRef="2CO.2.1!4" type="Cataphoric Focus" label="Cata" verse="2CO 2:1" >τοῦτο</reference>
+		<reference osisRef="2CO.2.9!1-2CO.2.9!2" type="Cataphoric Focus" label="Cata" verse="2CO 2:9" >εἰς τοῦτο</reference>
+		<reference osisRef="2CO.5.14!9" type="Cataphoric Focus" label="Cata" verse="2CO 5:14" >τοῦτο</reference>
+		<reference osisRef="2CO.6.4!2-2CO.6.4!3" type="Cataphoric Focus" label="Cata" verse="2CO 6:4" >ἐν παντὶ</reference>
+		<reference osisRef="2CO.7.5!14-2CO.7.5!15" type="Cataphoric Focus" label="Cata" verse="2CO 7:5" >ἐν παντὶ</reference>
+		<reference osisRef="2CO.8.20!2" type="Cataphoric Focus" label="Cata" verse="2CO 8:20" >τοῦτο</reference>
+		<reference osisRef="2CO.9.6!1" type="Cataphoric Focus" label="Cata" verse="2CO 9:6" >τοῦτο</reference>
+		<reference osisRef="2CO.10.7!11" type="Cataphoric Focus" label="Cata" verse="2CO 10:7" >τοῦτο</reference>
+		<reference osisRef="2CO.10.11!1" type="Cataphoric Focus" label="Cata" verse="2CO 10:11" >τοῦτο</reference>
+		<reference osisRef="2CO.13.9!10" type="Cataphoric Focus" label="Cata" verse="2CO 13:9" >τοῦτο</reference>
+		<reference osisRef="2CO.13.10!1-2CO.13.10!2" type="Cataphoric Focus" label="Cata" verse="2CO 13:10" >διὰ τοῦτο</reference>
+		<reference osisRef="GAL.3.2!1-GAL.3.2!2" type="Cataphoric Focus" label="Cata" verse="GAL 3:2" >τοῦτο μόνον</reference>
+		<reference osisRef="GAL.3.17!1" type="Cataphoric Focus" label="Cata" verse="GAL 3:17" >τοῦτο</reference>
+		<reference osisRef="GAL.5.14!5-GAL.5.14!7" type="Cataphoric Focus" label="Cata" verse="GAL 5:14" >ἐν ἑνὶ λόγῳ</reference>
+		<reference osisRef="EPH.4.17!1" type="Cataphoric Focus" label="Cata" verse="EPH 4:17" >τοῦτο</reference>
+		<reference osisRef="EPH.5.5!1" type="Cataphoric Focus" label="Cata" verse="EPH 5:5" >τοῦτο</reference>
+		<reference osisRef="PHP.1.6!2-PHP.1.6!3" type="Cataphoric Focus" label="Cata" verse="PHP 1:6" >αὐτὸ τοῦτο</reference>
+		<reference osisRef="PHP.1.9!1-PHP.1.9!2" type="Cataphoric Focus" label="Cata" verse="PHP 1:9" >καὶ τοῦτο</reference>
+		<reference osisRef="PHP.2.5!1" type="Cataphoric Focus" label="Cata" verse="PHP 2:5" >τοῦτο</reference>
+		<reference osisRef="1TH.2.13!2-1TH.2.13!3" type="Cataphoric Focus" label="Cata" verse="1TH 2:13" >διὰ τοῦτο</reference>
+		<reference osisRef="1TH.4.3!1" type="Cataphoric Focus" label="Cata" verse="1TH 4:3" >τοῦτο</reference>
+		<reference osisRef="1TH.4.15!1" type="Cataphoric Focus" label="Cata" verse="1TH 4:15" >τοῦτο</reference>
+		<reference osisRef="2TH.3.10!7" type="Cataphoric Focus" label="Cata" verse="2TH 3:10" >τοῦτο</reference>
+		<reference osisRef="1TI.1.9!2" type="Cataphoric Focus" label="Cata" verse="1TI 1:9" >τοῦτο</reference>
+		<reference osisRef="1TI.1.16!2-1TI.1.16!3" type="Cataphoric Focus" label="Cata" verse="1TI 1:16" >διὰ τοῦτο</reference>
+		<reference osisRef="1TI.1.18!1-1TI.1.18!3" type="Cataphoric Focus" label="Cata" verse="1TI 1:18" >ταύτην τὴν παραγγελίαν</reference>
+		<reference osisRef="1TI.2.10!2-1TI.2.10!6" type="Cataphoric Focus" label="Cata" verse="1TI 2:10" >ὃ πρέπει γυναιξὶν ἐπαγγελλομέναις θεοσέβειαν</reference>
+		<reference osisRef="1TI.5.10!1-1TI.5.10!3" type="Cataphoric Focus" label="Cata" verse="1TI 5:10" >ἐν ἔργοις καλοῖς</reference>
+		<reference osisRef="2TI.1.15!2" type="Cataphoric Focus" label="Cata" verse="2TI 1:15" >τοῦτο</reference>
+		<reference osisRef="2TI.2.19!9-2TI.2.19!11" type="Cataphoric Focus" label="Cata" verse="2TI 2:19" >τὴν σφραγῖδα ταύτην</reference>
+		<reference osisRef="2TI.3.1!1" type="Cataphoric Focus" label="Cata" verse="2TI 3:1" >τοῦτο</reference>
+		<reference osisRef="TIT.1.5!1-TIT.1.5!2" type="Cataphoric Focus" label="Cata" verse="TIT 1:5" >τούτου χάριν</reference>
+		<reference osisRef="PHM.1.15!3-PHM.1.15!4" type="Cataphoric Focus" label="Cata" verse="PHM 1:15" >διὰ τοῦτο</reference>
+		<reference osisRef="HEB.4.5!2-HEB.4.5!3" type="Cataphoric Focus" label="Cata" verse="HEB 4:5" >ἐν τούτῳ</reference>
+		<reference osisRef="HEB.8.10!2" type="Cataphoric Focus" label="Cata" verse="HEB 8:10" >αὕτη</reference>
+		<reference osisRef="HEB.9.8!1" type="Cataphoric Focus" label="Cata" verse="HEB 9:8" >τοῦτο</reference>
+		<reference osisRef="HEB.10.16!1" type="Cataphoric Focus" label="Cata" verse="HEB 10:16" >αὕτη</reference>
+		<reference osisRef="JAS.1.27!10" type="Cataphoric Focus" label="Cata" verse="JAS 1:27" >αὕτη</reference>
+		<reference osisRef="JAS.2.12!1" type="Cataphoric Focus" label="Cata" verse="JAS 2:12" >οὕτως</reference>
+		<reference osisRef="JAS.2.12!4" type="Cataphoric Focus" label="Cata" verse="JAS 2:12" >οὕτως</reference>
+		<reference osisRef="JAS.4.1!9" type="Cataphoric Focus" label="Cata" verse="JAS 4:1" >ἐντεῦθεν</reference>
+		<reference osisRef="1PE.2.15!2" type="Cataphoric Focus" label="Cata" verse="1PE 2:15" >οὕτως</reference>
+		<reference osisRef="1PE.2.19!1" type="Cataphoric Focus" label="Cata" verse="1PE 2:19" >τοῦτο</reference>
+		<reference osisRef="1PE.4.6!1-1PE.4.6!2" type="Cataphoric Focus" label="Cata" verse="1PE 4:6" >εἰς τοῦτο</reference>
+		<reference osisRef="2PE.1.20!1" type="Cataphoric Focus" label="Cata" verse="2PE 1:20" >τοῦτο</reference>
+		<reference osisRef="2PE.3.3!1" type="Cataphoric Focus" label="Cata" verse="2PE 3:3" >τοῦτο</reference>
+		<reference osisRef="2PE.3.5!4" type="Cataphoric Focus" label="Cata" verse="2PE 3:5" >τοῦτο</reference>
+		<reference osisRef="2PE.3.8!1" type="Cataphoric Focus" label="Cata" verse="2PE 3:8" >ἓν</reference>
+		<reference osisRef="2PE.3.8!3" type="Cataphoric Focus" label="Cata" verse="2PE 3:8" >τοῦτο</reference>
+		<reference osisRef="1JN.1.5!3" type="Cataphoric Focus" label="Cata" verse="1JN 1:5" >αὕτη</reference>
+		<reference osisRef="1JN.2.3!2-1JN.2.3!3" type="Cataphoric Focus" label="Cata" verse="1JN 2:3" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.2.5!16-1JN.2.5!17" type="Cataphoric Focus" label="Cata" verse="1JN 2:5" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.2.25!2" type="Cataphoric Focus" label="Cata" verse="1JN 2:25" >αὕτη</reference>
+		<reference osisRef="1JN.3.1!14-1JN.3.1!15" type="Cataphoric Focus" label="Cata" verse="1JN 3:1" >διὰ τοῦτο</reference>
+		<reference osisRef="1JN.3.8!15-1JN.3.8!16" type="Cataphoric Focus" label="Cata" verse="1JN 3:8" >εἰς τοῦτο</reference>
+		<reference osisRef="1JN.3.10!1-1JN.3.10!2" type="Cataphoric Focus" label="Cata" verse="1JN 3:10" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.3.11!2" type="Cataphoric Focus" label="Cata" verse="1JN 3:11" >αὕτη</reference>
+		<reference osisRef="1JN.3.16!1-1JN.3.16!2" type="Cataphoric Focus" label="Cata" verse="1JN 3:16" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.3.23!2" type="Cataphoric Focus" label="Cata" verse="1JN 3:23" >αὕτη</reference>
+		<reference osisRef="1JN.3.24!15-1JN.3.24!16" type="Cataphoric Focus" label="Cata" verse="1JN 3:24" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.4.2!1-1JN.4.2!2" type="Cataphoric Focus" label="Cata" verse="1JN 4:2" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.4.9!1-1JN.4.9!2" type="Cataphoric Focus" label="Cata" verse="1JN 4:9" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.4.10!1-1JN.4.10!2" type="Cataphoric Focus" label="Cata" verse="1JN 4:10" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.4.13!1-1JN.4.13!2" type="Cataphoric Focus" label="Cata" verse="1JN 4:13" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.4.17!1-1JN.4.17!2" type="Cataphoric Focus" label="Cata" verse="1JN 4:17" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.4.21!2-1JN.4.21!4" type="Cataphoric Focus" label="Cata" verse="1JN 4:21" >ταύτην τὴν ἐντολὴν</reference>
+		<reference osisRef="1JN.5.2!1-1JN.5.2!2" type="Cataphoric Focus" label="Cata" verse="1JN 5:2" >ἐν τούτῳ</reference>
+		<reference osisRef="1JN.5.3!1" type="Cataphoric Focus" label="Cata" verse="1JN 5:3" >αὕτη</reference>
+		<reference osisRef="1JN.5.4!12" type="Cataphoric Focus" label="Cata" verse="1JN 5:4" >αὕτη</reference>
+		<reference osisRef="1JN.5.9!14" type="Cataphoric Focus" label="Cata" verse="1JN 5:9" >αὕτη</reference>
+		<reference osisRef="1JN.5.11!2" type="Cataphoric Focus" label="Cata" verse="1JN 5:11" >αὕτη</reference>
+		<reference osisRef="1JN.5.14!2" type="Cataphoric Focus" label="Cata" verse="1JN 5:14" >αὕτη</reference>
+		<reference osisRef="2JN.1.6!2" type="Cataphoric Focus" label="Cata" verse="2JN 1:6" >αὕτη</reference>
+		<reference osisRef="3JN.1.4!2" type="Cataphoric Focus" label="Cata" verse="3JN 1:4" >τούτων</reference>
+		<reference osisRef="REV.2.1!8" type="Cataphoric Focus" label="Cata" verse="REV 2:1" >τάδε</reference>
+		<reference osisRef="REV.2.6!2" type="Cataphoric Focus" label="Cata" verse="REV 2:6" >τοῦτο</reference>
+		<reference osisRef="REV.2.8!9" type="Cataphoric Focus" label="Cata" verse="REV 2:8" >τάδε</reference>
+		<reference osisRef="REV.2.12!9" type="Cataphoric Focus" label="Cata" verse="REV 2:12" >τάδε</reference>
+		<reference osisRef="REV.2.18!9" type="Cataphoric Focus" label="Cata" verse="REV 2:18" >τάδε</reference>
+		<reference osisRef="REV.3.1!9" type="Cataphoric Focus" label="Cata" verse="REV 3:1" >τάδε</reference>
+		<reference osisRef="REV.3.7!9" type="Cataphoric Focus" label="Cata" verse="REV 3:7" >τάδε</reference>
+		<reference osisRef="REV.3.14!9" type="Cataphoric Focus" label="Cata" verse="REV 3:14" >τάδε</reference>
+		<reference osisRef="REV.9.17!2" type="Cataphoric Focus" label="Cata" verse="REV 9:17" >οὕτως</reference>
+		<reference osisRef="REV.12.1!2-REV.12.1!3" type="Cataphoric Focus" label="Cata" verse="REV 12:1" >σημεῖον μέγα</reference>
+	</references>
+</markup>

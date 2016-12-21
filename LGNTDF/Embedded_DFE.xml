@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markup>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>Embedded DFE</name>
+		<description>'Dominant focal elements' embedded within a constituent in P1.</description>
+		<type name="markup" />
+		<defaultstyle label="Emb" bkcolor="" fontcolor="" brdrcolor="#FFFF0000" brdrline="Dots" brdrpos="A,U,B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
+	</header>
+	<references>
+		<reference osisRef="MAT.1.19!12" type="Embedded DFE" label="Emb" verse="MAT 1:19" >δειγματίσαι</reference>
+		<reference osisRef="MAT.1.20!27" type="Embedded DFE" label="Emb" verse="MAT 1:20" >γεννηθὲν</reference>
+		<reference osisRef="MAT.5.32!22" type="Embedded DFE" label="Emb" verse="MAT 5:32" >γαμήσῃ</reference>
+		<reference osisRef="MAT.5.40!5" type="Embedded DFE" label="Emb" verse="MAT 5:40" >κριθῆναι</reference>
+		<reference osisRef="MAT.5.42!10" type="Embedded DFE" label="Emb" verse="MAT 5:42" >δανίσασθαι</reference>
+		<reference osisRef="MAT.6.32!17" type="Embedded DFE" label="Emb" verse="MAT 6:32" >ἁπάντων</reference>
+		<reference osisRef="MAT.6.33!14" type="Embedded DFE" label="Emb" verse="MAT 6:33" >πάντα</reference>
+		<reference osisRef="MAT.12.15!15" type="Embedded DFE" label="Emb" verse="MAT 12:15" >πάντας</reference>
+		<reference osisRef="MAT.13.20!12" type="Embedded DFE" label="Emb" verse="MAT 13:20" >ἀκούων</reference>
+		<reference osisRef="MAT.13.22!12" type="Embedded DFE" label="Emb" verse="MAT 13:22" >ἀκούων</reference>
+		<reference osisRef="MAT.13.23!13-MAT.13.23!15" type="Embedded DFE" label="Emb" verse="MAT 13:23" >ἀκούων καὶ συνιείς</reference>
+		<reference osisRef="MAT.13.34!2" type="Embedded DFE" label="Emb" verse="MAT 13:34" >πάντα</reference>
+		<reference osisRef="MAT.13.51!3" type="Embedded DFE" label="Emb" verse="MAT 13:51" >πάντα</reference>
+		<reference osisRef="MAT.13.56!14" type="Embedded DFE" label="Emb" verse="MAT 13:56" >πάντα</reference>
+		<reference osisRef="MAT.16.25!8" type="Embedded DFE" label="Emb" verse="MAT 16:25" >σῶσαι</reference>
+		<reference osisRef="MAT.20.6!18" type="Embedded DFE" label="Emb" verse="MAT 20:6" >ἀργοί</reference>
+		<reference osisRef="MAT.20.7!6" type="Embedded DFE" label="Emb" verse="MAT 20:7" >ἐμισθώσατο</reference>
+		<reference osisRef="MAT.23.36!6" type="Embedded DFE" label="Emb" verse="MAT 23:36" >πάντα</reference>
+		<reference osisRef="MAT.24.2!9" type="Embedded DFE" label="Emb" verse="MAT 24:2" >πάντα</reference>
+		<reference osisRef="MAT.26.35!10" type="Embedded DFE" label="Emb" verse="MAT 26:35" >ἀποθανεῖν</reference>
+		<reference osisRef="MAT.26.42!17" type="Embedded DFE" label="Emb" verse="MAT 26:42" >πίω</reference>
+		<reference osisRef="MAT.26.56!14" type="Embedded DFE" label="Emb" verse="MAT 26:56" >πάντες</reference>
+		<reference osisRef="MAT.27.47!5" type="Embedded DFE" label="Emb" verse="MAT 27:47" >ἑστηκότων</reference>
+		<reference osisRef="MRK.2.4!22" type="Embedded DFE" label="Emb" verse="MRK 2:4" >κατέκειτο</reference>
+		<reference osisRef="MRK.4.24!10" type="Embedded DFE" label="Emb" verse="MRK 4:24" >μετρεῖτε</reference>
+		<reference osisRef="MRK.5.26!12" type="Embedded DFE" label="Emb" verse="MRK 5:26" >πάντα</reference>
+		<reference osisRef="MRK.6.49!8" type="Embedded DFE" label="Emb" verse="MRK 6:49" >περιπατοῦντα</reference>
+		<reference osisRef="MRK.8.27!30" type="Embedded DFE" label="Emb" verse="MRK 8:27" >εἶναι</reference>
+		<reference osisRef="MRK.8.35!8" type="Embedded DFE" label="Emb" verse="MRK 8:35" >σῶσαι</reference>
+		<reference osisRef="MRK.9.18!5" type="Embedded DFE" label="Emb" verse="MRK 9:18" >καταλάβῃ</reference>
+		<reference osisRef="MRK.9.22!17" type="Embedded DFE" label="Emb" verse="MRK 9:22" >δύνῃ</reference>
+		<reference osisRef="MRK.10.20!7" type="Embedded DFE" label="Emb" verse="MRK 10:20" >πάντα</reference>
+		<reference osisRef="MRK.10.32!32" type="Embedded DFE" label="Emb" verse="MRK 10:32" >συμβαίνειν</reference>
+		<reference osisRef="MRK.10.44!11" type="Embedded DFE" label="Emb" verse="MRK 10:44" >δοῦλος</reference>
+		<reference osisRef="MRK.10.51!10" type="Embedded DFE" label="Emb" verse="MRK 10:51" >ποιήσω</reference>
+		<reference osisRef="MRK.11.1!10-MRK.11.1!14" type="Embedded DFE" label="Emb" verse="MRK 11:1" >πρὸς τὸ ὄρος τῶν ἐλαιῶν</reference>
+		<reference osisRef="MRK.11.5!5" type="Embedded DFE" label="Emb" verse="MRK 11:5" >ἑστηκότων</reference>
+		<reference osisRef="MRK.12.34!24" type="Embedded DFE" label="Emb" verse="MRK 12:34" >ἐπερωτῆσαι</reference>
+		<reference osisRef="MRK.13.30!14" type="Embedded DFE" label="Emb" verse="MRK 13:30" >πάντα</reference>
+		<reference osisRef="MRK.14.60!17" type="Embedded DFE" label="Emb" verse="MRK 14:60" >καταμαρτυροῦσιν</reference>
+		<reference osisRef="MRK.16.15!8" type="Embedded DFE" label="Emb" verse="MRK 16:15" >ἅπαντα</reference>
+		<reference osisRef="LUK.1.70!7-LUK.1.70!8" type="Embedded DFE" label="Emb" verse="LUK 1:70" >ἀπ’ αἰῶνος</reference>
+		<reference osisRef="LUK.1.79!3-LUK.1.79!7" type="Embedded DFE" label="Emb" verse="LUK 1:79" >ἐν σκότει καὶ σκιᾷ θανάτου</reference>
+		<reference osisRef="LUK.2.18!12-LUK.2.18!13" type="Embedded DFE" label="Emb" verse="LUK 2:18" >πρὸς αὐτούς</reference>
+		<reference osisRef="LUK.3.1!26-LUK.3.1!28" type="Embedded DFE" label="Emb" verse="LUK 3:1" >ἰτουραίας καὶ τραχωνίτιδος</reference>
+		<reference osisRef="LUK.4.6!11" type="Embedded DFE" label="Emb" verse="LUK 4:6" >ἅπασαν</reference>
+		<reference osisRef="LUK.6.49!15-LUK.6.49!16" type="Embedded DFE" label="Emb" verse="LUK 6:49" >χωρὶς θεμελίου</reference>
+		<reference osisRef="LUK.8.43!7-LUK.8.43!9" type="Embedded DFE" label="Emb" verse="LUK 8:43" >ἀπὸ ἐτῶν δώδεκα</reference>
+		<reference osisRef="LUK.9.17!12-LUK.9.17!13" type="Embedded DFE" label="Emb" verse="LUK 9:17" >κόφινοι δώδεκα</reference>
+		<reference osisRef="LUK.9.18!23" type="Embedded DFE" label="Emb" verse="LUK 9:18" >εἶναι</reference>
+		<reference osisRef="LUK.10.5!6" type="Embedded DFE" label="Emb" verse="LUK 10:5" >οἰκίαν</reference>
+		<reference osisRef="LUK.10.9!6" type="Embedded DFE" label="Emb" verse="LUK 10:9" >ἀσθενεῖς</reference>
+		<reference osisRef="LUK.10.11!11-LUK.10.11!13" type="Embedded DFE" label="Emb" verse="LUK 10:11" >εἰς τοὺς πόδας</reference>
+		<reference osisRef="LUK.11.11!5-LUK.11.11!6" type="Embedded DFE" label="Emb" verse="LUK 11:11" >τὸν πατέρα</reference>
+		<reference osisRef="LUK.11.19!19" type="Embedded DFE" label="Emb" verse="LUK 11:19" >κριταὶ</reference>
+		<reference osisRef="LUK.11.36!12" type="Embedded DFE" label="Emb" verse="LUK 11:36" >σκοτεινόν</reference>
+		<reference osisRef="LUK.12.1!17" type="Embedded DFE" label="Emb" verse="LUK 12:1" >πρῶτον</reference>
+		<reference osisRef="LUK.12.30!3" type="Embedded DFE" label="Emb" verse="LUK 12:30" >πάντα</reference>
+		<reference osisRef="LUK.12.58!8-LUK.12.58!9" type="Embedded DFE" label="Emb" verse="LUK 12:58" >ἐπ’ ἄρχοντα</reference>
+		<reference osisRef="LUK.14.8!5-LUK.14.8!6" type="Embedded DFE" label="Emb" verse="LUK 14:8" >εἰς γάμους</reference>
+		<reference osisRef="LUK.14.34!10" type="Embedded DFE" label="Emb" verse="LUK 14:34" >μωρανθῇ</reference>
+		<reference osisRef="LUK.15.4!12" type="Embedded DFE" label="Emb" verse="LUK 15:4" >ἓν</reference>
+		<reference osisRef="LUK.16.10!14" type="Embedded DFE" label="Emb" verse="LUK 16:10" >ἄδικος</reference>
+		<reference osisRef="LUK.16.15!21-LUK.16.15!22" type="Embedded DFE" label="Emb" verse="LUK 16:15" >ἐν ἀνθρώποις</reference>
+		<reference osisRef="LUK.16.18!16" type="Embedded DFE" label="Emb" verse="LUK 16:18" >γαμῶν</reference>
+		<reference osisRef="LUK.17.33!7" type="Embedded DFE" label="Emb" verse="LUK 17:33" >περιποιήσασθαι</reference>
+		<reference osisRef="LUK.18.21!5" type="Embedded DFE" label="Emb" verse="LUK 18:21" >πάντα</reference>
+		<reference osisRef="LUK.18.31!20-LUK.18.31!23" type="Embedded DFE" label="Emb" verse="LUK 18:31" >τῷ υἱῷ τοῦ ἀνθρώπου</reference>
+		<reference osisRef="LUK.19.48!10" type="Embedded DFE" label="Emb" verse="LUK 19:48" >ἅπας</reference>
+		<reference osisRef="LUK.20.6!8" type="Embedded DFE" label="Emb" verse="LUK 20:6" >ἅπας</reference>
+		<reference osisRef="LUK.21.1!9-LUK.21.1!11" type="Embedded DFE" label="Emb" verse="LUK 21:1" >τὰ δῶρα αὐτῶν</reference>
+		<reference osisRef="LUK.21.12!4" type="Embedded DFE" label="Emb" verse="LUK 21:12" >πάντων</reference>
+		<reference osisRef="LUK.21.24!10" type="Embedded DFE" label="Emb" verse="LUK 21:24" >πάντα</reference>
+		<reference osisRef="LUK.22.18!22" type="Embedded DFE" label="Emb" verse="LUK 22:18" >ἔλθῃ</reference>
+		<reference osisRef="LUK.22.19!24" type="Embedded DFE" label="Emb" verse="LUK 22:19" >ἀνάμνησιν</reference>
+		<reference osisRef="LUK.22.23!15-LUK.22.23!16" type="Embedded DFE" label="Emb" verse="LUK 22:23" >μέλλων πράσσειν</reference>
+		<reference osisRef="LUK.24.9!8" type="Embedded DFE" label="Emb" verse="LUK 24:9" >πάντα</reference>
+		<reference osisRef="JHN.1.16!7" type="Embedded DFE" label="Emb" verse="JHN 1:16" >πάντες</reference>
+		<reference osisRef="JHN.1.41!6-JHN.1.41!7" type="Embedded DFE" label="Emb" verse="JHN 1:41" >τὸν ἴδιον</reference>
+		<reference osisRef="JHN.2.23!10-JHN.2.23!12" type="Embedded DFE" label="Emb" verse="JHN 2:23" >ἐν τῇ ἑορτῇ</reference>
+		<reference osisRef="JHN.4.45!17-JHN.4.45!19" type="Embedded DFE" label="Emb" verse="JHN 4:45" >ἐν τῇ ἑορτῇ</reference>
+		<reference osisRef="JHN.5.18!9" type="Embedded DFE" label="Emb" verse="JHN 5:18" >ἀποκτεῖναι</reference>
+		<reference osisRef="JHN.5.43!19-JHN.5.43!20" type="Embedded DFE" label="Emb" verse="JHN 5:43" >τῷ ἰδίῳ</reference>
+		<reference osisRef="JHN.6.32!30-JHN.6.32!31" type="Embedded DFE" label="Emb" verse="JHN 6:32" >τὸν ἀληθινόν</reference>
+		<reference osisRef="JHN.7.1!22" type="Embedded DFE" label="Emb" verse="JHN 7:1" >ἀποκτεῖναι</reference>
+		<reference osisRef="JHN.7.18!7-JHN.7.18!8" type="Embedded DFE" label="Emb" verse="JHN 7:18" >τὴν ἰδίαν</reference>
+		<reference osisRef="JHN.7.19!16-JHN.7.19!17" type="Embedded DFE" label="Emb" verse="JHN 7:19" >ζητεῖτε ἀποκτεῖναι</reference>
+		<reference osisRef="JHN.8.36!6" type="Embedded DFE" label="Emb" verse="JHN 8:36" >ἐλευθερώσῃ</reference>
+		<reference osisRef="JHN.8.58!10" type="Embedded DFE" label="Emb" verse="JHN 8:58" >γενέσθαι</reference>
+		<reference osisRef="JHN.9.21!4" type="Embedded DFE" label="Emb" verse="JHN 9:21" >βλέπει</reference>
+		<reference osisRef="JHN.9.32!11" type="Embedded DFE" label="Emb" verse="JHN 9:32" >γεγεννημένου</reference>
+		<reference osisRef="JHN.10.5!15-JHN.10.5!16" type="Embedded DFE" label="Emb" verse="JHN 10:5" >τὴν φωνήν</reference>
+		<reference osisRef="JHN.11.8!9" type="Embedded DFE" label="Emb" verse="JHN 11:8" >λιθάσαι</reference>
+		<reference osisRef="JHN.15.2!14" type="Embedded DFE" label="Emb" verse="JHN 15:2" >φέρον</reference>
+		<reference osisRef="JHN.15.21!3" type="Embedded DFE" label="Emb" verse="JHN 15:21" >πάντα</reference>
+		<reference osisRef="JHN.15.26!20" type="Embedded DFE" label="Emb" verse="JHN 15:26" >ἐκπορεύεται</reference>
+		<reference osisRef="JHN.16.13!14" type="Embedded DFE" label="Emb" verse="JHN 16:13" >πάσῃ</reference>
+		<reference osisRef="JHN.17.10!4" type="Embedded DFE" label="Emb" verse="JHN 17:10" >πάντα</reference>
+		<reference osisRef="JHN.19.31!15-JHN.19.31!17" type="Embedded DFE" label="Emb" verse="JHN 19:31" >ἐν τῷ σαββάτῳ</reference>
+		<reference osisRef="JHN.19.33!10" type="Embedded DFE" label="Emb" verse="JHN 19:33" >τεθνηκότα</reference>
+		<reference osisRef="JHN.20.25!21-JHN.20.25!24" type="Embedded DFE" label="Emb" verse="JHN 20:25" >τὸν τύπον τῶν ἥλων</reference>
+		<reference osisRef="JHN.21.6!21" type="Embedded DFE" label="Emb" verse="JHN 21:6" >ἑλκύσαι</reference>
+		<reference osisRef="ACT.1.14!2" type="Embedded DFE" label="Emb" verse="ACT 1:14" >πάντες</reference>
+		<reference osisRef="ACT.1.25!17-ACT.1.25!18" type="Embedded DFE" label="Emb" verse="ACT 1:25" >τὸν ἴδιον</reference>
+		<reference osisRef="ACT.2.3!5" type="Embedded DFE" label="Emb" verse="ACT 2:3" >γλῶσσαι</reference>
+		<reference osisRef="ACT.2.14!21" type="Embedded DFE" label="Emb" verse="ACT 2:14" >πάντες</reference>
+		<reference osisRef="ACT.4.13!6" type="Embedded DFE" label="Emb" verse="ACT 4:13" >παρρησίαν</reference>
+		<reference osisRef="ACT.4.29!17" type="Embedded DFE" label="Emb" verse="ACT 4:29" >πάσης</reference>
+		<reference osisRef="ACT.5.4!10" type="Embedded DFE" label="Emb" verse="ACT 5:4" >ἐξουσίᾳ</reference>
+		<reference osisRef="ACT.7.14!15-ACT.7.14!16" type="Embedded DFE" label="Emb" verse="ACT 7:14" >ἑβδομήκοντα πέντε</reference>
+		<reference osisRef="ACT.7.50!7" type="Embedded DFE" label="Emb" verse="ACT 7:50" >πάντα</reference>
+		<reference osisRef="ACT.8.40!11" type="Embedded DFE" label="Emb" verse="ACT 8:40" >πάσας</reference>
+		<reference osisRef="ACT.9.4!14" type="Embedded DFE" label="Emb" verse="ACT 9:4" >διώκεις</reference>
+		<reference osisRef="ACT.9.21!15-ACT.9.21!19" type="Embedded DFE" label="Emb" verse="ACT 9:21" >τοὺς ἐπικαλουμένους τὸ ὄνομα τοῦτο</reference>
+		<reference osisRef="ACT.10.15!11" type="Embedded DFE" label="Emb" verse="ACT 10:15" >ἐκαθάρισεν</reference>
+		<reference osisRef="ACT.11.9!12" type="Embedded DFE" label="Emb" verse="ACT 11:9" >ἐκαθάρισεν</reference>
+		<reference osisRef="ACT.13.29!8" type="Embedded DFE" label="Emb" verse="ACT 13:29" >γεγραμμένα</reference>
+		<reference osisRef="ACT.13.37!5" type="Embedded DFE" label="Emb" verse="ACT 13:37" >ἤγειρεν</reference>
+		<reference osisRef="ACT.16.10!5" type="Embedded DFE" label="Emb" verse="ACT 16:10" >εἶδεν</reference>
+		<reference osisRef="ACT.16.26!17" type="Embedded DFE" label="Emb" verse="ACT 16:26" >πᾶσαι</reference>
+		<reference osisRef="ACT.16.27!18" type="Embedded DFE" label="Emb" verse="ACT 16:27" >ἀναιρεῖν</reference>
+		<reference osisRef="ACT.17.7!6" type="Embedded DFE" label="Emb" verse="ACT 17:7" >πάντες</reference>
+		<reference osisRef="ACT.18.5!7-ACT.18.5!12" type="Embedded DFE" label="Emb" verse="ACT 18:5" >ὅ τε σιλᾶς καὶ ὁ τιμόθεος</reference>
+		<reference osisRef="ACT.19.38!13" type="Embedded DFE" label="Emb" verse="ACT 19:38" >λόγον</reference>
+		<reference osisRef="ACT.20.28!26-ACT.20.28!27" type="Embedded DFE" label="Emb" verse="ACT 20:28" >τοῦ ἰδίου</reference>
+		<reference osisRef="ACT.20.32!24" type="Embedded DFE" label="Emb" verse="ACT 20:32" >πᾶσιν</reference>
+		<reference osisRef="ACT.21.23!6" type="Embedded DFE" label="Emb" verse="ACT 21:23" >λέγομεν</reference>
+		<reference osisRef="ACT.21.26!31-ACT.21.26!32" type="Embedded DFE" label="Emb" verse="ACT 21:26" >ἡ προσφορά</reference>
+		<reference osisRef="ACT.22.1!11" type="Embedded DFE" label="Emb" verse="ACT 22:1" >ἀπολογίας</reference>
+		<reference osisRef="ACT.22.7!15" type="Embedded DFE" label="Emb" verse="ACT 22:7" >διώκεις</reference>
+		<reference osisRef="ACT.22.29!9" type="Embedded DFE" label="Emb" verse="ACT 22:29" >ἀνετάζειν</reference>
+		<reference osisRef="ACT.23.7!4" type="Embedded DFE" label="Emb" verse="ACT 23:7" >εἰπόντος</reference>
+		<reference osisRef="ACT.23.21!11-ACT.23.21!13" type="Embedded DFE" label="Emb" verse="ACT 23:21" >ἄνδρες πλείους τεσσεράκοντα</reference>
+		<reference osisRef="ACT.27.20!18" type="Embedded DFE" label="Emb" verse="ACT 27:20" >πᾶσα</reference>
+		<reference osisRef="ACT.28.17!12" type="Embedded DFE" label="Emb" verse="ACT 28:17" >πρώτους</reference>
+		<reference osisRef="ACT.28.21!26" type="Embedded DFE" label="Emb" verse="ACT 28:21" >πονηρόν</reference>
+		<reference osisRef="ROM.2.26!9" type="Embedded DFE" label="Emb" verse="ROM 2:26" >φυλάσσῃ</reference>
+		<reference osisRef="ROM.2.27!9" type="Embedded DFE" label="Emb" verse="ROM 2:27" >τελοῦσα</reference>
+		<reference osisRef="ROM.3.22!8-ROM.3.22!11" type="Embedded DFE" label="Emb" verse="ROM 3:22" >εἰς πάντας τοὺς πιστεύοντας</reference>
+		<reference osisRef="ROM.8.37!4" type="Embedded DFE" label="Emb" verse="ROM 8:37" >πᾶσιν</reference>
+		<reference osisRef="ROM.12.4!12" type="Embedded DFE" label="Emb" verse="ROM 12:4" >πάντα</reference>
+		<reference osisRef="ROM.16.16!10" type="Embedded DFE" label="Emb" verse="ROM 16:16" >πᾶσαι</reference>
+		<reference osisRef="1CO.1.21!15-1CO.1.21!16" type="Embedded DFE" label="Emb" verse="1CO 1:21" >τὸν θεόν</reference>
+		<reference osisRef="1CO.2.2!14" type="Embedded DFE" label="Emb" verse="1CO 2:2" >ἐσταυρωμένον</reference>
+		<reference osisRef="1CO.3.3!9-1CO.3.3!11" type="Embedded DFE" label="Emb" verse="1CO 3:3" >ζῆλος καὶ ἔρις</reference>
+		<reference osisRef="1CO.3.12!8-1CO.3.12!14" type="Embedded DFE" label="Emb" verse="1CO 3:12" >χρυσόν ἄργυρον λίθους τιμίους ξύλα χόρτον καλάμην</reference>
+		<reference osisRef="1CO.6.7!17" type="Embedded DFE" label="Emb" verse="1CO 6:7" >ἀδικεῖσθε</reference>
+		<reference osisRef="1CO.6.7!22" type="Embedded DFE" label="Emb" verse="1CO 6:7" >ἀποστερεῖσθε</reference>
+		<reference osisRef="1CO.7.17!20" type="Embedded DFE" label="Emb" verse="1CO 7:17" >πάσαις</reference>
+		<reference osisRef="1CO.7.37!8" type="Embedded DFE" label="Emb" verse="1CO 7:37" >ἑδραῖος</reference>
+		<reference osisRef="1CO.8.7!13-1CO.8.7!14" type="Embedded DFE" label="Emb" verse="1CO 8:7" >τοῦ εἰδώλου</reference>
+		<reference osisRef="1CO.9.3!6" type="Embedded DFE" label="Emb" verse="1CO 9:3" >ἀνακρίνουσίν</reference>
+		<reference osisRef="1CO.10.1!11" type="Embedded DFE" label="Emb" verse="1CO 10:1" >πάντες</reference>
+		<reference osisRef="1CO.10.4!13" type="Embedded DFE" label="Emb" verse="1CO 10:4" >πέτρας</reference>
+		<reference osisRef="1CO.11.24!19" type="Embedded DFE" label="Emb" verse="1CO 11:24" >ἀνάμνησιν</reference>
+		<reference osisRef="1CO.11.25!28" type="Embedded DFE" label="Emb" verse="1CO 11:25" >ἀνάμνησιν</reference>
+		<reference osisRef="1CO.11.26!11" type="Embedded DFE" label="Emb" verse="1CO 11:26" >πίνητε</reference>
+		<reference osisRef="1CO.12.13!7" type="Embedded DFE" label="Emb" verse="1CO 12:13" >πάντες</reference>
+		<reference osisRef="1CO.12.17!5" type="Embedded DFE" label="Emb" verse="1CO 12:17" >ὀφθαλμός</reference>
+		<reference osisRef="1CO.12.17!11" type="Embedded DFE" label="Emb" verse="1CO 12:17" >ἀκοή</reference>
+		<reference osisRef="1CO.13.2!9" type="Embedded DFE" label="Emb" verse="1CO 13:2" >πάντα</reference>
+		<reference osisRef="1CO.14.6!12" type="Embedded DFE" label="Emb" verse="1CO 14:6" >ὠφελήσω</reference>
+		<reference osisRef="1CO.14.24!4" type="Embedded DFE" label="Emb" verse="1CO 14:24" >προφητεύωσιν</reference>
+		<reference osisRef="1CO.15.7!7" type="Embedded DFE" label="Emb" verse="1CO 15:7" >πᾶσιν</reference>
+		<reference osisRef="1CO.15.13!5-1CO.15.13!6" type="Embedded DFE" label="Emb" verse="1CO 15:13" >οὐκ ἔστιν</reference>
+		<reference osisRef="1CO.15.22!7" type="Embedded DFE" label="Emb" verse="1CO 15:22" >ἀποθνῄσκουσιν</reference>
+		<reference osisRef="1CO.15.32!13-1CO.15.32!14" type="Embedded DFE" label="Emb" verse="1CO 15:32" >οὐκ ἐγείρονται</reference>
+		<reference osisRef="1CO.16.20!5" type="Embedded DFE" label="Emb" verse="1CO 16:20" >πάντες</reference>
+		<reference osisRef="2CO.1.19!5" type="Embedded DFE" label="Emb" verse="2CO 1:19" >υἱὸς</reference>
+		<reference osisRef="2CO.2.5!4" type="Embedded DFE" label="Emb" verse="2CO 2:5" >λελύπηκεν</reference>
+		<reference osisRef="2CO.2.10!4" type="Embedded DFE" label="Emb" verse="2CO 2:10" >χαρίζεσθε</reference>
+		<reference osisRef="2CO.2.15!3" type="Embedded DFE" label="Emb" verse="2CO 2:15" >εὐωδία</reference>
+		<reference osisRef="2CO.3.1!4" type="Embedded DFE" label="Emb" verse="2CO 3:1" >συνιστάνειν</reference>
+		<reference osisRef="2CO.3.7!25-2CO.3.7!32" type="Embedded DFE" label="Emb" verse="2CO 3:7" >διὰ τὴν δόξαν τοῦ προσώπου αὐτοῦ τὴν καταργουμένην</reference>
+		<reference osisRef="2CO.3.18!3" type="Embedded DFE" label="Emb" verse="2CO 3:18" >πάντες</reference>
+		<reference osisRef="2CO.5.15!15-2CO.5.15!17" type="Embedded DFE" label="Emb" verse="2CO 5:15" >ἀποθανόντι καὶ ἐγερθέντι</reference>
+		<reference osisRef="2CO.7.7!21" type="Embedded DFE" label="Emb" verse="2CO 7:7" >ἐπιπόθησιν</reference>
+		<reference osisRef="2CO.7.7!24" type="Embedded DFE" label="Emb" verse="2CO 7:7" >ὀδυρμόν</reference>
+		<reference osisRef="2CO.7.7!27-2CO.7.7!29" type="Embedded DFE" label="Emb" verse="2CO 7:7" >ζῆλον ὑπὲρ ἐμοῦ</reference>
+		<reference osisRef="2CO.7.14!7" type="Embedded DFE" label="Emb" verse="2CO 7:14" >κεκαύχημαι</reference>
+		<reference osisRef="2CO.7.15!13" type="Embedded DFE" label="Emb" verse="2CO 7:15" >ὑπακοήν</reference>
+		<reference osisRef="2CO.8.12!5" type="Embedded DFE" label="Emb" verse="2CO 8:12" >πρόκειται</reference>
+		<reference osisRef="2CO.10.11!12" type="Embedded DFE" label="Emb" verse="2CO 10:11" >ἀπόντες</reference>
+		<reference osisRef="2CO.11.7!14" type="Embedded DFE" label="Emb" verse="2CO 11:7" >εὐαγγέλιον</reference>
+		<reference osisRef="2CO.11.8!9" type="Embedded DFE" label="Emb" verse="2CO 11:8" >διακονίαν</reference>
+		<reference osisRef="2CO.11.21!13" type="Embedded DFE" label="Emb" verse="2CO 11:21" >τολμᾷ</reference>
+		<reference osisRef="2CO.11.30!3" type="Embedded DFE" label="Emb" verse="2CO 11:30" >δεῖ</reference>
+		<reference osisRef="2CO.12.19!18" type="Embedded DFE" label="Emb" verse="2CO 12:19" >οἰκοδομῆς</reference>
+		<reference osisRef="2CO.13.2!16" type="Embedded DFE" label="Emb" verse="2CO 13:2" >πᾶσιν</reference>
+		<reference osisRef="2CO.13.9!15" type="Embedded DFE" label="Emb" verse="2CO 13:9" >κατάρτισιν</reference>
+		<reference osisRef="2CO.13.12!10" type="Embedded DFE" label="Emb" verse="2CO 13:12" >πάντες</reference>
+		<reference osisRef="GAL.1.23!16" type="Embedded DFE" label="Emb" verse="GAL 1:23" >ἐπόρθει</reference>
+		<reference osisRef="GAL.3.27!5" type="Embedded DFE" label="Emb" verse="GAL 3:27" >ἐβαπτίσθητε</reference>
+		<reference osisRef="GAL.3.29!12" type="Embedded DFE" label="Emb" verse="GAL 3:29" >κληρονόμοι</reference>
+		<reference osisRef="GAL.4.19!5" type="Embedded DFE" label="Emb" verse="GAL 4:19" >ὠδίνω</reference>
+		<reference osisRef="GAL.5.15!4-GAL.5.15!6" type="Embedded DFE" label="Emb" verse="GAL 5:15" >δάκνετε καὶ κατεσθίετε</reference>
+		<reference osisRef="GAL.6.10!5" type="Embedded DFE" label="Emb" verse="GAL 6:10" >ἔχομεν</reference>
+		<reference osisRef="EPH.1.15!8-EPH.1.15!20" type="Embedded DFE" label="Emb" verse="EPH 1:15" >πίστιν ἐν τῷ κυρίῳ ἰησοῦ καὶ τὴν ἀγάπην τὴν εἰς πάντας τοὺς ἁγίους</reference>
+		<reference osisRef="EPH.1.23!13" type="Embedded DFE" label="Emb" verse="EPH 1:23" >πληρουμένου</reference>
+		<reference osisRef="EPH.2.3!5" type="Embedded DFE" label="Emb" verse="EPH 2:3" >πάντες</reference>
+		<reference osisRef="EPH.2.11!19" type="Embedded DFE" label="Emb" verse="EPH 2:11" >χειροποιήτου</reference>
+		<reference osisRef="EPH.3.9!20" type="Embedded DFE" label="Emb" verse="EPH 3:9" >κτίσαντι</reference>
+		<reference osisRef="EPH.4.19!10" type="Embedded DFE" label="Emb" verse="EPH 4:19" >πάσης</reference>
+		<reference osisRef="EPH.5.3!5" type="Embedded DFE" label="Emb" verse="EPH 5:3" >πᾶσα</reference>
+		<reference osisRef="EPH.5.29!7" type="Embedded DFE" label="Emb" verse="EPH 5:29" >ἐμίσησεν</reference>
+		<reference osisRef="PHP.1.13!16" type="Embedded DFE" label="Emb" verse="PHP 1:13" >πᾶσιν</reference>
+		<reference osisRef="COL.2.20!5-COL.2.20!9" type="Embedded DFE" label="Emb" verse="COL 2:20" >ἀπὸ τῶν στοιχείων τοῦ κόσμου</reference>
+		<reference osisRef="COL.4.6!15" type="Embedded DFE" label="Emb" verse="COL 4:6" >ἀποκρίνεσθαι</reference>
+		<reference osisRef="1TH.4.14!6-1TH.4.14!8" type="Embedded DFE" label="Emb" verse="1TH 4:14" >ἀπέθανεν καὶ ἀνέστη</reference>
+		<reference osisRef="1TH.5.18!11-1TH.5.18!12" type="Embedded DFE" label="Emb" verse="1TH 5:18" >εἰς ὑμᾶς</reference>
+		<reference osisRef="1TH.5.26!4" type="Embedded DFE" label="Emb" verse="1TH 5:26" >πάντας</reference>
+		<reference osisRef="1TI.6.13!18-1TI.6.13!20" type="Embedded DFE" label="Emb" verse="1TI 6:13" >τὴν καλὴν ὁμολογίαν</reference>
+		<reference osisRef="TIT.2.15!12" type="Embedded DFE" label="Emb" verse="TIT 2:15" >περιφρονείτω</reference>
+		<reference osisRef="HEB.11.13!5" type="Embedded DFE" label="Emb" verse="HEB 11:13" >πάντες</reference>
+		<reference osisRef="HEB.11.39!3" type="Embedded DFE" label="Emb" verse="HEB 11:39" >πάντες</reference>
+		<reference osisRef="1PE.1.13!16-1PE.1.13!19" type="Embedded DFE" label="Emb" verse="1PE 1:13" >ἐν ἀποκαλύψει ἰησοῦ χριστοῦ</reference>
+		<reference osisRef="1PE.1.17!18" type="Embedded DFE" label="Emb" verse="1PE 1:17" >χρόνον</reference>
+		<reference osisRef="1PE.2.8!11" type="Embedded DFE" label="Emb" verse="1PE 2:8" >ἀπειθοῦντες</reference>
+		<reference osisRef="1PE.2.15!14" type="Embedded DFE" label="Emb" verse="1PE 2:15" >ἀγνωσίαν</reference>
+		<reference osisRef="1PE.3.1!19" type="Embedded DFE" label="Emb" verse="1PE 3:1" >ἀναστροφῆς</reference>
+		<reference osisRef="1PE.3.20!8" type="Embedded DFE" label="Emb" verse="1PE 3:20" >μακροθυμία</reference>
+		<reference osisRef="1PE.4.13!7" type="Embedded DFE" label="Emb" verse="1PE 4:13" >παθήμασιν</reference>
+		<reference osisRef="1PE.4.14!15" type="Embedded DFE" label="Emb" verse="1PE 4:14" >πνεῦμα</reference>
+		<reference osisRef="1PE.4.17!26" type="Embedded DFE" label="Emb" verse="1PE 4:17" >εὐαγγελίῳ</reference>
+		<reference osisRef="1PE.5.1!13" type="Embedded DFE" label="Emb" verse="1PE 5:1" >παθημάτων</reference>
+		<reference osisRef="1PE.5.1!19" type="Embedded DFE" label="Emb" verse="1PE 5:1" >δόξης</reference>
+		<reference osisRef="1PE.5.10!14-1PE.5.10!16" type="Embedded DFE" label="Emb" verse="1PE 5:10" >ἐν χριστῷ ἰησοῦ</reference>
+		<reference osisRef="2PE.1.5!6" type="Embedded DFE" label="Emb" verse="2PE 1:5" >πᾶσαν</reference>
+		<reference osisRef="2PE.3.5!21" type="Embedded DFE" label="Emb" verse="2PE 3:5" >λόγῳ</reference>
+		<reference osisRef="2PE.3.11!3" type="Embedded DFE" label="Emb" verse="2PE 3:11" >πάντων</reference>
+		<reference osisRef="1JN.1.6!12" type="Embedded DFE" label="Emb" verse="1JN 1:6" >περιπατῶμεν</reference>
+		<reference osisRef="1JN.2.4!10-1JN.2.4!11" type="Embedded DFE" label="Emb" verse="1JN 2:4" >μὴ τηρῶν</reference>
+		<reference osisRef="1JN.2.6!5" type="Embedded DFE" label="Emb" verse="1JN 2:6" >μένειν</reference>
+		<reference osisRef="1JN.3.6!5" type="Embedded DFE" label="Emb" verse="1JN 3:6" >μένων</reference>
+		<reference osisRef="1JN.3.15!20" type="Embedded DFE" label="Emb" verse="1JN 3:15" >μένουσαν</reference>
+		<reference osisRef="1JN.3.21!6-1JN.3.21!7" type="Embedded DFE" label="Emb" verse="1JN 3:21" >μὴ καταγινώσκῃ</reference>
+		<reference osisRef="1JN.3.24!27" type="Embedded DFE" label="Emb" verse="1JN 3:24" >ἔδωκεν</reference>
+		<reference osisRef="JUD.1.24!13-JUD.1.24!15" type="Embedded DFE" label="Emb" verse="JUD 1:24" >ἀμώμους ἐν ἀγαλλιάσει</reference>
+		<reference osisRef="REV.1.5!30-REV.1.5!33" type="Embedded DFE" label="Emb" verse="REV 1:5" >ἐν τῷ αἵματι αὐτοῦ</reference>
+		<reference osisRef="REV.1.7!14" type="Embedded DFE" label="Emb" verse="REV 1:7" >ἐξεκέντησαν</reference>
+		<reference osisRef="REV.4.9!11-REV.4.9!22" type="Embedded DFE" label="Emb" verse="REV 4:9" >τῷ καθημένῳ ἐπὶ τῷ θρόνῳ τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
+		<reference osisRef="REV.8.3!24" type="Embedded DFE" label="Emb" verse="REV 8:3" >πάντων</reference>
+		<reference osisRef="REV.11.5!23" type="Embedded DFE" label="Emb" verse="REV 11:5" >ἀδικῆσαι</reference>
+		<reference osisRef="REV.12.10!42-REV.12.10!44" type="Embedded DFE" label="Emb" verse="REV 12:10" >ἡμέρας καὶ νυκτός</reference>
+		<reference osisRef="REV.19.9!14" type="Embedded DFE" label="Emb" verse="REV 19:9" >κεκλημένοι</reference>
+	</references>
+</markup>

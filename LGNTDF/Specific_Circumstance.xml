@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markup>
+	<header>
+		<copyright>©2016 SIL International</copyright>
+		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
+		<product version="1.0">Levinsohn Greek New Testament Discourse Features</product>
+		<name>Specific Circumstance</name>
+		<description>The function of ἐγενετο ‘it came about’ and an immediately following temporal expression varies with the author (see DFNTG §10.3). In Matthew’s Gospel, it usually marks major divisions in the book (e.g. Mt 7:28). In Luke-Acts, in contrast, ‘it picks out from the general background the specific circumstance for the foreground events that are to follow’ (ibid.), as in Acts 9:37 (see also Mt 9:10).</description>
+		<type name="markup" />
+		<defaultstyle label="" bkcolor="#FF00FF00" fontcolor="" brdrcolor="" brdrline="Solid" brdrpos="None" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
+	</header>
+	<references>
+		<reference osisRef="MAT.7.28!2" type="Specific Circumstance" label="" verse="MAT 7:28" >ἐγένετο</reference>
+		<reference osisRef="MAT.9.10!2" type="Specific Circumstance" label="" verse="MAT 9:10" >ἐγένετο</reference>
+		<reference osisRef="MAT.11.1!2" type="Specific Circumstance" label="" verse="MAT 11:1" >ἐγένετο</reference>
+		<reference osisRef="MAT.13.53!2" type="Specific Circumstance" label="" verse="MAT 13:53" >ἐγένετο</reference>
+		<reference osisRef="MAT.19.1!2" type="Specific Circumstance" label="" verse="MAT 19:1" >ἐγένετο</reference>
+		<reference osisRef="MAT.26.1!2" type="Specific Circumstance" label="" verse="MAT 26:1" >ἐγένετο</reference>
+		<reference osisRef="MRK.1.9!2" type="Specific Circumstance" label="" verse="MRK 1:9" >ἐγένετο</reference>
+		<reference osisRef="MRK.2.23!2" type="Specific Circumstance" label="" verse="MRK 2:23" >ἐγένετο</reference>
+		<reference osisRef="MRK.4.4!2" type="Specific Circumstance" label="" verse="MRK 4:4" >ἐγένετο</reference>
+		<reference osisRef="LUK.1.8!1" type="Specific Circumstance" label="" verse="LUK 1:8" >ἐγένετο</reference>
+		<reference osisRef="LUK.1.23!2" type="Specific Circumstance" label="" verse="LUK 1:23" >ἐγένετο</reference>
+		<reference osisRef="LUK.1.41!2" type="Specific Circumstance" label="" verse="LUK 1:41" >ἐγένετο</reference>
+		<reference osisRef="LUK.1.59!2" type="Specific Circumstance" label="" verse="LUK 1:59" >ἐγένετο</reference>
+		<reference osisRef="LUK.2.1!1" type="Specific Circumstance" label="" verse="LUK 2:1" >ἐγένετο</reference>
+		<reference osisRef="LUK.2.6!1" type="Specific Circumstance" label="" verse="LUK 2:6" >ἐγένετο</reference>
+		<reference osisRef="LUK.2.15!2" type="Specific Circumstance" label="" verse="LUK 2:15" >ἐγένετο</reference>
+		<reference osisRef="LUK.2.46!2" type="Specific Circumstance" label="" verse="LUK 2:46" >ἐγένετο</reference>
+		<reference osisRef="LUK.3.21!1" type="Specific Circumstance" label="" verse="LUK 3:21" >ἐγένετο</reference>
+		<reference osisRef="LUK.5.1!1" type="Specific Circumstance" label="" verse="LUK 5:1" >ἐγένετο</reference>
+		<reference osisRef="LUK.5.12!2" type="Specific Circumstance" label="" verse="LUK 5:12" >ἐγένετο</reference>
+		<reference osisRef="LUK.5.17!2" type="Specific Circumstance" label="" verse="LUK 5:17" >ἐγένετο</reference>
+		<reference osisRef="LUK.6.1!1" type="Specific Circumstance" label="" verse="LUK 6:1" >ἐγένετο</reference>
+		<reference osisRef="LUK.6.6!1" type="Specific Circumstance" label="" verse="LUK 6:6" >ἐγένετο</reference>
+		<reference osisRef="LUK.6.12!1" type="Specific Circumstance" label="" verse="LUK 6:12" >ἐγένετο</reference>
+		<reference osisRef="LUK.7.11!2" type="Specific Circumstance" label="" verse="LUK 7:11" >ἐγένετο</reference>
+		<reference osisRef="LUK.8.1!2" type="Specific Circumstance" label="" verse="LUK 8:1" >ἐγένετο</reference>
+		<reference osisRef="LUK.8.22!1" type="Specific Circumstance" label="" verse="LUK 8:22" >ἐγένετο</reference>
+		<reference osisRef="LUK.9.18!2" type="Specific Circumstance" label="" verse="LUK 9:18" >ἐγένετο</reference>
+		<reference osisRef="LUK.9.28!1" type="Specific Circumstance" label="" verse="LUK 9:28" >ἐγένετο</reference>
+		<reference osisRef="LUK.9.29!2" type="Specific Circumstance" label="" verse="LUK 9:29" >ἐγένετο</reference>
+		<reference osisRef="LUK.9.33!2" type="Specific Circumstance" label="" verse="LUK 9:33" >ἐγένετο</reference>
+		<reference osisRef="LUK.9.37!1" type="Specific Circumstance" label="" verse="LUK 9:37" >ἐγένετο</reference>
+		<reference osisRef="LUK.9.51!1" type="Specific Circumstance" label="" verse="LUK 9:51" >ἐγένετο</reference>
+		<reference osisRef="LUK.11.1!2" type="Specific Circumstance" label="" verse="LUK 11:1" >ἐγένετο</reference>
+		<reference osisRef="LUK.11.14!9" type="Specific Circumstance" label="" verse="LUK 11:14" >ἐγένετο</reference>
+		<reference osisRef="LUK.11.27!1" type="Specific Circumstance" label="" verse="LUK 11:27" >ἐγένετο</reference>
+		<reference osisRef="LUK.14.1!2" type="Specific Circumstance" label="" verse="LUK 14:1" >ἐγένετο</reference>
+		<reference osisRef="LUK.17.11!2" type="Specific Circumstance" label="" verse="LUK 17:11" >ἐγένετο</reference>
+		<reference osisRef="LUK.17.14!11" type="Specific Circumstance" label="" verse="LUK 17:14" >ἐγένετο</reference>
+		<reference osisRef="LUK.18.35!1" type="Specific Circumstance" label="" verse="LUK 18:35" >ἐγένετο</reference>
+		<reference osisRef="LUK.19.15!2" type="Specific Circumstance" label="" verse="LUK 19:15" >ἐγένετο</reference>
+		<reference osisRef="LUK.19.29!2" type="Specific Circumstance" label="" verse="LUK 19:29" >ἐγένετο</reference>
+		<reference osisRef="LUK.20.1!2" type="Specific Circumstance" label="" verse="LUK 20:1" >ἐγένετο</reference>
+		<reference osisRef="LUK.24.4!2" type="Specific Circumstance" label="" verse="LUK 24:4" >ἐγένετο</reference>
+		<reference osisRef="LUK.24.15!2" type="Specific Circumstance" label="" verse="LUK 24:15" >ἐγένετο</reference>
+		<reference osisRef="LUK.24.30!2" type="Specific Circumstance" label="" verse="LUK 24:30" >ἐγένετο</reference>
+		<reference osisRef="LUK.24.51!2" type="Specific Circumstance" label="" verse="LUK 24:51" >ἐγένετο</reference>
+		<reference osisRef="ACT.3.23!1" type="Specific Circumstance" label="" verse="ACT 3:23" >ἔσται</reference>
+		<reference osisRef="ACT.4.5!1" type="Specific Circumstance" label="" verse="ACT 4:5" >ἐγένετο</reference>
+		<reference osisRef="ACT.9.32!1" type="Specific Circumstance" label="" verse="ACT 9:32" >ἐγένετο</reference>
+		<reference osisRef="ACT.9.37!1" type="Specific Circumstance" label="" verse="ACT 9:37" >ἐγένετο</reference>
+		<reference osisRef="ACT.9.43!1" type="Specific Circumstance" label="" verse="ACT 9:43" >ἐγένετο</reference>
+		<reference osisRef="ACT.14.1!1" type="Specific Circumstance" label="" verse="ACT 14:1" >ἐγένετο</reference>
+		<reference osisRef="ACT.16.16!1" type="Specific Circumstance" label="" verse="ACT 16:16" >ἐγένετο</reference>
+		<reference osisRef="ACT.19.1!1" type="Specific Circumstance" label="" verse="ACT 19:1" >ἐγένετο</reference>
+		<reference osisRef="ACT.22.6!1" type="Specific Circumstance" label="" verse="ACT 22:6" >ἐγένετο</reference>
+		<reference osisRef="ACT.22.17!1" type="Specific Circumstance" label="" verse="ACT 22:17" >ἐγένετο</reference>
+		<reference osisRef="ACT.28.17!1" type="Specific Circumstance" label="" verse="ACT 28:17" >ἐγένετο</reference>
+	</references>
+</markup>
