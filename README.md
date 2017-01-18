@@ -11,3 +11,10 @@ http://www-01.sil.org/~levinsohns/EnhancedBARTdisplayNT.pdf
 
 For a nice description of how this data is valuable for exegesis, see this document:
 http://www-01.sil.org/siljot/2006/2/48004/siljot2006-2-02.pdf
+
+Our hope in making this data available is to foster ongoing reflection and discussion as to how Greek discourse features impact exegetical and translation concerns.
+
+Paul O'Rear
+Associate Coordinator
+International Translation
+SIL International
