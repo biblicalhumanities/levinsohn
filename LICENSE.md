@@ -7,7 +7,7 @@ The electronic text of the Levinsohn Greek New Testament Discourse FeaturesTM (L
 End-User License Agreement
 
 
-1.You may freely distribute the LGNTDF, but you are not permitted to sell it on its own, in any format. 
+1. You may freely distribute the LGNTDF, but you are not permitted to sell it on its own, in any format. 
 
 2. If the LGNTDF constitutes less than 25 percent of the content of a larger print or electronic work, you may sell it as part of that work. If the LGNTDF will constitute more than 25 percent of the content of a larger print or electronic work that you wish to sell, you must secure a licensing agreement to do so prior to publication. All permissions and licensing requests should be addressed to:
 SIL International
