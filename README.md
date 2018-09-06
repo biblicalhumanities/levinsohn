@@ -3,10 +3,10 @@ These files contain Stephen Levinsohn's complete discourse features markup of th
 https://www.amazon.com/Discourse-Features-New-Testament-Greek/dp/1556710933
 
 A good way to get an overview of this data is to look at the BART displays, which can be seen here:<p>
-http://www-01.sil.org/~levinsohns/BART.html
+https://scholars.sil.org/stephen_h_levinsohn/bart
 
 For a brief explanation of the markup, see this document:<p>
-https://scholars.sil.org/stephen_h_levinsohn/bart
+
 
 For a nice description of how this data is valuable for exegesis, see this article:<p>
 http://www-01.sil.org/siljot/2006/2/48004/siljot2006-2-02.pdf
