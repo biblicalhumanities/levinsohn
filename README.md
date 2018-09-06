@@ -6,10 +6,10 @@ A good way to get an overview of this data is to look at the BART displays, whic
 https://scholars.sil.org/stephen_h_levinsohn/bart
 
 For a brief explanation of the markup, see this document:<p>
-
+https://scholars.sil.org/sites/scholars/files/stephen_h_levinsohn/bart/enhancedbartdisplaynt.pdf
 
 For a nice description of how this data is valuable for exegesis, see this article:<p>
-http://www-01.sil.org/siljot/2006/2/48004/siljot2006-2-02.pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.544.3334&rep=rep1&type=pdf
 
 Our hope in making this data available is to foster ongoing reflection and discussion as to how Greek discourse features impact exegetical and translation concerns.
 
