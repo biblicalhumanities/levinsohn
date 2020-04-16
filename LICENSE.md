@@ -1,8 +1,8 @@
-Levinsohn Greek New Testament Discourse FeaturesTM
+Levinsohn Greek New Testament Discourse Features
 ==================================================
 Copyright  2016 SIL International®
 
-The electronic text of the Levinsohn Greek New Testament Discourse FeaturesTM (LGNTDF) may be freely downloaded at http://github.com/biblicalhumanities/levinsohn
+The electronic text of the Levinsohn Greek New Testament Discourse Features (LGNTDF) may be freely downloaded at http://github.com/biblicalhumanities/levinsohn
 
 End-User License Agreement
 
