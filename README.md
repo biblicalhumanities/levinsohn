@@ -7,13 +7,14 @@ A good way to get an overview of this data is to look at the BART displays, whic
 
 https://scholars.sil.org/stephen_h_levinsohn/bart
 
-For a brief explanation of the markup, see this document:
+For a brief explanation of the markup, see:
 
-https://scholars.sil.org/sites/scholars/files/stephen_h_levinsohn/bart/enhancedbartdisplaynt.pdf
+> Levinsohn, Stephen H. 2017. BART Display Enhanced for Discourse Features: Greek New Testament. https://scholars.sil.org/sites/scholars/files/stephen_h_levinsohn/bart/enhancedbartdisplaynt.pdf.
+
 
 For a nice description of how this data is valuable for exegesis, see:
 
-  Levinsohn, Stephen H. 2006. The Relevance of Greek Discourse Studies to Exegesis. Journal of Translation 2(2). 11–21. https://www.sil.org/resources/publications/entry/40248. or [hosted on citeseerx](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.544.3334&rep=rep1&type=pdf)
+> Levinsohn, Stephen H. 2006. The Relevance of Greek Discourse Studies to Exegesis. Journal of Translation 2(2). 11–21. https://www.sil.org/resources/publications/entry/40248. or [hosted on citeseerx](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.544.3334&rep=rep1&type=pdf)
 
 
 Our hope in making this data available is to foster ongoing reflection and discussion as to how Greek discourse features impact exegetical and translation concerns.
