@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<markup>
+<feature>
 	<header>
 		<copyright>©2016 SIL International</copyright>
 		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
@@ -10,848 +10,848 @@
 		<defaultstyle label="" bkcolor="" fontcolor="" brdrcolor="#FFFF0000" brdrline="Dots" brdrpos="A,U,B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
 	</header>
 	<references>
-		<reference osisRef="MAT.2.4!16" type="Verb Focus+" label="" verse="MAT 2:4" >γεννᾶται</reference>
-		<reference osisRef="MAT.4.12!5" type="Verb Focus+" label="" verse="MAT 4:12" >παρεδόθη</reference>
-		<reference osisRef="MAT.5.13!11" type="Verb Focus+" label="" verse="MAT 5:13" >μωρανθῇ</reference>
-		<reference osisRef="MAT.6.17!12" type="Verb Focus+" label="" verse="MAT 6:17" >νίψαι</reference>
-		<reference osisRef="MAT.6.19!16-MAT.6.19!18" type="Verb Focus+" label="" verse="MAT 6:19" >διορύσσουσιν καὶ κλέπτουσιν</reference>
-		<reference osisRef="MAT.6.20!16-MAT.6.20!19" type="Verb Focus+" label="" verse="MAT 6:20" >οὐ διορύσσουσιν οὐδὲ κλέπτουσιν</reference>
-		<reference osisRef="MAT.7.19!7" type="Verb Focus+" label="" verse="MAT 7:19" >ἐκκόπτεται</reference>
-		<reference osisRef="MAT.7.22!14" type="Verb Focus+" label="" verse="MAT 7:22" >ἐπροφητεύσαμεν</reference>
-		<reference osisRef="MAT.8.2!13" type="Verb Focus+" label="" verse="MAT 8:2" >καθαρίσαι</reference>
-		<reference osisRef="MAT.9.14!20-MAT.9.14!21" type="Verb Focus+" label="" verse="MAT 9:14" >οὐ νηστεύουσιν</reference>
-		<reference osisRef="MAT.9.17!18" type="Verb Focus+" label="" verse="MAT 9:17" >ἐκχεῖται</reference>
-		<reference osisRef="MAT.9.17!22" type="Verb Focus+" label="" verse="MAT 9:17" >ἀπόλλυνται</reference>
-		<reference osisRef="MAT.9.18!16-MAT.9.18!17" type="Verb Focus+" label="" verse="MAT 9:18" >ἄρτι ἐτελεύτησεν</reference>
-		<reference osisRef="MAT.9.28!19" type="Verb Focus+" label="" verse="MAT 9:28" >ποιῆσαι</reference>
-		<reference osisRef="MAT.10.8!12" type="Verb Focus+" label="" verse="MAT 10:8" >δότε</reference>
-		<reference osisRef="MAT.10.13!24" type="Verb Focus+" label="" verse="MAT 10:13" >ἐπιστραφήτω</reference>
-		<reference osisRef="MAT.10.22!16" type="Verb Focus+" label="" verse="MAT 10:22" >σωθήσεται</reference>
-		<reference osisRef="MAT.11.5!2" type="Verb Focus+" label="" verse="MAT 11:5" >ἀναβλέπουσιν</reference>
-		<reference osisRef="MAT.11.5!5" type="Verb Focus+" label="" verse="MAT 11:5" >περιπατοῦσιν</reference>
-		<reference osisRef="MAT.11.5!7" type="Verb Focus+" label="" verse="MAT 11:5" >καθαρίζονται</reference>
-		<reference osisRef="MAT.11.5!10" type="Verb Focus+" label="" verse="MAT 11:5" >ἀκούουσιν</reference>
-		<reference osisRef="MAT.11.5!13" type="Verb Focus+" label="" verse="MAT 11:5" >ἐγείρονται</reference>
-		<reference osisRef="MAT.11.5!16" type="Verb Focus+" label="" verse="MAT 11:5" >εὐαγγελίζονται</reference>
-		<reference osisRef="MAT.11.12!14" type="Verb Focus+" label="" verse="MAT 11:12" >βιάζεται</reference>
-		<reference osisRef="MAT.11.15!4" type="Verb Focus+" label="" verse="MAT 11:15" >ἀκουέτω</reference>
-		<reference osisRef="MAT.12.5!17" type="Verb Focus+" label="" verse="MAT 12:5" >βεβηλοῦσιν</reference>
-		<reference osisRef="MAT.12.14!11" type="Verb Focus+" label="" verse="MAT 12:14" >ἀπολέσωσιν</reference>
-		<reference osisRef="MAT.12.25!13" type="Verb Focus+" label="" verse="MAT 12:25" >ἐρημοῦται</reference>
-		<reference osisRef="MAT.12.25!22-MAT.12.25!23" type="Verb Focus+" label="" verse="MAT 12:25" >οὐ σταθήσεται</reference>
-		<reference osisRef="MAT.12.30!15" type="Verb Focus+" label="" verse="MAT 12:30" >σκορπίζει</reference>
-		<reference osisRef="MAT.12.31!17-MAT.12.31!18" type="Verb Focus+" label="" verse="MAT 12:31" >οὐκ ἀφεθήσεται</reference>
-		<reference osisRef="MAT.12.37!6" type="Verb Focus+" label="" verse="MAT 12:37" >δικαιωθήσῃ</reference>
-		<reference osisRef="MAT.12.37!12" type="Verb Focus+" label="" verse="MAT 12:37" >καταδικασθήσῃ</reference>
-		<reference osisRef="MAT.12.46!17" type="Verb Focus+" label="" verse="MAT 12:46" >λαλῆσαι</reference>
-		<reference osisRef="MAT.12.47!17" type="Verb Focus+" label="" verse="MAT 12:47" >λαλῆσαι</reference>
-		<reference osisRef="MAT.13.6!11" type="Verb Focus+" label="" verse="MAT 13:6" >ἐξηράνθη</reference>
-		<reference osisRef="MAT.13.9!4" type="Verb Focus+" label="" verse="MAT 13:9" >ἀκουέτω</reference>
-		<reference osisRef="MAT.13.11!18-MAT.13.11!19" type="Verb Focus+" label="" verse="MAT 13:11" >οὐ δέδοται</reference>
-		<reference osisRef="MAT.13.15!17" type="Verb Focus+" label="" verse="MAT 13:15" >ἐκάμμυσαν</reference>
-		<reference osisRef="MAT.13.15!25" type="Verb Focus+" label="" verse="MAT 13:15" >ἀκούσωσιν</reference>
-		<reference osisRef="MAT.13.15!29" type="Verb Focus+" label="" verse="MAT 13:15" >συνῶσιν</reference>
-		<reference osisRef="MAT.13.43!17" type="Verb Focus+" label="" verse="MAT 13:43" >ἀκουέτω</reference>
-		<reference osisRef="MAT.14.5!4" type="Verb Focus+" label="" verse="MAT 14:5" >ἀποκτεῖναι</reference>
-		<reference osisRef="MAT.14.15!17" type="Verb Focus+" label="" verse="MAT 14:15" >παρῆλθεν</reference>
-		<reference osisRef="MAT.14.26!19" type="Verb Focus+" label="" verse="MAT 14:26" >ἔκραξαν</reference>
-		<reference osisRef="MAT.14.36!15" type="Verb Focus+" label="" verse="MAT 14:36" >διεσώθησαν</reference>
-		<reference osisRef="MAT.15.2!18" type="Verb Focus+" label="" verse="MAT 15:2" >ἄρτον</reference>
-		<reference osisRef="MAT.15.4!17-MAT.15.4!18" type="Verb Focus+" label="" verse="MAT 15:4" >θανάτῳ τελευτάτω</reference>
-		<reference osisRef="MAT.15.13!15" type="Verb Focus+" label="" verse="MAT 15:13" >ἐκριζωθήσεται</reference>
-		<reference osisRef="MAT.15.14!11" type="Verb Focus+" label="" verse="MAT 15:14" >ὁδηγῇ</reference>
-		<reference osisRef="MAT.15.31!4" type="Verb Focus+" label="" verse="MAT 15:31" >θαυμάσαι</reference>
-		<reference osisRef="MAT.15.31!7" type="Verb Focus+" label="" verse="MAT 15:31" >λαλοῦντας</reference>
-		<reference osisRef="MAT.15.31!12" type="Verb Focus+" label="" verse="MAT 15:31" >περιπατοῦντας</reference>
-		<reference osisRef="MAT.15.31!15" type="Verb Focus+" label="" verse="MAT 15:31" >βλέποντας</reference>
-		<reference osisRef="MAT.16.3!15-MAT.16.3!16" type="Verb Focus+" label="" verse="MAT 16:3" >γινώσκετε διακρίνειν</reference>
-		<reference osisRef="MAT.16.3!22-MAT.16.3!23" type="Verb Focus+" label="" verse="MAT 16:3" >οὐ δύνασθε</reference>
-		<reference osisRef="MAT.16.21!32" type="Verb Focus+" label="" verse="MAT 16:21" >ἐγερθῆναι</reference>
-		<reference osisRef="MAT.17.11!7" type="Verb Focus+" label="" verse="MAT 17:11" >ἔρχεται</reference>
-		<reference osisRef="MAT.17.16!11" type="Verb Focus+" label="" verse="MAT 17:16" >θεραπεῦσαι</reference>
-		<reference osisRef="MAT.17.23!8" type="Verb Focus+" label="" verse="MAT 17:23" >ἐγερθήσεται</reference>
-		<reference osisRef="MAT.18.7!20" type="Verb Focus+" label="" verse="MAT 18:7" >ἔρχεται</reference>
-		<reference osisRef="MAT.18.15!19" type="Verb Focus+" label="" verse="MAT 18:15" >ἀκούσῃ</reference>
-		<reference osisRef="MAT.18.28!24" type="Verb Focus+" label="" verse="MAT 18:28" >ὀφείλεις</reference>
-		<reference osisRef="MAT.19.6!14-MAT.19.6!15" type="Verb Focus+" label="" verse="MAT 19:6" >μὴ χωριζέτω</reference>
-		<reference osisRef="MAT.19.9!17" type="Verb Focus+" label="" verse="MAT 19:9" >μοιχᾶται</reference>
-		<reference osisRef="MAT.19.12!32" type="Verb Focus+" label="" verse="MAT 19:12" >χωρείτω</reference>
-		<reference osisRef="MAT.19.20!7" type="Verb Focus+" label="" verse="MAT 19:20" >ἐφύλαξα</reference>
-		<reference osisRef="MAT.20.19!17" type="Verb Focus+" label="" verse="MAT 20:19" >ἐγερθήσεται</reference>
-		<reference osisRef="MAT.20.23!7" type="Verb Focus+" label="" verse="MAT 20:23" >πίεσθε</reference>
-		<reference osisRef="MAT.21.16!7" type="Verb Focus+" label="" verse="MAT 21:16" >λέγουσιν</reference>
-		<reference osisRef="MAT.21.35!10" type="Verb Focus+" label="" verse="MAT 21:35" >ἔδειραν</reference>
-		<reference osisRef="MAT.21.35!13" type="Verb Focus+" label="" verse="MAT 21:35" >ἀπέκτειναν</reference>
-		<reference osisRef="MAT.21.35!16" type="Verb Focus+" label="" verse="MAT 21:35" >ἐλιθοβόλησαν</reference>
-		<reference osisRef="MAT.21.44!8" type="Verb Focus+" label="" verse="MAT 21:44" >συνθλασθήσεται</reference>
-		<reference osisRef="MAT.21.46!4" type="Verb Focus+" label="" verse="MAT 21:46" >κρατῆσαι</reference>
-		<reference osisRef="MAT.22.4!13" type="Verb Focus+" label="" verse="MAT 22:4" >ἡτοίμακα</reference>
-		<reference osisRef="MAT.22.4!20" type="Verb Focus+" label="" verse="MAT 22:4" >τεθυμένα</reference>
-		<reference osisRef="MAT.23.12!5" type="Verb Focus+" label="" verse="MAT 23:12" >ταπεινωθήσεται</reference>
-		<reference osisRef="MAT.23.12!10" type="Verb Focus+" label="" verse="MAT 23:12" >ὑψωθήσεται</reference>
-		<reference osisRef="MAT.23.13!19-MAT.23.13!20" type="Verb Focus+" label="" verse="MAT 23:13" >οὐκ εἰσέρχεσθε</reference>
-		<reference osisRef="MAT.23.16!24" type="Verb Focus+" label="" verse="MAT 23:16" >ὀφείλει</reference>
-		<reference osisRef="MAT.23.34!15-MAT.23.34!17" type="Verb Focus+" label="" verse="MAT 23:34" >ἀποκτενεῖτε καὶ σταυρώσετε</reference>
-		<reference osisRef="MAT.24.4!11" type="Verb Focus+" label="" verse="MAT 24:4" >πλανήσῃ</reference>
-		<reference osisRef="MAT.24.10!7" type="Verb Focus+" label="" verse="MAT 24:10" >παραδώσουσιν</reference>
-		<reference osisRef="MAT.24.15!20" type="Verb Focus+" label="" verse="MAT 24:15" >νοείτω</reference>
-		<reference osisRef="MAT.24.29!11" type="Verb Focus+" label="" verse="MAT 24:29" >σκοτισθήσεται</reference>
-		<reference osisRef="MAT.24.29!32" type="Verb Focus+" label="" verse="MAT 24:29" >σαλευθήσονται</reference>
-		<reference osisRef="MAT.24.35!11-MAT.24.35!13" type="Verb Focus+" label="" verse="MAT 24:35" >οὐ μὴ παρέλθωσιν</reference>
-		<reference osisRef="MAT.24.40!8" type="Verb Focus+" label="" verse="MAT 24:40" >παραλαμβάνεται</reference>
-		<reference osisRef="MAT.24.40!11" type="Verb Focus+" label="" verse="MAT 24:40" >ἀφίεται</reference>
-		<reference osisRef="MAT.24.41!7" type="Verb Focus+" label="" verse="MAT 24:41" >παραλαμβάνεται</reference>
-		<reference osisRef="MAT.24.41!10" type="Verb Focus+" label="" verse="MAT 24:41" >ἀφίεται</reference>
-		<reference osisRef="MAT.25.8!17" type="Verb Focus+" label="" verse="MAT 25:8" >σβέννυνται</reference>
-		<reference osisRef="MAT.25.29!5" type="Verb Focus+" label="" verse="MAT 25:29" >δοθήσεται</reference>
-		<reference osisRef="MAT.26.15!5" type="Verb Focus+" label="" verse="MAT 26:15" >δοῦναι</reference>
-		<reference osisRef="MAT.26.16!8" type="Verb Focus+" label="" verse="MAT 26:16" >παραδῷ</reference>
-		<reference osisRef="MAT.26.24!22" type="Verb Focus+" label="" verse="MAT 26:24" >παραδίδοται</reference>
-		<reference osisRef="MAT.26.35!14" type="Verb Focus+" label="" verse="MAT 26:35" >ἀπαρνήσομαι</reference>
-		<reference osisRef="MAT.26.47!4" type="Verb Focus+" label="" verse="MAT 26:47" >λαλοῦντος</reference>
-		<reference osisRef="MAT.26.52!21" type="Verb Focus+" label="" verse="MAT 26:52" >ἀπολοῦνται</reference>
-		<reference osisRef="MAT.26.57!17" type="Verb Focus+" label="" verse="MAT 26:57" >συνήχθησαν</reference>
-		<reference osisRef="MAT.26.59!15" type="Verb Focus+" label="" verse="MAT 26:59" >θανατώσωσιν</reference>
-		<reference osisRef="MAT.26.62!12" type="Verb Focus+" label="" verse="MAT 26:62" >καταμαρτυροῦσιν</reference>
-		<reference osisRef="MAT.27.20!17" type="Verb Focus+" label="" verse="MAT 27:20" >ἀπολέσωσιν</reference>
-		<reference osisRef="MAT.27.63!14" type="Verb Focus+" label="" verse="MAT 27:63" >ἐγείρομαι</reference>
-		<reference osisRef="MAT.28.13!12" type="Verb Focus+" label="" verse="MAT 28:13" >κοιμωμένων</reference>
-		<reference osisRef="MRK.1.11!16" type="Verb Focus+" label="" verse="MRK 1:11" >εὐδόκησα</reference>
-		<reference osisRef="MRK.1.40!18" type="Verb Focus+" label="" verse="MRK 1:40" >καθαρίσαι</reference>
-		<reference osisRef="MRK.2.18!25" type="Verb Focus+" label="" verse="MRK 2:18" >νηστεύουσιν</reference>
-		<reference osisRef="MRK.2.18!30-MRK.2.18!31" type="Verb Focus+" label="" verse="MRK 2:18" >οὐ νηστεύουσιν</reference>
-		<reference osisRef="MRK.3.4!12" type="Verb Focus+" label="" verse="MRK 3:4" >σῶσαι</reference>
-		<reference osisRef="MRK.3.6!15" type="Verb Focus+" label="" verse="MRK 3:6" >ἀπολέσωσιν</reference>
-		<reference osisRef="MRK.3.11!8" type="Verb Focus+" label="" verse="MRK 3:11" >ἐθεώρουν</reference>
-		<reference osisRef="MRK.3.27!20" type="Verb Focus+" label="" verse="MRK 3:27" >δήσῃ</reference>
-		<reference osisRef="MRK.4.6!13" type="Verb Focus+" label="" verse="MRK 4:6" >ἐξηράνθη</reference>
-		<reference osisRef="MRK.4.9!7" type="Verb Focus+" label="" verse="MRK 4:9" >ἀκουέτω</reference>
-		<reference osisRef="MRK.4.18!14" type="Verb Focus+" label="" verse="MRK 4:18" >ἀκούσαντες</reference>
-		<reference osisRef="MRK.4.38!10" type="Verb Focus+" label="" verse="MRK 4:38" >καθεύδων</reference>
-		<reference osisRef="MRK.5.3!15" type="Verb Focus+" label="" verse="MRK 5:3" >δῆσαι</reference>
-		<reference osisRef="MRK.5.4!18" type="Verb Focus+" label="" verse="MRK 5:4" >συντετρῖφθαι</reference>
-		<reference osisRef="MRK.5.4!23" type="Verb Focus+" label="" verse="MRK 5:4" >δαμάσαι</reference>
-		<reference osisRef="MRK.5.7!22" type="Verb Focus+" label="" verse="MRK 5:7" >βασανίσῃς</reference>
-		<reference osisRef="MRK.5.19!23" type="Verb Focus+" label="" verse="MRK 5:19" >πεποίηκεν</reference>
-		<reference osisRef="MRK.5.20!16" type="Verb Focus+" label="" verse="MRK 5:20" >ἐθαύμαζον</reference>
-		<reference osisRef="MRK.5.32!6" type="Verb Focus+" label="" verse="MRK 5:32" >ποιήσασαν</reference>
-		<reference osisRef="MRK.5.35!3" type="Verb Focus+" label="" verse="MRK 5:35" >λαλοῦντος</reference>
-		<reference osisRef="MRK.5.35!13" type="Verb Focus+" label="" verse="MRK 5:35" >ἀπέθανεν</reference>
-		<reference osisRef="MRK.5.39!11-MRK.5.39!12" type="Verb Focus+" label="" verse="MRK 5:39" >οὐκ ἀπέθανεν</reference>
-		<reference osisRef="MRK.5.39!14" type="Verb Focus+" label="" verse="MRK 5:39" >καθεύδει</reference>
-		<reference osisRef="MRK.6.16!11" type="Verb Focus+" label="" verse="MRK 6:16" >ἠγέρθη</reference>
-		<reference osisRef="MRK.6.17!24" type="Verb Focus+" label="" verse="MRK 6:17" >ἐγάμησεν</reference>
-		<reference osisRef="MRK.6.19!9" type="Verb Focus+" label="" verse="MRK 6:19" >ἀποκτεῖναι</reference>
-		<reference osisRef="MRK.6.56!35" type="Verb Focus+" label="" verse="MRK 6:56" >ἐσῴζοντο</reference>
-		<reference osisRef="MRK.7.10!18-MRK.7.10!19" type="Verb Focus+" label="" verse="MRK 7:10" >θανάτῳ τελευτάτω</reference>
-		<reference osisRef="MRK.7.18!22" type="Verb Focus+" label="" verse="MRK 7:18" >κοινῶσαι</reference>
-		<reference osisRef="MRK.7.36!10" type="Verb Focus+" label="" verse="MRK 7:36" >διεστέλλετο</reference>
-		<reference osisRef="MRK.7.37!12" type="Verb Focus+" label="" verse="MRK 7:37" >ἀκούειν</reference>
-		<reference osisRef="MRK.7.37!16" type="Verb Focus+" label="" verse="MRK 7:37" >λαλεῖν</reference>
-		<reference osisRef="MRK.8.22!14" type="Verb Focus+" label="" verse="MRK 8:22" >ἅψηται</reference>
-		<reference osisRef="MRK.8.31!30" type="Verb Focus+" label="" verse="MRK 8:31" >ἀναστῆναι</reference>
-		<reference osisRef="MRK.9.13!7" type="Verb Focus+" label="" verse="MRK 9:13" >ἐλήλυθεν</reference>
-		<reference osisRef="MRK.9.18!23" type="Verb Focus+" label="" verse="MRK 9:18" >ἐκβάλωσιν</reference>
-		<reference osisRef="MRK.9.30!12" type="Verb Focus+" label="" verse="MRK 9:30" >γνοῖ</reference>
-		<reference osisRef="MRK.9.31!26" type="Verb Focus+" label="" verse="MRK 9:31" >ἀναστήσεται</reference>
-		<reference osisRef="MRK.9.32!9" type="Verb Focus+" label="" verse="MRK 9:32" >ἐπερωτῆσαι</reference>
-		<reference osisRef="MRK.9.48!5-MRK.9.48!6" type="Verb Focus+" label="" verse="MRK 9:48" >οὐ τελευτᾷ</reference>
-		<reference osisRef="MRK.9.48!10-MRK.9.48!11" type="Verb Focus+" label="" verse="MRK 9:48" >οὐ σβέννυται</reference>
-		<reference osisRef="MRK.9.49!4" type="Verb Focus+" label="" verse="MRK 9:49" >ἁλισθήσεται</reference>
-		<reference osisRef="MRK.10.2!10" type="Verb Focus+" label="" verse="MRK 10:2" >ἀπολῦσαι</reference>
-		<reference osisRef="MRK.10.9!7-MRK.10.9!8" type="Verb Focus+" label="" verse="MRK 10:9" >μὴ χωριζέτω</reference>
-		<reference osisRef="MRK.10.13!7" type="Verb Focus+" label="" verse="MRK 10:13" >ἅψηται</reference>
-		<reference osisRef="MRK.10.32!20" type="Verb Focus+" label="" verse="MRK 10:32" >ἐφοβοῦντο</reference>
-		<reference osisRef="MRK.10.34!16" type="Verb Focus+" label="" verse="MRK 10:34" >ἀναστήσεται</reference>
-		<reference osisRef="MRK.10.39!16" type="Verb Focus+" label="" verse="MRK 10:39" >πίεσθε</reference>
-		<reference osisRef="MRK.10.39!23" type="Verb Focus+" label="" verse="MRK 10:39" >βαπτισθήσεσθε</reference>
-		<reference osisRef="MRK.11.18!12" type="Verb Focus+" label="" verse="MRK 11:18" >ἀπολέσωσιν</reference>
-		<reference osisRef="MRK.11.21!13" type="Verb Focus+" label="" verse="MRK 11:21" >ἐξήρανται</reference>
-		<reference osisRef="MRK.11.23!29" type="Verb Focus+" label="" verse="MRK 11:23" >γίνεται</reference>
-		<reference osisRef="MRK.11.28!18" type="Verb Focus+" label="" verse="MRK 11:28" >ποιῇς</reference>
-		<reference osisRef="MRK.12.12!4" type="Verb Focus+" label="" verse="MRK 12:12" >κρατῆσαι</reference>
-		<reference osisRef="MRK.13.5!11" type="Verb Focus+" label="" verse="MRK 13:5" >πλανήσῃ</reference>
-		<reference osisRef="MRK.13.13!16" type="Verb Focus+" label="" verse="MRK 13:13" >σωθήσεται</reference>
-		<reference osisRef="MRK.13.14!14" type="Verb Focus+" label="" verse="MRK 13:14" >νοείτω</reference>
-		<reference osisRef="MRK.13.24!12" type="Verb Focus+" label="" verse="MRK 13:24" >σκοτισθήσεται</reference>
-		<reference osisRef="MRK.13.25!8" type="Verb Focus+" label="" verse="MRK 13:25" >πίπτοντες</reference>
-		<reference osisRef="MRK.13.25!16" type="Verb Focus+" label="" verse="MRK 13:25" >σαλευθήσονται</reference>
-		<reference osisRef="MRK.13.29!7" type="Verb Focus+" label="" verse="MRK 13:29" >γινόμενα</reference>
-		<reference osisRef="MRK.13.31!11-MRK.13.31!13" type="Verb Focus+" label="" verse="MRK 13:31" >οὐ μὴ παρελεύσονται</reference>
-		<reference osisRef="MRK.14.12!10" type="Verb Focus+" label="" verse="MRK 14:12" >ἔθυον</reference>
-		<reference osisRef="MRK.14.27!8" type="Verb Focus+" label="" verse="MRK 14:27" >σκανδαλισθήσεσθε</reference>
-		<reference osisRef="MRK.14.27!17" type="Verb Focus+" label="" verse="MRK 14:27" >διασκορπισθήσονται</reference>
-		<reference osisRef="MRK.14.42!7" type="Verb Focus+" label="" verse="MRK 14:42" >ἤγγικεν</reference>
-		<reference osisRef="MRK.14.43!5" type="Verb Focus+" label="" verse="MRK 14:43" >λαλοῦντος</reference>
-		<reference osisRef="MRK.16.14!20-MRK.16.14!21" type="Verb Focus+" label="" verse="MRK 16:14" >οὐκ ἐπίστευσαν</reference>
-		<reference osisRef="MRK.16.16!5" type="Verb Focus+" label="" verse="MRK 16:16" >σωθήσεται</reference>
-		<reference osisRef="MRK.16.16!9" type="Verb Focus+" label="" verse="MRK 16:16" >κατακριθήσεται</reference>
-		<reference osisRef="LUK.1.15!11-LUK.1.15!13" type="Verb Focus+" label="" verse="LUK 1:15" >οὐ μὴ πίῃ</reference>
-		<reference osisRef="LUK.1.29!6" type="Verb Focus+" label="" verse="LUK 1:29" >διεταράχθη</reference>
-		<reference osisRef="LUK.1.34!12-LUK.1.34!13" type="Verb Focus+" label="" verse="LUK 1:34" >οὐ γινώσκω</reference>
-		<reference osisRef="LUK.3.5!3" type="Verb Focus+" label="" verse="LUK 3:5" >πληρωθήσεται</reference>
-		<reference osisRef="LUK.3.5!9" type="Verb Focus+" label="" verse="LUK 3:5" >ταπεινωθήσεται</reference>
-		<reference osisRef="LUK.3.22!27" type="Verb Focus+" label="" verse="LUK 3:22" >εὐδόκησα</reference>
-		<reference osisRef="LUK.4.43!21" type="Verb Focus+" label="" verse="LUK 4:43" >ἀπεστάλην</reference>
-		<reference osisRef="LUK.5.2!14" type="Verb Focus+" label="" verse="LUK 5:2" >ἀποβάντες</reference>
-		<reference osisRef="LUK.5.12!31" type="Verb Focus+" label="" verse="LUK 5:12" >καθαρίσαι</reference>
-		<reference osisRef="LUK.5.18!14" type="Verb Focus+" label="" verse="LUK 5:18" >εἰσενεγκεῖν</reference>
-		<reference osisRef="LUK.5.33!22-LUK.5.33!24" type="Verb Focus+" label="" verse="LUK 5:33" >ἐσθίουσιν καὶ πίνουσιν</reference>
-		<reference osisRef="LUK.5.36!25" type="Verb Focus+" label="" verse="LUK 5:36" >σχίσει</reference>
-		<reference osisRef="LUK.5.37!22" type="Verb Focus+" label="" verse="LUK 5:37" >ἐκχυθήσεται</reference>
-		<reference osisRef="LUK.5.37!26" type="Verb Focus+" label="" verse="LUK 5:37" >ἀπολοῦνται</reference>
-		<reference osisRef="LUK.6.9!17" type="Verb Focus+" label="" verse="LUK 6:9" >σῶσαι</reference>
-		<reference osisRef="LUK.6.39!10" type="Verb Focus+" label="" verse="LUK 6:39" >ὁδηγεῖν</reference>
-		<reference osisRef="LUK.7.7!7" type="Verb Focus+" label="" verse="LUK 7:7" >ἐλθεῖν</reference>
-		<reference osisRef="LUK.7.10!11" type="Verb Focus+" label="" verse="LUK 7:10" >ὑγιαίνοντα</reference>
-		<reference osisRef="LUK.7.22!13" type="Verb Focus+" label="" verse="LUK 7:22" >ἀναβλέπουσιν</reference>
-		<reference osisRef="LUK.7.22!15" type="Verb Focus+" label="" verse="LUK 7:22" >περιπατοῦσιν</reference>
-		<reference osisRef="LUK.7.22!17" type="Verb Focus+" label="" verse="LUK 7:22" >καθαρίζονται</reference>
-		<reference osisRef="LUK.7.22!20" type="Verb Focus+" label="" verse="LUK 7:22" >ἀκούουσιν</reference>
-		<reference osisRef="LUK.7.22!22" type="Verb Focus+" label="" verse="LUK 7:22" >ἐγείρονται</reference>
-		<reference osisRef="LUK.7.22!24" type="Verb Focus+" label="" verse="LUK 7:22" >εὐαγγελίζονται</reference>
-		<reference osisRef="LUK.7.40!12" type="Verb Focus+" label="" verse="LUK 7:40" >εἰπεῖν</reference>
-		<reference osisRef="LUK.8.8!21" type="Verb Focus+" label="" verse="LUK 8:8" >ἀκουέτω</reference>
-		<reference osisRef="LUK.8.13!17-LUK.8.13!18" type="Verb Focus+" label="" verse="LUK 8:13" >οὐκ ἔχουσιν</reference>
-		<reference osisRef="LUK.8.28!26" type="Verb Focus+" label="" verse="LUK 8:28" >βασανίσῃς</reference>
-		<reference osisRef="LUK.8.35!20" type="Verb Focus+" label="" verse="LUK 8:35" >ἐξῆλθεν</reference>
-		<reference osisRef="LUK.8.49!3" type="Verb Focus+" label="" verse="LUK 8:49" >λαλοῦντος</reference>
-		<reference osisRef="LUK.9.4!8" type="Verb Focus+" label="" verse="LUK 9:4" >μένετε</reference>
-		<reference osisRef="LUK.9.4!11" type="Verb Focus+" label="" verse="LUK 9:4" >ἐξέρχεσθε</reference>
-		<reference osisRef="LUK.9.9!6" type="Verb Focus+" label="" verse="LUK 9:9" >ἀπεκεφάλισα</reference>
-		<reference osisRef="LUK.9.22!25" type="Verb Focus+" label="" verse="LUK 9:22" >ἐγερθῆναι</reference>
-		<reference osisRef="LUK.9.24!8" type="Verb Focus+" label="" verse="LUK 9:24" >σῶσαι</reference>
-		<reference osisRef="LUK.9.34!4" type="Verb Focus+" label="" verse="LUK 9:34" >λέγοντος</reference>
-		<reference osisRef="LUK.9.35!16" type="Verb Focus+" label="" verse="LUK 9:35" >ἀκούετε</reference>
-		<reference osisRef="LUK.10.6!19" type="Verb Focus+" label="" verse="LUK 10:6" >ἀνακάμψει</reference>
-		<reference osisRef="LUK.10.19!22-LUK.10.19!24" type="Verb Focus+" label="" verse="LUK 10:19" >οὐ μὴ ἀδικήσῃ</reference>
-		<reference osisRef="LUK.10.20!10" type="Verb Focus+" label="" verse="LUK 10:20" >ὑποτάσσεται</reference>
-		<reference osisRef="LUK.10.40!28" type="Verb Focus+" label="" verse="LUK 10:40" >συναντιλάβηται</reference>
-		<reference osisRef="LUK.11.7!12" type="Verb Focus+" label="" verse="LUK 11:7" >κέκλεισται</reference>
-		<reference osisRef="LUK.11.14!13" type="Verb Focus+" label="" verse="LUK 11:14" >ἐξελθόντος</reference>
-		<reference osisRef="LUK.11.17!19" type="Verb Focus+" label="" verse="LUK 11:17" >πίπτει</reference>
-		<reference osisRef="LUK.11.23!15" type="Verb Focus+" label="" verse="LUK 11:23" >σκορπίζει</reference>
-		<reference osisRef="LUK.11.49!18-LUK.11.49!20" type="Verb Focus+" label="" verse="LUK 11:49" >ἀποκτενοῦσιν καὶ διώξουσιν</reference>
-		<reference osisRef="LUK.11.52!12-LUK.11.52!13" type="Verb Focus+" label="" verse="LUK 11:52" >οὐκ εἰσήλθατε</reference>
-		<reference osisRef="LUK.12.33!20-LUK.12.33!21" type="Verb Focus+" label="" verse="LUK 12:33" >οὐκ ἐγγίζει</reference>
-		<reference osisRef="LUK.12.33!24" type="Verb Focus+" label="" verse="LUK 12:33" >διαφθείρει</reference>
-		<reference osisRef="LUK.12.56!9-LUK.12.56!10" type="Verb Focus+" label="" verse="LUK 12:56" >οἴδατε δοκιμάζειν</reference>
-		<reference osisRef="LUK.13.31!18" type="Verb Focus+" label="" verse="LUK 13:31" >ἀποκτεῖναι</reference>
-		<reference osisRef="LUK.14.29!15" type="Verb Focus+" label="" verse="LUK 14:29" >ἐμπαίζειν</reference>
-		<reference osisRef="LUK.15.17!17" type="Verb Focus+" label="" verse="LUK 15:17" >ἀπόλλυμαι</reference>
-		<reference osisRef="LUK.15.32!5" type="Verb Focus+" label="" verse="LUK 15:32" >ἔδει</reference>
-		<reference osisRef="LUK.16.13!11" type="Verb Focus+" label="" verse="LUK 16:13" >μισήσει</reference>
-		<reference osisRef="LUK.16.13!15" type="Verb Focus+" label="" verse="LUK 16:13" >ἀγαπήσει</reference>
-		<reference osisRef="LUK.16.13!18" type="Verb Focus+" label="" verse="LUK 16:13" >ἀνθέξεται</reference>
-		<reference osisRef="LUK.16.13!22" type="Verb Focus+" label="" verse="LUK 16:13" >καταφρονήσει</reference>
-		<reference osisRef="LUK.16.16!19" type="Verb Focus+" label="" verse="LUK 16:16" >βιάζεται</reference>
-		<reference osisRef="LUK.16.17!9" type="Verb Focus+" label="" verse="LUK 16:17" >παρελθεῖν</reference>
-		<reference osisRef="LUK.16.18!10" type="Verb Focus+" label="" verse="LUK 16:18" >μοιχεύει</reference>
-		<reference osisRef="LUK.16.25!23" type="Verb Focus+" label="" verse="LUK 16:25" >παρακαλεῖται</reference>
-		<reference osisRef="LUK.16.25!26" type="Verb Focus+" label="" verse="LUK 16:25" >ὀδυνᾶσαι</reference>
-		<reference osisRef="LUK.16.26!19-LUK.16.26!20" type="Verb Focus+" label="" verse="LUK 16:26" >μὴ δύνωνται</reference>
-		<reference osisRef="LUK.17.1!12-LUK.17.1!13" type="Verb Focus+" label="" verse="LUK 17:1" >μὴ ἐλθεῖν</reference>
-		<reference osisRef="LUK.17.22!17" type="Verb Focus+" label="" verse="LUK 17:22" >ἰδεῖν</reference>
-		<reference osisRef="LUK.17.30!11" type="Verb Focus+" label="" verse="LUK 17:30" >ἀποκαλύπτεται</reference>
-		<reference osisRef="LUK.17.34!13" type="Verb Focus+" label="" verse="LUK 17:34" >παραλημφθήσεται</reference>
-		<reference osisRef="LUK.17.34!17" type="Verb Focus+" label="" verse="LUK 17:34" >ἀφεθήσεται</reference>
-		<reference osisRef="LUK.17.35!9" type="Verb Focus+" label="" verse="LUK 17:35" >παραλημφθήσεται</reference>
-		<reference osisRef="LUK.17.35!13" type="Verb Focus+" label="" verse="LUK 17:35" >ἀφεθήσεται</reference>
-		<reference osisRef="LUK.18.2!10-LUK.18.2!11" type="Verb Focus+" label="" verse="LUK 18:2" >μὴ φοβούμενος</reference>
-		<reference osisRef="LUK.18.2!14-LUK.18.2!15" type="Verb Focus+" label="" verse="LUK 18:2" >μὴ ἐντρεπόμενος</reference>
-		<reference osisRef="LUK.18.8!15" type="Verb Focus+" label="" verse="LUK 18:8" >ἐλθὼν</reference>
-		<reference osisRef="LUK.18.14!17" type="Verb Focus+" label="" verse="LUK 18:14" >ταπεινωθήσεται</reference>
-		<reference osisRef="LUK.18.14!22" type="Verb Focus+" label="" verse="LUK 18:14" >ὑψωθήσεται</reference>
-		<reference osisRef="LUK.18.15!9" type="Verb Focus+" label="" verse="LUK 18:15" >ἅπτηται</reference>
-		<reference osisRef="LUK.18.33!10" type="Verb Focus+" label="" verse="LUK 18:33" >ἀναστήσεται</reference>
-		<reference osisRef="LUK.19.4!14-LUK.19.4!15" type="Verb Focus+" label="" verse="LUK 19:4" >ἤμελλεν διέρχεσθαι</reference>
-		<reference osisRef="LUK.19.8!22" type="Verb Focus+" label="" verse="LUK 19:8" >ἐσυκοφάντησα</reference>
-		<reference osisRef="LUK.19.26!7" type="Verb Focus+" label="" verse="LUK 19:26" >δοθήσεται</reference>
-		<reference osisRef="LUK.19.47!18" type="Verb Focus+" label="" verse="LUK 19:47" >ἀπολέσαι</reference>
-		<reference osisRef="LUK.20.18!8" type="Verb Focus+" label="" verse="LUK 20:18" >συνθλασθήσεται</reference>
-		<reference osisRef="LUK.20.35!14-LUK.20.35!17" type="Verb Focus+" label="" verse="LUK 20:35" >οὔτε γαμοῦσιν οὔτε γαμίζονται</reference>
-		<reference osisRef="LUK.20.36!4-LUK.20.36!5" type="Verb Focus+" label="" verse="LUK 20:36" >ἔτι δύνανται</reference>
-		<reference osisRef="LUK.21.8!20" type="Verb Focus+" label="" verse="LUK 21:8" >ἤγγικεν</reference>
-		<reference osisRef="LUK.21.18!7-LUK.21.18!9" type="Verb Focus+" label="" verse="LUK 21:18" >οὐ μὴ ἀπόληται</reference>
-		<reference osisRef="LUK.21.26!16" type="Verb Focus+" label="" verse="LUK 21:26" >σαλευθήσονται</reference>
-		<reference osisRef="LUK.21.33!11-LUK.21.33!13" type="Verb Focus+" label="" verse="LUK 21:33" >οὐ μὴ παρελεύσονται</reference>
-		<reference osisRef="LUK.22.15!16" type="Verb Focus+" label="" verse="LUK 22:15" >παθεῖν</reference>
-		<reference osisRef="LUK.22.47!3" type="Verb Focus+" label="" verse="LUK 22:47" >λαλοῦντος</reference>
-		<reference osisRef="LUK.22.67!14" type="Verb Focus+" label="" verse="LUK 22:67" >εἴπω</reference>
-		<reference osisRef="LUK.22.70!15" type="Verb Focus+" label="" verse="LUK 22:70" >ἔφη</reference>
-		<reference osisRef="LUK.23.23!8" type="Verb Focus+" label="" verse="LUK 23:23" >σταυρωθῆναι</reference>
-		<reference osisRef="LUK.23.45!3" type="Verb Focus+" label="" verse="LUK 23:45" >ἐκλιπόντος</reference>
-		<reference osisRef="LUK.24.7!19" type="Verb Focus+" label="" verse="LUK 24:7" >ἀναστῆναι</reference>
-		<reference osisRef="LUK.24.21!25" type="Verb Focus+" label="" verse="LUK 24:21" >ἐγένετο</reference>
-		<reference osisRef="LUK.24.23!16" type="Verb Focus+" label="" verse="LUK 24:23" >ζῆν</reference>
-		<reference osisRef="LUK.24.24!17" type="Verb Focus+" label="" verse="LUK 24:24" >εἶπον</reference>
-		<reference osisRef="LUK.24.24!20-LUK.24.24!21" type="Verb Focus+" label="" verse="LUK 24:24" >οὐκ εἶδον</reference>
-		<reference osisRef="LUK.24.36!4" type="Verb Focus+" label="" verse="LUK 24:36" >λαλούντων</reference>
-		<reference osisRef="JHN.1.5!12-JHN.1.5!13" type="Verb Focus+" label="" verse="JHN 1:5" >οὐ κατέλαβεν</reference>
-		<reference osisRef="JHN.1.10!15-JHN.1.10!16" type="Verb Focus+" label="" verse="JHN 1:10" >οὐκ ἔγνω</reference>
-		<reference osisRef="JHN.1.11!9-JHN.1.11!10" type="Verb Focus+" label="" verse="JHN 1:11" >οὐ παρέλαβον</reference>
-		<reference osisRef="JHN.1.18!15" type="Verb Focus+" label="" verse="JHN 1:18" >ἐξηγήσατο</reference>
-		<reference osisRef="JHN.1.26!15-JHN.1.26!16" type="Verb Focus+" label="" verse="JHN 1:26" >οὐκ οἴδατε</reference>
-		<reference osisRef="JHN.1.48!16" type="Verb Focus+" label="" verse="JHN 1:48" >φωνῆσαι</reference>
-		<reference osisRef="JHN.2.18!14" type="Verb Focus+" label="" verse="JHN 2:18" >ποιεῖς</reference>
-		<reference osisRef="JHN.3.10!14-JHN.3.10!15" type="Verb Focus+" label="" verse="JHN 3:10" >οὐ γινώσκεις</reference>
-		<reference osisRef="JHN.3.11!17-JHN.3.11!18" type="Verb Focus+" label="" verse="JHN 3:11" >οὐ λαμβάνετε</reference>
-		<reference osisRef="JHN.3.16!20-JHN.3.16!21" type="Verb Focus+" label="" verse="JHN 3:16" >μὴ ἀπόληται</reference>
-		<reference osisRef="JHN.3.31!20" type="Verb Focus+" label="" verse="JHN 3:31" >λαλεῖ</reference>
-		<reference osisRef="JHN.3.32!6" type="Verb Focus+" label="" verse="JHN 3:32" >μαρτυρεῖ</reference>
-		<reference osisRef="JHN.4.20!20" type="Verb Focus+" label="" verse="JHN 4:20" >δεῖ</reference>
-		<reference osisRef="JHN.4.35!11" type="Verb Focus+" label="" verse="JHN 4:35" >ἔρχεται</reference>
-		<reference osisRef="JHN.4.50!9" type="Verb Focus+" label="" verse="JHN 4:50" >ζῇ</reference>
-		<reference osisRef="JHN.4.51!15" type="Verb Focus+" label="" verse="JHN 4:51" >ζῇ</reference>
-		<reference osisRef="JHN.4.53!19" type="Verb Focus+" label="" verse="JHN 4:53" >ζῇ</reference>
-		<reference osisRef="JHN.5.20!13" type="Verb Focus+" label="" verse="JHN 5:20" >ποιεῖ</reference>
-		<reference osisRef="JHN.5.20!22" type="Verb Focus+" label="" verse="JHN 5:20" >θαυμάζητε</reference>
-		<reference osisRef="JHN.5.24!22-JHN.5.24!23" type="Verb Focus+" label="" verse="JHN 5:24" >οὐκ ἔρχεται</reference>
-		<reference osisRef="JHN.5.25!24" type="Verb Focus+" label="" verse="JHN 5:25" >ζήσουσιν</reference>
-		<reference osisRef="JHN.5.34!14" type="Verb Focus+" label="" verse="JHN 5:34" >σωθῆτε</reference>
-		<reference osisRef="JHN.5.36!32" type="Verb Focus+" label="" verse="JHN 5:36" >ἀπέσταλκεν</reference>
-		<reference osisRef="JHN.5.38!9" type="Verb Focus+" label="" verse="JHN 5:38" >μένοντα</reference>
-		<reference osisRef="JHN.5.38!16-JHN.5.38!17" type="Verb Focus+" label="" verse="JHN 5:38" >οὐ πιστεύετε</reference>
-		<reference osisRef="JHN.5.40!9" type="Verb Focus+" label="" verse="JHN 5:40" >ἔχητε</reference>
-		<reference osisRef="JHN.5.45!18" type="Verb Focus+" label="" verse="JHN 5:45" >ἠλπίκατε</reference>
-		<reference osisRef="JHN.6.37!9" type="Verb Focus+" label="" verse="JHN 6:37" >ἥξει</reference>
-		<reference osisRef="JHN.6.60!17" type="Verb Focus+" label="" verse="JHN 6:60" >ἀκούειν</reference>
-		<reference osisRef="JHN.7.14!5" type="Verb Focus+" label="" verse="JHN 7:14" >μεσούσης</reference>
-		<reference osisRef="JHN.7.21!11" type="Verb Focus+" label="" verse="JHN 7:21" >θαυμάζετε</reference>
-		<reference osisRef="JHN.7.28!30-JHN.7.28!31" type="Verb Focus+" label="" verse="JHN 7:28" >οὐκ οἴδατε</reference>
-		<reference osisRef="JHN.7.29!10" type="Verb Focus+" label="" verse="JHN 7:29" >ἀπέστειλεν</reference>
-		<reference osisRef="JHN.7.30!4" type="Verb Focus+" label="" verse="JHN 7:30" >πιάσαι</reference>
-		<reference osisRef="JHN.7.52!20-JHN.7.52!21" type="Verb Focus+" label="" verse="JHN 7:52" >οὐκ ἐγείρεται</reference>
-		<reference osisRef="JHN.8.5!10" type="Verb Focus+" label="" verse="JHN 8:5" >λιθάζειν</reference>
-		<reference osisRef="JHN.8.26!5-JHN.8.26!7" type="Verb Focus+" label="" verse="JHN 8:26" >λαλεῖν καὶ κρίνειν</reference>
-		<reference osisRef="JHN.8.30!3" type="Verb Focus+" label="" verse="JHN 8:30" >λαλοῦντος</reference>
-		<reference osisRef="JHN.8.37!9" type="Verb Focus+" label="" verse="JHN 8:37" >ἀποκτεῖναι</reference>
-		<reference osisRef="JHN.8.40!5" type="Verb Focus+" label="" verse="JHN 8:40" >ἀποκτεῖναι</reference>
-		<reference osisRef="JHN.8.40!19-JHN.8.40!20" type="Verb Focus+" label="" verse="JHN 8:40" >οὐκ ἐποίησεν</reference>
-		<reference osisRef="JHN.8.42!19-JHN.8.42!21" type="Verb Focus+" label="" verse="JHN 8:42" >ἐξῆλθον καὶ ἥκω</reference>
-		<reference osisRef="JHN.8.42!30" type="Verb Focus+" label="" verse="JHN 8:42" >ἀπέστειλεν</reference>
-		<reference osisRef="JHN.8.47!20-JHN.8.47!21" type="Verb Focus+" label="" verse="JHN 8:47" >οὐκ ἐστέ</reference>
-		<reference osisRef="JHN.8.49!5-JHN.8.49!6" type="Verb Focus+" label="" verse="JHN 8:49" >οὐκ ἔχω</reference>
-		<reference osisRef="JHN.8.57!13" type="Verb Focus+" label="" verse="JHN 8:57" >ἑώρακας</reference>
-		<reference osisRef="JHN.9.21!5-JHN.9.21!6" type="Verb Focus+" label="" verse="JHN 9:21" >οὐκ οἴδαμεν</reference>
-		<reference osisRef="JHN.9.25!7-JHN.9.25!8" type="Verb Focus+" label="" verse="JHN 9:25" >οὐκ οἶδα</reference>
-		<reference osisRef="JHN.9.25!15" type="Verb Focus+" label="" verse="JHN 9:25" >βλέπω</reference>
-		<reference osisRef="JHN.9.39!17" type="Verb Focus+" label="" verse="JHN 9:39" >βλέπωσιν</reference>
-		<reference osisRef="JHN.9.41!20" type="Verb Focus+" label="" verse="JHN 9:41" >μένει</reference>
-		<reference osisRef="JHN.10.3!4" type="Verb Focus+" label="" verse="JHN 10:3" >ἀνοίγει</reference>
-		<reference osisRef="JHN.10.4!5" type="Verb Focus+" label="" verse="JHN 10:4" >ἐκβάλῃ</reference>
-		<reference osisRef="JHN.10.4!13" type="Verb Focus+" label="" verse="JHN 10:4" >ἀκολουθεῖ</reference>
-		<reference osisRef="JHN.10.16!20" type="Verb Focus+" label="" verse="JHN 10:16" >ἀκούσουσιν</reference>
-		<reference osisRef="JHN.10.26!3-JHN.10.26!4" type="Verb Focus+" label="" verse="JHN 10:26" >οὐ πιστεύετε</reference>
-		<reference osisRef="JHN.10.27!8" type="Verb Focus+" label="" verse="JHN 10:27" >ἀκούουσιν</reference>
-		<reference osisRef="JHN.10.39!5" type="Verb Focus+" label="" verse="JHN 10:39" >πιάσαι</reference>
-		<reference osisRef="JHN.11.3!12" type="Verb Focus+" label="" verse="JHN 11:3" >ἀσθενεῖ</reference>
-		<reference osisRef="JHN.11.11!12" type="Verb Focus+" label="" verse="JHN 11:11" >κεκοίμηται</reference>
-		<reference osisRef="JHN.11.14!9" type="Verb Focus+" label="" verse="JHN 11:14" >ἀπέθανεν</reference>
-		<reference osisRef="JHN.11.37!19-JHN.11.37!20" type="Verb Focus+" label="" verse="JHN 11:37" >μὴ ἀποθάνῃ</reference>
-		<reference osisRef="JHN.11.39!16" type="Verb Focus+" label="" verse="JHN 11:39" >ὄζει</reference>
-		<reference osisRef="JHN.11.42!20" type="Verb Focus+" label="" verse="JHN 11:42" >ἀπέστειλας</reference>
-		<reference osisRef="JHN.12.4!14" type="Verb Focus+" label="" verse="JHN 12:4" >παραδιδόναι</reference>
-		<reference osisRef="JHN.12.26!6" type="Verb Focus+" label="" verse="JHN 12:26" >ἀκολουθείτω</reference>
-		<reference osisRef="JHN.12.26!21" type="Verb Focus+" label="" verse="JHN 12:26" >διακονῇ</reference>
-		<reference osisRef="JHN.12.35!18" type="Verb Focus+" label="" verse="JHN 12:35" >ἔχετε</reference>
-		<reference osisRef="JHN.12.36!4" type="Verb Focus+" label="" verse="JHN 12:36" >ἔχετε</reference>
-		<reference osisRef="JHN.12.42!15-JHN.12.42!16" type="Verb Focus+" label="" verse="JHN 12:42" >οὐχ ὡμολόγουν</reference>
-		<reference osisRef="JHN.12.50!13" type="Verb Focus+" label="" verse="JHN 12:50" >λαλῶ</reference>
-		<reference osisRef="JHN.13.3!20" type="Verb Focus+" label="" verse="JHN 13:3" >ὑπάγει</reference>
-		<reference osisRef="JHN.13.17!3" type="Verb Focus+" label="" verse="JHN 13:17" >οἴδατε</reference>
-		<reference osisRef="JHN.14.13!11" type="Verb Focus+" label="" verse="JHN 14:13" >ποιήσω</reference>
-		<reference osisRef="JHN.14.14!10" type="Verb Focus+" label="" verse="JHN 14:14" >ποιήσω</reference>
-		<reference osisRef="JHN.14.19!7-JHN.14.19!8" type="Verb Focus+" label="" verse="JHN 14:19" >οὐκέτι θεωρεῖ</reference>
-		<reference osisRef="JHN.14.23!23" type="Verb Focus+" label="" verse="JHN 14:23" >ἐλευσόμεθα</reference>
-		<reference osisRef="JHN.14.24!8-JHN.14.24!9" type="Verb Focus+" label="" verse="JHN 14:24" >οὐ τηρεῖ</reference>
-		<reference osisRef="JHN.15.16!22" type="Verb Focus+" label="" verse="JHN 15:16" >μένῃ</reference>
-		<reference osisRef="JHN.15.18!5" type="Verb Focus+" label="" verse="JHN 15:18" >μισεῖ</reference>
-		<reference osisRef="JHN.15.19!17-JHN.15.19!18" type="Verb Focus+" label="" verse="JHN 15:19" >οὐκ ἐστέ</reference>
-		<reference osisRef="JHN.15.24!13-JHN.15.24!14" type="Verb Focus+" label="" verse="JHN 15:24" >οὐκ εἴχοσαν</reference>
-		<reference osisRef="JHN.16.7!11" type="Verb Focus+" label="" verse="JHN 16:7" >ἀπέλθω</reference>
-		<reference osisRef="JHN.16.12!5" type="Verb Focus+" label="" verse="JHN 16:12" >λέγειν</reference>
-		<reference osisRef="JHN.16.14!3" type="Verb Focus+" label="" verse="JHN 16:14" >δοξάσει</reference>
-		<reference osisRef="JHN.16.19!7" type="Verb Focus+" label="" verse="JHN 16:19" >ἐρωτᾶν</reference>
-		<reference osisRef="JHN.16.20!13" type="Verb Focus+" label="" verse="JHN 16:20" >χαρήσεται</reference>
-		<reference osisRef="JHN.16.20!15" type="Verb Focus+" label="" verse="JHN 16:20" >λυπηθήσεσθε</reference>
-		<reference osisRef="JHN.16.30!13" type="Verb Focus+" label="" verse="JHN 16:30" >ἐρωτᾷ</reference>
-		<reference osisRef="JHN.17.8!24" type="Verb Focus+" label="" verse="JHN 17:8" >ἀπέστειλας</reference>
-		<reference osisRef="JHN.17.12!31" type="Verb Focus+" label="" verse="JHN 17:12" >πληρωθῇ</reference>
-		<reference osisRef="JHN.17.16!4-JHN.17.16!5" type="Verb Focus+" label="" verse="JHN 17:16" >οὐκ εἰσὶν</reference>
-		<reference osisRef="JHN.17.21!22" type="Verb Focus+" label="" verse="JHN 17:21" >πιστεύῃ</reference>
-		<reference osisRef="JHN.17.21!26" type="Verb Focus+" label="" verse="JHN 17:21" >ἀπέστειλας</reference>
-		<reference osisRef="JHN.17.23!20" type="Verb Focus+" label="" verse="JHN 17:23" >ἀπέστειλας</reference>
-		<reference osisRef="JHN.17.25!19" type="Verb Focus+" label="" verse="JHN 17:25" >ἀπέστειλας</reference>
-		<reference osisRef="JHN.18.22!4" type="Verb Focus+" label="" verse="JHN 18:22" >εἰπόντος</reference>
-		<reference osisRef="JHN.18.32!6" type="Verb Focus+" label="" verse="JHN 18:32" >πληρωθῇ</reference>
-		<reference osisRef="JHN.18.37!21" type="Verb Focus+" label="" verse="JHN 18:37" >γεγέννημαι</reference>
-		<reference osisRef="JHN.19.10!7-JHN.19.10!8" type="Verb Focus+" label="" verse="JHN 19:10" >οὐ λαλεῖς</reference>
-		<reference osisRef="JHN.19.18!3" type="Verb Focus+" label="" verse="JHN 19:18" >ἐσταύρωσαν</reference>
-		<reference osisRef="JHN.19.22!6" type="Verb Focus+" label="" verse="JHN 19:22" >γέγραφα</reference>
-		<reference osisRef="JHN.19.28!9" type="Verb Focus+" label="" verse="JHN 19:28" >τετέλεσται</reference>
-		<reference osisRef="JHN.19.35!4" type="Verb Focus+" label="" verse="JHN 19:35" >μεμαρτύρηκεν</reference>
-		<reference osisRef="JHN.19.36!7" type="Verb Focus+" label="" verse="JHN 19:36" >πληρωθῇ</reference>
-		<reference osisRef="JHN.20.9!11" type="Verb Focus+" label="" verse="JHN 20:9" >ἀναστῆναι</reference>
-		<reference osisRef="JHN.20.15!29" type="Verb Focus+" label="" verse="JHN 20:15" >ἀρῶ</reference>
-		<reference osisRef="JHN.20.17!6" type="Verb Focus+" label="" verse="JHN 20:17" >ἅπτου</reference>
-		<reference osisRef="JHN.20.26!20" type="Verb Focus+" label="" verse="JHN 20:26" >κεκλεισμένων</reference>
-		<reference osisRef="JHN.21.22!16" type="Verb Focus+" label="" verse="JHN 21:22" >ἀκολούθει</reference>
-		<reference osisRef="ACT.1.4!7-ACT.1.4!8" type="Verb Focus+" label="" verse="ACT 1:4" >μὴ χωρίζεσθαι</reference>
-		<reference osisRef="ACT.2.15!5" type="Verb Focus+" label="" verse="ACT 2:15" >ὑπολαμβάνετε</reference>
-		<reference osisRef="ACT.2.15!7" type="Verb Focus+" label="" verse="ACT 2:15" >μεθύουσιν</reference>
-		<reference osisRef="ACT.2.21!10" type="Verb Focus+" label="" verse="ACT 2:21" >σωθήσεται</reference>
-		<reference osisRef="ACT.2.36!21" type="Verb Focus+" label="" verse="ACT 2:36" >ἐσταυρώσατε</reference>
-		<reference osisRef="ACT.3.3!13" type="Verb Focus+" label="" verse="ACT 3:3" >λαβεῖν</reference>
-		<reference osisRef="ACT.3.6!23-ACT.3.6!25" type="Verb Focus+" label="" verse="ACT 3:6" >ἔγειρε καὶ περιπάτει</reference>
-		<reference osisRef="ACT.4.23!17" type="Verb Focus+" label="" verse="ACT 4:23" >εἶπαν</reference>
-		<reference osisRef="ACT.4.28!10-ACT.4.28!11" type="Verb Focus+" label="" verse="ACT 4:28" >προώρισεν γενέσθαι</reference>
-		<reference osisRef="ACT.5.37!18" type="Verb Focus+" label="" verse="ACT 5:37" >ἀπώλετο</reference>
-		<reference osisRef="ACT.5.37!24" type="Verb Focus+" label="" verse="ACT 5:37" >διεσκορπίσθησαν</reference>
-		<reference osisRef="ACT.7.3!23" type="Verb Focus+" label="" verse="ACT 7:3" >δείξω</reference>
-		<reference osisRef="ACT.7.4!26" type="Verb Focus+" label="" verse="ACT 7:4" >κατοικεῖτε</reference>
-		<reference osisRef="ACT.7.51!14" type="Verb Focus+" label="" verse="ACT 7:51" >ἀντιπίπτετε</reference>
-		<reference osisRef="ACT.8.7!16" type="Verb Focus+" label="" verse="ACT 8:7" >ἐθεραπεύθησαν</reference>
-		<reference osisRef="ACT.8.33!8" type="Verb Focus+" label="" verse="ACT 8:33" >ἤρθη</reference>
-		<reference osisRef="ACT.9.5!13" type="Verb Focus+" label="" verse="ACT 9:5" >διώκεις</reference>
-		<reference osisRef="ACT.9.6!14-ACT.9.6!15" type="Verb Focus+" label="" verse="ACT 9:6" >δεῖ ποιεῖν</reference>
-		<reference osisRef="ACT.9.16!12" type="Verb Focus+" label="" verse="ACT 9:16" >παθεῖν</reference>
-		<reference osisRef="ACT.9.24!19" type="Verb Focus+" label="" verse="ACT 9:24" >ἀνέλωσιν</reference>
-		<reference osisRef="ACT.10.9!9" type="Verb Focus+" label="" verse="ACT 10:9" >ἐγγιζόντων</reference>
-		<reference osisRef="ACT.10.15!11" type="Verb Focus+" label="" verse="ACT 10:15" >ἐκαθάρισεν</reference>
-		<reference osisRef="ACT.10.15!13-ACT.10.15!14" type="Verb Focus+" label="" verse="ACT 10:15" >μὴ κοίνου</reference>
-		<reference osisRef="ACT.10.28!19" type="Verb Focus+" label="" verse="ACT 10:28" >ἔδειξεν</reference>
-		<reference osisRef="ACT.11.9!14-ACT.11.9!15" type="Verb Focus+" label="" verse="ACT 11:9" >μὴ κοίνου</reference>
-		<reference osisRef="ACT.13.27!11" type="Verb Focus+" label="" verse="ACT 13:27" >ἀγνοήσαντες</reference>
-		<reference osisRef="ACT.14.13!21-ACT.14.13!22" type="Verb Focus+" label="" verse="ACT 14:13" >ἤθελεν θύειν</reference>
-		<reference osisRef="ACT.14.19!22" type="Verb Focus+" label="" verse="ACT 14:19" >τεθνηκέναι</reference>
-		<reference osisRef="ACT.16.26!22" type="Verb Focus+" label="" verse="ACT 16:26" >ἀνέθη</reference>
-		<reference osisRef="ACT.18.17!16" type="Verb Focus+" label="" verse="ACT 18:17" >ἔμελεν</reference>
-		<reference osisRef="ACT.18.21!11" type="Verb Focus+" label="" verse="ACT 18:21" >θέλοντος</reference>
-		<reference osisRef="ACT.19.9!4-ACT.19.9!6" type="Verb Focus+" label="" verse="ACT 19:9" >ἐσκληρύνοντο καὶ ἠπείθουν</reference>
-		<reference osisRef="ACT.19.12!25" type="Verb Focus+" label="" verse="ACT 19:12" >ἐκπορεύεσθαι</reference>
-		<reference osisRef="ACT.19.15!12" type="Verb Focus+" label="" verse="ACT 19:15" >γινώσκω</reference>
-		<reference osisRef="ACT.19.15!16" type="Verb Focus+" label="" verse="ACT 19:15" >ἐπίσταμαι</reference>
-		<reference osisRef="ACT.21.26!12" type="Verb Focus+" label="" verse="ACT 21:26" >ἁγνισθείς</reference>
-		<reference osisRef="ACT.21.31!4" type="Verb Focus+" label="" verse="ACT 21:31" >ἀποκτεῖναι</reference>
-		<reference osisRef="ACT.22.22!24" type="Verb Focus+" label="" verse="ACT 22:22" >ζῆν</reference>
-		<reference osisRef="ACT.23.3!26" type="Verb Focus+" label="" verse="ACT 23:3" >τύπτεσθαι</reference>
-		<reference osisRef="ACT.25.6!23" type="Verb Focus+" label="" verse="ACT 25:6" >ἀχθῆναι</reference>
-		<reference osisRef="ACT.25.10!13-ACT.25.10!14" type="Verb Focus+" label="" verse="ACT 25:10" >δεῖ κρίνεσθαι</reference>
-		<reference osisRef="ACT.25.11!26" type="Verb Focus+" label="" verse="ACT 25:11" >χαρίσασθαι</reference>
-		<reference osisRef="ACT.25.12!13" type="Verb Focus+" label="" verse="ACT 25:12" >πορεύσῃ</reference>
-		<reference osisRef="ACT.25.22!11" type="Verb Focus+" label="" verse="ACT 25:22" >ἀκοῦσαι</reference>
-		<reference osisRef="ACT.26.24!4" type="Verb Focus+" label="" verse="ACT 26:24" >ἀπολογουμένου</reference>
-		<reference osisRef="ACT.27.9!16-ACT.27.9!17" type="Verb Focus+" label="" verse="ACT 27:9" >ἤδη παρεληλυθέναι</reference>
-		<reference osisRef="ACT.27.13!7" type="Verb Focus+" label="" verse="ACT 27:13" >κεκρατηκέναι</reference>
-		<reference osisRef="ACT.27.31!18-ACT.27.31!19" type="Verb Focus+" label="" verse="ACT 27:31" >οὐ δύνασθε</reference>
-		<reference osisRef="ACT.27.33!5-ACT.27.33!6" type="Verb Focus+" label="" verse="ACT 27:33" >ἤμελλεν γίνεσθαι</reference>
-		<reference osisRef="ACT.27.39!4" type="Verb Focus+" label="" verse="ACT 27:39" >ἐγένετο</reference>
-		<reference osisRef="ACT.27.40!4" type="Verb Focus+" label="" verse="ACT 27:40" >περιελόντες</reference>
-		<reference osisRef="ACT.27.42!9" type="Verb Focus+" label="" verse="ACT 27:42" >ἀποκτείνωσιν</reference>
-		<reference osisRef="ACT.28.4!30-ACT.28.4!31" type="Verb Focus+" label="" verse="ACT 28:4" >οὐκ εἴασεν</reference>
-		<reference osisRef="ROM.1.18!18" type="Verb Focus+" label="" verse="ROM 1:18" >κατεχόντων</reference>
-		<reference osisRef="ROM.1.32!18" type="Verb Focus+" label="" verse="ROM 1:32" >ποιοῦσιν</reference>
-		<reference osisRef="ROM.2.12!6-ROM.2.12!7" type="Verb Focus+" label="" verse="ROM 2:12" >καὶ ἀπολοῦνται</reference>
-		<reference osisRef="ROM.2.12!15" type="Verb Focus+" label="" verse="ROM 2:12" >κριθήσονται</reference>
-		<reference osisRef="ROM.2.14!15-ROM.2.14!16" type="Verb Focus+" label="" verse="ROM 2:14" >μὴ ἔχοντες</reference>
-		<reference osisRef="ROM.2.15!21-ROM.2.15!24" type="Verb Focus+" label="" verse="ROM 2:15" >κατηγορούντων ἢ καὶ ἀπολογουμένων</reference>
-		<reference osisRef="ROM.2.21!12" type="Verb Focus+" label="" verse="ROM 2:21" >κλέπτεις</reference>
-		<reference osisRef="ROM.2.22!5" type="Verb Focus+" label="" verse="ROM 2:22" >μοιχεύεις</reference>
-		<reference osisRef="ROM.2.22!10" type="Verb Focus+" label="" verse="ROM 2:22" >ἱεροσυλεῖς</reference>
-		<reference osisRef="ROM.2.23!12" type="Verb Focus+" label="" verse="ROM 2:23" >ἀτιμάζεις</reference>
-		<reference osisRef="ROM.3.3!14" type="Verb Focus+" label="" verse="ROM 3:3" >καταργήσει</reference>
-		<reference osisRef="ROM.3.12!2" type="Verb Focus+" label="" verse="ROM 3:12" >ἐξέκλιναν</reference>
-		<reference osisRef="ROM.3.12!4" type="Verb Focus+" label="" verse="ROM 3:12" >ἠχρεώθησαν</reference>
-		<reference osisRef="ROM.3.19!16" type="Verb Focus+" label="" verse="ROM 3:19" >φραγῇ</reference>
-		<reference osisRef="ROM.3.31!11" type="Verb Focus+" label="" verse="ROM 3:31" >ἱστάνομεν</reference>
-		<reference osisRef="ROM.5.7!13-ROM.5.7!15" type="Verb Focus+" label="" verse="ROM 5:7" >καὶ τολμᾷ ἀποθανεῖν</reference>
-		<reference osisRef="ROM.5.11!21" type="Verb Focus+" label="" verse="ROM 5:11" >ἐλάβομεν</reference>
-		<reference osisRef="ROM.5.12!30" type="Verb Focus+" label="" verse="ROM 5:12" >ἥμαρτον</reference>
-		<reference osisRef="ROM.5.15!18" type="Verb Focus+" label="" verse="ROM 5:15" >ἀπέθανον</reference>
-		<reference osisRef="ROM.5.15!39" type="Verb Focus+" label="" verse="ROM 5:15" >ἐπερίσσευσεν</reference>
-		<reference osisRef="ROM.6.9!11-ROM.6.9!12" type="Verb Focus+" label="" verse="ROM 6:9" >οὐκέτι κυριεύει</reference>
-		<reference osisRef="ROM.6.14!4-ROM.6.14!5" type="Verb Focus+" label="" verse="ROM 6:14" >οὐ κυριεύσει</reference>
-		<reference osisRef="ROM.6.21!9" type="Verb Focus+" label="" verse="ROM 6:21" >ἐπαισχύνεσθε</reference>
-		<reference osisRef="ROM.7.9!13" type="Verb Focus+" label="" verse="ROM 7:9" >ἀνέζησεν</reference>
-		<reference osisRef="ROM.7.10!3" type="Verb Focus+" label="" verse="ROM 7:10" >ἀπέθανον</reference>
-		<reference osisRef="ROM.7.11!14" type="Verb Focus+" label="" verse="ROM 7:11" >ἀπέκτεινεν</reference>
-		<reference osisRef="ROM.8.7!14-ROM.8.7!15" type="Verb Focus+" label="" verse="ROM 8:7" >οὐχ ὑποτάσσεται</reference>
-		<reference osisRef="ROM.8.9!21-ROM.8.9!22" type="Verb Focus+" label="" verse="ROM 8:9" >οὐκ ἔχει</reference>
-		<reference osisRef="ROM.8.13!15" type="Verb Focus+" label="" verse="ROM 8:13" >θανατοῦτε</reference>
-		<reference osisRef="ROM.8.19!12" type="Verb Focus+" label="" verse="ROM 8:19" >ἀπεκδέχεται</reference>
-		<reference osisRef="ROM.8.24!4" type="Verb Focus+" label="" verse="ROM 8:24" >ἐσώθημεν</reference>
-		<reference osisRef="ROM.8.30!6" type="Verb Focus+" label="" verse="ROM 8:30" >ἐκάλεσεν</reference>
-		<reference osisRef="ROM.8.30!12" type="Verb Focus+" label="" verse="ROM 8:30" >ἐδικαίωσεν</reference>
-		<reference osisRef="ROM.8.30!18" type="Verb Focus+" label="" verse="ROM 8:30" >ἐδόξασεν</reference>
-		<reference osisRef="ROM.9.11!17" type="Verb Focus+" label="" verse="ROM 9:11" >μένῃ</reference>
-		<reference osisRef="ROM.9.13!5" type="Verb Focus+" label="" verse="ROM 9:13" >ἠγάπησα</reference>
-		<reference osisRef="ROM.9.13!9" type="Verb Focus+" label="" verse="ROM 9:13" >ἐμίσησα</reference>
-		<reference osisRef="ROM.9.18!5" type="Verb Focus+" label="" verse="ROM 9:18" >ἐλεεῖ</reference>
-		<reference osisRef="ROM.9.18!9" type="Verb Focus+" label="" verse="ROM 9:18" >σκληρύνει</reference>
-		<reference osisRef="ROM.9.31!8-ROM.9.31!9" type="Verb Focus+" label="" verse="ROM 9:31" >οὐκ ἔφθασεν</reference>
-		<reference osisRef="ROM.9.33!17-ROM.9.33!18" type="Verb Focus+" label="" verse="ROM 9:33" >οὐ καταισχυνθήσεται</reference>
-		<reference osisRef="ROM.10.3!17-ROM.10.3!18" type="Verb Focus+" label="" verse="ROM 10:3" >οὐχ ὑπετάγησαν</reference>
-		<reference osisRef="ROM.10.6!22" type="Verb Focus+" label="" verse="ROM 10:6" >καταγαγεῖν</reference>
-		<reference osisRef="ROM.10.11!10-ROM.10.11!11" type="Verb Focus+" label="" verse="ROM 10:11" >οὐ καταισχυνθήσεται</reference>
-		<reference osisRef="ROM.10.13!9" type="Verb Focus+" label="" verse="ROM 10:13" >σωθήσεται</reference>
-		<reference osisRef="ROM.10.19!5-ROM.10.19!6" type="Verb Focus+" label="" verse="ROM 10:19" >οὐκ ἔγνω</reference>
-		<reference osisRef="ROM.10.20!10-ROM.10.20!11" type="Verb Focus+" label="" verse="ROM 10:20" >μὴ ζητοῦσιν</reference>
-		<reference osisRef="ROM.10.20!16-ROM.10.20!17" type="Verb Focus+" label="" verse="ROM 10:20" >μὴ ἐπερωτῶσιν</reference>
-		<reference osisRef="ROM.11.7!7-ROM.11.7!8" type="Verb Focus+" label="" verse="ROM 11:7" >οὐκ ἐπέτυχεν</reference>
-		<reference osisRef="ROM.11.7!16" type="Verb Focus+" label="" verse="ROM 11:7" >ἐπωρώθησαν</reference>
-		<reference osisRef="ROM.11.13!17" type="Verb Focus+" label="" verse="ROM 11:13" >δοξάζω</reference>
-		<reference osisRef="ROM.11.17!6" type="Verb Focus+" label="" verse="ROM 11:17" >ἐξεκλάσθησαν</reference>
-		<reference osisRef="ROM.11.19!7" type="Verb Focus+" label="" verse="ROM 11:19" >ἐγκεντρισθῶ</reference>
-		<reference osisRef="ROM.11.23!8" type="Verb Focus+" label="" verse="ROM 11:23" >ἐγκεντρισθήσονται</reference>
-		<reference osisRef="ROM.11.25!15" type="Verb Focus+" label="" verse="ROM 11:25" >φρόνιμοι</reference>
-		<reference osisRef="ROM.11.32!12" type="Verb Focus+" label="" verse="ROM 11:32" >ἐλεήσῃ</reference>
-		<reference osisRef="ROM.12.10!9" type="Verb Focus+" label="" verse="ROM 12:10" >προηγούμενοι</reference>
-		<reference osisRef="ROM.12.11!7" type="Verb Focus+" label="" verse="ROM 12:11" >ζέοντες</reference>
-		<reference osisRef="ROM.12.11!10" type="Verb Focus+" label="" verse="ROM 12:11" >δουλεύοντες</reference>
-		<reference osisRef="ROM.12.12!3" type="Verb Focus+" label="" verse="ROM 12:12" >χαίροντες</reference>
-		<reference osisRef="ROM.12.12!6" type="Verb Focus+" label="" verse="ROM 12:12" >ὑπομένοντες</reference>
-		<reference osisRef="ROM.12.12!9" type="Verb Focus+" label="" verse="ROM 12:12" >προσκαρτεροῦντες</reference>
-		<reference osisRef="ROM.12.13!5" type="Verb Focus+" label="" verse="ROM 12:13" >κοινωνοῦντες</reference>
-		<reference osisRef="ROM.12.13!8" type="Verb Focus+" label="" verse="ROM 12:13" >διώκοντες</reference>
-		<reference osisRef="ROM.13.8!8" type="Verb Focus+" label="" verse="ROM 13:8" >ἀγαπᾶν</reference>
-		<reference osisRef="ROM.13.12!3" type="Verb Focus+" label="" verse="ROM 13:12" >προέκοψεν</reference>
-		<reference osisRef="ROM.13.12!7" type="Verb Focus+" label="" verse="ROM 13:12" >ἤγγικεν</reference>
-		<reference osisRef="ROM.14.3!6-ROM.14.3!7" type="Verb Focus+" label="" verse="ROM 14:3" >μὴ ἐξουθενείτω</reference>
-		<reference osisRef="ROM.14.3!14-ROM.14.3!15" type="Verb Focus+" label="" verse="ROM 14:3" >μὴ κρινέτω</reference>
-		<reference osisRef="ROM.14.3!20" type="Verb Focus+" label="" verse="ROM 14:3" >προσελάβετο</reference>
-		<reference osisRef="ROM.14.4!11-ROM.14.4!13" type="Verb Focus+" label="" verse="ROM 14:4" >στήκει ἢ πίπτει</reference>
-		<reference osisRef="ROM.14.7!5" type="Verb Focus+" label="" verse="ROM 14:7" >ζῇ</reference>
-		<reference osisRef="ROM.14.7!9" type="Verb Focus+" label="" verse="ROM 14:7" >ἀποθνῄσκει</reference>
-		<reference osisRef="ROM.14.15!8" type="Verb Focus+" label="" verse="ROM 14:15" >λυπεῖται</reference>
-		<reference osisRef="ROM.14.15!18" type="Verb Focus+" label="" verse="ROM 14:15" >ἀπόλλυε</reference>
-		<reference osisRef="ROM.14.15!22" type="Verb Focus+" label="" verse="ROM 14:15" >ἀπέθανεν</reference>
-		<reference osisRef="ROM.14.21!15" type="Verb Focus+" label="" verse="ROM 14:21" >προσκόπτει</reference>
-		<reference osisRef="ROM.14.23!6" type="Verb Focus+" label="" verse="ROM 14:23" >κατακέκριται</reference>
-		<reference osisRef="ROM.15.12!18" type="Verb Focus+" label="" verse="ROM 15:12" >ἐλπιοῦσιν</reference>
-		<reference osisRef="ROM.15.14!23" type="Verb Focus+" label="" verse="ROM 15:14" >νουθετεῖν</reference>
-		<reference osisRef="ROM.15.24!22" type="Verb Focus+" label="" verse="ROM 15:24" >ἐμπλησθῶ</reference>
-		<reference osisRef="ROM.15.28!3" type="Verb Focus+" label="" verse="ROM 15:28" >ἐπιτελέσας</reference>
-		<reference osisRef="ROM.16.19!11" type="Verb Focus+" label="" verse="ROM 16:19" >χαίρω</reference>
-		<reference osisRef="ROM.16.25!5" type="Verb Focus+" label="" verse="ROM 16:25" >στηρίξαι</reference>
-		<reference osisRef="1CO.1.19!13" type="Verb Focus+" label="" verse="1CO 1:19" >ἀθετήσω</reference>
-		<reference osisRef="1CO.2.9!6-1CO.2.9!7" type="Verb Focus+" label="" verse="1CO 2:9" >οὐκ εἶδεν</reference>
-		<reference osisRef="1CO.2.9!10-1CO.2.9!11" type="Verb Focus+" label="" verse="1CO 2:9" >οὐκ ἤκουσεν</reference>
-		<reference osisRef="1CO.3.5!18" type="Verb Focus+" label="" verse="1CO 3:5" >ἔδωκεν</reference>
-		<reference osisRef="1CO.3.13!23" type="Verb Focus+" label="" verse="1CO 3:13" >δοκιμάσει</reference>
-		<reference osisRef="1CO.3.17!7" type="Verb Focus+" label="" verse="1CO 3:17" >φθείρει</reference>
-		<reference osisRef="1CO.3.18!3" type="Verb Focus+" label="" verse="1CO 3:18" >ἐξαπατάτω</reference>
-		<reference osisRef="1CO.4.4!9" type="Verb Focus+" label="" verse="1CO 4:4" >δεδικαίωμαι</reference>
-		<reference osisRef="1CO.4.8!17" type="Verb Focus+" label="" verse="1CO 4:8" >συμβασιλεύσωμεν</reference>
-		<reference osisRef="1CO.4.19!9" type="Verb Focus+" label="" verse="1CO 4:19" >θελήσῃ</reference>
-		<reference osisRef="1CO.5.2!8" type="Verb Focus+" label="" verse="1CO 5:2" >ἐπενθήσατε</reference>
-		<reference osisRef="1CO.5.10!21" type="Verb Focus+" label="" verse="1CO 5:10" >ἐξελθεῖν</reference>
-		<reference osisRef="1CO.5.11!25-1CO.5.11!26" type="Verb Focus+" label="" verse="1CO 5:11" >μηδὲ συνεσθίειν</reference>
-		<reference osisRef="1CO.6.11!4" type="Verb Focus+" label="" verse="1CO 6:11" >ἦτε</reference>
-		<reference osisRef="1CO.6.12!3" type="Verb Focus+" label="" verse="1CO 6:12" >ἔξεστιν</reference>
-		<reference osisRef="1CO.6.12!7" type="Verb Focus+" label="" verse="1CO 6:12" >συμφέρει</reference>
-		<reference osisRef="1CO.7.1!8-1CO.7.1!9" type="Verb Focus+" label="" verse="1CO 7:1" >μὴ ἅπτεσθαι</reference>
-		<reference osisRef="1CO.7.3!7" type="Verb Focus+" label="" verse="1CO 7:3" >ἀποδιδότω</reference>
-		<reference osisRef="1CO.7.10!13-1CO.7.10!14" type="Verb Focus+" label="" verse="1CO 7:10" >μὴ χωρισθῆναι</reference>
-		<reference osisRef="1CO.7.11!10" type="Verb Focus+" label="" verse="1CO 7:11" >καταλλαγήτω</reference>
-		<reference osisRef="1CO.7.11!14-1CO.7.11!15" type="Verb Focus+" label="" verse="1CO 7:11" >μὴ ἀφιέναι</reference>
-		<reference osisRef="1CO.7.15!5" type="Verb Focus+" label="" verse="1CO 7:15" >χωρίζεται</reference>
-		<reference osisRef="1CO.7.16!8" type="Verb Focus+" label="" verse="1CO 7:16" >σώσεις</reference>
-		<reference osisRef="1CO.7.16!16" type="Verb Focus+" label="" verse="1CO 7:16" >σώσεις</reference>
-		<reference osisRef="1CO.7.17!14" type="Verb Focus+" label="" verse="1CO 7:17" >περιπατείτω</reference>
-		<reference osisRef="1CO.7.20!9" type="Verb Focus+" label="" verse="1CO 7:20" >μενέτω</reference>
-		<reference osisRef="1CO.7.21!5" type="Verb Focus+" label="" verse="1CO 7:21" >μελέτω</reference>
-		<reference osisRef="1CO.7.28!24" type="Verb Focus+" label="" verse="1CO 7:28" >φείδομαι</reference>
-		<reference osisRef="1CO.7.40!6" type="Verb Focus+" label="" verse="1CO 7:40" >μείνῃ</reference>
-		<reference osisRef="1CO.8.11!14" type="Verb Focus+" label="" verse="1CO 8:11" >ἀπέθανεν</reference>
-		<reference osisRef="1CO.9.13!12" type="Verb Focus+" label="" verse="1CO 9:13" >ἐσθίουσιν</reference>
-		<reference osisRef="1CO.9.13!19" type="Verb Focus+" label="" verse="1CO 9:13" >συμμερίζονται</reference>
-		<reference osisRef="1CO.9.14!13" type="Verb Focus+" label="" verse="1CO 9:14" >ζῆν</reference>
-		<reference osisRef="1CO.9.19!8" type="Verb Focus+" label="" verse="1CO 9:19" >ἐδούλωσα</reference>
-		<reference osisRef="1CO.9.20!9" type="Verb Focus+" label="" verse="1CO 9:20" >κερδήσω</reference>
-		<reference osisRef="1CO.9.20!25" type="Verb Focus+" label="" verse="1CO 9:20" >κερδήσω</reference>
-		<reference osisRef="1CO.9.22!8" type="Verb Focus+" label="" verse="1CO 9:22" >κερδήσω</reference>
-		<reference osisRef="1CO.10.17!16" type="Verb Focus+" label="" verse="1CO 10:17" >μετέχομεν</reference>
-		<reference osisRef="1CO.10.23!2" type="Verb Focus+" label="" verse="1CO 10:23" >ἔξεστιν</reference>
-		<reference osisRef="1CO.10.23!6" type="Verb Focus+" label="" verse="1CO 10:23" >συμφέρει</reference>
-		<reference osisRef="1CO.10.23!8" type="Verb Focus+" label="" verse="1CO 10:23" >ἔξεστιν</reference>
-		<reference osisRef="1CO.10.23!12" type="Verb Focus+" label="" verse="1CO 10:23" >οἰκοδομεῖ</reference>
-		<reference osisRef="1CO.10.30!10" type="Verb Focus+" label="" verse="1CO 10:30" >εὐχαριστῶ</reference>
-		<reference osisRef="1CO.11.18!16" type="Verb Focus+" label="" verse="1CO 11:18" >πιστεύω</reference>
-		<reference osisRef="1CO.11.22!16" type="Verb Focus+" label="" verse="1CO 11:22" >καταφρονεῖτε</reference>
-		<reference osisRef="1CO.11.22!29-1CO.11.22!30" type="Verb Focus+" label="" verse="1CO 11:22" >οὐκ ἐπαινῶ</reference>
-		<reference osisRef="1CO.11.33!9" type="Verb Focus+" label="" verse="1CO 11:33" >ἐκδέχεσθε</reference>
-		<reference osisRef="1CO.12.13!11" type="Verb Focus+" label="" verse="1CO 12:13" >ἐβαπτίσθημεν</reference>
-		<reference osisRef="1CO.12.13!24" type="Verb Focus+" label="" verse="1CO 12:13" >ἐποτίσθημεν</reference>
-		<reference osisRef="1CO.12.30!12" type="Verb Focus+" label="" verse="1CO 12:30" >διερμηνεύουσιν</reference>
-		<reference osisRef="1CO.13.7!2" type="Verb Focus+" label="" verse="1CO 13:7" >στέγει</reference>
-		<reference osisRef="1CO.13.7!4" type="Verb Focus+" label="" verse="1CO 13:7" >πιστεύει</reference>
-		<reference osisRef="1CO.13.7!6" type="Verb Focus+" label="" verse="1CO 13:7" >ἐλπίζει</reference>
-		<reference osisRef="1CO.13.7!8" type="Verb Focus+" label="" verse="1CO 13:7" >ὑπομένει</reference>
-		<reference osisRef="1CO.13.10!9" type="Verb Focus+" label="" verse="1CO 13:10" >καταργηθήσεται</reference>
-		<reference osisRef="1CO.14.16!23-1CO.14.16!24" type="Verb Focus+" label="" verse="1CO 14:16" >οὐκ οἶδεν</reference>
-		<reference osisRef="1CO.14.17!9-1CO.14.17!10" type="Verb Focus+" label="" verse="1CO 14:17" >οὐκ οἰκοδομεῖται</reference>
-		<reference osisRef="1CO.14.27!16" type="Verb Focus+" label="" verse="1CO 14:27" >διερμηνευέτω</reference>
-		<reference osisRef="1CO.14.29!10" type="Verb Focus+" label="" verse="1CO 14:29" >διακρινέτωσαν</reference>
-		<reference osisRef="1CO.14.30!8" type="Verb Focus+" label="" verse="1CO 14:30" >σιγάτω</reference>
-		<reference osisRef="1CO.14.31!9" type="Verb Focus+" label="" verse="1CO 14:31" >μανθάνωσιν</reference>
-		<reference osisRef="1CO.14.31!12" type="Verb Focus+" label="" verse="1CO 14:31" >παρακαλῶνται</reference>
-		<reference osisRef="1CO.14.32!5" type="Verb Focus+" label="" verse="1CO 14:32" >ὑποτάσσεται</reference>
-		<reference osisRef="1CO.14.34!6" type="Verb Focus+" label="" verse="1CO 14:34" >σιγάτωσαν</reference>
-		<reference osisRef="1CO.15.12!17-1CO.15.12!18" type="Verb Focus+" label="" verse="1CO 15:12" >οὐκ ἔστιν</reference>
-		<reference osisRef="1CO.15.18!7" type="Verb Focus+" label="" verse="1CO 15:18" >ἀπώλοντο</reference>
-		<reference osisRef="1CO.15.22!14" type="Verb Focus+" label="" verse="1CO 15:22" >ζῳοποιηθήσονται</reference>
-		<reference osisRef="1CO.15.32!20" type="Verb Focus+" label="" verse="1CO 15:32" >ἀποθνῄσκομεν</reference>
-		<reference osisRef="1CO.15.51!6-1CO.15.51!7" type="Verb Focus+" label="" verse="1CO 15:51" >οὐ κοιμηθησόμεθα</reference>
-		<reference osisRef="1CO.16.5!10" type="Verb Focus+" label="" verse="1CO 16:5" >διέρχομαι</reference>
-		<reference osisRef="1CO.16.6!4-1CO.16.6!5" type="Verb Focus+" label="" verse="1CO 16:6" >τυχὸν παραμενῶ</reference>
-		<reference osisRef="1CO.16.7!19" type="Verb Focus+" label="" verse="1CO 16:7" >ἐπιτρέψῃ</reference>
-		<reference osisRef="1CO.16.11!5" type="Verb Focus+" label="" verse="1CO 16:11" >ἐξουθενήσῃ</reference>
-		<reference osisRef="1CO.16.17!16" type="Verb Focus+" label="" verse="1CO 16:17" >ἀνεπλήρωσαν</reference>
-		<reference osisRef="2CO.1.24!16" type="Verb Focus+" label="" verse="2CO 1:24" >ἑστήκατε</reference>
-		<reference osisRef="2CO.2.7!5-2CO.2.7!7" type="Verb Focus+" label="" verse="2CO 2:7" >χαρίσασθαι καὶ παρακαλέσαι</reference>
-		<reference osisRef="2CO.3.6!15" type="Verb Focus+" label="" verse="2CO 3:6" >ἀποκτέννει</reference>
-		<reference osisRef="2CO.3.6!19" type="Verb Focus+" label="" verse="2CO 3:6" >ζῳοποιεῖ</reference>
-		<reference osisRef="2CO.3.18!9" type="Verb Focus+" label="" verse="2CO 3:18" >κατοπτριζόμενοι</reference>
-		<reference osisRef="2CO.4.8!3" type="Verb Focus+" label="" verse="2CO 4:8" >θλιβόμενοι</reference>
-		<reference osisRef="2CO.4.16!11" type="Verb Focus+" label="" verse="2CO 4:16" >διαφθείρεται</reference>
-		<reference osisRef="2CO.5.1!11" type="Verb Focus+" label="" verse="2CO 5:1" >καταλυθῇ</reference>
-		<reference osisRef="2CO.5.2!5" type="Verb Focus+" label="" verse="2CO 5:2" >στενάζομεν</reference>
-		<reference osisRef="2CO.5.2!12-2CO.5.2!13" type="Verb Focus+" label="" verse="2CO 5:2" >ἐπενδύσασθαι ἐπιποθοῦντες</reference>
-		<reference osisRef="2CO.5.20!4" type="Verb Focus+" label="" verse="2CO 5:20" >πρεσβεύομεν</reference>
-		<reference osisRef="2CO.5.21!8" type="Verb Focus+" label="" verse="2CO 5:21" >ἐποίησεν</reference>
-		<reference osisRef="2CO.6.9!9" type="Verb Focus+" label="" verse="2CO 6:9" >ζῶμεν</reference>
-		<reference osisRef="2CO.7.2!4" type="Verb Focus+" label="" verse="2CO 7:2" >ἠδικήσαμεν</reference>
-		<reference osisRef="2CO.7.2!6" type="Verb Focus+" label="" verse="2CO 7:2" >ἐφθείραμεν</reference>
-		<reference osisRef="2CO.7.2!8" type="Verb Focus+" label="" verse="2CO 7:2" >ἐπλεονεκτήσαμεν</reference>
-		<reference osisRef="2CO.8.9!13" type="Verb Focus+" label="" verse="2CO 8:9" >ἐπτώχευσεν</reference>
-		<reference osisRef="2CO.8.9!21" type="Verb Focus+" label="" verse="2CO 8:9" >πλουτήσητε</reference>
-		<reference osisRef="2CO.8.10!9" type="Verb Focus+" label="" verse="2CO 8:10" >συμφέρει</reference>
-		<reference osisRef="2CO.8.11!6" type="Verb Focus+" label="" verse="2CO 8:11" >ἐπιτελέσατε</reference>
-		<reference osisRef="2CO.8.17!5" type="Verb Focus+" label="" verse="2CO 8:17" >ἐδέξατο</reference>
-		<reference osisRef="2CO.9.6!7-2CO.9.6!8" type="Verb Focus+" label="" verse="2CO 9:6" >καὶ θερίσει</reference>
-		<reference osisRef="2CO.9.6!16-2CO.9.6!17" type="Verb Focus+" label="" verse="2CO 9:6" >καὶ θερίσει</reference>
-		<reference osisRef="2CO.11.7!5" type="Verb Focus+" label="" verse="2CO 11:7" >ταπεινῶν</reference>
-		<reference osisRef="2CO.11.7!8" type="Verb Focus+" label="" verse="2CO 11:7" >ὑψωθῆτε</reference>
-		<reference osisRef="2CO.11.9!26-2CO.11.9!28" type="Verb Focus+" label="" verse="2CO 11:9" >ἐτήρησα καὶ τηρήσω</reference>
-		<reference osisRef="2CO.11.21!7" type="Verb Focus+" label="" verse="2CO 11:21" >ἠσθενήκαμεν</reference>
-		<reference osisRef="2CO.11.25!2" type="Verb Focus+" label="" verse="2CO 11:25" >ἐραβδίσθην</reference>
-		<reference osisRef="2CO.11.25!4" type="Verb Focus+" label="" verse="2CO 11:25" >ἐλιθάσθην</reference>
-		<reference osisRef="2CO.11.25!6" type="Verb Focus+" label="" verse="2CO 11:25" >ἐναυάγησα</reference>
-		<reference osisRef="2CO.11.29!11" type="Verb Focus+" label="" verse="2CO 11:29" >πυροῦμαι</reference>
-		<reference osisRef="2CO.12.1!2" type="Verb Focus+" label="" verse="2CO 12:1" >δεῖ</reference>
-		<reference osisRef="2CO.12.5!4" type="Verb Focus+" label="" verse="2CO 12:5" >καυχήσομαι</reference>
-		<reference osisRef="2CO.12.5!8-2CO.12.5!9" type="Verb Focus+" label="" verse="2CO 12:5" >οὐ καυχήσομαι</reference>
-		<reference osisRef="2CO.12.7!19" type="Verb Focus+" label="" verse="2CO 12:7" >κολαφίζῃ</reference>
-		<reference osisRef="2CO.12.11!5" type="Verb Focus+" label="" verse="2CO 12:11" >ἠναγκάσατε</reference>
-		<reference osisRef="2CO.12.11!11" type="Verb Focus+" label="" verse="2CO 12:11" >συνίστασθαι</reference>
-		<reference osisRef="2CO.12.11!21" type="Verb Focus+" label="" verse="2CO 12:11" >εἰμι</reference>
-		<reference osisRef="2CO.12.19!5" type="Verb Focus+" label="" verse="2CO 12:19" >ἀπολογούμεθα</reference>
-		<reference osisRef="2CO.13.3!12-2CO.13.3!13" type="Verb Focus+" label="" verse="2CO 13:3" >οὐκ ἀσθενεῖ</reference>
-		<reference osisRef="2CO.13.5!2" type="Verb Focus+" label="" verse="2CO 13:5" >πειράζετε</reference>
-		<reference osisRef="2CO.13.5!9" type="Verb Focus+" label="" verse="2CO 13:5" >δοκιμάζετε</reference>
-		<reference osisRef="2CO.13.9!5" type="Verb Focus+" label="" verse="2CO 13:9" >ἀσθενῶμεν</reference>
-		<reference osisRef="GAL.1.20!10-GAL.1.20!11" type="Verb Focus+" label="" verse="GAL 1:20" >οὐ ψεύδομαι</reference>
-		<reference osisRef="GAL.2.4!19" type="Verb Focus+" label="" verse="GAL 2:4" >καταδουλώσουσιν</reference>
-		<reference osisRef="GAL.2.12!11" type="Verb Focus+" label="" verse="GAL 2:12" >συνήσθιεν</reference>
-		<reference osisRef="GAL.2.18!7" type="Verb Focus+" label="" verse="GAL 2:18" >οἰκοδομῶ</reference>
-		<reference osisRef="GAL.2.19!6" type="Verb Focus+" label="" verse="GAL 2:19" >ἀπέθανον</reference>
-		<reference osisRef="GAL.2.19!9" type="Verb Focus+" label="" verse="GAL 2:19" >ζήσω</reference>
-		<reference osisRef="GAL.3.17!17-GAL.3.17!18" type="Verb Focus+" label="" verse="GAL 3:17" >οὐκ ἀκυροῖ</reference>
-		<reference osisRef="GAL.3.20!11" type="Verb Focus+" label="" verse="GAL 3:20" >ἐστιν</reference>
-		<reference osisRef="GAL.3.27!7" type="Verb Focus+" label="" verse="GAL 3:27" >ἐνεδύσασθε</reference>
-		<reference osisRef="GAL.4.5!5" type="Verb Focus+" label="" verse="GAL 4:5" >ἐξαγοράσῃ</reference>
-		<reference osisRef="GAL.4.21!10-GAL.4.21!11" type="Verb Focus+" label="" verse="GAL 4:21" >οὐκ ἀκούετε</reference>
-		<reference osisRef="GAL.5.4!10" type="Verb Focus+" label="" verse="GAL 5:4" >ἐξεπέσατε</reference>
-		<reference osisRef="GAL.5.7!8-GAL.5.7!9" type="Verb Focus+" label="" verse="GAL 5:7" >μὴ πείθεσθαι</reference>
-		<reference osisRef="GAL.5.15!11" type="Verb Focus+" label="" verse="GAL 5:15" >ἀναλωθῆτε</reference>
-		<reference osisRef="GAL.5.17!17" type="Verb Focus+" label="" verse="GAL 5:17" >ἀντίκειται</reference>
-		<reference osisRef="GAL.5.25!5-GAL.5.25!6" type="Verb Focus+" label="" verse="GAL 5:25" >καὶ στοιχῶμεν</reference>
-		<reference osisRef="GAL.5.26!5" type="Verb Focus+" label="" verse="GAL 5:26" >προκαλούμενοι</reference>
-		<reference osisRef="GAL.5.26!7" type="Verb Focus+" label="" verse="GAL 5:26" >φθονοῦντες</reference>
-		<reference osisRef="GAL.6.7!12-GAL.6.7!13" type="Verb Focus+" label="" verse="GAL 6:7" >καὶ θερίσει</reference>
-		<reference osisRef="GAL.6.12!16-GAL.6.12!17" type="Verb Focus+" label="" verse="GAL 6:12" >μὴ διώκωνται</reference>
-		<reference osisRef="EPH.2.9!7" type="Verb Focus+" label="" verse="EPH 2:9" >καυχήσηται</reference>
-		<reference osisRef="EPH.2.10!19" type="Verb Focus+" label="" verse="EPH 2:10" >περιπατήσωμεν</reference>
-		<reference osisRef="EPH.2.12!20-EPH.2.12!21" type="Verb Focus+" label="" verse="EPH 2:12" >μὴ ἔχοντες</reference>
-		<reference osisRef="EPH.4.21!4" type="Verb Focus+" label="" verse="EPH 4:21" >ἠκούσατε</reference>
-		<reference osisRef="EPH.4.21!8" type="Verb Focus+" label="" verse="EPH 4:21" >ἐδιδάχθητε</reference>
-		<reference osisRef="EPH.5.13!8" type="Verb Focus+" label="" verse="EPH 5:13" >φανεροῦται</reference>
-		<reference osisRef="EPH.5.26!3" type="Verb Focus+" label="" verse="EPH 5:26" >ἁγιάσῃ</reference>
-		<reference osisRef="PHP.1.18!16" type="Verb Focus+" label="" verse="PHP 1:18" >χαίρω</reference>
-		<reference osisRef="PHP.1.18!19" type="Verb Focus+" label="" verse="PHP 1:18" >χαρήσομαι</reference>
-		<reference osisRef="PHP.1.29!12" type="Verb Focus+" label="" verse="PHP 1:29" >πιστεύειν</reference>
-		<reference osisRef="PHP.1.29!18" type="Verb Focus+" label="" verse="PHP 1:29" >πάσχειν</reference>
-		<reference osisRef="PHP.2.7!3" type="Verb Focus+" label="" verse="PHP 2:7" >ἐκένωσεν</reference>
-		<reference osisRef="PHP.2.9!6" type="Verb Focus+" label="" verse="PHP 2:9" >ὑπερύψωσεν</reference>
-		<reference osisRef="PHP.2.16!18" type="Verb Focus+" label="" verse="PHP 2:16" >ἐκοπίασα</reference>
-		<reference osisRef="PHP.3.12!4" type="Verb Focus+" label="" verse="PHP 3:12" >ἔλαβον</reference>
-		<reference osisRef="PHP.3.12!7" type="Verb Focus+" label="" verse="PHP 3:12" >τετελείωμαι</reference>
-		<reference osisRef="PHP.3.13!4-PHP.3.13!5" type="Verb Focus+" label="" verse="PHP 3:13" >οὐ λογίζομαι</reference>
-		<reference osisRef="PHP.4.10!13" type="Verb Focus+" label="" verse="PHP 4:10" >φρονεῖν</reference>
-		<reference osisRef="COL.1.9!13" type="Verb Focus+" label="" verse="COL 1:9" >προσευχόμενοι</reference>
-		<reference osisRef="COL.1.17!11" type="Verb Focus+" label="" verse="COL 1:17" >συνέστηκεν</reference>
-		<reference osisRef="COL.2.6!11" type="Verb Focus+" label="" verse="COL 2:6" >περιπατεῖτε</reference>
-		<reference osisRef="COL.2.10!5" type="Verb Focus+" label="" verse="COL 2:10" >πεπληρωμένοι</reference>
-		<reference osisRef="COL.3.4!4" type="Verb Focus+" label="" verse="COL 3:4" >φανερωθῇ</reference>
-		<reference osisRef="COL.4.2!3" type="Verb Focus+" label="" verse="COL 4:2" >προσκαρτερεῖτε</reference>
-		<reference osisRef="COL.4.5!9" type="Verb Focus+" label="" verse="COL 4:5" >ἐξαγοραζόμενοι</reference>
-		<reference osisRef="COL.4.17!13" type="Verb Focus+" label="" verse="COL 4:17" >πληροῖς</reference>
-		<reference osisRef="1TH.2.4!11" type="Verb Focus+" label="" verse="1TH 2:4" >λαλοῦμεν</reference>
-		<reference osisRef="1TH.3.3!14" type="Verb Focus+" label="" verse="1TH 3:3" >κείμεθα</reference>
-		<reference osisRef="1TH.3.6!27" type="Verb Focus+" label="" verse="1TH 3:6" >ἰδεῖν</reference>
-		<reference osisRef="1TH.3.8!3" type="Verb Focus+" label="" verse="1TH 3:8" >ζῶμεν</reference>
-		<reference osisRef="1TH.4.11!16" type="Verb Focus+" label="" verse="1TH 4:11" >παρηγγείλαμεν</reference>
-		<reference osisRef="1TH.5.1!13" type="Verb Focus+" label="" verse="1TH 5:1" >γράφεσθαι</reference>
-		<reference osisRef="1TH.5.19!3-1TH.5.19!4" type="Verb Focus+" label="" verse="1TH 5:19" >μὴ σβέννυτε</reference>
-		<reference osisRef="1TH.5.20!2-1TH.5.20!3" type="Verb Focus+" label="" verse="1TH 5:20" >μὴ ἐξουθενεῖτε</reference>
-		<reference osisRef="1TH.5.21!6" type="Verb Focus+" label="" verse="1TH 5:21" >κατέχετε</reference>
-		<reference osisRef="2TH.3.4!10-2TH.3.4!13" type="Verb Focus+" label="" verse="2TH 3:4" >καὶ ποιεῖτε καὶ ποιήσετε</reference>
-		<reference osisRef="2TH.3.14!13" type="Verb Focus+" label="" verse="2TH 3:14" >σημειοῦσθε</reference>
-		<reference osisRef="1TI.1.10!13" type="Verb Focus+" label="" verse="1TI 1:10" >ἀντίκειται</reference>
-		<reference osisRef="1TI.1.19!12" type="Verb Focus+" label="" verse="1TI 1:19" >ἐναυάγησαν</reference>
-		<reference osisRef="1TI.3.14!3" type="Verb Focus+" label="" verse="1TI 3:14" >γράφω</reference>
-		<reference osisRef="1TI.4.7!7" type="Verb Focus+" label="" verse="1TI 4:7" >παραιτοῦ</reference>
-		<reference osisRef="1TI.4.15!2" type="Verb Focus+" label="" verse="1TI 4:15" >μελέτα</reference>
-		<reference osisRef="1TI.4.15!5" type="Verb Focus+" label="" verse="1TI 4:15" >ἴσθι</reference>
-		<reference osisRef="1TI.4.16!10" type="Verb Focus+" label="" verse="1TI 4:16" >ποιῶν</reference>
-		<reference osisRef="1TI.5.6!5" type="Verb Focus+" label="" verse="1TI 5:6" >τέθνηκεν</reference>
-		<reference osisRef="1TI.5.11!4" type="Verb Focus+" label="" verse="1TI 5:11" >παραιτοῦ</reference>
-		<reference osisRef="1TI.5.12!7" type="Verb Focus+" label="" verse="1TI 5:12" >ἠθέτησαν</reference>
-		<reference osisRef="1TI.5.18!7-1TI.5.18!8" type="Verb Focus+" label="" verse="1TI 5:18" >οὐ φιμώσεις</reference>
-		<reference osisRef="1TI.5.19!4-1TI.5.19!5" type="Verb Focus+" label="" verse="1TI 5:19" >μὴ παραδέχου</reference>
-		<reference osisRef="1TI.5.24!12-1TI.5.24!13" type="Verb Focus+" label="" verse="1TI 5:24" >καὶ ἐπακολουθοῦσιν</reference>
-		<reference osisRef="1TI.5.25!13-1TI.5.25!14" type="Verb Focus+" label="" verse="1TI 5:25" >οὐ δύνανται</reference>
-		<reference osisRef="1TI.6.1!22" type="Verb Focus+" label="" verse="1TI 6:1" >βλασφημῆται</reference>
-		<reference osisRef="1TI.6.8!7" type="Verb Focus+" label="" verse="1TI 6:8" >ἀρκεσθησόμεθα</reference>
-		<reference osisRef="1TI.6.11!7" type="Verb Focus+" label="" verse="1TI 6:11" >φεῦγε</reference>
-		<reference osisRef="1TI.6.16!14" type="Verb Focus+" label="" verse="1TI 6:16" >δύναται</reference>
-		<reference osisRef="1TI.6.20!5" type="Verb Focus+" label="" verse="1TI 6:20" >φύλαξον</reference>
-		<reference osisRef="1TI.6.21!7" type="Verb Focus+" label="" verse="1TI 6:21" >ἠστόχησαν</reference>
-		<reference osisRef="2TI.1.4!3" type="Verb Focus+" label="" verse="2TI 1:4" >ἰδεῖν</reference>
-		<reference osisRef="2TI.2.9!13-2TI.2.9!14" type="Verb Focus+" label="" verse="2TI 2:9" >οὐ δέδεται</reference>
-		<reference osisRef="2TI.2.14!2" type="Verb Focus+" label="" verse="2TI 2:14" >ὑπομίμνῃσκε</reference>
-		<reference osisRef="2TI.3.5!11" type="Verb Focus+" label="" verse="2TI 3:5" >ἀποτρέπου</reference>
-		<reference osisRef="2TI.3.7!2" type="Verb Focus+" label="" verse="2TI 3:7" >μανθάνοντα</reference>
-		<reference osisRef="2TI.4.5!13" type="Verb Focus+" label="" verse="2TI 4:5" >πληροφόρησον</reference>
-		<reference osisRef="2TI.4.10!4" type="Verb Focus+" label="" verse="2TI 4:10" >ἐγκατέλιπεν</reference>
-		<reference osisRef="2TI.4.17!14" type="Verb Focus+" label="" verse="2TI 4:17" >πληροφορηθῇ</reference>
-		<reference osisRef="TIT.1.5!19" type="Verb Focus+" label="" verse="TIT 1:5" >διεταξάμην</reference>
-		<reference osisRef="TIT.1.16!7" type="Verb Focus+" label="" verse="TIT 1:16" >ἀρνοῦνται</reference>
-		<reference osisRef="TIT.2.5!15" type="Verb Focus+" label="" verse="TIT 2:5" >βλασφημῆται</reference>
-		<reference osisRef="TIT.2.8!8" type="Verb Focus+" label="" verse="TIT 2:8" >ἐντραπῇ</reference>
-		<reference osisRef="HEB.1.11!2" type="Verb Focus+" label="" verse="HEB 1:11" >ἀπολοῦνται</reference>
-		<reference osisRef="HEB.1.11!5" type="Verb Focus+" label="" verse="HEB 1:11" >διαμένεις</reference>
-		<reference osisRef="HEB.1.12!9" type="Verb Focus+" label="" verse="HEB 1:12" >ἀλλαγήσονται</reference>
-		<reference osisRef="HEB.1.12!19-HEB.1.12!20" type="Verb Focus+" label="" verse="HEB 1:12" >οὐκ ἐκλείψουσιν</reference>
-		<reference osisRef="HEB.2.18!6" type="Verb Focus+" label="" verse="HEB 2:18" >πειρασθείς</reference>
-		<reference osisRef="HEB.3.6!21" type="Verb Focus+" label="" verse="HEB 3:6" >κατάσχωμεν</reference>
-		<reference osisRef="HEB.6.3!3" type="Verb Focus+" label="" verse="HEB 6:3" >ποιήσομεν</reference>
-		<reference osisRef="HEB.6.14!4-HEB.6.14!5" type="Verb Focus+" label="" verse="HEB 6:14" >εὐλογῶν εὐλογήσω</reference>
-		<reference osisRef="HEB.6.14!8-HEB.6.14!9" type="Verb Focus+" label="" verse="HEB 6:14" >πληθύνων πληθυνῶ</reference>
-		<reference osisRef="HEB.6.15!3" type="Verb Focus+" label="" verse="HEB 6:15" >μακροθυμήσας</reference>
-		<reference osisRef="HEB.7.11!15" type="Verb Focus+" label="" verse="HEB 7:11" >νενομοθέτηται</reference>
-		<reference osisRef="HEB.10.1!29" type="Verb Focus+" label="" verse="HEB 10:1" >τελειῶσαι</reference>
-		<reference osisRef="HEB.10.5!10-HEB.10.5!11" type="Verb Focus+" label="" verse="HEB 10:5" >οὐκ ἠθέλησας</reference>
-		<reference osisRef="HEB.10.6!5-HEB.10.6!6" type="Verb Focus+" label="" verse="HEB 10:6" >οὐκ εὐδόκησας</reference>
-		<reference osisRef="HEB.10.8!12-HEB.10.8!15" type="Verb Focus+" label="" verse="HEB 10:8" >οὐκ ἠθέλησας οὐδὲ εὐδόκησας</reference>
-		<reference osisRef="HEB.10.17!9-HEB.10.17!12" type="Verb Focus+" label="" verse="HEB 10:17" >οὐ μὴ μνησθήσομαι ἔτι</reference>
-		<reference osisRef="HEB.10.37!8" type="Verb Focus+" label="" verse="HEB 10:37" >ἥξει</reference>
-		<reference osisRef="HEB.11.12!8" type="Verb Focus+" label="" verse="HEB 11:12" >νενεκρωμένου</reference>
-		<reference osisRef="HEB.12.4!8" type="Verb Focus+" label="" verse="HEB 12:4" >ἀνταγωνιζόμενοι</reference>
-		<reference osisRef="HEB.12.5!20" type="Verb Focus+" label="" verse="HEB 12:5" >ἐλεγχόμενος</reference>
-		<reference osisRef="HEB.12.7!3" type="Verb Focus+" label="" verse="HEB 12:7" >ὑπομένετε</reference>
-		<reference osisRef="HEB.12.13!12" type="Verb Focus+" label="" verse="HEB 12:13" >ἐκτραπῇ</reference>
-		<reference osisRef="HEB.13.1!3" type="Verb Focus+" label="" verse="HEB 13:1" >μενέτω</reference>
-		<reference osisRef="HEB.13.5!13" type="Verb Focus+" label="" verse="HEB 13:5" >ἀνῶ</reference>
-		<reference osisRef="HEB.13.5!18" type="Verb Focus+" label="" verse="HEB 13:5" >ἐγκαταλίπω</reference>
-		<reference osisRef="HEB.13.19!5" type="Verb Focus+" label="" verse="HEB 13:19" >ποιῆσαι</reference>
-		<reference osisRef="HEB.13.23!6" type="Verb Focus+" label="" verse="HEB 13:23" >ἀπολελυμένον</reference>
-		<reference osisRef="JAS.1.11!32" type="Verb Focus+" label="" verse="JAS 1:11" >μαρανθήσεται</reference>
-		<reference osisRef="JAS.2.22!15" type="Verb Focus+" label="" verse="JAS 2:22" >ἐτελειώθη</reference>
-		<reference osisRef="JAS.3.4!21" type="Verb Focus+" label="" verse="JAS 3:4" >βούλεται</reference>
-		<reference osisRef="JAS.4.15!8" type="Verb Focus+" label="" verse="JAS 4:15" >θελήσῃ</reference>
-		<reference osisRef="JAS.5.2!4" type="Verb Focus+" label="" verse="JAS 5:2" >σέσηπεν</reference>
-		<reference osisRef="JAS.5.3!7" type="Verb Focus+" label="" verse="JAS 5:3" >κατίωται</reference>
-		<reference osisRef="JAS.5.8!13" type="Verb Focus+" label="" verse="JAS 5:8" >ἤγγικεν</reference>
-		<reference osisRef="JAS.5.17!7-JAS.5.17!8" type="Verb Focus+" label="" verse="JAS 5:17" >προσευχῇ προσηύξατο</reference>
-		<reference osisRef="JAS.5.18!8" type="Verb Focus+" label="" verse="JAS 5:18" >ἔδωκεν</reference>
-		<reference osisRef="1PE.1.8!8-1PE.1.8!9" type="Verb Focus+" label="" verse="1PE 1:8" >μὴ ὁρῶντες</reference>
-		<reference osisRef="1PE.1.24!19" type="Verb Focus+" label="" verse="1PE 1:24" >ἐξέπεσεν</reference>
-		<reference osisRef="1PE.2.2!8" type="Verb Focus+" label="" verse="1PE 2:2" >ἐπιποθήσατε</reference>
-		<reference osisRef="1PE.2.6!18-1PE.2.6!20" type="Verb Focus+" label="" verse="1PE 2:6" >οὐ μὴ καταισχυνθῇ</reference>
-		<reference osisRef="1PE.2.12!20" type="Verb Focus+" label="" verse="1PE 2:12" >ἐποπτεύοντες</reference>
-		<reference osisRef="1PE.2.22!3-1PE.2.22!4" type="Verb Focus+" label="" verse="1PE 2:22" >οὐκ ἐποίησεν</reference>
-		<reference osisRef="1PE.2.24!17" type="Verb Focus+" label="" verse="1PE 2:24" >ἀπογενόμενοι</reference>
-		<reference osisRef="1PE.2.24!20" type="Verb Focus+" label="" verse="1PE 2:24" >ζήσωμεν</reference>
-		<reference osisRef="1PE.2.24!24" type="Verb Focus+" label="" verse="1PE 2:24" >ἰάθητε</reference>
-		<reference osisRef="1PE.3.9!19" type="Verb Focus+" label="" verse="1PE 3:9" >κληρονομήσητε</reference>
-		<reference osisRef="1PE.3.14!12-1PE.3.14!13" type="Verb Focus+" label="" verse="1PE 3:14" >μὴ φοβηθῆτε</reference>
-		<reference osisRef="1PE.4.3!10" type="Verb Focus+" label="" verse="1PE 4:3" >κατειργάσθαι</reference>
-		<reference osisRef="1PE.4.7!5" type="Verb Focus+" label="" verse="1PE 4:7" >ἤγγικεν</reference>
-		<reference osisRef="1PE.4.11!3" type="Verb Focus+" label="" verse="1PE 4:11" >λαλεῖ</reference>
-		<reference osisRef="1PE.4.11!9" type="Verb Focus+" label="" verse="1PE 4:11" >διακονεῖ</reference>
-		<reference osisRef="1PE.5.5!15" type="Verb Focus+" label="" verse="1PE 5:5" >ἀντιτάσσεται</reference>
-		<reference osisRef="2PE.1.8!4-2PE.1.8!6" type="Verb Focus+" label="" verse="2PE 1:8" >ὑπάρχοντα καὶ πλεονάζοντα</reference>
-		<reference osisRef="2PE.1.17!28" type="Verb Focus+" label="" verse="2PE 1:17" >εὐδόκησα</reference>
-		<reference osisRef="2PE.2.2!13" type="Verb Focus+" label="" verse="2PE 2:2" >βλασφημηθήσεται</reference>
-		<reference osisRef="2PE.2.3!12-2PE.2.3!13" type="Verb Focus+" label="" verse="2PE 2:3" >οὐκ ἀργεῖ</reference>
-		<reference osisRef="2PE.2.3!18-2PE.2.3!19" type="Verb Focus+" label="" verse="2PE 2:3" >οὐ νυστάζει</reference>
-		<reference osisRef="2PE.2.12!20-2PE.2.12!21" type="Verb Focus+" label="" verse="2PE 2:12" >καὶ φθαρήσονται</reference>
-		<reference osisRef="2PE.2.19!12" type="Verb Focus+" label="" verse="2PE 2:19" >ἥττηται</reference>
-		<reference osisRef="2PE.2.20!19-2PE.2.20!21" type="Verb Focus+" label="" verse="2PE 2:20" >πάλιν ἐμπλακέντες ἡττῶνται</reference>
-		<reference osisRef="2PE.3.4!15" type="Verb Focus+" label="" verse="2PE 3:4" >ἐκοιμήθησαν</reference>
-		<reference osisRef="2PE.3.9!17" type="Verb Focus+" label="" verse="2PE 3:9" >ἀπολέσθαι</reference>
-		<reference osisRef="2PE.3.10!15-2PE.3.10!16" type="Verb Focus+" label="" verse="2PE 3:10" >καυσούμενα λυθήσεται</reference>
-		<reference osisRef="2PE.3.10!24" type="Verb Focus+" label="" verse="2PE 3:10" >εὑρεθήσεται</reference>
-		<reference osisRef="2PE.3.11!4" type="Verb Focus+" label="" verse="2PE 3:11" >λυομένων</reference>
-		<reference osisRef="2PE.3.12!13-2PE.3.12!14" type="Verb Focus+" label="" verse="2PE 3:12" >πυρούμενοι λυθήσονται</reference>
-		<reference osisRef="2PE.3.12!17-2PE.3.12!18" type="Verb Focus+" label="" verse="2PE 3:12" >καυσούμενα τήκεται</reference>
-		<reference osisRef="2PE.3.16!21" type="Verb Focus+" label="" verse="2PE 3:16" >στρεβλοῦσιν</reference>
-		<reference osisRef="1JN.1.8!8" type="Verb Focus+" label="" verse="1JN 1:8" >πλανῶμεν</reference>
-		<reference osisRef="1JN.2.4!19-1JN.2.4!20" type="Verb Focus+" label="" verse="1JN 2:4" >οὐκ ἔστιν</reference>
-		<reference osisRef="1JN.2.5!15" type="Verb Focus+" label="" verse="1JN 2:5" >τετελείωται</reference>
-		<reference osisRef="1JN.2.8!24" type="Verb Focus+" label="" verse="1JN 2:8" >φαίνει</reference>
-		<reference osisRef="1JN.2.10!9" type="Verb Focus+" label="" verse="1JN 2:10" >μένει</reference>
-		<reference osisRef="1JN.2.11!15" type="Verb Focus+" label="" verse="1JN 2:11" >περιπατεῖ</reference>
-		<reference osisRef="1JN.2.14!29" type="Verb Focus+" label="" verse="1JN 2:14" >μένει</reference>
-		<reference osisRef="1JN.2.19!3" type="Verb Focus+" label="" verse="1JN 2:19" >ἐξῆλθαν</reference>
-		<reference osisRef="1JN.2.24!8" type="Verb Focus+" label="" verse="1JN 2:24" >μενέτω</reference>
-		<reference osisRef="1JN.2.29!16" type="Verb Focus+" label="" verse="1JN 2:29" >γεγέννηται</reference>
-		<reference osisRef="1JN.3.5!9" type="Verb Focus+" label="" verse="1JN 3:5" >ἄρῃ</reference>
-		<reference osisRef="1JN.3.5!14-1JN.3.5!15" type="Verb Focus+" label="" verse="1JN 3:5" >οὐκ ἔστιν</reference>
-		<reference osisRef="1JN.3.9!8-1JN.3.9!9" type="Verb Focus+" label="" verse="1JN 3:9" >οὐ ποιεῖ</reference>
-		<reference osisRef="1JN.4.3!12-1JN.4.3!13" type="Verb Focus+" label="" verse="1JN 4:3" >οὐκ ἔστιν</reference>
-		<reference osisRef="1JN.4.5!11" type="Verb Focus+" label="" verse="1JN 4:5" >λαλοῦσιν</reference>
-		<reference osisRef="1JN.4.5!16" type="Verb Focus+" label="" verse="1JN 4:5" >ἀκούει</reference>
-		<reference osisRef="1JN.4.7!18" type="Verb Focus+" label="" verse="1JN 4:7" >γεγέννηται</reference>
-		<reference osisRef="1JN.4.12!12" type="Verb Focus+" label="" verse="1JN 4:12" >μένει</reference>
-		<reference osisRef="1JN.5.12!17-1JN.5.12!18" type="Verb Focus+" label="" verse="1JN 5:12" >οὐκ ἔχει</reference>
-		<reference osisRef="2JN.1.6!23" type="Verb Focus+" label="" verse="2JN 1:6" >περιπατῆτε</reference>
-		<reference osisRef="2JN.1.10!10-2JN.1.10!11" type="Verb Focus+" label="" verse="2JN 1:10" >οὐ φέρει</reference>
-		<reference osisRef="2JN.1.12!4" type="Verb Focus+" label="" verse="2JN 1:12" >γράφειν</reference>
-		<reference osisRef="3JN.1.3!15" type="Verb Focus+" label="" verse="3JN 1:3" >περιπατεῖς</reference>
-		<reference osisRef="JUD.1.5!16" type="Verb Focus+" label="" verse="JUD 1:5" >σώσας</reference>
-		<reference osisRef="JUD.1.5!22" type="Verb Focus+" label="" verse="JUD 1:5" >ἀπώλεσεν</reference>
-		<reference osisRef="REV.3.12!14-REV.3.12!16" type="Verb Focus+" label="" verse="REV 3:12" >οὐ μὴ ἐξέλθῃ</reference>
-		<reference osisRef="REV.6.4!22" type="Verb Focus+" label="" verse="REV 6:4" >σφάξουσιν</reference>
-		<reference osisRef="REV.10.6!35-REV.10.6!36" type="Verb Focus+" label="" verse="REV 10:6" >οὐκέτι ἔσται</reference>
-		<reference osisRef="REV.11.5!5-REV.11.5!6" type="Verb Focus+" label="" verse="REV 11:5" >θέλει ἀδικῆσαι</reference>
-		<reference osisRef="REV.11.8!23" type="Verb Focus+" label="" verse="REV 11:8" >ἐσταυρώθη</reference>
-		<reference osisRef="REV.11.18!15" type="Verb Focus+" label="" verse="REV 11:18" >κριθῆναι</reference>
-		<reference osisRef="REV.13.3!17" type="Verb Focus+" label="" verse="REV 13:3" >ἐθεραπεύθη</reference>
-		<reference osisRef="REV.13.10!7" type="Verb Focus+" label="" verse="REV 13:10" >ὑπάγει</reference>
-		<reference osisRef="REV.13.10!16" type="Verb Focus+" label="" verse="REV 13:10" >ἀποκτανθῆναι</reference>
-		<reference osisRef="REV.13.15!28" type="Verb Focus+" label="" verse="REV 13:15" >ἀποκτανθῶσιν</reference>
-		<reference osisRef="REV.15.4!27" type="Verb Focus+" label="" verse="REV 15:4" >ἐφανερώθησαν</reference>
-		<reference osisRef="REV.16.5!19" type="Verb Focus+" label="" verse="REV 16:5" >ἔκρινας</reference>
-		<reference osisRef="REV.17.12!12-REV.17.12!13" type="Verb Focus+" label="" verse="REV 17:12" >οὔπω ἔλαβον</reference>
-		<reference osisRef="REV.17.16!24" type="Verb Focus+" label="" verse="REV 17:16" >φάγονται</reference>
-		<reference osisRef="REV.18.4!27-REV.18.4!28" type="Verb Focus+" label="" verse="REV 18:4" >μὴ λάβητε</reference>
-		<reference osisRef="REV.18.7!23-REV.18.7!24" type="Verb Focus+" label="" verse="REV 18:7" >οὐκ εἰμὶ</reference>
-		<reference osisRef="REV.18.7!27-REV.18.7!29" type="Verb Focus+" label="" verse="REV 18:7" >οὐ μὴ ἴδω</reference>
-		<reference osisRef="REV.18.9!14-REV.18.9!16" type="Verb Focus+" label="" verse="REV 18:9" >πορνεύσαντες καὶ στρηνιάσαντες</reference>
-		<reference osisRef="REV.21.1!16" type="Verb Focus+" label="" verse="REV 21:1" >ἀπῆλθαν</reference>
-		<reference osisRef="REV.21.4!27" type="Verb Focus+" label="" verse="REV 21:4" >ἀπῆλθαν</reference>
+		<reference osisRef="Matt.2.4!16" type="Verb Focus+" label="" verse="Matt 2:4" >γεννᾶται</reference>
+		<reference osisRef="Matt.4.12!5" type="Verb Focus+" label="" verse="Matt 4:12" >παρεδόθη</reference>
+		<reference osisRef="Matt.5.13!11" type="Verb Focus+" label="" verse="Matt 5:13" >μωρανθῇ</reference>
+		<reference osisRef="Matt.6.17!12" type="Verb Focus+" label="" verse="Matt 6:17" >νίψαι</reference>
+		<reference osisRef="Matt.6.19!16-Matt.6.19!18" type="Verb Focus+" label="" verse="Matt 6:19" >διορύσσουσιν καὶ κλέπτουσιν</reference>
+		<reference osisRef="Matt.6.20!16-Matt.6.20!19" type="Verb Focus+" label="" verse="Matt 6:20" >οὐ διορύσσουσιν οὐδὲ κλέπτουσιν</reference>
+		<reference osisRef="Matt.7.19!7" type="Verb Focus+" label="" verse="Matt 7:19" >ἐκκόπτεται</reference>
+		<reference osisRef="Matt.7.22!14" type="Verb Focus+" label="" verse="Matt 7:22" >ἐπροφητεύσαμεν</reference>
+		<reference osisRef="Matt.8.2!13" type="Verb Focus+" label="" verse="Matt 8:2" >καθαρίσαι</reference>
+		<reference osisRef="Matt.9.14!20-Matt.9.14!21" type="Verb Focus+" label="" verse="Matt 9:14" >οὐ νηστεύουσιν</reference>
+		<reference osisRef="Matt.9.17!18" type="Verb Focus+" label="" verse="Matt 9:17" >ἐκχεῖται</reference>
+		<reference osisRef="Matt.9.17!22" type="Verb Focus+" label="" verse="Matt 9:17" >ἀπόλλυνται</reference>
+		<reference osisRef="Matt.9.18!16-Matt.9.18!17" type="Verb Focus+" label="" verse="Matt 9:18" >ἄρτι ἐτελεύτησεν</reference>
+		<reference osisRef="Matt.9.28!19" type="Verb Focus+" label="" verse="Matt 9:28" >ποιῆσαι</reference>
+		<reference osisRef="Matt.10.8!12" type="Verb Focus+" label="" verse="Matt 10:8" >δότε</reference>
+		<reference osisRef="Matt.10.13!24" type="Verb Focus+" label="" verse="Matt 10:13" >ἐπιστραφήτω</reference>
+		<reference osisRef="Matt.10.22!16" type="Verb Focus+" label="" verse="Matt 10:22" >σωθήσεται</reference>
+		<reference osisRef="Matt.11.5!2" type="Verb Focus+" label="" verse="Matt 11:5" >ἀναβλέπουσιν</reference>
+		<reference osisRef="Matt.11.5!5" type="Verb Focus+" label="" verse="Matt 11:5" >περιπατοῦσιν</reference>
+		<reference osisRef="Matt.11.5!7" type="Verb Focus+" label="" verse="Matt 11:5" >καθαρίζονται</reference>
+		<reference osisRef="Matt.11.5!10" type="Verb Focus+" label="" verse="Matt 11:5" >ἀκούουσιν</reference>
+		<reference osisRef="Matt.11.5!13" type="Verb Focus+" label="" verse="Matt 11:5" >ἐγείρονται</reference>
+		<reference osisRef="Matt.11.5!16" type="Verb Focus+" label="" verse="Matt 11:5" >εὐαγγελίζονται</reference>
+		<reference osisRef="Matt.11.12!14" type="Verb Focus+" label="" verse="Matt 11:12" >βιάζεται</reference>
+		<reference osisRef="Matt.11.15!4" type="Verb Focus+" label="" verse="Matt 11:15" >ἀκουέτω</reference>
+		<reference osisRef="Matt.12.5!17" type="Verb Focus+" label="" verse="Matt 12:5" >βεβηλοῦσιν</reference>
+		<reference osisRef="Matt.12.14!11" type="Verb Focus+" label="" verse="Matt 12:14" >ἀπολέσωσιν</reference>
+		<reference osisRef="Matt.12.25!13" type="Verb Focus+" label="" verse="Matt 12:25" >ἐρημοῦται</reference>
+		<reference osisRef="Matt.12.25!22-Matt.12.25!23" type="Verb Focus+" label="" verse="Matt 12:25" >οὐ σταθήσεται</reference>
+		<reference osisRef="Matt.12.30!15" type="Verb Focus+" label="" verse="Matt 12:30" >σκορπίζει</reference>
+		<reference osisRef="Matt.12.31!17-Matt.12.31!18" type="Verb Focus+" label="" verse="Matt 12:31" >οὐκ ἀφεθήσεται</reference>
+		<reference osisRef="Matt.12.37!6" type="Verb Focus+" label="" verse="Matt 12:37" >δικαιωθήσῃ</reference>
+		<reference osisRef="Matt.12.37!12" type="Verb Focus+" label="" verse="Matt 12:37" >καταδικασθήσῃ</reference>
+		<reference osisRef="Matt.12.46!17" type="Verb Focus+" label="" verse="Matt 12:46" >λαλῆσαι</reference>
+		<reference osisRef="Matt.12.47!17" type="Verb Focus+" label="" verse="Matt 12:47" >λαλῆσαι</reference>
+		<reference osisRef="Matt.13.6!11" type="Verb Focus+" label="" verse="Matt 13:6" >ἐξηράνθη</reference>
+		<reference osisRef="Matt.13.9!4" type="Verb Focus+" label="" verse="Matt 13:9" >ἀκουέτω</reference>
+		<reference osisRef="Matt.13.11!18-Matt.13.11!19" type="Verb Focus+" label="" verse="Matt 13:11" >οὐ δέδοται</reference>
+		<reference osisRef="Matt.13.15!17" type="Verb Focus+" label="" verse="Matt 13:15" >ἐκάμμυσαν</reference>
+		<reference osisRef="Matt.13.15!25" type="Verb Focus+" label="" verse="Matt 13:15" >ἀκούσωσιν</reference>
+		<reference osisRef="Matt.13.15!29" type="Verb Focus+" label="" verse="Matt 13:15" >συνῶσιν</reference>
+		<reference osisRef="Matt.13.43!17" type="Verb Focus+" label="" verse="Matt 13:43" >ἀκουέτω</reference>
+		<reference osisRef="Matt.14.5!4" type="Verb Focus+" label="" verse="Matt 14:5" >ἀποκτεῖναι</reference>
+		<reference osisRef="Matt.14.15!17" type="Verb Focus+" label="" verse="Matt 14:15" >παρῆλθεν</reference>
+		<reference osisRef="Matt.14.26!19" type="Verb Focus+" label="" verse="Matt 14:26" >ἔκραξαν</reference>
+		<reference osisRef="Matt.14.36!15" type="Verb Focus+" label="" verse="Matt 14:36" >διεσώθησαν</reference>
+		<reference osisRef="Matt.15.2!18" type="Verb Focus+" label="" verse="Matt 15:2" >ἄρτον</reference>
+		<reference osisRef="Matt.15.4!17-Matt.15.4!18" type="Verb Focus+" label="" verse="Matt 15:4" >θανάτῳ τελευτάτω</reference>
+		<reference osisRef="Matt.15.13!15" type="Verb Focus+" label="" verse="Matt 15:13" >ἐκριζωθήσεται</reference>
+		<reference osisRef="Matt.15.14!11" type="Verb Focus+" label="" verse="Matt 15:14" >ὁδηγῇ</reference>
+		<reference osisRef="Matt.15.31!4" type="Verb Focus+" label="" verse="Matt 15:31" >θαυμάσαι</reference>
+		<reference osisRef="Matt.15.31!7" type="Verb Focus+" label="" verse="Matt 15:31" >λαλοῦντας</reference>
+		<reference osisRef="Matt.15.31!12" type="Verb Focus+" label="" verse="Matt 15:31" >περιπατοῦντας</reference>
+		<reference osisRef="Matt.15.31!15" type="Verb Focus+" label="" verse="Matt 15:31" >βλέποντας</reference>
+		<reference osisRef="Matt.16.3!15-Matt.16.3!16" type="Verb Focus+" label="" verse="Matt 16:3" >γινώσκετε διακρίνειν</reference>
+		<reference osisRef="Matt.16.3!22-Matt.16.3!23" type="Verb Focus+" label="" verse="Matt 16:3" >οὐ δύνασθε</reference>
+		<reference osisRef="Matt.16.21!32" type="Verb Focus+" label="" verse="Matt 16:21" >ἐγερθῆναι</reference>
+		<reference osisRef="Matt.17.11!7" type="Verb Focus+" label="" verse="Matt 17:11" >ἔρχεται</reference>
+		<reference osisRef="Matt.17.16!11" type="Verb Focus+" label="" verse="Matt 17:16" >θεραπεῦσαι</reference>
+		<reference osisRef="Matt.17.23!8" type="Verb Focus+" label="" verse="Matt 17:23" >ἐγερθήσεται</reference>
+		<reference osisRef="Matt.18.7!20" type="Verb Focus+" label="" verse="Matt 18:7" >ἔρχεται</reference>
+		<reference osisRef="Matt.18.15!19" type="Verb Focus+" label="" verse="Matt 18:15" >ἀκούσῃ</reference>
+		<reference osisRef="Matt.18.28!24" type="Verb Focus+" label="" verse="Matt 18:28" >ὀφείλεις</reference>
+		<reference osisRef="Matt.19.6!14-Matt.19.6!15" type="Verb Focus+" label="" verse="Matt 19:6" >μὴ χωριζέτω</reference>
+		<reference osisRef="Matt.19.9!17" type="Verb Focus+" label="" verse="Matt 19:9" >μοιχᾶται</reference>
+		<reference osisRef="Matt.19.12!32" type="Verb Focus+" label="" verse="Matt 19:12" >χωρείτω</reference>
+		<reference osisRef="Matt.19.20!7" type="Verb Focus+" label="" verse="Matt 19:20" >ἐφύλαξα</reference>
+		<reference osisRef="Matt.20.19!17" type="Verb Focus+" label="" verse="Matt 20:19" >ἐγερθήσεται</reference>
+		<reference osisRef="Matt.20.23!7" type="Verb Focus+" label="" verse="Matt 20:23" >πίεσθε</reference>
+		<reference osisRef="Matt.21.16!7" type="Verb Focus+" label="" verse="Matt 21:16" >λέγουσιν</reference>
+		<reference osisRef="Matt.21.35!10" type="Verb Focus+" label="" verse="Matt 21:35" >ἔδειραν</reference>
+		<reference osisRef="Matt.21.35!13" type="Verb Focus+" label="" verse="Matt 21:35" >ἀπέκτειναν</reference>
+		<reference osisRef="Matt.21.35!16" type="Verb Focus+" label="" verse="Matt 21:35" >ἐλιθοβόλησαν</reference>
+		<reference osisRef="Matt.21.44!8" type="Verb Focus+" label="" verse="Matt 21:44" >συνθλασθήσεται</reference>
+		<reference osisRef="Matt.21.46!4" type="Verb Focus+" label="" verse="Matt 21:46" >κρατῆσαι</reference>
+		<reference osisRef="Matt.22.4!13" type="Verb Focus+" label="" verse="Matt 22:4" >ἡτοίμακα</reference>
+		<reference osisRef="Matt.22.4!20" type="Verb Focus+" label="" verse="Matt 22:4" >τεθυμένα</reference>
+		<reference osisRef="Matt.23.12!5" type="Verb Focus+" label="" verse="Matt 23:12" >ταπεινωθήσεται</reference>
+		<reference osisRef="Matt.23.12!10" type="Verb Focus+" label="" verse="Matt 23:12" >ὑψωθήσεται</reference>
+		<reference osisRef="Matt.23.13!19-Matt.23.13!20" type="Verb Focus+" label="" verse="Matt 23:13" >οὐκ εἰσέρχεσθε</reference>
+		<reference osisRef="Matt.23.16!24" type="Verb Focus+" label="" verse="Matt 23:16" >ὀφείλει</reference>
+		<reference osisRef="Matt.23.34!15-Matt.23.34!17" type="Verb Focus+" label="" verse="Matt 23:34" >ἀποκτενεῖτε καὶ σταυρώσετε</reference>
+		<reference osisRef="Matt.24.4!11" type="Verb Focus+" label="" verse="Matt 24:4" >πλανήσῃ</reference>
+		<reference osisRef="Matt.24.10!7" type="Verb Focus+" label="" verse="Matt 24:10" >παραδώσουσιν</reference>
+		<reference osisRef="Matt.24.15!20" type="Verb Focus+" label="" verse="Matt 24:15" >νοείτω</reference>
+		<reference osisRef="Matt.24.29!11" type="Verb Focus+" label="" verse="Matt 24:29" >σκοτισθήσεται</reference>
+		<reference osisRef="Matt.24.29!32" type="Verb Focus+" label="" verse="Matt 24:29" >σαλευθήσονται</reference>
+		<reference osisRef="Matt.24.35!11-Matt.24.35!13" type="Verb Focus+" label="" verse="Matt 24:35" >οὐ μὴ παρέλθωσιν</reference>
+		<reference osisRef="Matt.24.40!8" type="Verb Focus+" label="" verse="Matt 24:40" >παραλαμβάνεται</reference>
+		<reference osisRef="Matt.24.40!11" type="Verb Focus+" label="" verse="Matt 24:40" >ἀφίεται</reference>
+		<reference osisRef="Matt.24.41!7" type="Verb Focus+" label="" verse="Matt 24:41" >παραλαμβάνεται</reference>
+		<reference osisRef="Matt.24.41!10" type="Verb Focus+" label="" verse="Matt 24:41" >ἀφίεται</reference>
+		<reference osisRef="Matt.25.8!17" type="Verb Focus+" label="" verse="Matt 25:8" >σβέννυνται</reference>
+		<reference osisRef="Matt.25.29!5" type="Verb Focus+" label="" verse="Matt 25:29" >δοθήσεται</reference>
+		<reference osisRef="Matt.26.15!5" type="Verb Focus+" label="" verse="Matt 26:15" >δοῦναι</reference>
+		<reference osisRef="Matt.26.16!8" type="Verb Focus+" label="" verse="Matt 26:16" >παραδῷ</reference>
+		<reference osisRef="Matt.26.24!22" type="Verb Focus+" label="" verse="Matt 26:24" >παραδίδοται</reference>
+		<reference osisRef="Matt.26.35!14" type="Verb Focus+" label="" verse="Matt 26:35" >ἀπαρνήσομαι</reference>
+		<reference osisRef="Matt.26.47!4" type="Verb Focus+" label="" verse="Matt 26:47" >λαλοῦντος</reference>
+		<reference osisRef="Matt.26.52!21" type="Verb Focus+" label="" verse="Matt 26:52" >ἀπολοῦνται</reference>
+		<reference osisRef="Matt.26.57!17" type="Verb Focus+" label="" verse="Matt 26:57" >συνήχθησαν</reference>
+		<reference osisRef="Matt.26.59!15" type="Verb Focus+" label="" verse="Matt 26:59" >θανατώσωσιν</reference>
+		<reference osisRef="Matt.26.62!12" type="Verb Focus+" label="" verse="Matt 26:62" >καταμαρτυροῦσιν</reference>
+		<reference osisRef="Matt.27.20!17" type="Verb Focus+" label="" verse="Matt 27:20" >ἀπολέσωσιν</reference>
+		<reference osisRef="Matt.27.63!14" type="Verb Focus+" label="" verse="Matt 27:63" >ἐγείρομαι</reference>
+		<reference osisRef="Matt.28.13!12" type="Verb Focus+" label="" verse="Matt 28:13" >κοιμωμένων</reference>
+		<reference osisRef="Mark.1.11!16" type="Verb Focus+" label="" verse="Mark 1:11" >εὐδόκησα</reference>
+		<reference osisRef="Mark.1.40!18" type="Verb Focus+" label="" verse="Mark 1:40" >καθαρίσαι</reference>
+		<reference osisRef="Mark.2.18!25" type="Verb Focus+" label="" verse="Mark 2:18" >νηστεύουσιν</reference>
+		<reference osisRef="Mark.2.18!30-Mark.2.18!31" type="Verb Focus+" label="" verse="Mark 2:18" >οὐ νηστεύουσιν</reference>
+		<reference osisRef="Mark.3.4!12" type="Verb Focus+" label="" verse="Mark 3:4" >σῶσαι</reference>
+		<reference osisRef="Mark.3.6!15" type="Verb Focus+" label="" verse="Mark 3:6" >ἀπολέσωσιν</reference>
+		<reference osisRef="Mark.3.11!8" type="Verb Focus+" label="" verse="Mark 3:11" >ἐθεώρουν</reference>
+		<reference osisRef="Mark.3.27!20" type="Verb Focus+" label="" verse="Mark 3:27" >δήσῃ</reference>
+		<reference osisRef="Mark.4.6!13" type="Verb Focus+" label="" verse="Mark 4:6" >ἐξηράνθη</reference>
+		<reference osisRef="Mark.4.9!7" type="Verb Focus+" label="" verse="Mark 4:9" >ἀκουέτω</reference>
+		<reference osisRef="Mark.4.18!14" type="Verb Focus+" label="" verse="Mark 4:18" >ἀκούσαντες</reference>
+		<reference osisRef="Mark.4.38!10" type="Verb Focus+" label="" verse="Mark 4:38" >καθεύδων</reference>
+		<reference osisRef="Mark.5.3!15" type="Verb Focus+" label="" verse="Mark 5:3" >δῆσαι</reference>
+		<reference osisRef="Mark.5.4!18" type="Verb Focus+" label="" verse="Mark 5:4" >συντετρῖφθαι</reference>
+		<reference osisRef="Mark.5.4!23" type="Verb Focus+" label="" verse="Mark 5:4" >δαμάσαι</reference>
+		<reference osisRef="Mark.5.7!22" type="Verb Focus+" label="" verse="Mark 5:7" >βασανίσῃς</reference>
+		<reference osisRef="Mark.5.19!23" type="Verb Focus+" label="" verse="Mark 5:19" >πεποίηκεν</reference>
+		<reference osisRef="Mark.5.20!16" type="Verb Focus+" label="" verse="Mark 5:20" >ἐθαύμαζον</reference>
+		<reference osisRef="Mark.5.32!6" type="Verb Focus+" label="" verse="Mark 5:32" >ποιήσασαν</reference>
+		<reference osisRef="Mark.5.35!3" type="Verb Focus+" label="" verse="Mark 5:35" >λαλοῦντος</reference>
+		<reference osisRef="Mark.5.35!13" type="Verb Focus+" label="" verse="Mark 5:35" >ἀπέθανεν</reference>
+		<reference osisRef="Mark.5.39!11-Mark.5.39!12" type="Verb Focus+" label="" verse="Mark 5:39" >οὐκ ἀπέθανεν</reference>
+		<reference osisRef="Mark.5.39!14" type="Verb Focus+" label="" verse="Mark 5:39" >καθεύδει</reference>
+		<reference osisRef="Mark.6.16!11" type="Verb Focus+" label="" verse="Mark 6:16" >ἠγέρθη</reference>
+		<reference osisRef="Mark.6.17!24" type="Verb Focus+" label="" verse="Mark 6:17" >ἐγάμησεν</reference>
+		<reference osisRef="Mark.6.19!9" type="Verb Focus+" label="" verse="Mark 6:19" >ἀποκτεῖναι</reference>
+		<reference osisRef="Mark.6.56!35" type="Verb Focus+" label="" verse="Mark 6:56" >ἐσῴζοντο</reference>
+		<reference osisRef="Mark.7.10!18-Mark.7.10!19" type="Verb Focus+" label="" verse="Mark 7:10" >θανάτῳ τελευτάτω</reference>
+		<reference osisRef="Mark.7.18!22" type="Verb Focus+" label="" verse="Mark 7:18" >κοινῶσαι</reference>
+		<reference osisRef="Mark.7.36!10" type="Verb Focus+" label="" verse="Mark 7:36" >διεστέλλετο</reference>
+		<reference osisRef="Mark.7.37!12" type="Verb Focus+" label="" verse="Mark 7:37" >ἀκούειν</reference>
+		<reference osisRef="Mark.7.37!16" type="Verb Focus+" label="" verse="Mark 7:37" >λαλεῖν</reference>
+		<reference osisRef="Mark.8.22!14" type="Verb Focus+" label="" verse="Mark 8:22" >ἅψηται</reference>
+		<reference osisRef="Mark.8.31!30" type="Verb Focus+" label="" verse="Mark 8:31" >ἀναστῆναι</reference>
+		<reference osisRef="Mark.9.13!7" type="Verb Focus+" label="" verse="Mark 9:13" >ἐλήλυθεν</reference>
+		<reference osisRef="Mark.9.18!23" type="Verb Focus+" label="" verse="Mark 9:18" >ἐκβάλωσιν</reference>
+		<reference osisRef="Mark.9.30!12" type="Verb Focus+" label="" verse="Mark 9:30" >γνοῖ</reference>
+		<reference osisRef="Mark.9.31!26" type="Verb Focus+" label="" verse="Mark 9:31" >ἀναστήσεται</reference>
+		<reference osisRef="Mark.9.32!9" type="Verb Focus+" label="" verse="Mark 9:32" >ἐπερωτῆσαι</reference>
+		<reference osisRef="Mark.9.48!5-Mark.9.48!6" type="Verb Focus+" label="" verse="Mark 9:48" >οὐ τελευτᾷ</reference>
+		<reference osisRef="Mark.9.48!10-Mark.9.48!11" type="Verb Focus+" label="" verse="Mark 9:48" >οὐ σβέννυται</reference>
+		<reference osisRef="Mark.9.49!4" type="Verb Focus+" label="" verse="Mark 9:49" >ἁλισθήσεται</reference>
+		<reference osisRef="Mark.10.2!10" type="Verb Focus+" label="" verse="Mark 10:2" >ἀπολῦσαι</reference>
+		<reference osisRef="Mark.10.9!7-Mark.10.9!8" type="Verb Focus+" label="" verse="Mark 10:9" >μὴ χωριζέτω</reference>
+		<reference osisRef="Mark.10.13!7" type="Verb Focus+" label="" verse="Mark 10:13" >ἅψηται</reference>
+		<reference osisRef="Mark.10.32!20" type="Verb Focus+" label="" verse="Mark 10:32" >ἐφοβοῦντο</reference>
+		<reference osisRef="Mark.10.34!16" type="Verb Focus+" label="" verse="Mark 10:34" >ἀναστήσεται</reference>
+		<reference osisRef="Mark.10.39!16" type="Verb Focus+" label="" verse="Mark 10:39" >πίεσθε</reference>
+		<reference osisRef="Mark.10.39!23" type="Verb Focus+" label="" verse="Mark 10:39" >βαπτισθήσεσθε</reference>
+		<reference osisRef="Mark.11.18!12" type="Verb Focus+" label="" verse="Mark 11:18" >ἀπολέσωσιν</reference>
+		<reference osisRef="Mark.11.21!13" type="Verb Focus+" label="" verse="Mark 11:21" >ἐξήρανται</reference>
+		<reference osisRef="Mark.11.23!29" type="Verb Focus+" label="" verse="Mark 11:23" >γίνεται</reference>
+		<reference osisRef="Mark.11.28!18" type="Verb Focus+" label="" verse="Mark 11:28" >ποιῇς</reference>
+		<reference osisRef="Mark.12.12!4" type="Verb Focus+" label="" verse="Mark 12:12" >κρατῆσαι</reference>
+		<reference osisRef="Mark.13.5!11" type="Verb Focus+" label="" verse="Mark 13:5" >πλανήσῃ</reference>
+		<reference osisRef="Mark.13.13!16" type="Verb Focus+" label="" verse="Mark 13:13" >σωθήσεται</reference>
+		<reference osisRef="Mark.13.14!14" type="Verb Focus+" label="" verse="Mark 13:14" >νοείτω</reference>
+		<reference osisRef="Mark.13.24!12" type="Verb Focus+" label="" verse="Mark 13:24" >σκοτισθήσεται</reference>
+		<reference osisRef="Mark.13.25!8" type="Verb Focus+" label="" verse="Mark 13:25" >πίπτοντες</reference>
+		<reference osisRef="Mark.13.25!16" type="Verb Focus+" label="" verse="Mark 13:25" >σαλευθήσονται</reference>
+		<reference osisRef="Mark.13.29!7" type="Verb Focus+" label="" verse="Mark 13:29" >γινόμενα</reference>
+		<reference osisRef="Mark.13.31!11-Mark.13.31!13" type="Verb Focus+" label="" verse="Mark 13:31" >οὐ μὴ παρελεύσονται</reference>
+		<reference osisRef="Mark.14.12!10" type="Verb Focus+" label="" verse="Mark 14:12" >ἔθυον</reference>
+		<reference osisRef="Mark.14.27!8" type="Verb Focus+" label="" verse="Mark 14:27" >σκανδαλισθήσεσθε</reference>
+		<reference osisRef="Mark.14.27!17" type="Verb Focus+" label="" verse="Mark 14:27" >διασκορπισθήσονται</reference>
+		<reference osisRef="Mark.14.42!7" type="Verb Focus+" label="" verse="Mark 14:42" >ἤγγικεν</reference>
+		<reference osisRef="Mark.14.43!5" type="Verb Focus+" label="" verse="Mark 14:43" >λαλοῦντος</reference>
+		<reference osisRef="Mark.16.14!20-Mark.16.14!21" type="Verb Focus+" label="" verse="Mark 16:14" >οὐκ ἐπίστευσαν</reference>
+		<reference osisRef="Mark.16.16!5" type="Verb Focus+" label="" verse="Mark 16:16" >σωθήσεται</reference>
+		<reference osisRef="Mark.16.16!9" type="Verb Focus+" label="" verse="Mark 16:16" >κατακριθήσεται</reference>
+		<reference osisRef="Luke.1.15!11-Luke.1.15!13" type="Verb Focus+" label="" verse="Luke 1:15" >οὐ μὴ πίῃ</reference>
+		<reference osisRef="Luke.1.29!6" type="Verb Focus+" label="" verse="Luke 1:29" >διεταράχθη</reference>
+		<reference osisRef="Luke.1.34!12-Luke.1.34!13" type="Verb Focus+" label="" verse="Luke 1:34" >οὐ γινώσκω</reference>
+		<reference osisRef="Luke.3.5!3" type="Verb Focus+" label="" verse="Luke 3:5" >πληρωθήσεται</reference>
+		<reference osisRef="Luke.3.5!9" type="Verb Focus+" label="" verse="Luke 3:5" >ταπεινωθήσεται</reference>
+		<reference osisRef="Luke.3.22!27" type="Verb Focus+" label="" verse="Luke 3:22" >εὐδόκησα</reference>
+		<reference osisRef="Luke.4.43!21" type="Verb Focus+" label="" verse="Luke 4:43" >ἀπεστάλην</reference>
+		<reference osisRef="Luke.5.2!14" type="Verb Focus+" label="" verse="Luke 5:2" >ἀποβάντες</reference>
+		<reference osisRef="Luke.5.12!31" type="Verb Focus+" label="" verse="Luke 5:12" >καθαρίσαι</reference>
+		<reference osisRef="Luke.5.18!14" type="Verb Focus+" label="" verse="Luke 5:18" >εἰσενεγκεῖν</reference>
+		<reference osisRef="Luke.5.33!22-Luke.5.33!24" type="Verb Focus+" label="" verse="Luke 5:33" >ἐσθίουσιν καὶ πίνουσιν</reference>
+		<reference osisRef="Luke.5.36!25" type="Verb Focus+" label="" verse="Luke 5:36" >σχίσει</reference>
+		<reference osisRef="Luke.5.37!22" type="Verb Focus+" label="" verse="Luke 5:37" >ἐκχυθήσεται</reference>
+		<reference osisRef="Luke.5.37!26" type="Verb Focus+" label="" verse="Luke 5:37" >ἀπολοῦνται</reference>
+		<reference osisRef="Luke.6.9!17" type="Verb Focus+" label="" verse="Luke 6:9" >σῶσαι</reference>
+		<reference osisRef="Luke.6.39!10" type="Verb Focus+" label="" verse="Luke 6:39" >ὁδηγεῖν</reference>
+		<reference osisRef="Luke.7.7!7" type="Verb Focus+" label="" verse="Luke 7:7" >ἐλθεῖν</reference>
+		<reference osisRef="Luke.7.10!11" type="Verb Focus+" label="" verse="Luke 7:10" >ὑγιαίνοντα</reference>
+		<reference osisRef="Luke.7.22!13" type="Verb Focus+" label="" verse="Luke 7:22" >ἀναβλέπουσιν</reference>
+		<reference osisRef="Luke.7.22!15" type="Verb Focus+" label="" verse="Luke 7:22" >περιπατοῦσιν</reference>
+		<reference osisRef="Luke.7.22!17" type="Verb Focus+" label="" verse="Luke 7:22" >καθαρίζονται</reference>
+		<reference osisRef="Luke.7.22!20" type="Verb Focus+" label="" verse="Luke 7:22" >ἀκούουσιν</reference>
+		<reference osisRef="Luke.7.22!22" type="Verb Focus+" label="" verse="Luke 7:22" >ἐγείρονται</reference>
+		<reference osisRef="Luke.7.22!24" type="Verb Focus+" label="" verse="Luke 7:22" >εὐαγγελίζονται</reference>
+		<reference osisRef="Luke.7.40!12" type="Verb Focus+" label="" verse="Luke 7:40" >εἰπεῖν</reference>
+		<reference osisRef="Luke.8.8!21" type="Verb Focus+" label="" verse="Luke 8:8" >ἀκουέτω</reference>
+		<reference osisRef="Luke.8.13!17-Luke.8.13!18" type="Verb Focus+" label="" verse="Luke 8:13" >οὐκ ἔχουσιν</reference>
+		<reference osisRef="Luke.8.28!26" type="Verb Focus+" label="" verse="Luke 8:28" >βασανίσῃς</reference>
+		<reference osisRef="Luke.8.35!20" type="Verb Focus+" label="" verse="Luke 8:35" >ἐξῆλθεν</reference>
+		<reference osisRef="Luke.8.49!3" type="Verb Focus+" label="" verse="Luke 8:49" >λαλοῦντος</reference>
+		<reference osisRef="Luke.9.4!8" type="Verb Focus+" label="" verse="Luke 9:4" >μένετε</reference>
+		<reference osisRef="Luke.9.4!11" type="Verb Focus+" label="" verse="Luke 9:4" >ἐξέρχεσθε</reference>
+		<reference osisRef="Luke.9.9!6" type="Verb Focus+" label="" verse="Luke 9:9" >ἀπεκεφάλισα</reference>
+		<reference osisRef="Luke.9.22!25" type="Verb Focus+" label="" verse="Luke 9:22" >ἐγερθῆναι</reference>
+		<reference osisRef="Luke.9.24!8" type="Verb Focus+" label="" verse="Luke 9:24" >σῶσαι</reference>
+		<reference osisRef="Luke.9.34!4" type="Verb Focus+" label="" verse="Luke 9:34" >λέγοντος</reference>
+		<reference osisRef="Luke.9.35!16" type="Verb Focus+" label="" verse="Luke 9:35" >ἀκούετε</reference>
+		<reference osisRef="Luke.10.6!19" type="Verb Focus+" label="" verse="Luke 10:6" >ἀνακάμψει</reference>
+		<reference osisRef="Luke.10.19!22-Luke.10.19!24" type="Verb Focus+" label="" verse="Luke 10:19" >οὐ μὴ ἀδικήσῃ</reference>
+		<reference osisRef="Luke.10.20!10" type="Verb Focus+" label="" verse="Luke 10:20" >ὑποτάσσεται</reference>
+		<reference osisRef="Luke.10.40!28" type="Verb Focus+" label="" verse="Luke 10:40" >συναντιλάβηται</reference>
+		<reference osisRef="Luke.11.7!12" type="Verb Focus+" label="" verse="Luke 11:7" >κέκλεισται</reference>
+		<reference osisRef="Luke.11.14!13" type="Verb Focus+" label="" verse="Luke 11:14" >ἐξελθόντος</reference>
+		<reference osisRef="Luke.11.17!19" type="Verb Focus+" label="" verse="Luke 11:17" >πίπτει</reference>
+		<reference osisRef="Luke.11.23!15" type="Verb Focus+" label="" verse="Luke 11:23" >σκορπίζει</reference>
+		<reference osisRef="Luke.11.49!18-Luke.11.49!20" type="Verb Focus+" label="" verse="Luke 11:49" >ἀποκτενοῦσιν καὶ διώξουσιν</reference>
+		<reference osisRef="Luke.11.52!12-Luke.11.52!13" type="Verb Focus+" label="" verse="Luke 11:52" >οὐκ εἰσήλθατε</reference>
+		<reference osisRef="Luke.12.33!20-Luke.12.33!21" type="Verb Focus+" label="" verse="Luke 12:33" >οὐκ ἐγγίζει</reference>
+		<reference osisRef="Luke.12.33!24" type="Verb Focus+" label="" verse="Luke 12:33" >διαφθείρει</reference>
+		<reference osisRef="Luke.12.56!9-Luke.12.56!10" type="Verb Focus+" label="" verse="Luke 12:56" >οἴδατε δοκιμάζειν</reference>
+		<reference osisRef="Luke.13.31!18" type="Verb Focus+" label="" verse="Luke 13:31" >ἀποκτεῖναι</reference>
+		<reference osisRef="Luke.14.29!15" type="Verb Focus+" label="" verse="Luke 14:29" >ἐμπαίζειν</reference>
+		<reference osisRef="Luke.15.17!17" type="Verb Focus+" label="" verse="Luke 15:17" >ἀπόλλυμαι</reference>
+		<reference osisRef="Luke.15.32!5" type="Verb Focus+" label="" verse="Luke 15:32" >ἔδει</reference>
+		<reference osisRef="Luke.16.13!11" type="Verb Focus+" label="" verse="Luke 16:13" >μισήσει</reference>
+		<reference osisRef="Luke.16.13!15" type="Verb Focus+" label="" verse="Luke 16:13" >ἀγαπήσει</reference>
+		<reference osisRef="Luke.16.13!18" type="Verb Focus+" label="" verse="Luke 16:13" >ἀνθέξεται</reference>
+		<reference osisRef="Luke.16.13!22" type="Verb Focus+" label="" verse="Luke 16:13" >καταφρονήσει</reference>
+		<reference osisRef="Luke.16.16!19" type="Verb Focus+" label="" verse="Luke 16:16" >βιάζεται</reference>
+		<reference osisRef="Luke.16.17!9" type="Verb Focus+" label="" verse="Luke 16:17" >παρελθεῖν</reference>
+		<reference osisRef="Luke.16.18!10" type="Verb Focus+" label="" verse="Luke 16:18" >μοιχεύει</reference>
+		<reference osisRef="Luke.16.25!23" type="Verb Focus+" label="" verse="Luke 16:25" >παρακαλεῖται</reference>
+		<reference osisRef="Luke.16.25!26" type="Verb Focus+" label="" verse="Luke 16:25" >ὀδυνᾶσαι</reference>
+		<reference osisRef="Luke.16.26!19-Luke.16.26!20" type="Verb Focus+" label="" verse="Luke 16:26" >μὴ δύνωνται</reference>
+		<reference osisRef="Luke.17.1!12-Luke.17.1!13" type="Verb Focus+" label="" verse="Luke 17:1" >μὴ ἐλθεῖν</reference>
+		<reference osisRef="Luke.17.22!17" type="Verb Focus+" label="" verse="Luke 17:22" >ἰδεῖν</reference>
+		<reference osisRef="Luke.17.30!11" type="Verb Focus+" label="" verse="Luke 17:30" >ἀποκαλύπτεται</reference>
+		<reference osisRef="Luke.17.34!13" type="Verb Focus+" label="" verse="Luke 17:34" >παραλημφθήσεται</reference>
+		<reference osisRef="Luke.17.34!17" type="Verb Focus+" label="" verse="Luke 17:34" >ἀφεθήσεται</reference>
+		<reference osisRef="Luke.17.35!9" type="Verb Focus+" label="" verse="Luke 17:35" >παραλημφθήσεται</reference>
+		<reference osisRef="Luke.17.35!13" type="Verb Focus+" label="" verse="Luke 17:35" >ἀφεθήσεται</reference>
+		<reference osisRef="Luke.18.2!10-Luke.18.2!11" type="Verb Focus+" label="" verse="Luke 18:2" >μὴ φοβούμενος</reference>
+		<reference osisRef="Luke.18.2!14-Luke.18.2!15" type="Verb Focus+" label="" verse="Luke 18:2" >μὴ ἐντρεπόμενος</reference>
+		<reference osisRef="Luke.18.8!15" type="Verb Focus+" label="" verse="Luke 18:8" >ἐλθὼν</reference>
+		<reference osisRef="Luke.18.14!17" type="Verb Focus+" label="" verse="Luke 18:14" >ταπεινωθήσεται</reference>
+		<reference osisRef="Luke.18.14!22" type="Verb Focus+" label="" verse="Luke 18:14" >ὑψωθήσεται</reference>
+		<reference osisRef="Luke.18.15!9" type="Verb Focus+" label="" verse="Luke 18:15" >ἅπτηται</reference>
+		<reference osisRef="Luke.18.33!10" type="Verb Focus+" label="" verse="Luke 18:33" >ἀναστήσεται</reference>
+		<reference osisRef="Luke.19.4!14-Luke.19.4!15" type="Verb Focus+" label="" verse="Luke 19:4" >ἤμελλεν διέρχεσθαι</reference>
+		<reference osisRef="Luke.19.8!22" type="Verb Focus+" label="" verse="Luke 19:8" >ἐσυκοφάντησα</reference>
+		<reference osisRef="Luke.19.26!7" type="Verb Focus+" label="" verse="Luke 19:26" >δοθήσεται</reference>
+		<reference osisRef="Luke.19.47!18" type="Verb Focus+" label="" verse="Luke 19:47" >ἀπολέσαι</reference>
+		<reference osisRef="Luke.20.18!8" type="Verb Focus+" label="" verse="Luke 20:18" >συνθλασθήσεται</reference>
+		<reference osisRef="Luke.20.35!14-Luke.20.35!17" type="Verb Focus+" label="" verse="Luke 20:35" >οὔτε γαμοῦσιν οὔτε γαμίζονται</reference>
+		<reference osisRef="Luke.20.36!4-Luke.20.36!5" type="Verb Focus+" label="" verse="Luke 20:36" >ἔτι δύνανται</reference>
+		<reference osisRef="Luke.21.8!20" type="Verb Focus+" label="" verse="Luke 21:8" >ἤγγικεν</reference>
+		<reference osisRef="Luke.21.18!7-Luke.21.18!9" type="Verb Focus+" label="" verse="Luke 21:18" >οὐ μὴ ἀπόληται</reference>
+		<reference osisRef="Luke.21.26!16" type="Verb Focus+" label="" verse="Luke 21:26" >σαλευθήσονται</reference>
+		<reference osisRef="Luke.21.33!11-Luke.21.33!13" type="Verb Focus+" label="" verse="Luke 21:33" >οὐ μὴ παρελεύσονται</reference>
+		<reference osisRef="Luke.22.15!16" type="Verb Focus+" label="" verse="Luke 22:15" >παθεῖν</reference>
+		<reference osisRef="Luke.22.47!3" type="Verb Focus+" label="" verse="Luke 22:47" >λαλοῦντος</reference>
+		<reference osisRef="Luke.22.67!14" type="Verb Focus+" label="" verse="Luke 22:67" >εἴπω</reference>
+		<reference osisRef="Luke.22.70!15" type="Verb Focus+" label="" verse="Luke 22:70" >ἔφη</reference>
+		<reference osisRef="Luke.23.23!8" type="Verb Focus+" label="" verse="Luke 23:23" >σταυρωθῆναι</reference>
+		<reference osisRef="Luke.23.45!3" type="Verb Focus+" label="" verse="Luke 23:45" >ἐκλιπόντος</reference>
+		<reference osisRef="Luke.24.7!19" type="Verb Focus+" label="" verse="Luke 24:7" >ἀναστῆναι</reference>
+		<reference osisRef="Luke.24.21!25" type="Verb Focus+" label="" verse="Luke 24:21" >ἐγένετο</reference>
+		<reference osisRef="Luke.24.23!16" type="Verb Focus+" label="" verse="Luke 24:23" >ζῆν</reference>
+		<reference osisRef="Luke.24.24!17" type="Verb Focus+" label="" verse="Luke 24:24" >εἶπον</reference>
+		<reference osisRef="Luke.24.24!20-Luke.24.24!21" type="Verb Focus+" label="" verse="Luke 24:24" >οὐκ εἶδον</reference>
+		<reference osisRef="Luke.24.36!4" type="Verb Focus+" label="" verse="Luke 24:36" >λαλούντων</reference>
+		<reference osisRef="John.1.5!12-John.1.5!13" type="Verb Focus+" label="" verse="John 1:5" >οὐ κατέλαβεν</reference>
+		<reference osisRef="John.1.10!15-John.1.10!16" type="Verb Focus+" label="" verse="John 1:10" >οὐκ ἔγνω</reference>
+		<reference osisRef="John.1.11!9-John.1.11!10" type="Verb Focus+" label="" verse="John 1:11" >οὐ παρέλαβον</reference>
+		<reference osisRef="John.1.18!15" type="Verb Focus+" label="" verse="John 1:18" >ἐξηγήσατο</reference>
+		<reference osisRef="John.1.26!15-John.1.26!16" type="Verb Focus+" label="" verse="John 1:26" >οὐκ οἴδατε</reference>
+		<reference osisRef="John.1.48!16" type="Verb Focus+" label="" verse="John 1:48" >φωνῆσαι</reference>
+		<reference osisRef="John.2.18!14" type="Verb Focus+" label="" verse="John 2:18" >ποιεῖς</reference>
+		<reference osisRef="John.3.10!14-John.3.10!15" type="Verb Focus+" label="" verse="John 3:10" >οὐ γινώσκεις</reference>
+		<reference osisRef="John.3.11!17-John.3.11!18" type="Verb Focus+" label="" verse="John 3:11" >οὐ λαμβάνετε</reference>
+		<reference osisRef="John.3.16!20-John.3.16!21" type="Verb Focus+" label="" verse="John 3:16" >μὴ ἀπόληται</reference>
+		<reference osisRef="John.3.31!20" type="Verb Focus+" label="" verse="John 3:31" >λαλεῖ</reference>
+		<reference osisRef="John.3.32!6" type="Verb Focus+" label="" verse="John 3:32" >μαρτυρεῖ</reference>
+		<reference osisRef="John.4.20!20" type="Verb Focus+" label="" verse="John 4:20" >δεῖ</reference>
+		<reference osisRef="John.4.35!11" type="Verb Focus+" label="" verse="John 4:35" >ἔρχεται</reference>
+		<reference osisRef="John.4.50!9" type="Verb Focus+" label="" verse="John 4:50" >ζῇ</reference>
+		<reference osisRef="John.4.51!15" type="Verb Focus+" label="" verse="John 4:51" >ζῇ</reference>
+		<reference osisRef="John.4.53!19" type="Verb Focus+" label="" verse="John 4:53" >ζῇ</reference>
+		<reference osisRef="John.5.20!13" type="Verb Focus+" label="" verse="John 5:20" >ποιεῖ</reference>
+		<reference osisRef="John.5.20!22" type="Verb Focus+" label="" verse="John 5:20" >θαυμάζητε</reference>
+		<reference osisRef="John.5.24!22-John.5.24!23" type="Verb Focus+" label="" verse="John 5:24" >οὐκ ἔρχεται</reference>
+		<reference osisRef="John.5.25!24" type="Verb Focus+" label="" verse="John 5:25" >ζήσουσιν</reference>
+		<reference osisRef="John.5.34!14" type="Verb Focus+" label="" verse="John 5:34" >σωθῆτε</reference>
+		<reference osisRef="John.5.36!32" type="Verb Focus+" label="" verse="John 5:36" >ἀπέσταλκεν</reference>
+		<reference osisRef="John.5.38!9" type="Verb Focus+" label="" verse="John 5:38" >μένοντα</reference>
+		<reference osisRef="John.5.38!16-John.5.38!17" type="Verb Focus+" label="" verse="John 5:38" >οὐ πιστεύετε</reference>
+		<reference osisRef="John.5.40!9" type="Verb Focus+" label="" verse="John 5:40" >ἔχητε</reference>
+		<reference osisRef="John.5.45!18" type="Verb Focus+" label="" verse="John 5:45" >ἠλπίκατε</reference>
+		<reference osisRef="John.6.37!9" type="Verb Focus+" label="" verse="John 6:37" >ἥξει</reference>
+		<reference osisRef="John.6.60!17" type="Verb Focus+" label="" verse="John 6:60" >ἀκούειν</reference>
+		<reference osisRef="John.7.14!5" type="Verb Focus+" label="" verse="John 7:14" >μεσούσης</reference>
+		<reference osisRef="John.7.21!11" type="Verb Focus+" label="" verse="John 7:21" >θαυμάζετε</reference>
+		<reference osisRef="John.7.28!30-John.7.28!31" type="Verb Focus+" label="" verse="John 7:28" >οὐκ οἴδατε</reference>
+		<reference osisRef="John.7.29!10" type="Verb Focus+" label="" verse="John 7:29" >ἀπέστειλεν</reference>
+		<reference osisRef="John.7.30!4" type="Verb Focus+" label="" verse="John 7:30" >πιάσαι</reference>
+		<reference osisRef="John.7.52!20-John.7.52!21" type="Verb Focus+" label="" verse="John 7:52" >οὐκ ἐγείρεται</reference>
+		<reference osisRef="John.8.5!10" type="Verb Focus+" label="" verse="John 8:5" >λιθάζειν</reference>
+		<reference osisRef="John.8.26!5-John.8.26!7" type="Verb Focus+" label="" verse="John 8:26" >λαλεῖν καὶ κρίνειν</reference>
+		<reference osisRef="John.8.30!3" type="Verb Focus+" label="" verse="John 8:30" >λαλοῦντος</reference>
+		<reference osisRef="John.8.37!9" type="Verb Focus+" label="" verse="John 8:37" >ἀποκτεῖναι</reference>
+		<reference osisRef="John.8.40!5" type="Verb Focus+" label="" verse="John 8:40" >ἀποκτεῖναι</reference>
+		<reference osisRef="John.8.40!19-John.8.40!20" type="Verb Focus+" label="" verse="John 8:40" >οὐκ ἐποίησεν</reference>
+		<reference osisRef="John.8.42!19-John.8.42!21" type="Verb Focus+" label="" verse="John 8:42" >ἐξῆλθον καὶ ἥκω</reference>
+		<reference osisRef="John.8.42!30" type="Verb Focus+" label="" verse="John 8:42" >ἀπέστειλεν</reference>
+		<reference osisRef="John.8.47!20-John.8.47!21" type="Verb Focus+" label="" verse="John 8:47" >οὐκ ἐστέ</reference>
+		<reference osisRef="John.8.49!5-John.8.49!6" type="Verb Focus+" label="" verse="John 8:49" >οὐκ ἔχω</reference>
+		<reference osisRef="John.8.57!13" type="Verb Focus+" label="" verse="John 8:57" >ἑώρακας</reference>
+		<reference osisRef="John.9.21!5-John.9.21!6" type="Verb Focus+" label="" verse="John 9:21" >οὐκ οἴδαμεν</reference>
+		<reference osisRef="John.9.25!7-John.9.25!8" type="Verb Focus+" label="" verse="John 9:25" >οὐκ οἶδα</reference>
+		<reference osisRef="John.9.25!15" type="Verb Focus+" label="" verse="John 9:25" >βλέπω</reference>
+		<reference osisRef="John.9.39!17" type="Verb Focus+" label="" verse="John 9:39" >βλέπωσιν</reference>
+		<reference osisRef="John.9.41!20" type="Verb Focus+" label="" verse="John 9:41" >μένει</reference>
+		<reference osisRef="John.10.3!4" type="Verb Focus+" label="" verse="John 10:3" >ἀνοίγει</reference>
+		<reference osisRef="John.10.4!5" type="Verb Focus+" label="" verse="John 10:4" >ἐκβάλῃ</reference>
+		<reference osisRef="John.10.4!13" type="Verb Focus+" label="" verse="John 10:4" >ἀκολουθεῖ</reference>
+		<reference osisRef="John.10.16!20" type="Verb Focus+" label="" verse="John 10:16" >ἀκούσουσιν</reference>
+		<reference osisRef="John.10.26!3-John.10.26!4" type="Verb Focus+" label="" verse="John 10:26" >οὐ πιστεύετε</reference>
+		<reference osisRef="John.10.27!8" type="Verb Focus+" label="" verse="John 10:27" >ἀκούουσιν</reference>
+		<reference osisRef="John.10.39!5" type="Verb Focus+" label="" verse="John 10:39" >πιάσαι</reference>
+		<reference osisRef="John.11.3!12" type="Verb Focus+" label="" verse="John 11:3" >ἀσθενεῖ</reference>
+		<reference osisRef="John.11.11!12" type="Verb Focus+" label="" verse="John 11:11" >κεκοίμηται</reference>
+		<reference osisRef="John.11.14!9" type="Verb Focus+" label="" verse="John 11:14" >ἀπέθανεν</reference>
+		<reference osisRef="John.11.37!19-John.11.37!20" type="Verb Focus+" label="" verse="John 11:37" >μὴ ἀποθάνῃ</reference>
+		<reference osisRef="John.11.39!16" type="Verb Focus+" label="" verse="John 11:39" >ὄζει</reference>
+		<reference osisRef="John.11.42!20" type="Verb Focus+" label="" verse="John 11:42" >ἀπέστειλας</reference>
+		<reference osisRef="John.12.4!14" type="Verb Focus+" label="" verse="John 12:4" >παραδιδόναι</reference>
+		<reference osisRef="John.12.26!6" type="Verb Focus+" label="" verse="John 12:26" >ἀκολουθείτω</reference>
+		<reference osisRef="John.12.26!21" type="Verb Focus+" label="" verse="John 12:26" >διακονῇ</reference>
+		<reference osisRef="John.12.35!18" type="Verb Focus+" label="" verse="John 12:35" >ἔχετε</reference>
+		<reference osisRef="John.12.36!4" type="Verb Focus+" label="" verse="John 12:36" >ἔχετε</reference>
+		<reference osisRef="John.12.42!15-John.12.42!16" type="Verb Focus+" label="" verse="John 12:42" >οὐχ ὡμολόγουν</reference>
+		<reference osisRef="John.12.50!13" type="Verb Focus+" label="" verse="John 12:50" >λαλῶ</reference>
+		<reference osisRef="John.13.3!20" type="Verb Focus+" label="" verse="John 13:3" >ὑπάγει</reference>
+		<reference osisRef="John.13.17!3" type="Verb Focus+" label="" verse="John 13:17" >οἴδατε</reference>
+		<reference osisRef="John.14.13!11" type="Verb Focus+" label="" verse="John 14:13" >ποιήσω</reference>
+		<reference osisRef="John.14.14!10" type="Verb Focus+" label="" verse="John 14:14" >ποιήσω</reference>
+		<reference osisRef="John.14.19!7-John.14.19!8" type="Verb Focus+" label="" verse="John 14:19" >οὐκέτι θεωρεῖ</reference>
+		<reference osisRef="John.14.23!23" type="Verb Focus+" label="" verse="John 14:23" >ἐλευσόμεθα</reference>
+		<reference osisRef="John.14.24!8-John.14.24!9" type="Verb Focus+" label="" verse="John 14:24" >οὐ τηρεῖ</reference>
+		<reference osisRef="John.15.16!22" type="Verb Focus+" label="" verse="John 15:16" >μένῃ</reference>
+		<reference osisRef="John.15.18!5" type="Verb Focus+" label="" verse="John 15:18" >μισεῖ</reference>
+		<reference osisRef="John.15.19!17-John.15.19!18" type="Verb Focus+" label="" verse="John 15:19" >οὐκ ἐστέ</reference>
+		<reference osisRef="John.15.24!13-John.15.24!14" type="Verb Focus+" label="" verse="John 15:24" >οὐκ εἴχοσαν</reference>
+		<reference osisRef="John.16.7!11" type="Verb Focus+" label="" verse="John 16:7" >ἀπέλθω</reference>
+		<reference osisRef="John.16.12!5" type="Verb Focus+" label="" verse="John 16:12" >λέγειν</reference>
+		<reference osisRef="John.16.14!3" type="Verb Focus+" label="" verse="John 16:14" >δοξάσει</reference>
+		<reference osisRef="John.16.19!7" type="Verb Focus+" label="" verse="John 16:19" >ἐρωτᾶν</reference>
+		<reference osisRef="John.16.20!13" type="Verb Focus+" label="" verse="John 16:20" >χαρήσεται</reference>
+		<reference osisRef="John.16.20!15" type="Verb Focus+" label="" verse="John 16:20" >λυπηθήσεσθε</reference>
+		<reference osisRef="John.16.30!13" type="Verb Focus+" label="" verse="John 16:30" >ἐρωτᾷ</reference>
+		<reference osisRef="John.17.8!24" type="Verb Focus+" label="" verse="John 17:8" >ἀπέστειλας</reference>
+		<reference osisRef="John.17.12!31" type="Verb Focus+" label="" verse="John 17:12" >πληρωθῇ</reference>
+		<reference osisRef="John.17.16!4-John.17.16!5" type="Verb Focus+" label="" verse="John 17:16" >οὐκ εἰσὶν</reference>
+		<reference osisRef="John.17.21!22" type="Verb Focus+" label="" verse="John 17:21" >πιστεύῃ</reference>
+		<reference osisRef="John.17.21!26" type="Verb Focus+" label="" verse="John 17:21" >ἀπέστειλας</reference>
+		<reference osisRef="John.17.23!20" type="Verb Focus+" label="" verse="John 17:23" >ἀπέστειλας</reference>
+		<reference osisRef="John.17.25!19" type="Verb Focus+" label="" verse="John 17:25" >ἀπέστειλας</reference>
+		<reference osisRef="John.18.22!4" type="Verb Focus+" label="" verse="John 18:22" >εἰπόντος</reference>
+		<reference osisRef="John.18.32!6" type="Verb Focus+" label="" verse="John 18:32" >πληρωθῇ</reference>
+		<reference osisRef="John.18.37!21" type="Verb Focus+" label="" verse="John 18:37" >γεγέννημαι</reference>
+		<reference osisRef="John.19.10!7-John.19.10!8" type="Verb Focus+" label="" verse="John 19:10" >οὐ λαλεῖς</reference>
+		<reference osisRef="John.19.18!3" type="Verb Focus+" label="" verse="John 19:18" >ἐσταύρωσαν</reference>
+		<reference osisRef="John.19.22!6" type="Verb Focus+" label="" verse="John 19:22" >γέγραφα</reference>
+		<reference osisRef="John.19.28!9" type="Verb Focus+" label="" verse="John 19:28" >τετέλεσται</reference>
+		<reference osisRef="John.19.35!4" type="Verb Focus+" label="" verse="John 19:35" >μεμαρτύρηκεν</reference>
+		<reference osisRef="John.19.36!7" type="Verb Focus+" label="" verse="John 19:36" >πληρωθῇ</reference>
+		<reference osisRef="John.20.9!11" type="Verb Focus+" label="" verse="John 20:9" >ἀναστῆναι</reference>
+		<reference osisRef="John.20.15!29" type="Verb Focus+" label="" verse="John 20:15" >ἀρῶ</reference>
+		<reference osisRef="John.20.17!6" type="Verb Focus+" label="" verse="John 20:17" >ἅπτου</reference>
+		<reference osisRef="John.20.26!20" type="Verb Focus+" label="" verse="John 20:26" >κεκλεισμένων</reference>
+		<reference osisRef="John.21.22!16" type="Verb Focus+" label="" verse="John 21:22" >ἀκολούθει</reference>
+		<reference osisRef="Acts.1.4!7-Acts.1.4!8" type="Verb Focus+" label="" verse="Acts 1:4" >μὴ χωρίζεσθαι</reference>
+		<reference osisRef="Acts.2.15!5" type="Verb Focus+" label="" verse="Acts 2:15" >ὑπολαμβάνετε</reference>
+		<reference osisRef="Acts.2.15!7" type="Verb Focus+" label="" verse="Acts 2:15" >μεθύουσιν</reference>
+		<reference osisRef="Acts.2.21!10" type="Verb Focus+" label="" verse="Acts 2:21" >σωθήσεται</reference>
+		<reference osisRef="Acts.2.36!21" type="Verb Focus+" label="" verse="Acts 2:36" >ἐσταυρώσατε</reference>
+		<reference osisRef="Acts.3.3!13" type="Verb Focus+" label="" verse="Acts 3:3" >λαβεῖν</reference>
+		<reference osisRef="Acts.3.6!23-Acts.3.6!25" type="Verb Focus+" label="" verse="Acts 3:6" >ἔγειρε καὶ περιπάτει</reference>
+		<reference osisRef="Acts.4.23!17" type="Verb Focus+" label="" verse="Acts 4:23" >εἶπαν</reference>
+		<reference osisRef="Acts.4.28!10-Acts.4.28!11" type="Verb Focus+" label="" verse="Acts 4:28" >προώρισεν γενέσθαι</reference>
+		<reference osisRef="Acts.5.37!18" type="Verb Focus+" label="" verse="Acts 5:37" >ἀπώλετο</reference>
+		<reference osisRef="Acts.5.37!24" type="Verb Focus+" label="" verse="Acts 5:37" >διεσκορπίσθησαν</reference>
+		<reference osisRef="Acts.7.3!23" type="Verb Focus+" label="" verse="Acts 7:3" >δείξω</reference>
+		<reference osisRef="Acts.7.4!26" type="Verb Focus+" label="" verse="Acts 7:4" >κατοικεῖτε</reference>
+		<reference osisRef="Acts.7.51!14" type="Verb Focus+" label="" verse="Acts 7:51" >ἀντιπίπτετε</reference>
+		<reference osisRef="Acts.8.7!16" type="Verb Focus+" label="" verse="Acts 8:7" >ἐθεραπεύθησαν</reference>
+		<reference osisRef="Acts.8.33!8" type="Verb Focus+" label="" verse="Acts 8:33" >ἤρθη</reference>
+		<reference osisRef="Acts.9.5!13" type="Verb Focus+" label="" verse="Acts 9:5" >διώκεις</reference>
+		<reference osisRef="Acts.9.6!14-Acts.9.6!15" type="Verb Focus+" label="" verse="Acts 9:6" >δεῖ ποιεῖν</reference>
+		<reference osisRef="Acts.9.16!12" type="Verb Focus+" label="" verse="Acts 9:16" >παθεῖν</reference>
+		<reference osisRef="Acts.9.24!19" type="Verb Focus+" label="" verse="Acts 9:24" >ἀνέλωσιν</reference>
+		<reference osisRef="Acts.10.9!9" type="Verb Focus+" label="" verse="Acts 10:9" >ἐγγιζόντων</reference>
+		<reference osisRef="Acts.10.15!11" type="Verb Focus+" label="" verse="Acts 10:15" >ἐκαθάρισεν</reference>
+		<reference osisRef="Acts.10.15!13-Acts.10.15!14" type="Verb Focus+" label="" verse="Acts 10:15" >μὴ κοίνου</reference>
+		<reference osisRef="Acts.10.28!19" type="Verb Focus+" label="" verse="Acts 10:28" >ἔδειξεν</reference>
+		<reference osisRef="Acts.11.9!14-Acts.11.9!15" type="Verb Focus+" label="" verse="Acts 11:9" >μὴ κοίνου</reference>
+		<reference osisRef="Acts.13.27!11" type="Verb Focus+" label="" verse="Acts 13:27" >ἀγνοήσαντες</reference>
+		<reference osisRef="Acts.14.13!21-Acts.14.13!22" type="Verb Focus+" label="" verse="Acts 14:13" >ἤθελεν θύειν</reference>
+		<reference osisRef="Acts.14.19!22" type="Verb Focus+" label="" verse="Acts 14:19" >τεθνηκέναι</reference>
+		<reference osisRef="Acts.16.26!22" type="Verb Focus+" label="" verse="Acts 16:26" >ἀνέθη</reference>
+		<reference osisRef="Acts.18.17!16" type="Verb Focus+" label="" verse="Acts 18:17" >ἔμελεν</reference>
+		<reference osisRef="Acts.18.21!11" type="Verb Focus+" label="" verse="Acts 18:21" >θέλοντος</reference>
+		<reference osisRef="Acts.19.9!4-Acts.19.9!6" type="Verb Focus+" label="" verse="Acts 19:9" >ἐσκληρύνοντο καὶ ἠπείθουν</reference>
+		<reference osisRef="Acts.19.12!25" type="Verb Focus+" label="" verse="Acts 19:12" >ἐκπορεύεσθαι</reference>
+		<reference osisRef="Acts.19.15!12" type="Verb Focus+" label="" verse="Acts 19:15" >γινώσκω</reference>
+		<reference osisRef="Acts.19.15!16" type="Verb Focus+" label="" verse="Acts 19:15" >ἐπίσταμαι</reference>
+		<reference osisRef="Acts.21.26!12" type="Verb Focus+" label="" verse="Acts 21:26" >ἁγνισθείς</reference>
+		<reference osisRef="Acts.21.31!4" type="Verb Focus+" label="" verse="Acts 21:31" >ἀποκτεῖναι</reference>
+		<reference osisRef="Acts.22.22!24" type="Verb Focus+" label="" verse="Acts 22:22" >ζῆν</reference>
+		<reference osisRef="Acts.23.3!26" type="Verb Focus+" label="" verse="Acts 23:3" >τύπτεσθαι</reference>
+		<reference osisRef="Acts.25.6!23" type="Verb Focus+" label="" verse="Acts 25:6" >ἀχθῆναι</reference>
+		<reference osisRef="Acts.25.10!13-Acts.25.10!14" type="Verb Focus+" label="" verse="Acts 25:10" >δεῖ κρίνεσθαι</reference>
+		<reference osisRef="Acts.25.11!26" type="Verb Focus+" label="" verse="Acts 25:11" >χαρίσασθαι</reference>
+		<reference osisRef="Acts.25.12!13" type="Verb Focus+" label="" verse="Acts 25:12" >πορεύσῃ</reference>
+		<reference osisRef="Acts.25.22!11" type="Verb Focus+" label="" verse="Acts 25:22" >ἀκοῦσαι</reference>
+		<reference osisRef="Acts.26.24!4" type="Verb Focus+" label="" verse="Acts 26:24" >ἀπολογουμένου</reference>
+		<reference osisRef="Acts.27.9!16-Acts.27.9!17" type="Verb Focus+" label="" verse="Acts 27:9" >ἤδη παρεληλυθέναι</reference>
+		<reference osisRef="Acts.27.13!7" type="Verb Focus+" label="" verse="Acts 27:13" >κεκρατηκέναι</reference>
+		<reference osisRef="Acts.27.31!18-Acts.27.31!19" type="Verb Focus+" label="" verse="Acts 27:31" >οὐ δύνασθε</reference>
+		<reference osisRef="Acts.27.33!5-Acts.27.33!6" type="Verb Focus+" label="" verse="Acts 27:33" >ἤμελλεν γίνεσθαι</reference>
+		<reference osisRef="Acts.27.39!4" type="Verb Focus+" label="" verse="Acts 27:39" >ἐγένετο</reference>
+		<reference osisRef="Acts.27.40!4" type="Verb Focus+" label="" verse="Acts 27:40" >περιελόντες</reference>
+		<reference osisRef="Acts.27.42!9" type="Verb Focus+" label="" verse="Acts 27:42" >ἀποκτείνωσιν</reference>
+		<reference osisRef="Acts.28.4!30-Acts.28.4!31" type="Verb Focus+" label="" verse="Acts 28:4" >οὐκ εἴασεν</reference>
+		<reference osisRef="Rom.1.18!18" type="Verb Focus+" label="" verse="Rom 1:18" >κατεχόντων</reference>
+		<reference osisRef="Rom.1.32!18" type="Verb Focus+" label="" verse="Rom 1:32" >ποιοῦσιν</reference>
+		<reference osisRef="Rom.2.12!6-Rom.2.12!7" type="Verb Focus+" label="" verse="Rom 2:12" >καὶ ἀπολοῦνται</reference>
+		<reference osisRef="Rom.2.12!15" type="Verb Focus+" label="" verse="Rom 2:12" >κριθήσονται</reference>
+		<reference osisRef="Rom.2.14!15-Rom.2.14!16" type="Verb Focus+" label="" verse="Rom 2:14" >μὴ ἔχοντες</reference>
+		<reference osisRef="Rom.2.15!21-Rom.2.15!24" type="Verb Focus+" label="" verse="Rom 2:15" >κατηγορούντων ἢ καὶ ἀπολογουμένων</reference>
+		<reference osisRef="Rom.2.21!12" type="Verb Focus+" label="" verse="Rom 2:21" >κλέπτεις</reference>
+		<reference osisRef="Rom.2.22!5" type="Verb Focus+" label="" verse="Rom 2:22" >μοιχεύεις</reference>
+		<reference osisRef="Rom.2.22!10" type="Verb Focus+" label="" verse="Rom 2:22" >ἱεροσυλεῖς</reference>
+		<reference osisRef="Rom.2.23!12" type="Verb Focus+" label="" verse="Rom 2:23" >ἀτιμάζεις</reference>
+		<reference osisRef="Rom.3.3!14" type="Verb Focus+" label="" verse="Rom 3:3" >καταργήσει</reference>
+		<reference osisRef="Rom.3.12!2" type="Verb Focus+" label="" verse="Rom 3:12" >ἐξέκλιναν</reference>
+		<reference osisRef="Rom.3.12!4" type="Verb Focus+" label="" verse="Rom 3:12" >ἠχρεώθησαν</reference>
+		<reference osisRef="Rom.3.19!16" type="Verb Focus+" label="" verse="Rom 3:19" >φραγῇ</reference>
+		<reference osisRef="Rom.3.31!11" type="Verb Focus+" label="" verse="Rom 3:31" >ἱστάνομεν</reference>
+		<reference osisRef="Rom.5.7!13-Rom.5.7!15" type="Verb Focus+" label="" verse="Rom 5:7" >καὶ τολμᾷ ἀποθανεῖν</reference>
+		<reference osisRef="Rom.5.11!21" type="Verb Focus+" label="" verse="Rom 5:11" >ἐλάβομεν</reference>
+		<reference osisRef="Rom.5.12!30" type="Verb Focus+" label="" verse="Rom 5:12" >ἥμαρτον</reference>
+		<reference osisRef="Rom.5.15!18" type="Verb Focus+" label="" verse="Rom 5:15" >ἀπέθανον</reference>
+		<reference osisRef="Rom.5.15!39" type="Verb Focus+" label="" verse="Rom 5:15" >ἐπερίσσευσεν</reference>
+		<reference osisRef="Rom.6.9!11-Rom.6.9!12" type="Verb Focus+" label="" verse="Rom 6:9" >οὐκέτι κυριεύει</reference>
+		<reference osisRef="Rom.6.14!4-Rom.6.14!5" type="Verb Focus+" label="" verse="Rom 6:14" >οὐ κυριεύσει</reference>
+		<reference osisRef="Rom.6.21!9" type="Verb Focus+" label="" verse="Rom 6:21" >ἐπαισχύνεσθε</reference>
+		<reference osisRef="Rom.7.9!13" type="Verb Focus+" label="" verse="Rom 7:9" >ἀνέζησεν</reference>
+		<reference osisRef="Rom.7.10!3" type="Verb Focus+" label="" verse="Rom 7:10" >ἀπέθανον</reference>
+		<reference osisRef="Rom.7.11!14" type="Verb Focus+" label="" verse="Rom 7:11" >ἀπέκτεινεν</reference>
+		<reference osisRef="Rom.8.7!14-Rom.8.7!15" type="Verb Focus+" label="" verse="Rom 8:7" >οὐχ ὑποτάσσεται</reference>
+		<reference osisRef="Rom.8.9!21-Rom.8.9!22" type="Verb Focus+" label="" verse="Rom 8:9" >οὐκ ἔχει</reference>
+		<reference osisRef="Rom.8.13!15" type="Verb Focus+" label="" verse="Rom 8:13" >θανατοῦτε</reference>
+		<reference osisRef="Rom.8.19!12" type="Verb Focus+" label="" verse="Rom 8:19" >ἀπεκδέχεται</reference>
+		<reference osisRef="Rom.8.24!4" type="Verb Focus+" label="" verse="Rom 8:24" >ἐσώθημεν</reference>
+		<reference osisRef="Rom.8.30!6" type="Verb Focus+" label="" verse="Rom 8:30" >ἐκάλεσεν</reference>
+		<reference osisRef="Rom.8.30!12" type="Verb Focus+" label="" verse="Rom 8:30" >ἐδικαίωσεν</reference>
+		<reference osisRef="Rom.8.30!18" type="Verb Focus+" label="" verse="Rom 8:30" >ἐδόξασεν</reference>
+		<reference osisRef="Rom.9.11!17" type="Verb Focus+" label="" verse="Rom 9:11" >μένῃ</reference>
+		<reference osisRef="Rom.9.13!5" type="Verb Focus+" label="" verse="Rom 9:13" >ἠγάπησα</reference>
+		<reference osisRef="Rom.9.13!9" type="Verb Focus+" label="" verse="Rom 9:13" >ἐμίσησα</reference>
+		<reference osisRef="Rom.9.18!5" type="Verb Focus+" label="" verse="Rom 9:18" >ἐλεεῖ</reference>
+		<reference osisRef="Rom.9.18!9" type="Verb Focus+" label="" verse="Rom 9:18" >σκληρύνει</reference>
+		<reference osisRef="Rom.9.31!8-Rom.9.31!9" type="Verb Focus+" label="" verse="Rom 9:31" >οὐκ ἔφθασεν</reference>
+		<reference osisRef="Rom.9.33!17-Rom.9.33!18" type="Verb Focus+" label="" verse="Rom 9:33" >οὐ καταισχυνθήσεται</reference>
+		<reference osisRef="Rom.10.3!17-Rom.10.3!18" type="Verb Focus+" label="" verse="Rom 10:3" >οὐχ ὑπετάγησαν</reference>
+		<reference osisRef="Rom.10.6!22" type="Verb Focus+" label="" verse="Rom 10:6" >καταγαγεῖν</reference>
+		<reference osisRef="Rom.10.11!10-Rom.10.11!11" type="Verb Focus+" label="" verse="Rom 10:11" >οὐ καταισχυνθήσεται</reference>
+		<reference osisRef="Rom.10.13!9" type="Verb Focus+" label="" verse="Rom 10:13" >σωθήσεται</reference>
+		<reference osisRef="Rom.10.19!5-Rom.10.19!6" type="Verb Focus+" label="" verse="Rom 10:19" >οὐκ ἔγνω</reference>
+		<reference osisRef="Rom.10.20!10-Rom.10.20!11" type="Verb Focus+" label="" verse="Rom 10:20" >μὴ ζητοῦσιν</reference>
+		<reference osisRef="Rom.10.20!16-Rom.10.20!17" type="Verb Focus+" label="" verse="Rom 10:20" >μὴ ἐπερωτῶσιν</reference>
+		<reference osisRef="Rom.11.7!7-Rom.11.7!8" type="Verb Focus+" label="" verse="Rom 11:7" >οὐκ ἐπέτυχεν</reference>
+		<reference osisRef="Rom.11.7!16" type="Verb Focus+" label="" verse="Rom 11:7" >ἐπωρώθησαν</reference>
+		<reference osisRef="Rom.11.13!17" type="Verb Focus+" label="" verse="Rom 11:13" >δοξάζω</reference>
+		<reference osisRef="Rom.11.17!6" type="Verb Focus+" label="" verse="Rom 11:17" >ἐξεκλάσθησαν</reference>
+		<reference osisRef="Rom.11.19!7" type="Verb Focus+" label="" verse="Rom 11:19" >ἐγκεντρισθῶ</reference>
+		<reference osisRef="Rom.11.23!8" type="Verb Focus+" label="" verse="Rom 11:23" >ἐγκεντρισθήσονται</reference>
+		<reference osisRef="Rom.11.25!15" type="Verb Focus+" label="" verse="Rom 11:25" >φρόνιμοι</reference>
+		<reference osisRef="Rom.11.32!12" type="Verb Focus+" label="" verse="Rom 11:32" >ἐλεήσῃ</reference>
+		<reference osisRef="Rom.12.10!9" type="Verb Focus+" label="" verse="Rom 12:10" >προηγούμενοι</reference>
+		<reference osisRef="Rom.12.11!7" type="Verb Focus+" label="" verse="Rom 12:11" >ζέοντες</reference>
+		<reference osisRef="Rom.12.11!10" type="Verb Focus+" label="" verse="Rom 12:11" >δουλεύοντες</reference>
+		<reference osisRef="Rom.12.12!3" type="Verb Focus+" label="" verse="Rom 12:12" >χαίροντες</reference>
+		<reference osisRef="Rom.12.12!6" type="Verb Focus+" label="" verse="Rom 12:12" >ὑπομένοντες</reference>
+		<reference osisRef="Rom.12.12!9" type="Verb Focus+" label="" verse="Rom 12:12" >προσκαρτεροῦντες</reference>
+		<reference osisRef="Rom.12.13!5" type="Verb Focus+" label="" verse="Rom 12:13" >κοινωνοῦντες</reference>
+		<reference osisRef="Rom.12.13!8" type="Verb Focus+" label="" verse="Rom 12:13" >διώκοντες</reference>
+		<reference osisRef="Rom.13.8!8" type="Verb Focus+" label="" verse="Rom 13:8" >ἀγαπᾶν</reference>
+		<reference osisRef="Rom.13.12!3" type="Verb Focus+" label="" verse="Rom 13:12" >προέκοψεν</reference>
+		<reference osisRef="Rom.13.12!7" type="Verb Focus+" label="" verse="Rom 13:12" >ἤγγικεν</reference>
+		<reference osisRef="Rom.14.3!6-Rom.14.3!7" type="Verb Focus+" label="" verse="Rom 14:3" >μὴ ἐξουθενείτω</reference>
+		<reference osisRef="Rom.14.3!14-Rom.14.3!15" type="Verb Focus+" label="" verse="Rom 14:3" >μὴ κρινέτω</reference>
+		<reference osisRef="Rom.14.3!20" type="Verb Focus+" label="" verse="Rom 14:3" >προσελάβετο</reference>
+		<reference osisRef="Rom.14.4!11-Rom.14.4!13" type="Verb Focus+" label="" verse="Rom 14:4" >στήκει ἢ πίπτει</reference>
+		<reference osisRef="Rom.14.7!5" type="Verb Focus+" label="" verse="Rom 14:7" >ζῇ</reference>
+		<reference osisRef="Rom.14.7!9" type="Verb Focus+" label="" verse="Rom 14:7" >ἀποθνῄσκει</reference>
+		<reference osisRef="Rom.14.15!8" type="Verb Focus+" label="" verse="Rom 14:15" >λυπεῖται</reference>
+		<reference osisRef="Rom.14.15!18" type="Verb Focus+" label="" verse="Rom 14:15" >ἀπόλλυε</reference>
+		<reference osisRef="Rom.14.15!22" type="Verb Focus+" label="" verse="Rom 14:15" >ἀπέθανεν</reference>
+		<reference osisRef="Rom.14.21!15" type="Verb Focus+" label="" verse="Rom 14:21" >προσκόπτει</reference>
+		<reference osisRef="Rom.14.23!6" type="Verb Focus+" label="" verse="Rom 14:23" >κατακέκριται</reference>
+		<reference osisRef="Rom.15.12!18" type="Verb Focus+" label="" verse="Rom 15:12" >ἐλπιοῦσιν</reference>
+		<reference osisRef="Rom.15.14!23" type="Verb Focus+" label="" verse="Rom 15:14" >νουθετεῖν</reference>
+		<reference osisRef="Rom.15.24!22" type="Verb Focus+" label="" verse="Rom 15:24" >ἐμπλησθῶ</reference>
+		<reference osisRef="Rom.15.28!3" type="Verb Focus+" label="" verse="Rom 15:28" >ἐπιτελέσας</reference>
+		<reference osisRef="Rom.16.19!11" type="Verb Focus+" label="" verse="Rom 16:19" >χαίρω</reference>
+		<reference osisRef="Rom.16.25!5" type="Verb Focus+" label="" verse="Rom 16:25" >στηρίξαι</reference>
+		<reference osisRef="1Cor.1.19!13" type="Verb Focus+" label="" verse="1Cor 1:19" >ἀθετήσω</reference>
+		<reference osisRef="1Cor.2.9!6-1Cor.2.9!7" type="Verb Focus+" label="" verse="1Cor 2:9" >οὐκ εἶδεν</reference>
+		<reference osisRef="1Cor.2.9!10-1Cor.2.9!11" type="Verb Focus+" label="" verse="1Cor 2:9" >οὐκ ἤκουσεν</reference>
+		<reference osisRef="1Cor.3.5!18" type="Verb Focus+" label="" verse="1Cor 3:5" >ἔδωκεν</reference>
+		<reference osisRef="1Cor.3.13!23" type="Verb Focus+" label="" verse="1Cor 3:13" >δοκιμάσει</reference>
+		<reference osisRef="1Cor.3.17!7" type="Verb Focus+" label="" verse="1Cor 3:17" >φθείρει</reference>
+		<reference osisRef="1Cor.3.18!3" type="Verb Focus+" label="" verse="1Cor 3:18" >ἐξαπατάτω</reference>
+		<reference osisRef="1Cor.4.4!9" type="Verb Focus+" label="" verse="1Cor 4:4" >δεδικαίωμαι</reference>
+		<reference osisRef="1Cor.4.8!17" type="Verb Focus+" label="" verse="1Cor 4:8" >συμβασιλεύσωμεν</reference>
+		<reference osisRef="1Cor.4.19!9" type="Verb Focus+" label="" verse="1Cor 4:19" >θελήσῃ</reference>
+		<reference osisRef="1Cor.5.2!8" type="Verb Focus+" label="" verse="1Cor 5:2" >ἐπενθήσατε</reference>
+		<reference osisRef="1Cor.5.10!21" type="Verb Focus+" label="" verse="1Cor 5:10" >ἐξελθεῖν</reference>
+		<reference osisRef="1Cor.5.11!25-1Cor.5.11!26" type="Verb Focus+" label="" verse="1Cor 5:11" >μηδὲ συνεσθίειν</reference>
+		<reference osisRef="1Cor.6.11!4" type="Verb Focus+" label="" verse="1Cor 6:11" >ἦτε</reference>
+		<reference osisRef="1Cor.6.12!3" type="Verb Focus+" label="" verse="1Cor 6:12" >ἔξεστιν</reference>
+		<reference osisRef="1Cor.6.12!7" type="Verb Focus+" label="" verse="1Cor 6:12" >συμφέρει</reference>
+		<reference osisRef="1Cor.7.1!8-1Cor.7.1!9" type="Verb Focus+" label="" verse="1Cor 7:1" >μὴ ἅπτεσθαι</reference>
+		<reference osisRef="1Cor.7.3!7" type="Verb Focus+" label="" verse="1Cor 7:3" >ἀποδιδότω</reference>
+		<reference osisRef="1Cor.7.10!13-1Cor.7.10!14" type="Verb Focus+" label="" verse="1Cor 7:10" >μὴ χωρισθῆναι</reference>
+		<reference osisRef="1Cor.7.11!10" type="Verb Focus+" label="" verse="1Cor 7:11" >καταλλαγήτω</reference>
+		<reference osisRef="1Cor.7.11!14-1Cor.7.11!15" type="Verb Focus+" label="" verse="1Cor 7:11" >μὴ ἀφιέναι</reference>
+		<reference osisRef="1Cor.7.15!5" type="Verb Focus+" label="" verse="1Cor 7:15" >χωρίζεται</reference>
+		<reference osisRef="1Cor.7.16!8" type="Verb Focus+" label="" verse="1Cor 7:16" >σώσεις</reference>
+		<reference osisRef="1Cor.7.16!16" type="Verb Focus+" label="" verse="1Cor 7:16" >σώσεις</reference>
+		<reference osisRef="1Cor.7.17!14" type="Verb Focus+" label="" verse="1Cor 7:17" >περιπατείτω</reference>
+		<reference osisRef="1Cor.7.20!9" type="Verb Focus+" label="" verse="1Cor 7:20" >μενέτω</reference>
+		<reference osisRef="1Cor.7.21!5" type="Verb Focus+" label="" verse="1Cor 7:21" >μελέτω</reference>
+		<reference osisRef="1Cor.7.28!24" type="Verb Focus+" label="" verse="1Cor 7:28" >φείδομαι</reference>
+		<reference osisRef="1Cor.7.40!6" type="Verb Focus+" label="" verse="1Cor 7:40" >μείνῃ</reference>
+		<reference osisRef="1Cor.8.11!14" type="Verb Focus+" label="" verse="1Cor 8:11" >ἀπέθανεν</reference>
+		<reference osisRef="1Cor.9.13!12" type="Verb Focus+" label="" verse="1Cor 9:13" >ἐσθίουσιν</reference>
+		<reference osisRef="1Cor.9.13!19" type="Verb Focus+" label="" verse="1Cor 9:13" >συμμερίζονται</reference>
+		<reference osisRef="1Cor.9.14!13" type="Verb Focus+" label="" verse="1Cor 9:14" >ζῆν</reference>
+		<reference osisRef="1Cor.9.19!8" type="Verb Focus+" label="" verse="1Cor 9:19" >ἐδούλωσα</reference>
+		<reference osisRef="1Cor.9.20!9" type="Verb Focus+" label="" verse="1Cor 9:20" >κερδήσω</reference>
+		<reference osisRef="1Cor.9.20!25" type="Verb Focus+" label="" verse="1Cor 9:20" >κερδήσω</reference>
+		<reference osisRef="1Cor.9.22!8" type="Verb Focus+" label="" verse="1Cor 9:22" >κερδήσω</reference>
+		<reference osisRef="1Cor.10.17!16" type="Verb Focus+" label="" verse="1Cor 10:17" >μετέχομεν</reference>
+		<reference osisRef="1Cor.10.23!2" type="Verb Focus+" label="" verse="1Cor 10:23" >ἔξεστιν</reference>
+		<reference osisRef="1Cor.10.23!6" type="Verb Focus+" label="" verse="1Cor 10:23" >συμφέρει</reference>
+		<reference osisRef="1Cor.10.23!8" type="Verb Focus+" label="" verse="1Cor 10:23" >ἔξεστιν</reference>
+		<reference osisRef="1Cor.10.23!12" type="Verb Focus+" label="" verse="1Cor 10:23" >οἰκοδομεῖ</reference>
+		<reference osisRef="1Cor.10.30!10" type="Verb Focus+" label="" verse="1Cor 10:30" >εὐχαριστῶ</reference>
+		<reference osisRef="1Cor.11.18!16" type="Verb Focus+" label="" verse="1Cor 11:18" >πιστεύω</reference>
+		<reference osisRef="1Cor.11.22!16" type="Verb Focus+" label="" verse="1Cor 11:22" >καταφρονεῖτε</reference>
+		<reference osisRef="1Cor.11.22!29-1Cor.11.22!30" type="Verb Focus+" label="" verse="1Cor 11:22" >οὐκ ἐπαινῶ</reference>
+		<reference osisRef="1Cor.11.33!9" type="Verb Focus+" label="" verse="1Cor 11:33" >ἐκδέχεσθε</reference>
+		<reference osisRef="1Cor.12.13!11" type="Verb Focus+" label="" verse="1Cor 12:13" >ἐβαπτίσθημεν</reference>
+		<reference osisRef="1Cor.12.13!24" type="Verb Focus+" label="" verse="1Cor 12:13" >ἐποτίσθημεν</reference>
+		<reference osisRef="1Cor.12.30!12" type="Verb Focus+" label="" verse="1Cor 12:30" >διερμηνεύουσιν</reference>
+		<reference osisRef="1Cor.13.7!2" type="Verb Focus+" label="" verse="1Cor 13:7" >στέγει</reference>
+		<reference osisRef="1Cor.13.7!4" type="Verb Focus+" label="" verse="1Cor 13:7" >πιστεύει</reference>
+		<reference osisRef="1Cor.13.7!6" type="Verb Focus+" label="" verse="1Cor 13:7" >ἐλπίζει</reference>
+		<reference osisRef="1Cor.13.7!8" type="Verb Focus+" label="" verse="1Cor 13:7" >ὑπομένει</reference>
+		<reference osisRef="1Cor.13.10!9" type="Verb Focus+" label="" verse="1Cor 13:10" >καταργηθήσεται</reference>
+		<reference osisRef="1Cor.14.16!23-1Cor.14.16!24" type="Verb Focus+" label="" verse="1Cor 14:16" >οὐκ οἶδεν</reference>
+		<reference osisRef="1Cor.14.17!9-1Cor.14.17!10" type="Verb Focus+" label="" verse="1Cor 14:17" >οὐκ οἰκοδομεῖται</reference>
+		<reference osisRef="1Cor.14.27!16" type="Verb Focus+" label="" verse="1Cor 14:27" >διερμηνευέτω</reference>
+		<reference osisRef="1Cor.14.29!10" type="Verb Focus+" label="" verse="1Cor 14:29" >διακρινέτωσαν</reference>
+		<reference osisRef="1Cor.14.30!8" type="Verb Focus+" label="" verse="1Cor 14:30" >σιγάτω</reference>
+		<reference osisRef="1Cor.14.31!9" type="Verb Focus+" label="" verse="1Cor 14:31" >μανθάνωσιν</reference>
+		<reference osisRef="1Cor.14.31!12" type="Verb Focus+" label="" verse="1Cor 14:31" >παρακαλῶνται</reference>
+		<reference osisRef="1Cor.14.32!5" type="Verb Focus+" label="" verse="1Cor 14:32" >ὑποτάσσεται</reference>
+		<reference osisRef="1Cor.14.34!6" type="Verb Focus+" label="" verse="1Cor 14:34" >σιγάτωσαν</reference>
+		<reference osisRef="1Cor.15.12!17-1Cor.15.12!18" type="Verb Focus+" label="" verse="1Cor 15:12" >οὐκ ἔστιν</reference>
+		<reference osisRef="1Cor.15.18!7" type="Verb Focus+" label="" verse="1Cor 15:18" >ἀπώλοντο</reference>
+		<reference osisRef="1Cor.15.22!14" type="Verb Focus+" label="" verse="1Cor 15:22" >ζῳοποιηθήσονται</reference>
+		<reference osisRef="1Cor.15.32!20" type="Verb Focus+" label="" verse="1Cor 15:32" >ἀποθνῄσκομεν</reference>
+		<reference osisRef="1Cor.15.51!6-1Cor.15.51!7" type="Verb Focus+" label="" verse="1Cor 15:51" >οὐ κοιμηθησόμεθα</reference>
+		<reference osisRef="1Cor.16.5!10" type="Verb Focus+" label="" verse="1Cor 16:5" >διέρχομαι</reference>
+		<reference osisRef="1Cor.16.6!4-1Cor.16.6!5" type="Verb Focus+" label="" verse="1Cor 16:6" >τυχὸν παραμενῶ</reference>
+		<reference osisRef="1Cor.16.7!19" type="Verb Focus+" label="" verse="1Cor 16:7" >ἐπιτρέψῃ</reference>
+		<reference osisRef="1Cor.16.11!5" type="Verb Focus+" label="" verse="1Cor 16:11" >ἐξουθενήσῃ</reference>
+		<reference osisRef="1Cor.16.17!16" type="Verb Focus+" label="" verse="1Cor 16:17" >ἀνεπλήρωσαν</reference>
+		<reference osisRef="2Cor.1.24!16" type="Verb Focus+" label="" verse="2Cor 1:24" >ἑστήκατε</reference>
+		<reference osisRef="2Cor.2.7!5-2Cor.2.7!7" type="Verb Focus+" label="" verse="2Cor 2:7" >χαρίσασθαι καὶ παρακαλέσαι</reference>
+		<reference osisRef="2Cor.3.6!15" type="Verb Focus+" label="" verse="2Cor 3:6" >ἀποκτέννει</reference>
+		<reference osisRef="2Cor.3.6!19" type="Verb Focus+" label="" verse="2Cor 3:6" >ζῳοποιεῖ</reference>
+		<reference osisRef="2Cor.3.18!9" type="Verb Focus+" label="" verse="2Cor 3:18" >κατοπτριζόμενοι</reference>
+		<reference osisRef="2Cor.4.8!3" type="Verb Focus+" label="" verse="2Cor 4:8" >θλιβόμενοι</reference>
+		<reference osisRef="2Cor.4.16!11" type="Verb Focus+" label="" verse="2Cor 4:16" >διαφθείρεται</reference>
+		<reference osisRef="2Cor.5.1!11" type="Verb Focus+" label="" verse="2Cor 5:1" >καταλυθῇ</reference>
+		<reference osisRef="2Cor.5.2!5" type="Verb Focus+" label="" verse="2Cor 5:2" >στενάζομεν</reference>
+		<reference osisRef="2Cor.5.2!12-2Cor.5.2!13" type="Verb Focus+" label="" verse="2Cor 5:2" >ἐπενδύσασθαι ἐπιποθοῦντες</reference>
+		<reference osisRef="2Cor.5.20!4" type="Verb Focus+" label="" verse="2Cor 5:20" >πρεσβεύομεν</reference>
+		<reference osisRef="2Cor.5.21!8" type="Verb Focus+" label="" verse="2Cor 5:21" >ἐποίησεν</reference>
+		<reference osisRef="2Cor.6.9!9" type="Verb Focus+" label="" verse="2Cor 6:9" >ζῶμεν</reference>
+		<reference osisRef="2Cor.7.2!4" type="Verb Focus+" label="" verse="2Cor 7:2" >ἠδικήσαμεν</reference>
+		<reference osisRef="2Cor.7.2!6" type="Verb Focus+" label="" verse="2Cor 7:2" >ἐφθείραμεν</reference>
+		<reference osisRef="2Cor.7.2!8" type="Verb Focus+" label="" verse="2Cor 7:2" >ἐπλεονεκτήσαμεν</reference>
+		<reference osisRef="2Cor.8.9!13" type="Verb Focus+" label="" verse="2Cor 8:9" >ἐπτώχευσεν</reference>
+		<reference osisRef="2Cor.8.9!21" type="Verb Focus+" label="" verse="2Cor 8:9" >πλουτήσητε</reference>
+		<reference osisRef="2Cor.8.10!9" type="Verb Focus+" label="" verse="2Cor 8:10" >συμφέρει</reference>
+		<reference osisRef="2Cor.8.11!6" type="Verb Focus+" label="" verse="2Cor 8:11" >ἐπιτελέσατε</reference>
+		<reference osisRef="2Cor.8.17!5" type="Verb Focus+" label="" verse="2Cor 8:17" >ἐδέξατο</reference>
+		<reference osisRef="2Cor.9.6!7-2Cor.9.6!8" type="Verb Focus+" label="" verse="2Cor 9:6" >καὶ θερίσει</reference>
+		<reference osisRef="2Cor.9.6!16-2Cor.9.6!17" type="Verb Focus+" label="" verse="2Cor 9:6" >καὶ θερίσει</reference>
+		<reference osisRef="2Cor.11.7!5" type="Verb Focus+" label="" verse="2Cor 11:7" >ταπεινῶν</reference>
+		<reference osisRef="2Cor.11.7!8" type="Verb Focus+" label="" verse="2Cor 11:7" >ὑψωθῆτε</reference>
+		<reference osisRef="2Cor.11.9!26-2Cor.11.9!28" type="Verb Focus+" label="" verse="2Cor 11:9" >ἐτήρησα καὶ τηρήσω</reference>
+		<reference osisRef="2Cor.11.21!7" type="Verb Focus+" label="" verse="2Cor 11:21" >ἠσθενήκαμεν</reference>
+		<reference osisRef="2Cor.11.25!2" type="Verb Focus+" label="" verse="2Cor 11:25" >ἐραβδίσθην</reference>
+		<reference osisRef="2Cor.11.25!4" type="Verb Focus+" label="" verse="2Cor 11:25" >ἐλιθάσθην</reference>
+		<reference osisRef="2Cor.11.25!6" type="Verb Focus+" label="" verse="2Cor 11:25" >ἐναυάγησα</reference>
+		<reference osisRef="2Cor.11.29!11" type="Verb Focus+" label="" verse="2Cor 11:29" >πυροῦμαι</reference>
+		<reference osisRef="2Cor.12.1!2" type="Verb Focus+" label="" verse="2Cor 12:1" >δεῖ</reference>
+		<reference osisRef="2Cor.12.5!4" type="Verb Focus+" label="" verse="2Cor 12:5" >καυχήσομαι</reference>
+		<reference osisRef="2Cor.12.5!8-2Cor.12.5!9" type="Verb Focus+" label="" verse="2Cor 12:5" >οὐ καυχήσομαι</reference>
+		<reference osisRef="2Cor.12.7!19" type="Verb Focus+" label="" verse="2Cor 12:7" >κολαφίζῃ</reference>
+		<reference osisRef="2Cor.12.11!5" type="Verb Focus+" label="" verse="2Cor 12:11" >ἠναγκάσατε</reference>
+		<reference osisRef="2Cor.12.11!11" type="Verb Focus+" label="" verse="2Cor 12:11" >συνίστασθαι</reference>
+		<reference osisRef="2Cor.12.11!21" type="Verb Focus+" label="" verse="2Cor 12:11" >εἰμι</reference>
+		<reference osisRef="2Cor.12.19!5" type="Verb Focus+" label="" verse="2Cor 12:19" >ἀπολογούμεθα</reference>
+		<reference osisRef="2Cor.13.3!12-2Cor.13.3!13" type="Verb Focus+" label="" verse="2Cor 13:3" >οὐκ ἀσθενεῖ</reference>
+		<reference osisRef="2Cor.13.5!2" type="Verb Focus+" label="" verse="2Cor 13:5" >πειράζετε</reference>
+		<reference osisRef="2Cor.13.5!9" type="Verb Focus+" label="" verse="2Cor 13:5" >δοκιμάζετε</reference>
+		<reference osisRef="2Cor.13.9!5" type="Verb Focus+" label="" verse="2Cor 13:9" >ἀσθενῶμεν</reference>
+		<reference osisRef="Gal.1.20!10-Gal.1.20!11" type="Verb Focus+" label="" verse="Gal 1:20" >οὐ ψεύδομαι</reference>
+		<reference osisRef="Gal.2.4!19" type="Verb Focus+" label="" verse="Gal 2:4" >καταδουλώσουσιν</reference>
+		<reference osisRef="Gal.2.12!11" type="Verb Focus+" label="" verse="Gal 2:12" >συνήσθιεν</reference>
+		<reference osisRef="Gal.2.18!7" type="Verb Focus+" label="" verse="Gal 2:18" >οἰκοδομῶ</reference>
+		<reference osisRef="Gal.2.19!6" type="Verb Focus+" label="" verse="Gal 2:19" >ἀπέθανον</reference>
+		<reference osisRef="Gal.2.19!9" type="Verb Focus+" label="" verse="Gal 2:19" >ζήσω</reference>
+		<reference osisRef="Gal.3.17!17-Gal.3.17!18" type="Verb Focus+" label="" verse="Gal 3:17" >οὐκ ἀκυροῖ</reference>
+		<reference osisRef="Gal.3.20!11" type="Verb Focus+" label="" verse="Gal 3:20" >ἐστιν</reference>
+		<reference osisRef="Gal.3.27!7" type="Verb Focus+" label="" verse="Gal 3:27" >ἐνεδύσασθε</reference>
+		<reference osisRef="Gal.4.5!5" type="Verb Focus+" label="" verse="Gal 4:5" >ἐξαγοράσῃ</reference>
+		<reference osisRef="Gal.4.21!10-Gal.4.21!11" type="Verb Focus+" label="" verse="Gal 4:21" >οὐκ ἀκούετε</reference>
+		<reference osisRef="Gal.5.4!10" type="Verb Focus+" label="" verse="Gal 5:4" >ἐξεπέσατε</reference>
+		<reference osisRef="Gal.5.7!8-Gal.5.7!9" type="Verb Focus+" label="" verse="Gal 5:7" >μὴ πείθεσθαι</reference>
+		<reference osisRef="Gal.5.15!11" type="Verb Focus+" label="" verse="Gal 5:15" >ἀναλωθῆτε</reference>
+		<reference osisRef="Gal.5.17!17" type="Verb Focus+" label="" verse="Gal 5:17" >ἀντίκειται</reference>
+		<reference osisRef="Gal.5.25!5-Gal.5.25!6" type="Verb Focus+" label="" verse="Gal 5:25" >καὶ στοιχῶμεν</reference>
+		<reference osisRef="Gal.5.26!5" type="Verb Focus+" label="" verse="Gal 5:26" >προκαλούμενοι</reference>
+		<reference osisRef="Gal.5.26!7" type="Verb Focus+" label="" verse="Gal 5:26" >φθονοῦντες</reference>
+		<reference osisRef="Gal.6.7!12-Gal.6.7!13" type="Verb Focus+" label="" verse="Gal 6:7" >καὶ θερίσει</reference>
+		<reference osisRef="Gal.6.12!16-Gal.6.12!17" type="Verb Focus+" label="" verse="Gal 6:12" >μὴ διώκωνται</reference>
+		<reference osisRef="Eph.2.9!7" type="Verb Focus+" label="" verse="Eph 2:9" >καυχήσηται</reference>
+		<reference osisRef="Eph.2.10!19" type="Verb Focus+" label="" verse="Eph 2:10" >περιπατήσωμεν</reference>
+		<reference osisRef="Eph.2.12!20-Eph.2.12!21" type="Verb Focus+" label="" verse="Eph 2:12" >μὴ ἔχοντες</reference>
+		<reference osisRef="Eph.4.21!4" type="Verb Focus+" label="" verse="Eph 4:21" >ἠκούσατε</reference>
+		<reference osisRef="Eph.4.21!8" type="Verb Focus+" label="" verse="Eph 4:21" >ἐδιδάχθητε</reference>
+		<reference osisRef="Eph.5.13!8" type="Verb Focus+" label="" verse="Eph 5:13" >φανεροῦται</reference>
+		<reference osisRef="Eph.5.26!3" type="Verb Focus+" label="" verse="Eph 5:26" >ἁγιάσῃ</reference>
+		<reference osisRef="Phil.1.18!16" type="Verb Focus+" label="" verse="Phil 1:18" >χαίρω</reference>
+		<reference osisRef="Phil.1.18!19" type="Verb Focus+" label="" verse="Phil 1:18" >χαρήσομαι</reference>
+		<reference osisRef="Phil.1.29!12" type="Verb Focus+" label="" verse="Phil 1:29" >πιστεύειν</reference>
+		<reference osisRef="Phil.1.29!18" type="Verb Focus+" label="" verse="Phil 1:29" >πάσχειν</reference>
+		<reference osisRef="Phil.2.7!3" type="Verb Focus+" label="" verse="Phil 2:7" >ἐκένωσεν</reference>
+		<reference osisRef="Phil.2.9!6" type="Verb Focus+" label="" verse="Phil 2:9" >ὑπερύψωσεν</reference>
+		<reference osisRef="Phil.2.16!18" type="Verb Focus+" label="" verse="Phil 2:16" >ἐκοπίασα</reference>
+		<reference osisRef="Phil.3.12!4" type="Verb Focus+" label="" verse="Phil 3:12" >ἔλαβον</reference>
+		<reference osisRef="Phil.3.12!7" type="Verb Focus+" label="" verse="Phil 3:12" >τετελείωμαι</reference>
+		<reference osisRef="Phil.3.13!4-Phil.3.13!5" type="Verb Focus+" label="" verse="Phil 3:13" >οὐ λογίζομαι</reference>
+		<reference osisRef="Phil.4.10!13" type="Verb Focus+" label="" verse="Phil 4:10" >φρονεῖν</reference>
+		<reference osisRef="Col.1.9!13" type="Verb Focus+" label="" verse="Col 1:9" >προσευχόμενοι</reference>
+		<reference osisRef="Col.1.17!11" type="Verb Focus+" label="" verse="Col 1:17" >συνέστηκεν</reference>
+		<reference osisRef="Col.2.6!11" type="Verb Focus+" label="" verse="Col 2:6" >περιπατεῖτε</reference>
+		<reference osisRef="Col.2.10!5" type="Verb Focus+" label="" verse="Col 2:10" >πεπληρωμένοι</reference>
+		<reference osisRef="Col.3.4!4" type="Verb Focus+" label="" verse="Col 3:4" >φανερωθῇ</reference>
+		<reference osisRef="Col.4.2!3" type="Verb Focus+" label="" verse="Col 4:2" >προσκαρτερεῖτε</reference>
+		<reference osisRef="Col.4.5!9" type="Verb Focus+" label="" verse="Col 4:5" >ἐξαγοραζόμενοι</reference>
+		<reference osisRef="Col.4.17!13" type="Verb Focus+" label="" verse="Col 4:17" >πληροῖς</reference>
+		<reference osisRef="1Thess.2.4!11" type="Verb Focus+" label="" verse="1Thess 2:4" >λαλοῦμεν</reference>
+		<reference osisRef="1Thess.3.3!14" type="Verb Focus+" label="" verse="1Thess 3:3" >κείμεθα</reference>
+		<reference osisRef="1Thess.3.6!27" type="Verb Focus+" label="" verse="1Thess 3:6" >ἰδεῖν</reference>
+		<reference osisRef="1Thess.3.8!3" type="Verb Focus+" label="" verse="1Thess 3:8" >ζῶμεν</reference>
+		<reference osisRef="1Thess.4.11!16" type="Verb Focus+" label="" verse="1Thess 4:11" >παρηγγείλαμεν</reference>
+		<reference osisRef="1Thess.5.1!13" type="Verb Focus+" label="" verse="1Thess 5:1" >γράφεσθαι</reference>
+		<reference osisRef="1Thess.5.19!3-1Thess.5.19!4" type="Verb Focus+" label="" verse="1Thess 5:19" >μὴ σβέννυτε</reference>
+		<reference osisRef="1Thess.5.20!2-1Thess.5.20!3" type="Verb Focus+" label="" verse="1Thess 5:20" >μὴ ἐξουθενεῖτε</reference>
+		<reference osisRef="1Thess.5.21!6" type="Verb Focus+" label="" verse="1Thess 5:21" >κατέχετε</reference>
+		<reference osisRef="2Thess.3.4!10-2Thess.3.4!13" type="Verb Focus+" label="" verse="2Thess 3:4" >καὶ ποιεῖτε καὶ ποιήσετε</reference>
+		<reference osisRef="2Thess.3.14!13" type="Verb Focus+" label="" verse="2Thess 3:14" >σημειοῦσθε</reference>
+		<reference osisRef="1Tim.1.10!13" type="Verb Focus+" label="" verse="1Tim 1:10" >ἀντίκειται</reference>
+		<reference osisRef="1Tim.1.19!12" type="Verb Focus+" label="" verse="1Tim 1:19" >ἐναυάγησαν</reference>
+		<reference osisRef="1Tim.3.14!3" type="Verb Focus+" label="" verse="1Tim 3:14" >γράφω</reference>
+		<reference osisRef="1Tim.4.7!7" type="Verb Focus+" label="" verse="1Tim 4:7" >παραιτοῦ</reference>
+		<reference osisRef="1Tim.4.15!2" type="Verb Focus+" label="" verse="1Tim 4:15" >μελέτα</reference>
+		<reference osisRef="1Tim.4.15!5" type="Verb Focus+" label="" verse="1Tim 4:15" >ἴσθι</reference>
+		<reference osisRef="1Tim.4.16!10" type="Verb Focus+" label="" verse="1Tim 4:16" >ποιῶν</reference>
+		<reference osisRef="1Tim.5.6!5" type="Verb Focus+" label="" verse="1Tim 5:6" >τέθνηκεν</reference>
+		<reference osisRef="1Tim.5.11!4" type="Verb Focus+" label="" verse="1Tim 5:11" >παραιτοῦ</reference>
+		<reference osisRef="1Tim.5.12!7" type="Verb Focus+" label="" verse="1Tim 5:12" >ἠθέτησαν</reference>
+		<reference osisRef="1Tim.5.18!7-1Tim.5.18!8" type="Verb Focus+" label="" verse="1Tim 5:18" >οὐ φιμώσεις</reference>
+		<reference osisRef="1Tim.5.19!4-1Tim.5.19!5" type="Verb Focus+" label="" verse="1Tim 5:19" >μὴ παραδέχου</reference>
+		<reference osisRef="1Tim.5.24!12-1Tim.5.24!13" type="Verb Focus+" label="" verse="1Tim 5:24" >καὶ ἐπακολουθοῦσιν</reference>
+		<reference osisRef="1Tim.5.25!13-1Tim.5.25!14" type="Verb Focus+" label="" verse="1Tim 5:25" >οὐ δύνανται</reference>
+		<reference osisRef="1Tim.6.1!22" type="Verb Focus+" label="" verse="1Tim 6:1" >βλασφημῆται</reference>
+		<reference osisRef="1Tim.6.8!7" type="Verb Focus+" label="" verse="1Tim 6:8" >ἀρκεσθησόμεθα</reference>
+		<reference osisRef="1Tim.6.11!7" type="Verb Focus+" label="" verse="1Tim 6:11" >φεῦγε</reference>
+		<reference osisRef="1Tim.6.16!14" type="Verb Focus+" label="" verse="1Tim 6:16" >δύναται</reference>
+		<reference osisRef="1Tim.6.20!5" type="Verb Focus+" label="" verse="1Tim 6:20" >φύλαξον</reference>
+		<reference osisRef="1Tim.6.21!7" type="Verb Focus+" label="" verse="1Tim 6:21" >ἠστόχησαν</reference>
+		<reference osisRef="2Tim.1.4!3" type="Verb Focus+" label="" verse="2Tim 1:4" >ἰδεῖν</reference>
+		<reference osisRef="2Tim.2.9!13-2Tim.2.9!14" type="Verb Focus+" label="" verse="2Tim 2:9" >οὐ δέδεται</reference>
+		<reference osisRef="2Tim.2.14!2" type="Verb Focus+" label="" verse="2Tim 2:14" >ὑπομίμνῃσκε</reference>
+		<reference osisRef="2Tim.3.5!11" type="Verb Focus+" label="" verse="2Tim 3:5" >ἀποτρέπου</reference>
+		<reference osisRef="2Tim.3.7!2" type="Verb Focus+" label="" verse="2Tim 3:7" >μανθάνοντα</reference>
+		<reference osisRef="2Tim.4.5!13" type="Verb Focus+" label="" verse="2Tim 4:5" >πληροφόρησον</reference>
+		<reference osisRef="2Tim.4.10!4" type="Verb Focus+" label="" verse="2Tim 4:10" >ἐγκατέλιπεν</reference>
+		<reference osisRef="2Tim.4.17!14" type="Verb Focus+" label="" verse="2Tim 4:17" >πληροφορηθῇ</reference>
+		<reference osisRef="Titus.1.5!19" type="Verb Focus+" label="" verse="Titus 1:5" >διεταξάμην</reference>
+		<reference osisRef="Titus.1.16!7" type="Verb Focus+" label="" verse="Titus 1:16" >ἀρνοῦνται</reference>
+		<reference osisRef="Titus.2.5!15" type="Verb Focus+" label="" verse="Titus 2:5" >βλασφημῆται</reference>
+		<reference osisRef="Titus.2.8!8" type="Verb Focus+" label="" verse="Titus 2:8" >ἐντραπῇ</reference>
+		<reference osisRef="Heb.1.11!2" type="Verb Focus+" label="" verse="Heb 1:11" >ἀπολοῦνται</reference>
+		<reference osisRef="Heb.1.11!5" type="Verb Focus+" label="" verse="Heb 1:11" >διαμένεις</reference>
+		<reference osisRef="Heb.1.12!9" type="Verb Focus+" label="" verse="Heb 1:12" >ἀλλαγήσονται</reference>
+		<reference osisRef="Heb.1.12!19-Heb.1.12!20" type="Verb Focus+" label="" verse="Heb 1:12" >οὐκ ἐκλείψουσιν</reference>
+		<reference osisRef="Heb.2.18!6" type="Verb Focus+" label="" verse="Heb 2:18" >πειρασθείς</reference>
+		<reference osisRef="Heb.3.6!21" type="Verb Focus+" label="" verse="Heb 3:6" >κατάσχωμεν</reference>
+		<reference osisRef="Heb.6.3!3" type="Verb Focus+" label="" verse="Heb 6:3" >ποιήσομεν</reference>
+		<reference osisRef="Heb.6.14!4-Heb.6.14!5" type="Verb Focus+" label="" verse="Heb 6:14" >εὐλογῶν εὐλογήσω</reference>
+		<reference osisRef="Heb.6.14!8-Heb.6.14!9" type="Verb Focus+" label="" verse="Heb 6:14" >πληθύνων πληθυνῶ</reference>
+		<reference osisRef="Heb.6.15!3" type="Verb Focus+" label="" verse="Heb 6:15" >μακροθυμήσας</reference>
+		<reference osisRef="Heb.7.11!15" type="Verb Focus+" label="" verse="Heb 7:11" >νενομοθέτηται</reference>
+		<reference osisRef="Heb.10.1!29" type="Verb Focus+" label="" verse="Heb 10:1" >τελειῶσαι</reference>
+		<reference osisRef="Heb.10.5!10-Heb.10.5!11" type="Verb Focus+" label="" verse="Heb 10:5" >οὐκ ἠθέλησας</reference>
+		<reference osisRef="Heb.10.6!5-Heb.10.6!6" type="Verb Focus+" label="" verse="Heb 10:6" >οὐκ εὐδόκησας</reference>
+		<reference osisRef="Heb.10.8!12-Heb.10.8!15" type="Verb Focus+" label="" verse="Heb 10:8" >οὐκ ἠθέλησας οὐδὲ εὐδόκησας</reference>
+		<reference osisRef="Heb.10.17!9-Heb.10.17!12" type="Verb Focus+" label="" verse="Heb 10:17" >οὐ μὴ μνησθήσομαι ἔτι</reference>
+		<reference osisRef="Heb.10.37!8" type="Verb Focus+" label="" verse="Heb 10:37" >ἥξει</reference>
+		<reference osisRef="Heb.11.12!8" type="Verb Focus+" label="" verse="Heb 11:12" >νενεκρωμένου</reference>
+		<reference osisRef="Heb.12.4!8" type="Verb Focus+" label="" verse="Heb 12:4" >ἀνταγωνιζόμενοι</reference>
+		<reference osisRef="Heb.12.5!20" type="Verb Focus+" label="" verse="Heb 12:5" >ἐλεγχόμενος</reference>
+		<reference osisRef="Heb.12.7!3" type="Verb Focus+" label="" verse="Heb 12:7" >ὑπομένετε</reference>
+		<reference osisRef="Heb.12.13!12" type="Verb Focus+" label="" verse="Heb 12:13" >ἐκτραπῇ</reference>
+		<reference osisRef="Heb.13.1!3" type="Verb Focus+" label="" verse="Heb 13:1" >μενέτω</reference>
+		<reference osisRef="Heb.13.5!13" type="Verb Focus+" label="" verse="Heb 13:5" >ἀνῶ</reference>
+		<reference osisRef="Heb.13.5!18" type="Verb Focus+" label="" verse="Heb 13:5" >ἐγκαταλίπω</reference>
+		<reference osisRef="Heb.13.19!5" type="Verb Focus+" label="" verse="Heb 13:19" >ποιῆσαι</reference>
+		<reference osisRef="Heb.13.23!6" type="Verb Focus+" label="" verse="Heb 13:23" >ἀπολελυμένον</reference>
+		<reference osisRef="Jas.1.11!32" type="Verb Focus+" label="" verse="Jas 1:11" >μαρανθήσεται</reference>
+		<reference osisRef="Jas.2.22!15" type="Verb Focus+" label="" verse="Jas 2:22" >ἐτελειώθη</reference>
+		<reference osisRef="Jas.3.4!21" type="Verb Focus+" label="" verse="Jas 3:4" >βούλεται</reference>
+		<reference osisRef="Jas.4.15!8" type="Verb Focus+" label="" verse="Jas 4:15" >θελήσῃ</reference>
+		<reference osisRef="Jas.5.2!4" type="Verb Focus+" label="" verse="Jas 5:2" >σέσηπεν</reference>
+		<reference osisRef="Jas.5.3!7" type="Verb Focus+" label="" verse="Jas 5:3" >κατίωται</reference>
+		<reference osisRef="Jas.5.8!13" type="Verb Focus+" label="" verse="Jas 5:8" >ἤγγικεν</reference>
+		<reference osisRef="Jas.5.17!7-Jas.5.17!8" type="Verb Focus+" label="" verse="Jas 5:17" >προσευχῇ προσηύξατο</reference>
+		<reference osisRef="Jas.5.18!8" type="Verb Focus+" label="" verse="Jas 5:18" >ἔδωκεν</reference>
+		<reference osisRef="1Pet.1.8!8-1Pet.1.8!9" type="Verb Focus+" label="" verse="1Pet 1:8" >μὴ ὁρῶντες</reference>
+		<reference osisRef="1Pet.1.24!19" type="Verb Focus+" label="" verse="1Pet 1:24" >ἐξέπεσεν</reference>
+		<reference osisRef="1Pet.2.2!8" type="Verb Focus+" label="" verse="1Pet 2:2" >ἐπιποθήσατε</reference>
+		<reference osisRef="1Pet.2.6!18-1Pet.2.6!20" type="Verb Focus+" label="" verse="1Pet 2:6" >οὐ μὴ καταισχυνθῇ</reference>
+		<reference osisRef="1Pet.2.12!20" type="Verb Focus+" label="" verse="1Pet 2:12" >ἐποπτεύοντες</reference>
+		<reference osisRef="1Pet.2.22!3-1Pet.2.22!4" type="Verb Focus+" label="" verse="1Pet 2:22" >οὐκ ἐποίησεν</reference>
+		<reference osisRef="1Pet.2.24!17" type="Verb Focus+" label="" verse="1Pet 2:24" >ἀπογενόμενοι</reference>
+		<reference osisRef="1Pet.2.24!20" type="Verb Focus+" label="" verse="1Pet 2:24" >ζήσωμεν</reference>
+		<reference osisRef="1Pet.2.24!24" type="Verb Focus+" label="" verse="1Pet 2:24" >ἰάθητε</reference>
+		<reference osisRef="1Pet.3.9!19" type="Verb Focus+" label="" verse="1Pet 3:9" >κληρονομήσητε</reference>
+		<reference osisRef="1Pet.3.14!12-1Pet.3.14!13" type="Verb Focus+" label="" verse="1Pet 3:14" >μὴ φοβηθῆτε</reference>
+		<reference osisRef="1Pet.4.3!10" type="Verb Focus+" label="" verse="1Pet 4:3" >κατειργάσθαι</reference>
+		<reference osisRef="1Pet.4.7!5" type="Verb Focus+" label="" verse="1Pet 4:7" >ἤγγικεν</reference>
+		<reference osisRef="1Pet.4.11!3" type="Verb Focus+" label="" verse="1Pet 4:11" >λαλεῖ</reference>
+		<reference osisRef="1Pet.4.11!9" type="Verb Focus+" label="" verse="1Pet 4:11" >διακονεῖ</reference>
+		<reference osisRef="1Pet.5.5!15" type="Verb Focus+" label="" verse="1Pet 5:5" >ἀντιτάσσεται</reference>
+		<reference osisRef="2Pet.1.8!4-2Pet.1.8!6" type="Verb Focus+" label="" verse="2Pet 1:8" >ὑπάρχοντα καὶ πλεονάζοντα</reference>
+		<reference osisRef="2Pet.1.17!28" type="Verb Focus+" label="" verse="2Pet 1:17" >εὐδόκησα</reference>
+		<reference osisRef="2Pet.2.2!13" type="Verb Focus+" label="" verse="2Pet 2:2" >βλασφημηθήσεται</reference>
+		<reference osisRef="2Pet.2.3!12-2Pet.2.3!13" type="Verb Focus+" label="" verse="2Pet 2:3" >οὐκ ἀργεῖ</reference>
+		<reference osisRef="2Pet.2.3!18-2Pet.2.3!19" type="Verb Focus+" label="" verse="2Pet 2:3" >οὐ νυστάζει</reference>
+		<reference osisRef="2Pet.2.12!20-2Pet.2.12!21" type="Verb Focus+" label="" verse="2Pet 2:12" >καὶ φθαρήσονται</reference>
+		<reference osisRef="2Pet.2.19!12" type="Verb Focus+" label="" verse="2Pet 2:19" >ἥττηται</reference>
+		<reference osisRef="2Pet.2.20!19-2Pet.2.20!21" type="Verb Focus+" label="" verse="2Pet 2:20" >πάλιν ἐμπλακέντες ἡττῶνται</reference>
+		<reference osisRef="2Pet.3.4!15" type="Verb Focus+" label="" verse="2Pet 3:4" >ἐκοιμήθησαν</reference>
+		<reference osisRef="2Pet.3.9!17" type="Verb Focus+" label="" verse="2Pet 3:9" >ἀπολέσθαι</reference>
+		<reference osisRef="2Pet.3.10!15-2Pet.3.10!16" type="Verb Focus+" label="" verse="2Pet 3:10" >καυσούμενα λυθήσεται</reference>
+		<reference osisRef="2Pet.3.10!24" type="Verb Focus+" label="" verse="2Pet 3:10" >εὑρεθήσεται</reference>
+		<reference osisRef="2Pet.3.11!4" type="Verb Focus+" label="" verse="2Pet 3:11" >λυομένων</reference>
+		<reference osisRef="2Pet.3.12!13-2Pet.3.12!14" type="Verb Focus+" label="" verse="2Pet 3:12" >πυρούμενοι λυθήσονται</reference>
+		<reference osisRef="2Pet.3.12!17-2Pet.3.12!18" type="Verb Focus+" label="" verse="2Pet 3:12" >καυσούμενα τήκεται</reference>
+		<reference osisRef="2Pet.3.16!21" type="Verb Focus+" label="" verse="2Pet 3:16" >στρεβλοῦσιν</reference>
+		<reference osisRef="1John.1.8!8" type="Verb Focus+" label="" verse="1John 1:8" >πλανῶμεν</reference>
+		<reference osisRef="1John.2.4!19-1John.2.4!20" type="Verb Focus+" label="" verse="1John 2:4" >οὐκ ἔστιν</reference>
+		<reference osisRef="1John.2.5!15" type="Verb Focus+" label="" verse="1John 2:5" >τετελείωται</reference>
+		<reference osisRef="1John.2.8!24" type="Verb Focus+" label="" verse="1John 2:8" >φαίνει</reference>
+		<reference osisRef="1John.2.10!9" type="Verb Focus+" label="" verse="1John 2:10" >μένει</reference>
+		<reference osisRef="1John.2.11!15" type="Verb Focus+" label="" verse="1John 2:11" >περιπατεῖ</reference>
+		<reference osisRef="1John.2.14!29" type="Verb Focus+" label="" verse="1John 2:14" >μένει</reference>
+		<reference osisRef="1John.2.19!3" type="Verb Focus+" label="" verse="1John 2:19" >ἐξῆλθαν</reference>
+		<reference osisRef="1John.2.24!8" type="Verb Focus+" label="" verse="1John 2:24" >μενέτω</reference>
+		<reference osisRef="1John.2.29!16" type="Verb Focus+" label="" verse="1John 2:29" >γεγέννηται</reference>
+		<reference osisRef="1John.3.5!9" type="Verb Focus+" label="" verse="1John 3:5" >ἄρῃ</reference>
+		<reference osisRef="1John.3.5!14-1John.3.5!15" type="Verb Focus+" label="" verse="1John 3:5" >οὐκ ἔστιν</reference>
+		<reference osisRef="1John.3.9!8-1John.3.9!9" type="Verb Focus+" label="" verse="1John 3:9" >οὐ ποιεῖ</reference>
+		<reference osisRef="1John.4.3!12-1John.4.3!13" type="Verb Focus+" label="" verse="1John 4:3" >οὐκ ἔστιν</reference>
+		<reference osisRef="1John.4.5!11" type="Verb Focus+" label="" verse="1John 4:5" >λαλοῦσιν</reference>
+		<reference osisRef="1John.4.5!16" type="Verb Focus+" label="" verse="1John 4:5" >ἀκούει</reference>
+		<reference osisRef="1John.4.7!18" type="Verb Focus+" label="" verse="1John 4:7" >γεγέννηται</reference>
+		<reference osisRef="1John.4.12!12" type="Verb Focus+" label="" verse="1John 4:12" >μένει</reference>
+		<reference osisRef="1John.5.12!17-1John.5.12!18" type="Verb Focus+" label="" verse="1John 5:12" >οὐκ ἔχει</reference>
+		<reference osisRef="2John.1.6!23" type="Verb Focus+" label="" verse="2John 1:6" >περιπατῆτε</reference>
+		<reference osisRef="2John.1.10!10-2John.1.10!11" type="Verb Focus+" label="" verse="2John 1:10" >οὐ φέρει</reference>
+		<reference osisRef="2John.1.12!4" type="Verb Focus+" label="" verse="2John 1:12" >γράφειν</reference>
+		<reference osisRef="3John.1.3!15" type="Verb Focus+" label="" verse="3John 1:3" >περιπατεῖς</reference>
+		<reference osisRef="Jude.1.5!16" type="Verb Focus+" label="" verse="Jude 1:5" >σώσας</reference>
+		<reference osisRef="Jude.1.5!22" type="Verb Focus+" label="" verse="Jude 1:5" >ἀπώλεσεν</reference>
+		<reference osisRef="Rev.3.12!14-Rev.3.12!16" type="Verb Focus+" label="" verse="Rev 3:12" >οὐ μὴ ἐξέλθῃ</reference>
+		<reference osisRef="Rev.6.4!22" type="Verb Focus+" label="" verse="Rev 6:4" >σφάξουσιν</reference>
+		<reference osisRef="Rev.10.6!35-Rev.10.6!36" type="Verb Focus+" label="" verse="Rev 10:6" >οὐκέτι ἔσται</reference>
+		<reference osisRef="Rev.11.5!5-Rev.11.5!6" type="Verb Focus+" label="" verse="Rev 11:5" >θέλει ἀδικῆσαι</reference>
+		<reference osisRef="Rev.11.8!23" type="Verb Focus+" label="" verse="Rev 11:8" >ἐσταυρώθη</reference>
+		<reference osisRef="Rev.11.18!15" type="Verb Focus+" label="" verse="Rev 11:18" >κριθῆναι</reference>
+		<reference osisRef="Rev.13.3!17" type="Verb Focus+" label="" verse="Rev 13:3" >ἐθεραπεύθη</reference>
+		<reference osisRef="Rev.13.10!7" type="Verb Focus+" label="" verse="Rev 13:10" >ὑπάγει</reference>
+		<reference osisRef="Rev.13.10!16" type="Verb Focus+" label="" verse="Rev 13:10" >ἀποκτανθῆναι</reference>
+		<reference osisRef="Rev.13.15!28" type="Verb Focus+" label="" verse="Rev 13:15" >ἀποκτανθῶσιν</reference>
+		<reference osisRef="Rev.15.4!27" type="Verb Focus+" label="" verse="Rev 15:4" >ἐφανερώθησαν</reference>
+		<reference osisRef="Rev.16.5!19" type="Verb Focus+" label="" verse="Rev 16:5" >ἔκρινας</reference>
+		<reference osisRef="Rev.17.12!12-Rev.17.12!13" type="Verb Focus+" label="" verse="Rev 17:12" >οὔπω ἔλαβον</reference>
+		<reference osisRef="Rev.17.16!24" type="Verb Focus+" label="" verse="Rev 17:16" >φάγονται</reference>
+		<reference osisRef="Rev.18.4!27-Rev.18.4!28" type="Verb Focus+" label="" verse="Rev 18:4" >μὴ λάβητε</reference>
+		<reference osisRef="Rev.18.7!23-Rev.18.7!24" type="Verb Focus+" label="" verse="Rev 18:7" >οὐκ εἰμὶ</reference>
+		<reference osisRef="Rev.18.7!27-Rev.18.7!29" type="Verb Focus+" label="" verse="Rev 18:7" >οὐ μὴ ἴδω</reference>
+		<reference osisRef="Rev.18.9!14-Rev.18.9!16" type="Verb Focus+" label="" verse="Rev 18:9" >πορνεύσαντες καὶ στρηνιάσαντες</reference>
+		<reference osisRef="Rev.21.1!16" type="Verb Focus+" label="" verse="Rev 21:1" >ἀπῆλθαν</reference>
+		<reference osisRef="Rev.21.4!27" type="Verb Focus+" label="" verse="Rev 21:4" >ἀπῆλθαν</reference>
 	</references>
-</markup>
+</feature>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<markup>
+<feature>
 	<header>
 		<copyright>©2016 SIL International</copyright>
 		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
@@ -10,581 +10,581 @@
 		<defaultstyle label="" bkcolor="" fontcolor="" brdrcolor="#FFFF0000" brdrline="Dots" brdrpos="A,U,B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
 	</header>
 	<references>
-		<reference osisRef="MAT.1.20!4" type="DFE" label="" verse="MAT 1:20" >ἐνθυμηθέντος</reference>
-		<reference osisRef="MAT.1.20!20-MAT.1.20!22" type="DFE" label="" verse="MAT 1:20" >τὴν γυναῖκά σου</reference>
-		<reference osisRef="MAT.1.21!9" type="DFE" label="" verse="MAT 1:21" >ἰησοῦν</reference>
-		<reference osisRef="MAT.1.23!15" type="DFE" label="" verse="MAT 1:23" >ἐμμανουήλ</reference>
-		<reference osisRef="MAT.1.25!14" type="DFE" label="" verse="MAT 1:25" >ἰησοῦν</reference>
-		<reference osisRef="MAT.2.1!9-MAT.2.1!13" type="DFE" label="" verse="MAT 2:1" >ἐν ἡμέραις ἡρῴδου τοῦ βασιλέως</reference>
-		<reference osisRef="MAT.3.6!7-MAT.3.6!8" type="DFE" label="" verse="MAT 3:6" >ὑπ’ αὐτοῦ</reference>
-		<reference osisRef="MAT.3.11!7-MAT.3.11!8" type="DFE" label="" verse="MAT 3:11" >εἰς μετάνοιαν</reference>
-		<reference osisRef="MAT.3.13!11-MAT.3.13!13" type="DFE" label="" verse="MAT 3:13" >πρὸς τὸν ἰωάννην</reference>
-		<reference osisRef="MAT.4.1!8-MAT.4.1!10" type="DFE" label="" verse="MAT 4:1" >ὑπὸ τοῦ πνεύματος</reference>
-		<reference osisRef="MAT.4.6!30-MAT.4.6!32" type="DFE" label="" verse="MAT 4:6" >τὸν πόδα σου</reference>
-		<reference osisRef="MAT.4.13!11-MAT.4.13!15" type="DFE" label="" verse="MAT 4:13" >ἐν ὁρίοις ζαβουλὼν καὶ νεφθαλίμ</reference>
-		<reference osisRef="MAT.6.10!12-MAT.6.10!14" type="DFE" label="" verse="MAT 6:10" >καὶ ἐπὶ γῆς</reference>
-		<reference osisRef="MAT.6.16!9" type="DFE" label="" verse="MAT 6:16" >σκυθρωποί</reference>
-		<reference osisRef="MAT.6.19!12" type="DFE" label="" verse="MAT 6:19" >ἀφανίζει</reference>
-		<reference osisRef="MAT.6.24!10" type="DFE" label="" verse="MAT 6:24" >μισήσει</reference>
-		<reference osisRef="MAT.6.24!14" type="DFE" label="" verse="MAT 6:24" >ἀγαπήσει</reference>
-		<reference osisRef="MAT.6.24!17" type="DFE" label="" verse="MAT 6:24" >ἀνθέξεται</reference>
-		<reference osisRef="MAT.6.24!21" type="DFE" label="" verse="MAT 6:24" >καταφρονήσει</reference>
-		<reference osisRef="MAT.6.27!12-MAT.6.27!13" type="DFE" label="" verse="MAT 6:27" >πῆχυν ἕνα</reference>
-		<reference osisRef="MAT.6.34!15-MAT.6.34!17" type="DFE" label="" verse="MAT 6:34" >ἡ κακία αὐτῆς</reference>
-		<reference osisRef="MAT.7.5!8-MAT.7.5!9" type="DFE" label="" verse="MAT 7:5" >τὴν δοκόν</reference>
-		<reference osisRef="MAT.7.6!5-MAT.7.6!6" type="DFE" label="" verse="MAT 7:6" >τοῖς κυσὶν</reference>
-		<reference osisRef="MAT.7.16!11" type="DFE" label="" verse="MAT 7:16" >σταφυλὰς</reference>
-		<reference osisRef="MAT.7.16!15" type="DFE" label="" verse="MAT 7:16" >σῦκα</reference>
-		<reference osisRef="MAT.8.6!11" type="DFE" label="" verse="MAT 8:6" >παραλυτικός</reference>
-		<reference osisRef="MAT.8.11!19-MAT.8.11!23" type="DFE" label="" verse="MAT 8:11" >ἐν τῇ βασιλείᾳ τῶν οὐρανῶν</reference>
-		<reference osisRef="MAT.8.28!7-MAT.8.28!11" type="DFE" label="" verse="MAT 8:28" >εἰς τὴν χώραν τῶν γαδαρηνῶν</reference>
-		<reference osisRef="MAT.8.30!6-MAT.8.30!9" type="DFE" label="" verse="MAT 8:30" >ἀγέλη χοίρων πολλῶν βοσκομένη</reference>
-		<reference osisRef="MAT.8.32!21-MAT.8.32!23" type="DFE" label="" verse="MAT 8:32" >εἰς τὴν θάλασσαν</reference>
-		<reference osisRef="MAT.10.18!10-MAT.10.18!15" type="DFE" label="" verse="MAT 10:18" >εἰς μαρτύριον αὐτοῖς καὶ τοῖς ἔθνεσιν</reference>
-		<reference osisRef="MAT.10.19!18-MAT.10.19!19" type="DFE" label="" verse="MAT 10:19" >τί λαλήσητε</reference>
-		<reference osisRef="MAT.10.22!6-MAT.10.22!9" type="DFE" label="" verse="MAT 10:22" >διὰ τὸ ὄνομά μου</reference>
-		<reference osisRef="MAT.11.2!8-MAT.11.2!11" type="DFE" label="" verse="MAT 11:2" >τὰ ἔργα τοῦ χριστοῦ</reference>
-		<reference osisRef="MAT.11.11!9-MAT.11.11!12" type="DFE" label="" verse="MAT 11:11" >μείζων ἰωάννου τοῦ βαπτιστοῦ</reference>
-		<reference osisRef="MAT.12.19!11-MAT.12.19!13" type="DFE" label="" verse="MAT 12:19" >τὴν φωνὴν αὐτοῦ</reference>
-		<reference osisRef="MAT.12.40!10-MAT.12.40!14" type="DFE" label="" verse="MAT 12:40" >τρεῖς ἡμέρας καὶ τρεῖς νύκτας</reference>
-		<reference osisRef="MAT.12.40!26-MAT.12.40!30" type="DFE" label="" verse="MAT 12:40" >τρεῖς ἡμέρας καὶ τρεῖς νύκτας</reference>
-		<reference osisRef="MAT.13.30!17-MAT.13.30!18" type="DFE" label="" verse="MAT 13:30" >τὰ ζιζάνια</reference>
-		<reference osisRef="MAT.13.34!8-MAT.13.34!9" type="DFE" label="" verse="MAT 13:34" >τοῖς ὄχλοις</reference>
-		<reference osisRef="MAT.13.41!15-MAT.13.41!22" type="DFE" label="" verse="MAT 13:41" >πάντα τὰ σκάνδαλα καὶ τοὺς ποιοῦντας τὴν ἀνομίαν</reference>
-		<reference osisRef="MAT.13.43!8-MAT.13.43!13" type="DFE" label="" verse="MAT 13:43" >ἐν τῇ βασιλείᾳ τοῦ πατρὸς αὐτῶν</reference>
-		<reference osisRef="MAT.13.52!24-MAT.13.52!26" type="DFE" label="" verse="MAT 13:52" >καινὰ καὶ παλαιά</reference>
-		<reference osisRef="MAT.14.8!14-MAT.14.8!18" type="DFE" label="" verse="MAT 14:8" >τὴν κεφαλὴν ἰωάννου τοῦ βαπτιστοῦ</reference>
-		<reference osisRef="MAT.14.13!12-MAT.14.13!13" type="DFE" label="" verse="MAT 14:13" >κατ’ ἰδίαν</reference>
-		<reference osisRef="MAT.14.23!9-MAT.14.23!10" type="DFE" label="" verse="MAT 14:23" >κατ’ ἰδίαν</reference>
-		<reference osisRef="MAT.14.34!7-MAT.14.34!8" type="DFE" label="" verse="MAT 14:34" >εἰς γεννησαρέτ</reference>
-		<reference osisRef="MAT.15.1!7-MAT.15.1!9" type="DFE" label="" verse="MAT 15:1" >φαρισαῖοι καὶ γραμματεῖς</reference>
-		<reference osisRef="MAT.15.31!9" type="DFE" label="" verse="MAT 15:31" >ὑγιεῖς</reference>
-		<reference osisRef="MAT.15.33!10-MAT.15.33!11" type="DFE" label="" verse="MAT 15:33" >ἄρτοι τοσοῦτοι</reference>
-		<reference osisRef="MAT.17.1!23-MAT.17.1!24" type="DFE" label="" verse="MAT 17:1" >κατ’ ἰδίαν</reference>
-		<reference osisRef="MAT.18.8!25-MAT.18.8!27" type="DFE" label="" verse="MAT 18:8" >κυλλὸν ἢ χωλὸν</reference>
-		<reference osisRef="MAT.18.12!8-MAT.18.12!9" type="DFE" label="" verse="MAT 18:12" >ἑκατὸν πρόβατα</reference>
-		<reference osisRef="MAT.20.2!6-MAT.20.2!9" type="DFE" label="" verse="MAT 20:2" >ἐκ δηναρίου τὴν ἡμέραν</reference>
-		<reference osisRef="MAT.20.3!12" type="DFE" label="" verse="MAT 20:3" >ἀργοὺς</reference>
-		<reference osisRef="MAT.20.10!14-MAT.20.10!15" type="DFE" label="" verse="MAT 20:10" >καὶ αὐτοί</reference>
-		<reference osisRef="MAT.20.21!26-MAT.20.21!29" type="DFE" label="" verse="MAT 20:21" >ἐν τῇ βασιλείᾳ σου</reference>
-		<reference osisRef="MAT.22.21!11" type="DFE" label="" verse="MAT 22:21" >καίσαρι</reference>
-		<reference osisRef="MAT.22.21!16-MAT.22.21!17" type="DFE" label="" verse="MAT 22:21" >τῷ θεῷ</reference>
-		<reference osisRef="MAT.22.46!16" type="DFE" label="" verse="MAT 22:46" >οὐκέτι</reference>
-		<reference osisRef="MAT.24.9!16-MAT.24.9!19" type="DFE" label="" verse="MAT 24:9" >διὰ τὸ ὄνομά μου</reference>
-		<reference osisRef="MAT.24.21!4-MAT.24.21!5" type="DFE" label="" verse="MAT 24:21" >θλῖψις μεγάλη</reference>
-		<reference osisRef="MAT.24.24!16-MAT.24.24!18" type="DFE" label="" verse="MAT 24:24" >καὶ τοὺς ἐκλεκτούς</reference>
-		<reference osisRef="MAT.26.18!8-MAT.26.18!10" type="DFE" label="" verse="MAT 26:18" >πρὸς τὸν δεῖνα</reference>
-		<reference osisRef="MAT.26.44!13" type="DFE" label="" verse="MAT 26:44" >πάλιν</reference>
-		<reference osisRef="MAT.26.53!14-MAT.26.53!17" type="DFE" label="" verse="MAT 26:53" >πλείω δώδεκα λεγιῶνας ἀγγέλων</reference>
-		<reference osisRef="MAT.27.37!7-MAT.27.37!10" type="DFE" label="" verse="MAT 27:37" >τὴν αἰτίαν αὐτοῦ γεγραμμένην</reference>
-		<reference osisRef="MAT.27.51!12-MAT.27.51!13" type="DFE" label="" verse="MAT 27:51" >εἰς δύο</reference>
-		<reference osisRef="MAT.27.53!6-MAT.27.53!9" type="DFE" label="" verse="MAT 27:53" >μετὰ τὴν ἔγερσιν αὐτοῦ</reference>
-		<reference osisRef="MAT.28.8!7-MAT.28.8!11" type="DFE" label="" verse="MAT 28:8" >μετὰ φόβου καὶ χαρᾶς μεγάλης</reference>
-		<reference osisRef="MRK.1.9!18-MRK.1.9!19" type="DFE" label="" verse="MRK 1:9" >ὑπὸ ἰωάννου</reference>
-		<reference osisRef="MRK.1.13!6-MRK.1.13!7" type="DFE" label="" verse="MRK 1:13" >τεσσεράκοντα ἡμέρας</reference>
-		<reference osisRef="MRK.1.23!8-MRK.1.23!11" type="DFE" label="" verse="MRK 1:23" >ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ</reference>
-		<reference osisRef="MRK.1.39!8-MRK.1.39!11" type="DFE" label="" verse="MRK 1:39" >εἰς ὅλην τὴν γαλιλαίαν</reference>
-		<reference osisRef="MRK.1.44!20-MRK.1.44!22" type="DFE" label="" verse="MRK 1:44" >ἃ προσέταξεν μωϋσῆς</reference>
-		<reference osisRef="MRK.2.2!7-MRK.2.2!11" type="DFE" label="" verse="MRK 2:2" >μηδὲ τὰ πρὸς τὴν θύραν</reference>
-		<reference osisRef="MRK.3.16!10" type="DFE" label="" verse="MRK 3:16" >πέτρον</reference>
-		<reference osisRef="MRK.4.2!6" type="DFE" label="" verse="MRK 4:2" >πολλὰ</reference>
-		<reference osisRef="MRK.4.38!10" type="DFE" label="" verse="MRK 4:38" >καθεύδων</reference>
-		<reference osisRef="MRK.5.1!8-MRK.5.1!12" type="DFE" label="" verse="MRK 5:1" >εἰς τὴν χώραν τῶν γερασηνῶν</reference>
-		<reference osisRef="MRK.5.2!13-MRK.5.2!16" type="DFE" label="" verse="MRK 5:2" >ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ</reference>
-		<reference osisRef="MRK.5.11!7-MRK.5.11!10" type="DFE" label="" verse="MRK 5:11" >ἀγέλη χοίρων μεγάλη βοσκομένη</reference>
-		<reference osisRef="MRK.5.19!13-MRK.5.19!15" type="DFE" label="" verse="MRK 5:19" >πρὸς τοὺς σοὺς</reference>
-		<reference osisRef="MRK.5.20!9-MRK.5.20!13" type="DFE" label="" verse="MRK 5:20" >ὅσα ἐποίησεν αὐτῷ ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.5.25!7-MRK.5.25!8" type="DFE" label="" verse="MRK 5:25" >δώδεκα ἔτη</reference>
-		<reference osisRef="MRK.5.27!9" type="DFE" label="" verse="MRK 5:27" >ὄπισθεν</reference>
-		<reference osisRef="MRK.6.25!18-MRK.6.25!22" type="DFE" label="" verse="MRK 6:25" >τὴν κεφαλὴν ἰωάννου τοῦ βαπτιστοῦ</reference>
-		<reference osisRef="MRK.6.31!9-MRK.6.31!11" type="DFE" label="" verse="MRK 6:31" >εἰς ἔρημον τόπον</reference>
-		<reference osisRef="MRK.6.32!9-MRK.6.32!10" type="DFE" label="" verse="MRK 6:32" >κατ’ ἰδίαν</reference>
-		<reference osisRef="MRK.6.37!8" type="DFE" label="" verse="MRK 6:37" >ὑμεῖς</reference>
-		<reference osisRef="MRK.6.45!16-MRK.6.45!17" type="DFE" label="" verse="MRK 6:45" >πρὸς βηθσαϊδάν</reference>
-		<reference osisRef="MRK.7.17!6-MRK.7.17!8" type="DFE" label="" verse="MRK 7:17" >ἀπὸ τοῦ ὄχλου</reference>
-		<reference osisRef="MRK.7.33!7-MRK.7.33!8" type="DFE" label="" verse="MRK 7:33" >κατ’ ἰδίαν</reference>
-		<reference osisRef="MRK.9.2!22-MRK.9.2!24" type="DFE" label="" verse="MRK 9:2" >κατ’ ἰδίαν μόνους</reference>
-		<reference osisRef="MRK.9.35!16" type="DFE" label="" verse="MRK 9:35" >ἔσχατος</reference>
-		<reference osisRef="MRK.9.35!19" type="DFE" label="" verse="MRK 9:35" >διάκονος</reference>
-		<reference osisRef="MRK.10.30!29-MRK.10.30!30" type="DFE" label="" verse="MRK 10:30" >ζωὴν αἰώνιον</reference>
-		<reference osisRef="MRK.10.45!17-MRK.10.45!19" type="DFE" label="" verse="MRK 10:45" >λύτρον ἀντὶ πολλῶν</reference>
-		<reference osisRef="MRK.11.4!9-MRK.11.4!12" type="DFE" label="" verse="MRK 11:4" >ἔξω ἐπὶ τοῦ ἀμφόδου</reference>
-		<reference osisRef="MRK.11.11!5-MRK.11.11!7" type="DFE" label="" verse="MRK 11:11" >εἰς τὸ ἱερὸν</reference>
-		<reference osisRef="MRK.12.2!8" type="DFE" label="" verse="MRK 12:2" >δοῦλον</reference>
-		<reference osisRef="MRK.13.3!16-MRK.13.3!22" type="DFE" label="" verse="MRK 13:3" >πέτρος καὶ ἰάκωβος καὶ ἰωάννης καὶ ἀνδρέας</reference>
-		<reference osisRef="MRK.13.22!16-MRK.13.22!17" type="DFE" label="" verse="MRK 13:22" >τοὺς ἐκλεκτούς</reference>
-		<reference osisRef="MRK.14.55!12" type="DFE" label="" verse="MRK 14:55" >μαρτυρίαν</reference>
-		<reference osisRef="MRK.15.17!9-MRK.15.17!10" type="DFE" label="" verse="MRK 15:17" >ἀκάνθινον στέφανον</reference>
-		<reference osisRef="MRK.15.38!9-MRK.15.38!12" type="DFE" label="" verse="MRK 15:38" >ἀπ’ ἄνωθεν ἕως κάτω</reference>
-		<reference osisRef="LUK.1.3!6" type="DFE" label="" verse="LUK 1:3" >ἀκριβῶς</reference>
-		<reference osisRef="LUK.1.5!9-LUK.1.5!15" type="DFE" label="" verse="LUK 1:5" >ἱερεύς τις ὀνόματι ζαχαρίας ἐξ ἐφημερίας ἀβιά</reference>
-		<reference osisRef="LUK.1.6!17" type="DFE" label="" verse="LUK 1:6" >ἄμεμπτοι</reference>
-		<reference osisRef="LUK.1.17!23-LUK.1.17!24" type="DFE" label="" verse="LUK 1:17" >λαὸν κατεσκευασμένον</reference>
-		<reference osisRef="LUK.1.27!1-LUK.1.27!10" type="DFE" label="" verse="LUK 1:27" >πρὸς παρθένον ἐμνηστευμένην ἀνδρὶ ᾧ ὄνομα ἰωσὴφ ἐξ οἴκου δαυὶδ</reference>
-		<reference osisRef="LUK.1.31!14" type="DFE" label="" verse="LUK 1:31" >ἰησοῦν</reference>
-		<reference osisRef="LUK.1.33!7-LUK.1.33!9" type="DFE" label="" verse="LUK 1:33" >εἰς τοὺς αἰῶνας</reference>
-		<reference osisRef="LUK.1.37!7-LUK.1.37!8" type="DFE" label="" verse="LUK 1:37" >πᾶν ῥῆμα</reference>
-		<reference osisRef="LUK.1.39!14-LUK.1.39!16" type="DFE" label="" verse="LUK 1:39" >εἰς πόλιν ἰούδα</reference>
-		<reference osisRef="LUK.1.55!13-LUK.1.55!15" type="DFE" label="" verse="LUK 1:55" >εἰς τὸν αἰῶνα</reference>
-		<reference osisRef="LUK.1.75!7-LUK.1.75!10" type="DFE" label="" verse="LUK 1:75" >πάσαις ταῖς ἡμέραις ἡμῶν</reference>
-		<reference osisRef="LUK.1.77!5-LUK.1.77!7" type="DFE" label="" verse="LUK 1:77" >τῷ λαῷ αὐτοῦ</reference>
-		<reference osisRef="LUK.1.78!1-LUK.1.78!5" type="DFE" label="" verse="LUK 1:78" >διὰ σπλάγχνα ἐλέους θεοῦ ἡμῶν</reference>
-		<reference osisRef="LUK.2.2!8" type="DFE" label="" verse="LUK 2:2" >κυρηνίου</reference>
-		<reference osisRef="LUK.2.4!14-LUK.2.4!19" type="DFE" label="" verse="LUK 2:4" >εἰς πόλιν δαυὶδ ἥτις καλεῖται βηθλέεμ</reference>
-		<reference osisRef="LUK.2.11!5" type="DFE" label="" verse="LUK 2:11" >σωτὴρ</reference>
-		<reference osisRef="LUK.2.13!7-LUK.2.13!9" type="DFE" label="" verse="LUK 2:13" >πλῆθος στρατιᾶς οὐρανίου</reference>
-		<reference osisRef="LUK.2.21!14" type="DFE" label="" verse="LUK 2:21" >ἰησοῦς</reference>
-		<reference osisRef="LUK.2.27!6-LUK.2.27!8" type="DFE" label="" verse="LUK 2:27" >εἰς τὸ ἱερόν</reference>
-		<reference osisRef="LUK.2.29!11-LUK.2.29!12" type="DFE" label="" verse="LUK 2:29" >ἐν εἰρήνῃ</reference>
-		<reference osisRef="LUK.2.39!14-LUK.2.39!17" type="DFE" label="" verse="LUK 2:39" >εἰς πόλιν ἑαυτῶν ναζαρέθ</reference>
-		<reference osisRef="LUK.2.41!10-LUK.2.41!13" type="DFE" label="" verse="LUK 2:41" >τῇ ἑορτῇ τοῦ πάσχα</reference>
-		<reference osisRef="LUK.3.2!14-LUK.3.2!16" type="DFE" label="" verse="LUK 3:2" >ἐν τῇ ἐρήμῳ</reference>
-		<reference osisRef="LUK.4.1!15-LUK.4.1!17" type="DFE" label="" verse="LUK 4:1" >ἐν τῇ ἐρήμῳ</reference>
-		<reference osisRef="LUK.4.11!11-LUK.4.11!13" type="DFE" label="" verse="LUK 4:11" >τὸν πόδα σου</reference>
-		<reference osisRef="LUK.4.14!10-LUK.4.14!12" type="DFE" label="" verse="LUK 4:14" >εἰς τὴν γαλιλαίαν</reference>
-		<reference osisRef="LUK.4.16!19-LUK.4.16!21" type="DFE" label="" verse="LUK 4:16" >εἰς τὴν συναγωγὴν</reference>
-		<reference osisRef="LUK.4.18!15" type="DFE" label="" verse="LUK 4:18" >ἄφεσιν</reference>
-		<reference osisRef="LUK.4.18!18" type="DFE" label="" verse="LUK 4:18" >ἀνάβλεψιν</reference>
-		<reference osisRef="LUK.4.19!4" type="DFE" label="" verse="LUK 4:19" >δεκτόν</reference>
-		<reference osisRef="LUK.4.25!13-LUK.4.25!15" type="DFE" label="" verse="LUK 4:25" >ἐν τῷ ἰσραήλ</reference>
-		<reference osisRef="LUK.4.26!13-LUK.4.26!15" type="DFE" label="" verse="LUK 4:26" >πρὸς γυναῖκα χήραν</reference>
-		<reference osisRef="LUK.4.27!8-LUK.4.27!11" type="DFE" label="" verse="LUK 4:27" >ἐπὶ ἐλισαίου τοῦ προφήτου</reference>
-		<reference osisRef="LUK.5.18!7-LUK.5.18!10" type="DFE" label="" verse="LUK 5:18" >ἄνθρωπον ὃς ἦν παραλελυμένος</reference>
-		<reference osisRef="LUK.5.19!25-LUK.5.19!27" type="DFE" label="" verse="LUK 5:19" >ἔμπροσθεν τοῦ ἰησοῦ</reference>
-		<reference osisRef="LUK.6.22!21-LUK.6.22!25" type="DFE" label="" verse="LUK 6:22" >ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου</reference>
-		<reference osisRef="LUK.6.23!24-LUK.6.23!26" type="DFE" label="" verse="LUK 6:23" >οἱ πατέρες αὐτῶν</reference>
-		<reference osisRef="LUK.6.26!16-LUK.6.26!18" type="DFE" label="" verse="LUK 6:26" >οἱ πατέρες αὐτῶν</reference>
-		<reference osisRef="LUK.7.37!9" type="DFE" label="" verse="LUK 7:37" >ἁμαρτωλός</reference>
-		<reference osisRef="LUK.8.29!30-LUK.8.29!32" type="DFE" label="" verse="LUK 8:29" >εἰς τὰς ἐρήμους</reference>
-		<reference osisRef="LUK.8.33!19-LUK.8.33!21" type="DFE" label="" verse="LUK 8:33" >εἰς τὴν λίμνην</reference>
-		<reference osisRef="LUK.9.10!15-LUK.9.10!18" type="DFE" label="" verse="LUK 9:10" >εἰς πόλιν καλουμένην βηθσαϊδά</reference>
-		<reference osisRef="LUK.9.13!7" type="DFE" label="" verse="LUK 9:13" >ὑμεῖς</reference>
-		<reference osisRef="LUK.9.13!32" type="DFE" label="" verse="LUK 9:13" >βρώματα</reference>
-		<reference osisRef="LUK.9.14!17" type="DFE" label="" verse="LUK 9:14" >πεντήκοντα</reference>
-		<reference osisRef="LUK.9.36!20-LUK.9.36!22" type="DFE" label="" verse="LUK 9:36" >οὐδὲν ὧν ἑώρακαν</reference>
-		<reference osisRef="LUK.10.1!19-LUK.10.1!27" type="DFE" label="" verse="LUK 10:1" >εἰς πᾶσαν πόλιν καὶ τόπον οὗ ἤμελλεν αὐτὸς ἔρχεσθαι</reference>
-		<reference osisRef="LUK.10.23!6-LUK.10.23!7" type="DFE" label="" verse="LUK 10:23" >κατ’ ἰδίαν</reference>
-		<reference osisRef="LUK.11.46!13-LUK.11.46!14" type="DFE" label="" verse="LUK 11:46" >φορτία δυσβάστακτα</reference>
-		<reference osisRef="LUK.12.1!26-LUK.12.1!27" type="DFE" label="" verse="LUK 12:1" >τῶν φαρισαίων</reference>
-		<reference osisRef="LUK.12.12!11-LUK.12.12!13" type="DFE" label="" verse="LUK 12:12" >ἃ δεῖ εἰπεῖν</reference>
-		<reference osisRef="LUK.12.42!25-LUK.12.42!26" type="DFE" label="" verse="LUK 12:42" >τὸ σιτομέτριον</reference>
-		<reference osisRef="LUK.12.52!6-LUK.12.52!10" type="DFE" label="" verse="LUK 12:52" >πέντε ἐν ἑνὶ οἴκῳ διαμεμερισμένοι</reference>
-		<reference osisRef="LUK.13.10!8-LUK.13.10!10" type="DFE" label="" verse="LUK 13:10" >ἐν τοῖς σάββασιν</reference>
-		<reference osisRef="LUK.13.16!11-LUK.13.16!14" type="DFE" label="" verse="LUK 13:16" >δέκα καὶ ὀκτὼ ἔτη</reference>
-		<reference osisRef="LUK.13.16!22-LUK.13.16!25" type="DFE" label="" verse="LUK 13:16" >τῇ ἡμέρᾳ τοῦ σαββάτου</reference>
-		<reference osisRef="LUK.14.7!6" type="DFE" label="" verse="LUK 14:7" >παραβολήν</reference>
-		<reference osisRef="LUK.15.10!11-LUK.15.10!14" type="DFE" label="" verse="LUK 15:10" >ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι</reference>
-		<reference osisRef="LUK.16.19!14" type="DFE" label="" verse="LUK 16:19" >λαμπρῶς</reference>
-		<reference osisRef="LUK.16.22!12-LUK.16.22!15" type="DFE" label="" verse="LUK 16:22" >εἰς τὸν κόλπον ἀβραάμ</reference>
-		<reference osisRef="LUK.16.24!19" type="DFE" label="" verse="LUK 16:24" >ὕδατος</reference>
-		<reference osisRef="LUK.18.9!17-LUK.18.9!19" type="DFE" label="" verse="LUK 18:9" >τὴν παραβολὴν ταύτην</reference>
-		<reference osisRef="LUK.19.29!9-LUK.19.29!14" type="DFE" label="" verse="LUK 19:29" >πρὸς τὸ ὄρος τὸ καλούμενον ἐλαιῶν</reference>
-		<reference osisRef="LUK.19.42!11-LUK.19.42!13" type="DFE" label="" verse="LUK 19:42" >τὰ πρὸς εἰρήνην</reference>
-		<reference osisRef="LUK.19.47!7-LUK.19.47!9" type="DFE" label="" verse="LUK 19:47" >ἐν τῷ ἱερῷ</reference>
-		<reference osisRef="LUK.20.10!7" type="DFE" label="" verse="LUK 20:10" >δοῦλον</reference>
-		<reference osisRef="LUK.20.10!22" type="DFE" label="" verse="LUK 20:10" >κενόν</reference>
-		<reference osisRef="LUK.20.16!11" type="DFE" label="" verse="LUK 20:16" >ἄλλοις</reference>
-		<reference osisRef="LUK.20.25!10" type="DFE" label="" verse="LUK 20:25" >καίσαρι</reference>
-		<reference osisRef="LUK.20.25!15-LUK.20.25!16" type="DFE" label="" verse="LUK 20:25" >τῷ θεῷ</reference>
-		<reference osisRef="LUK.20.28!26-LUK.20.28!28" type="DFE" label="" verse="LUK 20:28" >τῷ ἀδελφῷ αὐτοῦ</reference>
-		<reference osisRef="LUK.20.37!15-LUK.20.37!23" type="DFE" label="" verse="LUK 20:37" >τὸν θεὸν ἀβραὰμ καὶ θεὸν ἰσαὰκ καὶ θεὸν ἰακώβ</reference>
-		<reference osisRef="LUK.20.43!7-LUK.20.43!10" type="DFE" label="" verse="LUK 20:43" >ὑποπόδιον τῶν ποδῶν σου</reference>
-		<reference osisRef="LUK.21.1!12" type="DFE" label="" verse="LUK 21:1" >πλουσίους</reference>
-		<reference osisRef="LUK.21.12!24-LUK.21.12!27" type="DFE" label="" verse="LUK 21:12" >ἕνεκεν τοῦ ὀνόματός μου</reference>
-		<reference osisRef="LUK.21.17!6-LUK.21.17!9" type="DFE" label="" verse="LUK 21:17" >διὰ τὸ ὄνομά μου</reference>
-		<reference osisRef="LUK.21.27!11-LUK.21.27!15" type="DFE" label="" verse="LUK 21:27" >μετὰ δυνάμεως καὶ δόξης πολλῆς</reference>
-		<reference osisRef="LUK.22.18!16-LUK.22.18!22" type="DFE" label="" verse="LUK 22:18" >ἕως οὗ ἡ βασιλεία τοῦ θεοῦ ἔλθῃ</reference>
-		<reference osisRef="LUK.22.29!10" type="DFE" label="" verse="LUK 22:29" >βασιλείαν</reference>
-		<reference osisRef="LUK.22.30!9-LUK.22.30!12" type="DFE" label="" verse="LUK 22:30" >ἐν τῇ βασιλείᾳ μου</reference>
-		<reference osisRef="LUK.22.34!10" type="DFE" label="" verse="LUK 22:34" >ἀλέκτωρ</reference>
-		<reference osisRef="LUK.22.38!8" type="DFE" label="" verse="LUK 22:38" >δύο</reference>
-		<reference osisRef="LUK.22.39!7-LUK.22.39!11" type="DFE" label="" verse="LUK 22:39" >εἰς τὸ ὄρος τῶν ἐλαιῶν</reference>
-		<reference osisRef="LUK.23.12!14-LUK.23.12!15" type="DFE" label="" verse="LUK 23:12" >μετ’ ἀλλήλων</reference>
-		<reference osisRef="LUK.23.55!11" type="DFE" label="" verse="LUK 23:55" >αὐτῷ</reference>
-		<reference osisRef="LUK.24.27!16-LUK.24.27!18" type="DFE" label="" verse="LUK 24:27" >τὰ περὶ ἑαυτοῦ</reference>
-		<reference osisRef="LUK.24.33!12-LUK.24.33!17" type="DFE" label="" verse="LUK 24:33" >τοὺς ἕνδεκα καὶ τοὺς σὺν αὐτοῖς</reference>
-		<reference osisRef="LUK.24.44!32-LUK.24.44!33" type="DFE" label="" verse="LUK 24:44" >περὶ ἐμοῦ</reference>
-		<reference osisRef="LUK.24.46!14-LUK.24.46!16" type="DFE" label="" verse="LUK 24:46" >τῇ τρίτῃ ἡμέρᾳ</reference>
-		<reference osisRef="LUK.24.47!11-LUK.24.47!14" type="DFE" label="" verse="LUK 24:47" >εἰς πάντα τὰ ἔθνη</reference>
-		<reference osisRef="JHN.1.19!16-JHN.1.19!18" type="DFE" label="" verse="JHN 1:19" >ἱερεῖς καὶ λευίτας</reference>
-		<reference osisRef="JHN.1.41!4-JHN.1.41!7" type="DFE" label="" verse="JHN 1:41" >τὸν ἀδελφὸν τὸν ἴδιον</reference>
-		<reference osisRef="JHN.2.14!6-JHN.2.14!16" type="DFE" label="" verse="JHN 2:14" >τοὺς πωλοῦντας βόας καὶ πρόβατα καὶ περιστερὰς καὶ τοὺς κερματιστὰς καθημένους</reference>
-		<reference osisRef="JHN.2.16!17-JHN.2.16!18" type="DFE" label="" verse="JHN 2:16" >οἶκον ἐμπορίου</reference>
-		<reference osisRef="JHN.3.25!10-JHN.3.25!11" type="DFE" label="" verse="JHN 3:25" >περὶ καθαρισμοῦ</reference>
-		<reference osisRef="JHN.3.30!3" type="DFE" label="" verse="JHN 3:30" >αὐξάνειν</reference>
-		<reference osisRef="JHN.3.30!6" type="DFE" label="" verse="JHN 3:30" >ἐλαττοῦσθαι</reference>
-		<reference osisRef="JHN.5.2!9-JHN.5.2!13" type="DFE" label="" verse="JHN 5:2" >κολυμβήθρα ἡ ἐπιλεγομένη ἑβραϊστὶ βηθζαθὰ</reference>
-		<reference osisRef="JHN.5.6!5" type="DFE" label="" verse="JHN 5:6" >κατακείμενον</reference>
-		<reference osisRef="JHN.5.24!29-JHN.5.24!31" type="DFE" label="" verse="JHN 5:24" >εἰς τὴν ζωήν</reference>
-		<reference osisRef="JHN.6.4!4-JHN.6.4!5" type="DFE" label="" verse="JHN 6:4" >τὸ πάσχα</reference>
-		<reference osisRef="JHN.6.11!17-JHN.6.11!18" type="DFE" label="" verse="JHN 6:11" >ὅσον ἤθελον</reference>
-		<reference osisRef="JHN.6.15!18-JHN.6.15!19" type="DFE" label="" verse="JHN 6:15" >αὐτὸς μόνος</reference>
-		<reference osisRef="JHN.6.49!8-JHN.6.49!9" type="DFE" label="" verse="JHN 6:49" >τὸ μάννα</reference>
-		<reference osisRef="JHN.7.39!10-JHN.7.39!13" type="DFE" label="" verse="JHN 7:39" >οἱ πιστεύσαντες εἰς αὐτόν</reference>
-		<reference osisRef="JHN.7.43!7-JHN.7.43!8" type="DFE" label="" verse="JHN 7:43" >δι’ αὐτόν</reference>
-		<reference osisRef="JHN.8.35!9-JHN.8.35!11" type="DFE" label="" verse="JHN 8:35" >εἰς τὸν αἰῶνα</reference>
-		<reference osisRef="JHN.8.55!18" type="DFE" label="" verse="JHN 8:55" >ψεύστης</reference>
-		<reference osisRef="JHN.10.23!8-JHN.10.23!12" type="DFE" label="" verse="JHN 10:23" >ἐν τῇ στοᾷ τοῦ σολομῶνος</reference>
-		<reference osisRef="JHN.10.40!7-JHN.10.40!15" type="DFE" label="" verse="JHN 10:40" >εἰς τὸν τόπον ὅπου ἦν ἰωάννης τὸ πρῶτον βαπτίζων</reference>
-		<reference osisRef="JHN.11.6!13-JHN.11.6!14" type="DFE" label="" verse="JHN 11:6" >δύο ἡμέρας</reference>
-		<reference osisRef="JHN.11.7!11" type="DFE" label="" verse="JHN 11:7" >πάλιν</reference>
-		<reference osisRef="JHN.11.24!11-JHN.11.24!14" type="DFE" label="" verse="JHN 11:24" >ἐν τῇ ἐσχάτῃ ἡμέρᾳ</reference>
-		<reference osisRef="JHN.11.44!10" type="DFE" label="" verse="JHN 11:44" >κειρίαις</reference>
-		<reference osisRef="JHN.11.54!19-JHN.11.54!22" type="DFE" label="" verse="JHN 11:54" >εἰς ἐφραὶμ λεγομένην πόλιν</reference>
-		<reference osisRef="JHN.11.55!4-JHN.11.55!7" type="DFE" label="" verse="JHN 11:55" >τὸ πάσχα τῶν ἰουδαίων</reference>
-		<reference osisRef="JHN.11.55!16-JHN.11.55!18" type="DFE" label="" verse="JHN 11:55" >πρὸ τοῦ πάσχα</reference>
-		<reference osisRef="JHN.13.1!21-JHN.13.1!23" type="DFE" label="" verse="JHN 13:1" >πρὸς τὸν πατέρα</reference>
-		<reference osisRef="JHN.14.21!29" type="DFE" label="" verse="JHN 14:21" >ἐμαυτόν</reference>
-		<reference osisRef="JHN.17.5!18-JHN.17.5!19" type="DFE" label="" verse="JHN 17:5" >παρὰ σοί</reference>
-		<reference osisRef="JHN.17.6!5-JHN.17.6!12" type="DFE" label="" verse="JHN 17:6" >τοῖς ἀνθρώποις οὓς ἔδωκάς μοι ἐκ τοῦ κόσμου</reference>
-		<reference osisRef="JHN.18.9!15" type="DFE" label="" verse="JHN 18:9" >οὐδένα</reference>
-		<reference osisRef="JHN.18.13!5" type="DFE" label="" verse="JHN 18:13" >πρῶτον</reference>
-		<reference osisRef="JHN.18.15!5-JHN.18.15!9" type="DFE" label="" verse="JHN 18:15" >σίμων πέτρος καὶ ἄλλος μαθητής</reference>
-		<reference osisRef="JHN.18.29!6-JHN.18.29!7" type="DFE" label="" verse="JHN 18:29" >πρὸς αὐτοὺς</reference>
-		<reference osisRef="JHN.19.6!20" type="DFE" label="" verse="JHN 19:6" >ὑμεῖς</reference>
-		<reference osisRef="JHN.19.9!6" type="DFE" label="" verse="JHN 19:9" >πάλιν</reference>
-		<reference osisRef="JHN.19.11!9" type="DFE" label="" verse="JHN 19:11" >οὐδεμίαν</reference>
-		<reference osisRef="JHN.19.13!16-JHN.19.13!19" type="DFE" label="" verse="JHN 19:13" >εἰς τόπον λεγόμενον λιθόστρωτον</reference>
-		<reference osisRef="JHN.19.17!15" type="DFE" label="" verse="JHN 19:17" >γολγοθα</reference>
-		<reference osisRef="JHN.19.25!8-JHN.19.25!24" type="DFE" label="" verse="JHN 19:25" >ἡ μήτηρ αὐτοῦ καὶ ἡ ἀδελφὴ τῆς μητρὸς αὐτοῦ μαρία ἡ τοῦ κλωπᾶ καὶ μαρία ἡ μαγδαληνή</reference>
-		<reference osisRef="JHN.19.34!13-JHN.19.34!15" type="DFE" label="" verse="JHN 19:34" >αἷμα καὶ ὕδωρ</reference>
-		<reference osisRef="JHN.19.41!8" type="DFE" label="" verse="JHN 19:41" >κῆπος</reference>
-		<reference osisRef="JHN.21.11!12-JHN.21.11!14" type="DFE" label="" verse="JHN 21:11" >μεστὸν ἰχθύων μεγάλων</reference>
-		<reference osisRef="JHN.21.20!18-JHN.21.20!21" type="DFE" label="" verse="JHN 21:20" >ἐπὶ τὸ στῆθος αὐτοῦ</reference>
-		<reference osisRef="ACT.1.3!10-ACT.1.3!12" type="DFE" label="" verse="ACT 1:3" >ἐν πολλοῖς τεκμηρίοις</reference>
-		<reference osisRef="ACT.1.12!5-ACT.1.12!9" type="DFE" label="" verse="ACT 1:12" >ἀπὸ ὄρους τοῦ καλουμένου ἐλαιῶνος</reference>
-		<reference osisRef="ACT.1.15!20-ACT.1.15!22" type="DFE" label="" verse="ACT 1:15" >ὡσεὶ ἑκατὸν εἴκοσι</reference>
-		<reference osisRef="ACT.1.16!16-ACT.1.16!17" type="DFE" label="" verse="ACT 1:16" >περὶ ἰούδα</reference>
-		<reference osisRef="ACT.1.19!17" type="DFE" label="" verse="ACT 1:19" >ἁκελδαμάχ</reference>
-		<reference osisRef="ACT.2.2!7-ACT.2.2!11" type="DFE" label="" verse="ACT 2:2" >ἦχος ὥσπερ φερομένης πνοῆς βιαίας</reference>
-		<reference osisRef="ACT.2.7!13" type="DFE" label="" verse="ACT 2:7" >γαλιλαῖοι</reference>
-		<reference osisRef="ACT.2.11!14-ACT.2.11!17" type="DFE" label="" verse="ACT 2:11" >τὰ μεγαλεῖα τοῦ θεοῦ</reference>
-		<reference osisRef="ACT.2.17!15-ACT.2.17!17" type="DFE" label="" verse="ACT 2:17" >ἐπὶ πᾶσαν σάρκα</reference>
-		<reference osisRef="ACT.2.25!11-ACT.2.25!12" type="DFE" label="" verse="ACT 2:25" >διὰ παντός</reference>
-		<reference osisRef="ACT.2.35!7-ACT.2.35!10" type="DFE" label="" verse="ACT 2:35" >ὑποπόδιον τῶν ποδῶν σου</reference>
-		<reference osisRef="ACT.2.38!16-ACT.2.38!20" type="DFE" label="" verse="ACT 2:38" >εἰς ἄφεσιν τῶν ἁμαρτιῶν ὑμῶν</reference>
-		<reference osisRef="ACT.2.41!15-ACT.2.41!17" type="DFE" label="" verse="ACT 2:41" >ψυχαὶ ὡσεὶ τρισχίλιαι</reference>
-		<reference osisRef="ACT.2.43!5" type="DFE" label="" verse="ACT 2:43" >φόβος</reference>
-		<reference osisRef="ACT.2.47!19-ACT.2.47!21" type="DFE" label="" verse="ACT 2:47" >ἐπὶ τὸ αὐτό</reference>
-		<reference osisRef="ACT.3.1!9-ACT.3.1!15" type="DFE" label="" verse="ACT 3:1" >ἐπὶ τὴν ὥραν τῆς προσευχῆς τὴν ἐνάτην</reference>
-		<reference osisRef="ACT.3.2!15-ACT.3.2!22" type="DFE" label="" verse="ACT 3:2" >πρὸς τὴν θύραν τοῦ ἱεροῦ τὴν λεγομένην ὡραίαν</reference>
-		<reference osisRef="ACT.4.2!13-ACT.4.2!17" type="DFE" label="" verse="ACT 4:2" >τὴν ἀνάστασιν τὴν ἐκ νεκρῶν</reference>
-		<reference osisRef="ACT.4.17!18-ACT.4.17!19" type="DFE" label="" verse="ACT 4:17" >μηδενὶ ἀνθρώπων</reference>
-		<reference osisRef="ACT.4.27!17-ACT.4.27!26" type="DFE" label="" verse="ACT 4:27" >ἡρῴδης τε καὶ πόντιος πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς ἰσραήλ</reference>
-		<reference osisRef="ACT.5.20!10-ACT.5.20!15" type="DFE" label="" verse="ACT 5:20" >πάντα τὰ ῥήματα τῆς ζωῆς ταύτης</reference>
-		<reference osisRef="ACT.5.36!15-ACT.5.36!17" type="DFE" label="" verse="ACT 5:36" >ἀριθμὸς ὡς τετρακοσίων</reference>
-		<reference osisRef="ACT.6.1!23-ACT.6.1!25" type="DFE" label="" verse="ACT 6:1" >αἱ χῆραι αὐτῶν</reference>
-		<reference osisRef="ACT.7.28!10-ACT.7.28!11" type="DFE" label="" verse="ACT 7:28" >τὸν αἰγύπτιον</reference>
-		<reference osisRef="ACT.7.30!13-ACT.7.30!17" type="DFE" label="" verse="ACT 7:30" >ἄγγελος ἐν φλογὶ πυρὸς βάτου</reference>
-		<reference osisRef="ACT.7.36!19-ACT.7.36!20" type="DFE" label="" verse="ACT 7:36" >ἔτη τεσσεράκοντα</reference>
-		<reference osisRef="ACT.7.37!19-ACT.7.37!20" type="DFE" label="" verse="ACT 7:37" >ὡς ἐμέ</reference>
-		<reference osisRef="ACT.7.39!17-ACT.7.39!18" type="DFE" label="" verse="ACT 7:39" >εἰς αἴγυπτον</reference>
-		<reference osisRef="ACT.7.45!24-ACT.7.45!27" type="DFE" label="" verse="ACT 7:45" >ἕως τῶν ἡμερῶν δαυίδ</reference>
-		<reference osisRef="ACT.8.1!14-ACT.8.1!21" type="DFE" label="" verse="ACT 8:1" >διωγμὸς μέγας ἐπὶ τὴν ἐκκλησίαν τὴν ἐν ἱεροσολύμοις</reference>
-		<reference osisRef="ACT.8.2!5-ACT.8.2!6" type="DFE" label="" verse="ACT 8:2" >ἄνδρες εὐλαβεῖς</reference>
-		<reference osisRef="ACT.8.6!10" type="DFE" label="" verse="ACT 8:6" >ὁμοθυμαδὸν</reference>
-		<reference osisRef="ACT.8.32!22" type="DFE" label="" verse="ACT 8:32" >ἄφωνος</reference>
-		<reference osisRef="ACT.8.33!19-ACT.8.33!21" type="DFE" label="" verse="ACT 8:33" >ἡ ζωὴ αὐτοῦ</reference>
-		<reference osisRef="ACT.9.2!7-ACT.9.2!9" type="DFE" label="" verse="ACT 9:2" >πρὸς τὰς συναγωγάς</reference>
-		<reference osisRef="ACT.9.11!19-ACT.9.11!21" type="DFE" label="" verse="ACT 9:11" >σαῦλον ὀνόματι ταρσέα</reference>
-		<reference osisRef="ACT.9.18!8-ACT.9.18!9" type="DFE" label="" verse="ACT 9:18" >ὡς λεπίδες</reference>
-		<reference osisRef="ACT.9.19!12-ACT.9.19!13" type="DFE" label="" verse="ACT 9:19" >ἡμέρας τινὰς</reference>
-		<reference osisRef="ACT.9.43!8-ACT.9.43!11" type="DFE" label="" verse="ACT 9:43" >παρά τινι σίμωνι βυρσεῖ</reference>
-		<reference osisRef="ACT.10.3!11-ACT.10.3!13" type="DFE" label="" verse="ACT 10:3" >ἄγγελον τοῦ θεοῦ</reference>
-		<reference osisRef="ACT.10.11!8-ACT.10.11!12" type="DFE" label="" verse="ACT 10:11" >σκεῦός τι ὡς ὀθόνην μεγάλην</reference>
-		<reference osisRef="ACT.10.27!8" type="DFE" label="" verse="ACT 10:27" >πολλούς</reference>
-		<reference osisRef="ACT.10.42!17-ACT.10.42!20" type="DFE" label="" verse="ACT 10:42" >κριτὴς ζώντων καὶ νεκρῶν</reference>
-		<reference osisRef="ACT.10.43!13-ACT.10.43!17" type="DFE" label="" verse="ACT 10:43" >πάντα τὸν πιστεύοντα εἰς αὐτόν</reference>
-		<reference osisRef="ACT.11.5!11" type="DFE" label="" verse="ACT 11:5" >ὅραμα</reference>
-		<reference osisRef="ACT.11.5!13-ACT.11.5!23" type="DFE" label="" verse="ACT 11:5" >σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς καθιεμένην ἐκ τοῦ οὐρανοῦ</reference>
-		<reference osisRef="ACT.11.11!16-ACT.11.11!17" type="DFE" label="" verse="ACT 11:11" >πρός με</reference>
-		<reference osisRef="ACT.11.26!27" type="DFE" label="" verse="ACT 11:26" >χριστιανούς</reference>
-		<reference osisRef="ACT.11.30!8-ACT.11.30!12" type="DFE" label="" verse="ACT 11:30" >διὰ χειρὸς βαρναβᾶ καὶ σαύλου</reference>
-		<reference osisRef="ACT.13.1!9-ACT.13.1!11" type="DFE" label="" verse="ACT 13:1" >προφῆται καὶ διδάσκαλοι</reference>
-		<reference osisRef="ACT.13.23!12" type="DFE" label="" verse="ACT 13:23" >σωτῆρα</reference>
-		<reference osisRef="ACT.13.24!10-ACT.13.24!13" type="DFE" label="" verse="ACT 13:24" >παντὶ τῷ λαῷ ἰσραήλ</reference>
-		<reference osisRef="ACT.14.1!24-ACT.14.1!25" type="DFE" label="" verse="ACT 14:1" >πολὺ πλῆθος</reference>
-		<reference osisRef="ACT.14.10!9" type="DFE" label="" verse="ACT 14:10" >ὀρθός</reference>
-		<reference osisRef="ACT.14.19!7" type="DFE" label="" verse="ACT 14:19" >ἰουδαῖοι</reference>
-		<reference osisRef="ACT.14.20!18-ACT.14.20!19" type="DFE" label="" verse="ACT 14:20" >εἰς δέρβην</reference>
-		<reference osisRef="ACT.14.23!6" type="DFE" label="" verse="ACT 14:23" >πρεσβυτέρους</reference>
-		<reference osisRef="ACT.14.27!19-ACT.14.27!20" type="DFE" label="" verse="ACT 14:27" >θύραν πίστεως</reference>
-		<reference osisRef="ACT.15.14!11-ACT.15.14!14" type="DFE" label="" verse="ACT 15:14" >λαὸν τῷ ὀνόματι αὐτοῦ</reference>
-		<reference osisRef="ACT.15.22!24-ACT.15.22!29" type="DFE" label="" verse="ACT 15:22" >ἰούδαν τὸν καλούμενον βαρσαββᾶν καὶ σιλᾶν</reference>
-		<reference osisRef="ACT.15.33!10-ACT.15.33!13" type="DFE" label="" verse="ACT 15:33" >πρὸς τοὺς ἀποστείλαντας αὐτούς</reference>
-		<reference osisRef="ACT.15.35!15-ACT.15.35!18" type="DFE" label="" verse="ACT 15:35" >τὸν λόγον τοῦ κυρίου</reference>
-		<reference osisRef="ACT.16.13!10-ACT.16.13!11" type="DFE" label="" verse="ACT 16:13" >παρὰ ποταμὸν</reference>
-		<reference osisRef="ACT.16.19!23-ACT.16.19!25" type="DFE" label="" verse="ACT 16:19" >ἐπὶ τοὺς ἄρχοντας</reference>
-		<reference osisRef="ACT.16.33!21" type="DFE" label="" verse="ACT 16:33" >παραχρῆμα</reference>
-		<reference osisRef="ACT.16.37!10" type="DFE" label="" verse="ACT 16:37" >ἀκατακρίτους</reference>
-		<reference osisRef="ACT.17.4!17-ACT.17.4!18" type="DFE" label="" verse="ACT 17:4" >πλῆθος πολύ</reference>
-		<reference osisRef="ACT.17.4!23-ACT.17.4!24" type="DFE" label="" verse="ACT 17:4" >οὐκ ὀλίγαι</reference>
-		<reference osisRef="ACT.17.5!9-ACT.17.5!11" type="DFE" label="" verse="ACT 17:5" >ἄνδρας τινὰς πονηροὺς</reference>
-		<reference osisRef="ACT.17.12!15-ACT.17.12!16" type="DFE" label="" verse="ACT 17:12" >οὐκ ὀλίγοι</reference>
-		<reference osisRef="ACT.17.17!7-ACT.17.17!11" type="DFE" label="" verse="ACT 17:17" >τοῖς ἰουδαίοις καὶ τοῖς σεβομένοις</reference>
-		<reference osisRef="ACT.17.17!19-ACT.17.17!21" type="DFE" label="" verse="ACT 17:17" >πρὸς τοὺς παρατυγχάνοντας</reference>
-		<reference osisRef="ACT.17.26!5-ACT.17.26!7" type="DFE" label="" verse="ACT 17:26" >πᾶν ἔθνος ἀνθρώπων</reference>
-		<reference osisRef="ACT.17.32!15-ACT.17.32!16" type="DFE" label="" verse="ACT 17:32" >καὶ πάλιν</reference>
-		<reference osisRef="ACT.18.4!6-ACT.18.4!8" type="DFE" label="" verse="ACT 18:4" >κατὰ πᾶν σάββατον</reference>
-		<reference osisRef="ACT.18.5!24" type="DFE" label="" verse="ACT 18:5" >ἰησοῦν</reference>
-		<reference osisRef="ACT.18.9!9-ACT.18.9!10" type="DFE" label="" verse="ACT 18:9" >τῷ παύλῳ</reference>
-		<reference osisRef="ACT.18.18!24-ACT.18.18!25" type="DFE" label="" verse="ACT 18:18" >τὴν κεφαλήν</reference>
-		<reference osisRef="ACT.18.28!14" type="DFE" label="" verse="ACT 18:28" >ἰησοῦν</reference>
-		<reference osisRef="ACT.19.12!11-ACT.19.12!13" type="DFE" label="" verse="ACT 19:12" >σουδάρια ἢ σιμικίνθια</reference>
-		<reference osisRef="ACT.19.13!17-ACT.19.13!21" type="DFE" label="" verse="ACT 19:13" >τὸ ὄνομα τοῦ κυρίου ἰησοῦ</reference>
-		<reference osisRef="ACT.19.19!21-ACT.19.19!22" type="DFE" label="" verse="ACT 19:19" >μυριάδας πέντε</reference>
-		<reference osisRef="ACT.19.22!6-ACT.19.22!9" type="DFE" label="" verse="ACT 19:22" >δύο τῶν διακονούντων αὐτῷ</reference>
-		<reference osisRef="ACT.19.23!7-ACT.19.23!12" type="DFE" label="" verse="ACT 19:23" >τάραχος οὐκ ὀλίγος περὶ τῆς ὁδοῦ</reference>
-		<reference osisRef="ACT.19.24!13-ACT.19.24!15" type="DFE" label="" verse="ACT 19:24" >οὐκ ὀλίγην ἐργασίαν</reference>
-		<reference osisRef="ACT.20.6!9-ACT.20.6!10" type="DFE" label="" verse="ACT 20:6" >ἀπὸ φιλίππων</reference>
-		<reference osisRef="ACT.20.6!18-ACT.20.6!20" type="DFE" label="" verse="ACT 20:6" >ἄχρι ἡμερῶν πέντε</reference>
-		<reference osisRef="ACT.20.21!6-ACT.20.21!16" type="DFE" label="" verse="ACT 20:21" >τὴν εἰς θεὸν μετάνοιαν καὶ πίστιν εἰς τὸν κύριον ἡμῶν ἰησοῦν</reference>
-		<reference osisRef="ACT.21.5!17-ACT.21.5!20" type="DFE" label="" verse="ACT 21:5" >ἕως ἔξω τῆς πόλεως</reference>
-		<reference osisRef="ACT.21.19!15-ACT.21.19!18" type="DFE" label="" verse="ACT 21:19" >διὰ τῆς διακονίας αὐτοῦ</reference>
-		<reference osisRef="ACT.21.29!10-ACT.21.29!11" type="DFE" label="" verse="ACT 21:29" >σὺν αὐτῷ</reference>
-		<reference osisRef="ACT.21.35!13-ACT.21.35!17" type="DFE" label="" verse="ACT 21:35" >διὰ τὴν βίαν τοῦ ὄχλου</reference>
-		<reference osisRef="ACT.21.38!18-ACT.21.38!22" type="DFE" label="" verse="ACT 21:38" >τοὺς τετρακισχιλίους ἄνδρας τῶν σικαρίων</reference>
-		<reference osisRef="ACT.21.40!13-ACT.21.40!14" type="DFE" label="" verse="ACT 21:40" >τῷ λαῷ</reference>
-		<reference osisRef="ACT.22.3!16-ACT.22.3!19" type="DFE" label="" verse="ACT 22:3" >παρὰ τοὺς πόδας γαμαλιὴλ</reference>
-		<reference osisRef="ACT.22.4!13-ACT.22.4!16" type="DFE" label="" verse="ACT 22:4" >ἄνδρας τε καὶ γυναῖκας</reference>
-		<reference osisRef="ACT.22.18!11-ACT.22.18!12" type="DFE" label="" verse="ACT 22:18" >ἐξ ἰερουσαλήμ</reference>
-		<reference osisRef="ACT.22.19!15-ACT.22.19!18" type="DFE" label="" verse="ACT 22:19" >τοὺς πιστεύοντας ἐπὶ σέ</reference>
-		<reference osisRef="ACT.22.22!18-ACT.22.22!19" type="DFE" label="" verse="ACT 22:22" >τὸν τοιοῦτον</reference>
-		<reference osisRef="ACT.23.31!15-ACT.23.31!17" type="DFE" label="" verse="ACT 23:31" >εἰς τὴν ἀντιπατρίδα</reference>
-		<reference osisRef="ACT.23.33!10-ACT.23.33!11" type="DFE" label="" verse="ACT 23:33" >τῷ ἡγεμόνι</reference>
-		<reference osisRef="ACT.24.18!9-ACT.24.18!14" type="DFE" label="" verse="ACT 24:18" >οὐ μετὰ ὄχλου οὐδὲ μετὰ θορύβου</reference>
-		<reference osisRef="ACT.28.23!11" type="DFE" label="" verse="ACT 28:23" >πλείονες</reference>
-		<reference osisRef="ACT.28.31!17" type="DFE" label="" verse="ACT 28:31" >ἀκωλύτως</reference>
-		<reference osisRef="ROM.1.3!1-ROM.1.3!4" type="DFE" label="" verse="ROM 1:3" >περὶ τοῦ υἱοῦ αὐτοῦ</reference>
-		<reference osisRef="ROM.1.4!10-ROM.1.4!12" type="DFE" label="" verse="ROM 1:4" >ἐξ ἀναστάσεως νεκρῶν</reference>
-		<reference osisRef="ROM.1.8!10-ROM.1.8!12" type="DFE" label="" verse="ROM 1:8" >περὶ πάντων ὑμῶν</reference>
-		<reference osisRef="ROM.1.9!13-ROM.1.9!18" type="DFE" label="" verse="ROM 1:9" >ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ</reference>
-		<reference osisRef="ROM.1.16!12-ROM.1.16!14" type="DFE" label="" verse="ROM 1:16" >παντὶ τῷ πιστεύοντι</reference>
-		<reference osisRef="ROM.1.18!7-ROM.1.18!18" type="DFE" label="" verse="ROM 1:18" >ἐπὶ πᾶσαν ἀσέβειαν καὶ ἀδικίαν ἀνθρώπων τῶν τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων</reference>
-		<reference osisRef="ROM.1.24!12-ROM.1.24!13" type="DFE" label="" verse="ROM 1:24" >εἰς ἀκαθαρσίαν</reference>
-		<reference osisRef="ROM.3.8!10" type="DFE" label="" verse="ROM 3:8" >λέγειν</reference>
-		<reference osisRef="ROM.5.16!15-ROM.5.16!16" type="DFE" label="" verse="ROM 5:16" >εἰς κατάκριμα</reference>
-		<reference osisRef="ROM.5.16!23-ROM.5.16!24" type="DFE" label="" verse="ROM 5:16" >εἰς δικαίωμα</reference>
-		<reference osisRef="ROM.5.18!10-ROM.5.18!11" type="DFE" label="" verse="ROM 5:18" >εἰς κατάκριμα</reference>
-		<reference osisRef="ROM.5.18!20-ROM.5.18!22" type="DFE" label="" verse="ROM 5:18" >εἰς δικαίωσιν ζωῆς</reference>
-		<reference osisRef="ROM.6.13!6-ROM.6.13!9" type="DFE" label="" verse="ROM 6:13" >ὅπλα ἀδικίας τῇ ἁμαρτίᾳ</reference>
-		<reference osisRef="ROM.6.13!23-ROM.6.13!26" type="DFE" label="" verse="ROM 6:13" >ὅπλα δικαιοσύνης τῷ θεῷ</reference>
-		<reference osisRef="ROM.7.18!14" type="DFE" label="" verse="ROM 7:18" >ἀγαθόν</reference>
-		<reference osisRef="ROM.8.21!12-ROM.8.21!20" type="DFE" label="" verse="ROM 8:21" >εἰς τὴν ἐλευθερίαν τῆς δόξης τῶν τέκνων τοῦ θεοῦ</reference>
-		<reference osisRef="ROM.9.3!10-ROM.9.3!18" type="DFE" label="" verse="ROM 9:3" >ὑπὲρ τῶν ἀδελφῶν μου τῶν συγγενῶν μου κατὰ σάρκα</reference>
-		<reference osisRef="ROM.9.9!15" type="DFE" label="" verse="ROM 9:9" >υἱός</reference>
-		<reference osisRef="ROM.9.22!18-ROM.9.22!22" type="DFE" label="" verse="ROM 9:22" >σκεύη ὀργῆς κατηρτισμένα εἰς ἀπώλειαν</reference>
-		<reference osisRef="ROM.9.25!12-ROM.9.25!13" type="DFE" label="" verse="ROM 9:25" >λαόν μου</reference>
-		<reference osisRef="ROM.9.25!18" type="DFE" label="" verse="ROM 9:25" >ἠγαπημένην</reference>
-		<reference osisRef="ROM.11.13!13" type="DFE" label="" verse="ROM 11:13" >ἀπόστολος</reference>
-		<reference osisRef="ROM.11.26!11-ROM.11.26!12" type="DFE" label="" verse="ROM 11:26" >ὁ ῥυόμενος</reference>
-		<reference osisRef="ROM.12.1!14-ROM.12.1!19" type="DFE" label="" verse="ROM 12:1" >θυσίαν ζῶσαν ἁγίαν εὐάρεστον τῷ θεῷ</reference>
-		<reference osisRef="ROM.12.6!10" type="DFE" label="" verse="ROM 12:6" >διάφορα</reference>
-		<reference osisRef="ROM.12.10!5" type="DFE" label="" verse="ROM 12:10" >φιλόστοργοι</reference>
-		<reference osisRef="ROM.12.11!3-ROM.12.11!4" type="DFE" label="" verse="ROM 12:11" >μὴ ὀκνηροί</reference>
-		<reference osisRef="ROM.14.22!12-ROM.14.22!18" type="DFE" label="" verse="ROM 14:22" >ὁ μὴ κρίνων ἑαυτὸν ἐν ᾧ δοκιμάζει</reference>
-		<reference osisRef="ROM.15.2!9-ROM.15.2!10" type="DFE" label="" verse="ROM 15:2" >πρὸς οἰκοδομήν</reference>
-		<reference osisRef="ROM.15.11!7-ROM.15.11!8" type="DFE" label="" verse="ROM 15:11" >τὸν κύριον</reference>
-		<reference osisRef="ROM.15.13!22-ROM.15.13!25" type="DFE" label="" verse="ROM 15:13" >ἐν δυνάμει πνεύματος ἁγίου</reference>
-		<reference osisRef="ROM.16.2!6-ROM.16.2!8" type="DFE" label="" verse="ROM 16:2" >ἀξίως τῶν ἁγίων</reference>
-		<reference osisRef="ROM.16.20!13-ROM.16.20!14" type="DFE" label="" verse="ROM 16:20" >ἐν τάχει</reference>
-		<reference osisRef="ROM.16.22!9-ROM.16.22!10" type="DFE" label="" verse="ROM 16:22" >ἐν κυρίῳ</reference>
-		<reference osisRef="1CO.2.7!16-1CO.2.7!18" type="DFE" label="" verse="1CO 2:7" >εἰς δόξαν ἡμῶν</reference>
-		<reference osisRef="1CO.4.6!9-1CO.4.6!10" type="DFE" label="" verse="1CO 4:6" >δι’ ὑμᾶς</reference>
-		<reference osisRef="1CO.4.17!13-1CO.4.17!14" type="DFE" label="" verse="1CO 4:17" >ἐν κυρίῳ</reference>
-		<reference osisRef="1CO.5.1!5" type="DFE" label="" verse="1CO 5:1" >πορνεία</reference>
-		<reference osisRef="1CO.6.5!10-1CO.6.5!11" type="DFE" label="" verse="1CO 6:5" >οὐδεὶς σοφός</reference>
-		<reference osisRef="1CO.7.5!9-1CO.7.5!10" type="DFE" label="" verse="1CO 7:5" >πρὸς καιρόν</reference>
-		<reference osisRef="1CO.9.22!4" type="DFE" label="" verse="1CO 9:22" >ἀσθενής</reference>
-		<reference osisRef="1CO.10.8!11-1CO.10.8!13" type="DFE" label="" verse="1CO 10:8" >εἴκοσι τρεῖς χιλιάδες</reference>
-		<reference osisRef="1CO.10.13!25-1CO.10.13!27" type="DFE" label="" verse="1CO 10:13" >καὶ τὴν ἔκβασιν</reference>
-		<reference osisRef="1CO.11.10!11-1CO.11.10!13" type="DFE" label="" verse="1CO 11:10" >διὰ τοὺς ἀγγέλους</reference>
-		<reference osisRef="1CO.11.23!7-1CO.11.23!10" type="DFE" label="" verse="1CO 11:23" >ὃ καὶ παρέδωκα ὑμῖν</reference>
-		<reference osisRef="1CO.11.25!25-1CO.11.25!28" type="DFE" label="" verse="1CO 11:25" >εἰς τὴν ἐμὴν ἀνάμνησιν</reference>
-		<reference osisRef="1CO.12.18!14-1CO.12.18!15" type="DFE" label="" verse="1CO 12:18" >καθὼς ἠθέλησεν</reference>
-		<reference osisRef="1CO.13.12!6-1CO.13.12!7" type="DFE" label="" verse="1CO 13:12" >ἐν αἰνίγματι</reference>
-		<reference osisRef="1CO.14.11!12" type="DFE" label="" verse="1CO 14:11" >βάρβαρος</reference>
-		<reference osisRef="1CO.15.3!6-1CO.15.3!8" type="DFE" label="" verse="1CO 15:3" >ὃ καὶ παρέλαβον</reference>
-		<reference osisRef="1CO.15.3!16-1CO.15.3!18" type="DFE" label="" verse="1CO 15:3" >κατὰ τὰς γραφὰς</reference>
-		<reference osisRef="1CO.15.33!6-1CO.15.33!7" type="DFE" label="" verse="1CO 15:33" >ὁμιλίαι κακαί</reference>
-		<reference osisRef="1CO.15.55!4-1CO.15.55!5" type="DFE" label="" verse="1CO 15:55" >τὸ νῖκος</reference>
-		<reference osisRef="1CO.15.55!9-1CO.15.55!10" type="DFE" label="" verse="1CO 15:55" >τὸ κέντρον</reference>
-		<reference osisRef="1CO.15.58!14" type="DFE" label="" verse="1CO 15:58" >πάντοτε</reference>
-		<reference osisRef="1CO.16.19!12-1CO.16.19!14" type="DFE" label="" verse="1CO 16:19" >ἀκύλας καὶ πρίσκα</reference>
-		<reference osisRef="2CO.2.5!14-2CO.2.5!15" type="DFE" label="" verse="2CO 2:5" >πάντας ὑμᾶς</reference>
-		<reference osisRef="2CO.2.16!6-2CO.2.16!7" type="DFE" label="" verse="2CO 2:16" >εἰς θάνατον</reference>
-		<reference osisRef="2CO.2.16!13-2CO.2.16!14" type="DFE" label="" verse="2CO 2:16" >εἰς ζωήν</reference>
-		<reference osisRef="2CO.3.1!10-2CO.3.1!16" type="DFE" label="" verse="2CO 3:1" >συστατικῶν ἐπιστολῶν πρὸς ὑμᾶς ἢ ἐξ ὑμῶν</reference>
-		<reference osisRef="2CO.5.16!15" type="DFE" label="" verse="2CO 5:16" >χριστόν</reference>
-		<reference osisRef="2CO.8.22!11" type="DFE" label="" verse="2CO 8:22" >πολλάκις</reference>
-		<reference osisRef="2CO.10.15!23-2CO.10.15!24" type="DFE" label="" verse="2CO 10:15" >εἰς περισσείαν</reference>
-		<reference osisRef="GAL.1.6!13-GAL.1.6!15" type="DFE" label="" verse="GAL 1:6" >εἰς ἕτερον εὐαγγέλιον</reference>
-		<reference osisRef="GAL.1.17!5-GAL.1.17!9" type="DFE" label="" verse="GAL 1:17" >πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους</reference>
-		<reference osisRef="GAL.2.17!14" type="DFE" label="" verse="GAL 2:17" >διάκονος</reference>
-		<reference osisRef="GAL.2.20!3-GAL.2.20!4" type="DFE" label="" verse="GAL 2:20" >οὐκέτι ἐγώ</reference>
-		<reference osisRef="GAL.3.16!23-GAL.3.16!26" type="DFE" label="" verse="GAL 3:16" >καὶ τῷ σπέρματί σου</reference>
-		<reference osisRef="GAL.3.19!15" type="DFE" label="" verse="GAL 3:19" >ἐπήγγελται</reference>
-		<reference osisRef="GAL.3.19!19-GAL.3.19!21" type="DFE" label="" verse="GAL 3:19" >ἐν χειρὶ μεσίτου</reference>
-		<reference osisRef="GAL.4.18!6" type="DFE" label="" verse="GAL 4:18" >πάντοτε</reference>
-		<reference osisRef="GAL.5.7!2" type="DFE" label="" verse="GAL 5:7" >καλῶς</reference>
-		<reference osisRef="EPH.1.14!11-EPH.1.14!15" type="DFE" label="" verse="EPH 1:14" >εἰς ἔπαινον τῆς δόξης αὐτοῦ</reference>
-		<reference osisRef="EPH.2.7!8-EPH.2.7!20" type="DFE" label="" verse="EPH 2:7" >τὸ ὑπερβάλλον πλοῦτος τῆς χάριτος αὐτοῦ ἐν χρηστότητι ἐφ’ ἡμᾶς ἐν χριστῷ ἰησοῦ</reference>
-		<reference osisRef="EPH.2.16!10-EPH.2.16!12" type="DFE" label="" verse="EPH 2:16" >διὰ τοῦ σταυροῦ</reference>
-		<reference osisRef="EPH.3.16!16-EPH.3.16!19" type="DFE" label="" verse="EPH 3:16" >εἰς τὸν ἔσω ἄνθρωπον</reference>
-		<reference osisRef="EPH.3.17!7-EPH.3.17!10" type="DFE" label="" verse="EPH 3:17" >ἐν ταῖς καρδίαις ὑμῶν</reference>
-		<reference osisRef="EPH.3.17!13-EPH.3.17!15" type="DFE" label="" verse="EPH 3:17" >ἐρριζωμένοι καὶ τεθεμελιωμένοι</reference>
-		<reference osisRef="EPH.4.22!7-EPH.4.22!16" type="DFE" label="" verse="EPH 4:22" >τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης</reference>
-		<reference osisRef="EPH.4.28!12-EPH.4.28!13" type="DFE" label="" verse="EPH 4:28" >τὸ ἀγαθόν</reference>
-		<reference osisRef="EPH.5.19!16-EPH.5.19!17" type="DFE" label="" verse="EPH 5:19" >τῷ κυρίῳ</reference>
-		<reference osisRef="EPH.5.20!12-EPH.5.20!15" type="DFE" label="" verse="EPH 5:20" >τῷ θεῷ καὶ πατρί</reference>
-		<reference osisRef="EPH.6.5!17-EPH.6.5!19" type="DFE" label="" verse="EPH 6:5" >ὡς τῷ χριστῷ</reference>
-		<reference osisRef="EPH.6.18!10-EPH.6.18!11" type="DFE" label="" verse="EPH 6:18" >ἐν πνεύματι</reference>
-		<reference osisRef="EPH.6.18!21-EPH.6.18!24" type="DFE" label="" verse="EPH 6:18" >περὶ πάντων τῶν ἁγίων</reference>
-		<reference osisRef="EPH.6.22!5-EPH.6.22!7" type="DFE" label="" verse="EPH 6:22" >εἰς αὐτὸ τοῦτο</reference>
-		<reference osisRef="PHP.3.7!11" type="DFE" label="" verse="PHP 3:7" >ζημίαν</reference>
-		<reference osisRef="PHP.3.17!13" type="DFE" label="" verse="PHP 3:17" >ἡμᾶς</reference>
-		<reference osisRef="COL.2.9!10" type="DFE" label="" verse="COL 2:9" >σωματικῶς</reference>
-		<reference osisRef="COL.2.19!16-COL.2.19!18" type="DFE" label="" verse="COL 2:19" >ἐπιχορηγούμενον καὶ συμβιβαζόμενον</reference>
-		<reference osisRef="COL.3.3!11-COL.3.3!13" type="DFE" label="" verse="COL 3:3" >ἐν τῷ θεῷ</reference>
-		<reference osisRef="COL.3.12!10-COL.3.12!15" type="DFE" label="" verse="COL 3:12" >σπλάγχνα οἰκτιρμοῦ χρηστότητα ταπεινοφροσύνην πραΰτητα μακροθυμίαν</reference>
-		<reference osisRef="COL.3.16!28-COL.3.16!29" type="DFE" label="" verse="COL 3:16" >τῷ θεῷ</reference>
-		<reference osisRef="COL.3.22!6-COL.3.22!9" type="DFE" label="" verse="COL 3:22" >τοῖς κατὰ σάρκα κυρίοις</reference>
-		<reference osisRef="1TH.1.4!7-1TH.1.4!9" type="DFE" label="" verse="1TH 1:4" >τὴν ἐκλογὴν ὑμῶν</reference>
-		<reference osisRef="1TH.1.6!15-1TH.1.6!18" type="DFE" label="" verse="1TH 1:6" >μετὰ χαρᾶς πνεύματος ἁγίου</reference>
-		<reference osisRef="1TH.1.9!17-1TH.1.9!19" type="DFE" label="" verse="1TH 1:9" >ἀπὸ τῶν εἰδώλων</reference>
-		<reference osisRef="1TH.2.2!7-1TH.2.2!8" type="DFE" label="" verse="1TH 2:2" >ἐν φιλίπποις</reference>
-		<reference osisRef="1TH.2.9!4-1TH.2.9!9" type="DFE" label="" verse="1TH 2:9" >τὸν κόπον ἡμῶν καὶ τὸν μόχθον</reference>
-		<reference osisRef="1TH.2.13!16-1TH.2.13!17" type="DFE" label="" verse="1TH 2:13" >τοῦ θεοῦ</reference>
-		<reference osisRef="1TH.2.13!26-1TH.2.13!27" type="DFE" label="" verse="1TH 2:13" >λόγον θεοῦ</reference>
-		<reference osisRef="1TH.2.17!10-1TH.2.17!12" type="DFE" label="" verse="1TH 2:17" >προσώπῳ οὐ καρδίᾳ</reference>
-		<reference osisRef="1TH.2.19!19-1TH.2.19!22" type="DFE" label="" verse="1TH 2:19" >ἐν τῇ αὐτοῦ παρουσίᾳ</reference>
-		<reference osisRef="1TH.3.6!7-1TH.3.6!8" type="DFE" label="" verse="1TH 3:6" >ἀφ’ ὑμῶν</reference>
-		<reference osisRef="1TH.3.7!5-1TH.3.7!6" type="DFE" label="" verse="1TH 3:7" >ἐφ’ ὑμῖν</reference>
-		<reference osisRef="1TH.3.7!14-1TH.3.7!17" type="DFE" label="" verse="1TH 3:7" >διὰ τῆς ὑμῶν πίστεως</reference>
-		<reference osisRef="1TH.4.6!9-1TH.4.6!11" type="DFE" label="" verse="1TH 4:6" >τὸν ἀδελφὸν αὐτοῦ</reference>
-		<reference osisRef="1TH.4.13!7-1TH.4.13!9" type="DFE" label="" verse="1TH 4:13" >περὶ τῶν κοιμωμένων</reference>
-		<reference osisRef="1TH.4.17!13-1TH.4.17!18" type="DFE" label="" verse="1TH 4:17" >εἰς ἀπάντησιν τοῦ κυρίου εἰς ἀέρα</reference>
-		<reference osisRef="1TH.5.13!7-1TH.5.13!10" type="DFE" label="" verse="1TH 5:13" >διὰ τὸ ἔργον αὐτῶν</reference>
-		<reference osisRef="2TH.1.6!9" type="DFE" label="" verse="2TH 1:6" >θλῖψιν</reference>
-		<reference osisRef="2TH.3.1!5-2TH.3.1!6" type="DFE" label="" verse="2TH 3:1" >περὶ ἡμῶν</reference>
-		<reference osisRef="2TH.3.16!13-2TH.3.16!15" type="DFE" label="" verse="2TH 3:16" >ἐν παντὶ τρόπῳ</reference>
-		<reference osisRef="1TI.4.3!13-1TI.4.3!18" type="DFE" label="" verse="1TI 4:3" >τοῖς πιστοῖς καὶ ἐπεγνωκόσι τὴν ἀλήθειαν</reference>
-		<reference osisRef="1TI.5.2!7-1TI.5.2!9" type="DFE" label="" verse="1TI 5:2" >ἐν πάσῃ ἁγνείᾳ</reference>
-		<reference osisRef="1TI.6.6!5-1TI.6.6!8" type="DFE" label="" verse="1TI 6:6" >ἡ εὐσέβεια μετὰ αὐταρκείας</reference>
-		<reference osisRef="1TI.6.16!14" type="DFE" label="" verse="1TI 6:16" >δύναται</reference>
-		<reference osisRef="2TI.1.3!9-2TI.1.3!11" type="DFE" label="" verse="2TI 1:3" >ἐν καθαρᾷ συνειδήσει</reference>
-		<reference osisRef="2TI.1.3!23-2TI.1.3!25" type="DFE" label="" verse="2TI 1:3" >νυκτὸς καὶ ἡμέρας</reference>
-		<reference osisRef="2TI.1.9!25-2TI.1.9!27" type="DFE" label="" verse="2TI 1:9" >πρὸ χρόνων αἰωνίων</reference>
-		<reference osisRef="TIT.1.5!15" type="DFE" label="" verse="TIT 1:5" >πρεσβυτέρους</reference>
-		<reference osisRef="TIT.1.16!17" type="DFE" label="" verse="TIT 1:16" >ἀδόκιμοι</reference>
-		<reference osisRef="TIT.2.3!5" type="DFE" label="" verse="TIT 2:3" >ἱεροπρεπεῖς</reference>
-		<reference osisRef="PHM.1.11!4" type="DFE" label="" verse="PHM 1:11" >ἄχρηστον</reference>
-		<reference osisRef="HEB.2.7!5-HEB.2.7!6" type="DFE" label="" verse="HEB 2:7" >παρ’ ἀγγέλους</reference>
-		<reference osisRef="HEB.3.3!15-HEB.3.3!17" type="DFE" label="" verse="HEB 3:3" >ὁ κατασκευάσας αὐτόν</reference>
-		<reference osisRef="HEB.3.5!10-HEB.3.5!11" type="DFE" label="" verse="HEB 3:5" >ὡς θεράπων</reference>
-		<reference osisRef="HEB.4.3!6-HEB.4.3!7" type="DFE" label="" verse="HEB 4:3" >οἱ πιστεύσαντες</reference>
-		<reference osisRef="HEB.4.4!7" type="DFE" label="" verse="HEB 4:4" >οὕτως</reference>
-		<reference osisRef="HEB.4.4!17-HEB.4.4!21" type="DFE" label="" verse="HEB 4:4" >ἀπὸ πάντων τῶν ἔργων αὐτοῦ</reference>
-		<reference osisRef="HEB.4.15!17-HEB.4.15!18" type="DFE" label="" verse="HEB 4:15" >χωρὶς ἁμαρτίας</reference>
-		<reference osisRef="HEB.4.16!5-HEB.4.16!8" type="DFE" label="" verse="HEB 4:16" >τῷ θρόνῳ τῆς χάριτος</reference>
-		<reference osisRef="HEB.5.8!8-HEB.5.8!9" type="DFE" label="" verse="HEB 5:8" >τὴν ὑπακοήν</reference>
-		<reference osisRef="HEB.5.9!8-HEB.5.9!10" type="DFE" label="" verse="HEB 5:9" >αἴτιος σωτηρίας αἰωνίου</reference>
-		<reference osisRef="HEB.5.10!5-HEB.5.10!9" type="DFE" label="" verse="HEB 5:10" >ἀρχιερεὺς κατὰ τὴν τάξιν μελχισέδεκ</reference>
-		<reference osisRef="HEB.6.9!6-HEB.6.9!10" type="DFE" label="" verse="HEB 6:9" >τὰ κρείσσονα καὶ ἐχόμενα σωτηρίας</reference>
-		<reference osisRef="HEB.6.17!12-HEB.6.17!16" type="DFE" label="" verse="HEB 6:17" >τὸ ἀμετάθετον τῆς βουλῆς αὐτοῦ</reference>
-		<reference osisRef="HEB.8.4!14-HEB.8.4!15" type="DFE" label="" verse="HEB 8:4" >κατὰ νόμον</reference>
-		<reference osisRef="HEB.8.8!21-HEB.8.8!22" type="DFE" label="" verse="HEB 8:8" >διαθήκην καινήν</reference>
-		<reference osisRef="HEB.9.19!10-HEB.9.19!12" type="DFE" label="" verse="HEB 9:19" >παντὶ τῷ λαῷ</reference>
-		<reference osisRef="HEB.9.25!15-HEB.9.25!17" type="DFE" label="" verse="HEB 9:25" >ἐν αἵματι ἀλλοτρίῳ</reference>
-		<reference osisRef="HEB.10.7!15-HEB.10.7!17" type="DFE" label="" verse="HEB 10:7" >τὸ θέλημά σου</reference>
-		<reference osisRef="HEB.10.10!13" type="DFE" label="" verse="HEB 10:10" >ἐφάπαξ</reference>
-		<reference osisRef="HEB.10.14!8-HEB.10.14!9" type="DFE" label="" verse="HEB 10:14" >τοὺς ἁγιαζομένους</reference>
-		<reference osisRef="HEB.10.22!5-HEB.10.22!7" type="DFE" label="" verse="HEB 10:22" >ἐν πληροφορίᾳ πίστεως</reference>
-		<reference osisRef="HEB.10.22!18-HEB.10.22!19" type="DFE" label="" verse="HEB 10:22" >ὕδατι καθαρῷ</reference>
-		<reference osisRef="HEB.11.4!20-HEB.11.4!21" type="DFE" label="" verse="HEB 11:4" >τοῦ θεοῦ</reference>
-		<reference osisRef="HEB.11.9!7-HEB.11.9!8" type="DFE" label="" verse="HEB 11:9" >ὡς ἀλλοτρίαν</reference>
-		<reference osisRef="HEB.11.26!7-HEB.11.26!10" type="DFE" label="" verse="HEB 11:26" >τὸν ὀνειδισμὸν τοῦ χριστοῦ</reference>
-		<reference osisRef="HEB.11.32!11-HEB.11.32!22" type="DFE" label="" verse="HEB 11:32" >περὶ γεδεών βαράκ σαμψών ἰεφθάε δαυίδ τε καὶ σαμουὴλ καὶ τῶν προφητῶν</reference>
-		<reference osisRef="HEB.13.17!14-HEB.13.17!16" type="DFE" label="" verse="HEB 13:17" >ὡς λόγον ἀποδώσοντες</reference>
-		<reference osisRef="JAS.1.18!14" type="DFE" label="" verse="JAS 1:18" >κτισμάτων</reference>
-		<reference osisRef="JAS.2.2!7-JAS.2.2!11" type="DFE" label="" verse="JAS 2:2" >ἀνὴρ χρυσοδακτύλιος ἐν ἐσθῆτι λαμπρᾷ</reference>
-		<reference osisRef="JAS.2.3!15" type="DFE" label="" verse="JAS 2:3" >καλῶς</reference>
-		<reference osisRef="JAS.2.9!10-JAS.2.9!11" type="DFE" label="" verse="JAS 2:9" >ὡς παραβάται</reference>
-		<reference osisRef="JAS.2.18!25-JAS.2.18!26" type="DFE" label="" verse="JAS 2:18" >τὴν πίστιν</reference>
-		<reference osisRef="JAS.3.13!15-JAS.3.13!17" type="DFE" label="" verse="JAS 3:13" >ἐν πραΰτητι σοφίας</reference>
-		<reference osisRef="JAS.5.7!4-JAS.5.7!8" type="DFE" label="" verse="JAS 5:7" >ἕως τῆς παρουσίας τοῦ κυρίου</reference>
-		<reference osisRef="JAS.5.9!4-JAS.5.9!5" type="DFE" label="" verse="JAS 5:9" >κατ’ ἀλλήλων</reference>
-		<reference osisRef="JAS.5.10!9-JAS.5.10!16" type="DFE" label="" verse="JAS 5:10" >τοὺς προφήτας οἳ ἐλάλησαν ἐν τῷ ὀνόματι κυρίου</reference>
-		<reference osisRef="JAS.5.17!18-JAS.5.17!22" type="DFE" label="" verse="JAS 5:17" >ἐνιαυτοὺς τρεῖς καὶ μῆνας ἕξ</reference>
-		<reference osisRef="1PE.1.3!22-1PE.1.3!27" type="DFE" label="" verse="1PE 1:3" >δι’ ἀναστάσεως ἰησοῦ χριστοῦ ἐκ νεκρῶν</reference>
-		<reference osisRef="1PE.1.4!11-1PE.1.4!12" type="DFE" label="" verse="1PE 1:4" >εἰς ὑμᾶς</reference>
-		<reference osisRef="1PE.1.5!8-1PE.1.5!14" type="DFE" label="" verse="1PE 1:5" >εἰς σωτηρίαν ἑτοίμην ἀποκαλυφθῆναι ἐν καιρῷ ἐσχάτῳ</reference>
-		<reference osisRef="1PE.1.7!22-1PE.1.7!25" type="DFE" label="" verse="1PE 1:7" >ἐν ἀποκαλύψει ἰησοῦ χριστοῦ</reference>
-		<reference osisRef="1PE.1.20!12-1PE.1.20!13" type="DFE" label="" verse="1PE 1:20" >δι’ ὑμᾶς</reference>
-		<reference osisRef="1PE.1.22!10-1PE.1.22!12" type="DFE" label="" verse="1PE 1:22" >εἰς φιλαδελφίαν ἀνυπόκριτον</reference>
-		<reference osisRef="1PE.1.23!8-1PE.1.23!13" type="DFE" label="" verse="1PE 1:23" >διὰ λόγου ζῶντος θεοῦ καὶ μένοντος</reference>
-		<reference osisRef="1PE.2.6!9-1PE.2.6!10" type="DFE" label="" verse="1PE 2:6" >λίθον ἀκρογωνιαῖον</reference>
-		<reference osisRef="1PE.2.18!7-1PE.2.18!8" type="DFE" label="" verse="1PE 2:18" >τοῖς δεσπόταις</reference>
-		<reference osisRef="1PE.2.24!11-1PE.2.24!13" type="DFE" label="" verse="1PE 2:24" >ἐπὶ τὸ ξύλον</reference>
-		<reference osisRef="1PE.3.4!20" type="DFE" label="" verse="1PE 3:4" >πολυτελές</reference>
-		<reference osisRef="1PE.3.7!7-1PE.3.7!9" type="DFE" label="" verse="1PE 3:7" >ὡς ἀσθενεστέρῳ σκεύει</reference>
-		<reference osisRef="1PE.4.6!12" type="DFE" label="" verse="1PE 4:6" >σαρκὶ</reference>
-		<reference osisRef="1PE.4.6!17" type="DFE" label="" verse="1PE 4:6" >πνεύματι</reference>
-		<reference osisRef="1PE.4.9!4-1PE.4.9!5" type="DFE" label="" verse="1PE 4:9" >ἄνευ γογγυσμοῦ</reference>
-		<reference osisRef="2PE.1.5!13-2PE.1.5!14" type="DFE" label="" verse="2PE 1:5" >τὴν ἀρετήν</reference>
-		<reference osisRef="2PE.1.17!6-2PE.1.17!8" type="DFE" label="" verse="2PE 1:17" >τιμὴν καὶ δόξαν</reference>
-		<reference osisRef="2PE.2.11!14-2PE.2.11!15" type="DFE" label="" verse="2PE 2:11" >βλάσφημον κρίσιν</reference>
-		<reference osisRef="2PE.2.18!10-2PE.2.18!16" type="DFE" label="" verse="2PE 2:18" >τοὺς ὀλίγως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους</reference>
-		<reference osisRef="2PE.3.1!14-2PE.3.1!16" type="DFE" label="" verse="2PE 3:1" >τὴν εἰλικρινῆ διάνοιαν</reference>
-		<reference osisRef="2PE.3.3!10-2PE.3.3!12" type="DFE" label="" verse="2PE 3:3" >ἐν ἐμπαιγμονῇ ἐμπαῖκται</reference>
-		<reference osisRef="1JN.4.10!22-1JN.4.10!26" type="DFE" label="" verse="1JN 4:10" >ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν</reference>
-		<reference osisRef="1JN.4.14!12-1JN.4.14!14" type="DFE" label="" verse="1JN 4:14" >σωτῆρα τοῦ κόσμου</reference>
-		<reference osisRef="2JN.1.3!18-2JN.1.3!21" type="DFE" label="" verse="2JN 1:3" >ἐν ἀληθείᾳ καὶ ἀγάπῃ</reference>
-		<reference osisRef="REV.1.1!25-REV.1.1!28" type="DFE" label="" verse="REV 1:1" >τῷ δούλῳ αὐτοῦ ἰωάννῃ</reference>
-		<reference osisRef="REV.1.9!24-REV.1.9!32" type="DFE" label="" verse="REV 1:9" >διὰ τὸν λόγον τοῦ θεοῦ καὶ τὴν μαρτυρίαν ἰησοῦ</reference>
-		<reference osisRef="REV.1.13!16-REV.1.13!17" type="DFE" label="" verse="REV 1:13" >ζώνην χρυσᾶν</reference>
-		<reference osisRef="REV.1.16!8-REV.1.16!9" type="DFE" label="" verse="REV 1:16" >ἀστέρας ἑπτὰ</reference>
-		<reference osisRef="REV.1.17!10-REV.1.17!11" type="DFE" label="" verse="REV 1:17" >ὡς νεκρός</reference>
-		<reference osisRef="REV.2.26!9-REV.2.26!11" type="DFE" label="" verse="REV 2:26" >τὰ ἔργα μου</reference>
-		<reference osisRef="REV.3.21!21-REV.3.21!24" type="DFE" label="" verse="REV 3:21" >ἐν τῷ θρόνῳ αὐτοῦ</reference>
-		<reference osisRef="REV.4.6!19-REV.4.6!20" type="DFE" label="" verse="REV 4:6" >τέσσαρα ζῷα</reference>
-		<reference osisRef="REV.5.6!16" type="DFE" label="" verse="REV 5:6" >ἀρνίον</reference>
-		<reference osisRef="REV.5.9!26-REV.5.9!34" type="DFE" label="" verse="REV 5:9" >ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ ἔθνους</reference>
-		<reference osisRef="REV.5.10!7-REV.5.10!9" type="DFE" label="" verse="REV 5:10" >βασιλείαν καὶ ἱερεῖς</reference>
-		<reference osisRef="REV.6.9!11-REV.6.9!25" type="DFE" label="" verse="REV 6:9" >τὰς ψυχὰς τῶν ἐσφαγμένων διὰ τὸν λόγον τοῦ θεοῦ καὶ διὰ τὴν μαρτυρίαν ἣν εἶχον</reference>
-		<reference osisRef="REV.7.11!21-REV.7.11!24" type="DFE" label="" verse="REV 7:11" >ἐπὶ τὰ πρόσωπα αὐτῶν</reference>
-		<reference osisRef="REV.8.1!13-REV.8.1!14" type="DFE" label="" verse="REV 8:1" >ὡς ἡμιώριον</reference>
-		<reference osisRef="REV.8.4!15-REV.8.4!17" type="DFE" label="" verse="REV 8:4" >ἐνώπιον τοῦ θεοῦ</reference>
-		<reference osisRef="REV.8.10!11-REV.8.10!12" type="DFE" label="" verse="REV 8:10" >ἀστὴρ μέγας</reference>
-		<reference osisRef="REV.9.2!13-REV.9.2!16" type="DFE" label="" verse="REV 9:2" >ὡς καπνὸς καμίνου μεγάλης</reference>
-		<reference osisRef="REV.10.2!7-REV.10.2!8" type="DFE" label="" verse="REV 10:2" >βιβλαρίδιον ἠνεῳγμένον</reference>
-		<reference osisRef="REV.10.10!19-REV.10.10!21" type="DFE" label="" verse="REV 10:10" >ὡς μέλι γλυκὺ</reference>
-		<reference osisRef="REV.11.12!17-REV.11.12!19" type="DFE" label="" verse="REV 11:12" >ἐν τῇ νεφέλῃ</reference>
-		<reference osisRef="REV.11.13!20-REV.11.13!23" type="DFE" label="" verse="REV 11:13" >ὀνόματα ἀνθρώπων χιλιάδες ἑπτὰ</reference>
-		<reference osisRef="REV.12.15!12-REV.12.15!14" type="DFE" label="" verse="REV 12:15" >ὕδωρ ὡς ποταμόν</reference>
-		<reference osisRef="REV.13.1!6-REV.13.1!7" type="DFE" label="" verse="REV 13:1" >θηρίον ἀναβαῖνον</reference>
-		<reference osisRef="REV.13.13!16-REV.13.13!18" type="DFE" label="" verse="REV 13:13" >ἐνώπιον τῶν ἀνθρώπων</reference>
-		<reference osisRef="REV.14.4!24-REV.14.4!29" type="DFE" label="" verse="REV 14:4" >ἀπαρχὴ τῷ θεῷ καὶ τῷ ἀρνίῳ</reference>
-		<reference osisRef="REV.14.14!20-REV.14.14!21" type="DFE" label="" verse="REV 14:14" >στέφανον χρυσοῦν</reference>
-		<reference osisRef="REV.14.15!12-REV.14.15!16" type="DFE" label="" verse="REV 14:15" >τῷ καθημένῳ ἐπὶ τῆς νεφέλης</reference>
-		<reference osisRef="REV.14.20!19-REV.14.20!22" type="DFE" label="" verse="REV 14:20" >ἀπὸ σταδίων χιλίων ἑξακοσίων</reference>
-		<reference osisRef="REV.15.6!23-REV.15.6!24" type="DFE" label="" verse="REV 15:6" >ζώνας χρυσᾶς</reference>
-		<reference osisRef="REV.16.13!20-REV.16.13!24" type="DFE" label="" verse="REV 16:13" >πνεύματα τρία ἀκάθαρτα ὡς βάτραχοι</reference>
-		<reference osisRef="REV.16.17!18-REV.16.17!20" type="DFE" label="" verse="REV 16:17" >ἀπὸ τοῦ θρόνου</reference>
-		<reference osisRef="REV.16.21!10-REV.16.21!12" type="DFE" label="" verse="REV 16:21" >ἐπὶ τοὺς ἀνθρώπους</reference>
-		<reference osisRef="REV.17.5!9-REV.17.5!20" type="DFE" label="" verse="REV 17:5" >βαβυλὼν ἡ μεγάλη ἡ μήτηρ τῶν πορνῶν καὶ τῶν βδελυγμάτων τῆς γῆς</reference>
-		<reference osisRef="REV.17.6!22-REV.17.6!23" type="DFE" label="" verse="REV 17:6" >θαῦμα μέγα</reference>
-		<reference osisRef="REV.19.5!12-REV.19.5!19" type="DFE" label="" verse="REV 19:5" >πάντες οἱ δοῦλοι αὐτοῦ καὶ οἱ φοβούμενοι αὐτόν</reference>
-		<reference osisRef="REV.19.16!11-REV.19.16!12" type="DFE" label="" verse="REV 19:16" >ὄνομα γεγραμμένον</reference>
-		<reference osisRef="REV.20.4!57-REV.20.4!58" type="DFE" label="" verse="REV 20:4" >χίλια ἔτη</reference>
-		<reference osisRef="REV.20.10!27-REV.20.10!31" type="DFE" label="" verse="REV 20:10" >εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
-		<reference osisRef="REV.20.12!35-REV.20.12!38" type="DFE" label="" verse="REV 20:12" >κατὰ τὰ ἔργα αὐτῶν</reference>
-		<reference osisRef="REV.21.2!13-REV.21.2!15" type="DFE" label="" verse="REV 21:2" >ἀπὸ τοῦ θεοῦ</reference>
-		<reference osisRef="REV.21.6!28" type="DFE" label="" verse="REV 21:6" >δωρεάν</reference>
-		<reference osisRef="REV.21.10!6-REV.21.10!10" type="DFE" label="" verse="REV 21:10" >ἐπὶ ὄρος μέγα καὶ ὑψηλόν</reference>
-		<reference osisRef="REV.21.10!23-REV.21.10!25" type="DFE" label="" verse="REV 21:10" >ἀπὸ τοῦ θεοῦ</reference>
-		<reference osisRef="REV.21.15!8-REV.21.15!9" type="DFE" label="" verse="REV 21:15" >κάλαμον χρυσοῦν</reference>
-		<reference osisRef="REV.21.17!6-REV.21.17!11" type="DFE" label="" verse="REV 21:17" >ἑκατὸν τεσσεράκοντα τεσσάρων πηχῶν μέτρον ἀνθρώπου</reference>
-		<reference osisRef="REV.22.2!1-REV.22.2!5" type="DFE" label="" verse="REV 22:2" >ἐν μέσῳ τῆς πλατείας αὐτῆς</reference>
+		<reference osisRef="Matt.1.20!4" type="DFE" label="" verse="Matt 1:20" >ἐνθυμηθέντος</reference>
+		<reference osisRef="Matt.1.20!20-Matt.1.20!22" type="DFE" label="" verse="Matt 1:20" >τὴν γυναῖκά σου</reference>
+		<reference osisRef="Matt.1.21!9" type="DFE" label="" verse="Matt 1:21" >ἰησοῦν</reference>
+		<reference osisRef="Matt.1.23!15" type="DFE" label="" verse="Matt 1:23" >ἐμμανουήλ</reference>
+		<reference osisRef="Matt.1.25!14" type="DFE" label="" verse="Matt 1:25" >ἰησοῦν</reference>
+		<reference osisRef="Matt.2.1!9-Matt.2.1!13" type="DFE" label="" verse="Matt 2:1" >ἐν ἡμέραις ἡρῴδου τοῦ βασιλέως</reference>
+		<reference osisRef="Matt.3.6!7-Matt.3.6!8" type="DFE" label="" verse="Matt 3:6" >ὑπ’ αὐτοῦ</reference>
+		<reference osisRef="Matt.3.11!7-Matt.3.11!8" type="DFE" label="" verse="Matt 3:11" >εἰς μετάνοιαν</reference>
+		<reference osisRef="Matt.3.13!11-Matt.3.13!13" type="DFE" label="" verse="Matt 3:13" >πρὸς τὸν ἰωάννην</reference>
+		<reference osisRef="Matt.4.1!8-Matt.4.1!10" type="DFE" label="" verse="Matt 4:1" >ὑπὸ τοῦ πνεύματος</reference>
+		<reference osisRef="Matt.4.6!30-Matt.4.6!32" type="DFE" label="" verse="Matt 4:6" >τὸν πόδα σου</reference>
+		<reference osisRef="Matt.4.13!11-Matt.4.13!15" type="DFE" label="" verse="Matt 4:13" >ἐν ὁρίοις ζαβουλὼν καὶ νεφθαλίμ</reference>
+		<reference osisRef="Matt.6.10!12-Matt.6.10!14" type="DFE" label="" verse="Matt 6:10" >καὶ ἐπὶ γῆς</reference>
+		<reference osisRef="Matt.6.16!9" type="DFE" label="" verse="Matt 6:16" >σκυθρωποί</reference>
+		<reference osisRef="Matt.6.19!12" type="DFE" label="" verse="Matt 6:19" >ἀφανίζει</reference>
+		<reference osisRef="Matt.6.24!10" type="DFE" label="" verse="Matt 6:24" >μισήσει</reference>
+		<reference osisRef="Matt.6.24!14" type="DFE" label="" verse="Matt 6:24" >ἀγαπήσει</reference>
+		<reference osisRef="Matt.6.24!17" type="DFE" label="" verse="Matt 6:24" >ἀνθέξεται</reference>
+		<reference osisRef="Matt.6.24!21" type="DFE" label="" verse="Matt 6:24" >καταφρονήσει</reference>
+		<reference osisRef="Matt.6.27!12-Matt.6.27!13" type="DFE" label="" verse="Matt 6:27" >πῆχυν ἕνα</reference>
+		<reference osisRef="Matt.6.34!15-Matt.6.34!17" type="DFE" label="" verse="Matt 6:34" >ἡ κακία αὐτῆς</reference>
+		<reference osisRef="Matt.7.5!8-Matt.7.5!9" type="DFE" label="" verse="Matt 7:5" >τὴν δοκόν</reference>
+		<reference osisRef="Matt.7.6!5-Matt.7.6!6" type="DFE" label="" verse="Matt 7:6" >τοῖς κυσὶν</reference>
+		<reference osisRef="Matt.7.16!11" type="DFE" label="" verse="Matt 7:16" >σταφυλὰς</reference>
+		<reference osisRef="Matt.7.16!15" type="DFE" label="" verse="Matt 7:16" >σῦκα</reference>
+		<reference osisRef="Matt.8.6!11" type="DFE" label="" verse="Matt 8:6" >παραλυτικός</reference>
+		<reference osisRef="Matt.8.11!19-Matt.8.11!23" type="DFE" label="" verse="Matt 8:11" >ἐν τῇ βασιλείᾳ τῶν οὐρανῶν</reference>
+		<reference osisRef="Matt.8.28!7-Matt.8.28!11" type="DFE" label="" verse="Matt 8:28" >εἰς τὴν χώραν τῶν γαδαρηνῶν</reference>
+		<reference osisRef="Matt.8.30!6-Matt.8.30!9" type="DFE" label="" verse="Matt 8:30" >ἀγέλη χοίρων πολλῶν βοσκομένη</reference>
+		<reference osisRef="Matt.8.32!21-Matt.8.32!23" type="DFE" label="" verse="Matt 8:32" >εἰς τὴν θάλασσαν</reference>
+		<reference osisRef="Matt.10.18!10-Matt.10.18!15" type="DFE" label="" verse="Matt 10:18" >εἰς μαρτύριον αὐτοῖς καὶ τοῖς ἔθνεσιν</reference>
+		<reference osisRef="Matt.10.19!18-Matt.10.19!19" type="DFE" label="" verse="Matt 10:19" >τί λαλήσητε</reference>
+		<reference osisRef="Matt.10.22!6-Matt.10.22!9" type="DFE" label="" verse="Matt 10:22" >διὰ τὸ ὄνομά μου</reference>
+		<reference osisRef="Matt.11.2!8-Matt.11.2!11" type="DFE" label="" verse="Matt 11:2" >τὰ ἔργα τοῦ χριστοῦ</reference>
+		<reference osisRef="Matt.11.11!9-Matt.11.11!12" type="DFE" label="" verse="Matt 11:11" >μείζων ἰωάννου τοῦ βαπτιστοῦ</reference>
+		<reference osisRef="Matt.12.19!11-Matt.12.19!13" type="DFE" label="" verse="Matt 12:19" >τὴν φωνὴν αὐτοῦ</reference>
+		<reference osisRef="Matt.12.40!10-Matt.12.40!14" type="DFE" label="" verse="Matt 12:40" >τρεῖς ἡμέρας καὶ τρεῖς νύκτας</reference>
+		<reference osisRef="Matt.12.40!26-Matt.12.40!30" type="DFE" label="" verse="Matt 12:40" >τρεῖς ἡμέρας καὶ τρεῖς νύκτας</reference>
+		<reference osisRef="Matt.13.30!17-Matt.13.30!18" type="DFE" label="" verse="Matt 13:30" >τὰ ζιζάνια</reference>
+		<reference osisRef="Matt.13.34!8-Matt.13.34!9" type="DFE" label="" verse="Matt 13:34" >τοῖς ὄχλοις</reference>
+		<reference osisRef="Matt.13.41!15-Matt.13.41!22" type="DFE" label="" verse="Matt 13:41" >πάντα τὰ σκάνδαλα καὶ τοὺς ποιοῦντας τὴν ἀνομίαν</reference>
+		<reference osisRef="Matt.13.43!8-Matt.13.43!13" type="DFE" label="" verse="Matt 13:43" >ἐν τῇ βασιλείᾳ τοῦ πατρὸς αὐτῶν</reference>
+		<reference osisRef="Matt.13.52!24-Matt.13.52!26" type="DFE" label="" verse="Matt 13:52" >καινὰ καὶ παλαιά</reference>
+		<reference osisRef="Matt.14.8!14-Matt.14.8!18" type="DFE" label="" verse="Matt 14:8" >τὴν κεφαλὴν ἰωάννου τοῦ βαπτιστοῦ</reference>
+		<reference osisRef="Matt.14.13!12-Matt.14.13!13" type="DFE" label="" verse="Matt 14:13" >κατ’ ἰδίαν</reference>
+		<reference osisRef="Matt.14.23!9-Matt.14.23!10" type="DFE" label="" verse="Matt 14:23" >κατ’ ἰδίαν</reference>
+		<reference osisRef="Matt.14.34!7-Matt.14.34!8" type="DFE" label="" verse="Matt 14:34" >εἰς γεννησαρέτ</reference>
+		<reference osisRef="Matt.15.1!7-Matt.15.1!9" type="DFE" label="" verse="Matt 15:1" >φαρισαῖοι καὶ γραμματεῖς</reference>
+		<reference osisRef="Matt.15.31!9" type="DFE" label="" verse="Matt 15:31" >ὑγιεῖς</reference>
+		<reference osisRef="Matt.15.33!10-Matt.15.33!11" type="DFE" label="" verse="Matt 15:33" >ἄρτοι τοσοῦτοι</reference>
+		<reference osisRef="Matt.17.1!23-Matt.17.1!24" type="DFE" label="" verse="Matt 17:1" >κατ’ ἰδίαν</reference>
+		<reference osisRef="Matt.18.8!25-Matt.18.8!27" type="DFE" label="" verse="Matt 18:8" >κυλλὸν ἢ χωλὸν</reference>
+		<reference osisRef="Matt.18.12!8-Matt.18.12!9" type="DFE" label="" verse="Matt 18:12" >ἑκατὸν πρόβατα</reference>
+		<reference osisRef="Matt.20.2!6-Matt.20.2!9" type="DFE" label="" verse="Matt 20:2" >ἐκ δηναρίου τὴν ἡμέραν</reference>
+		<reference osisRef="Matt.20.3!12" type="DFE" label="" verse="Matt 20:3" >ἀργοὺς</reference>
+		<reference osisRef="Matt.20.10!14-Matt.20.10!15" type="DFE" label="" verse="Matt 20:10" >καὶ αὐτοί</reference>
+		<reference osisRef="Matt.20.21!26-Matt.20.21!29" type="DFE" label="" verse="Matt 20:21" >ἐν τῇ βασιλείᾳ σου</reference>
+		<reference osisRef="Matt.22.21!11" type="DFE" label="" verse="Matt 22:21" >καίσαρι</reference>
+		<reference osisRef="Matt.22.21!16-Matt.22.21!17" type="DFE" label="" verse="Matt 22:21" >τῷ θεῷ</reference>
+		<reference osisRef="Matt.22.46!16" type="DFE" label="" verse="Matt 22:46" >οὐκέτι</reference>
+		<reference osisRef="Matt.24.9!16-Matt.24.9!19" type="DFE" label="" verse="Matt 24:9" >διὰ τὸ ὄνομά μου</reference>
+		<reference osisRef="Matt.24.21!4-Matt.24.21!5" type="DFE" label="" verse="Matt 24:21" >θλῖψις μεγάλη</reference>
+		<reference osisRef="Matt.24.24!16-Matt.24.24!18" type="DFE" label="" verse="Matt 24:24" >καὶ τοὺς ἐκλεκτούς</reference>
+		<reference osisRef="Matt.26.18!8-Matt.26.18!10" type="DFE" label="" verse="Matt 26:18" >πρὸς τὸν δεῖνα</reference>
+		<reference osisRef="Matt.26.44!13" type="DFE" label="" verse="Matt 26:44" >πάλιν</reference>
+		<reference osisRef="Matt.26.53!14-Matt.26.53!17" type="DFE" label="" verse="Matt 26:53" >πλείω δώδεκα λεγιῶνας ἀγγέλων</reference>
+		<reference osisRef="Matt.27.37!7-Matt.27.37!10" type="DFE" label="" verse="Matt 27:37" >τὴν αἰτίαν αὐτοῦ γεγραμμένην</reference>
+		<reference osisRef="Matt.27.51!12-Matt.27.51!13" type="DFE" label="" verse="Matt 27:51" >εἰς δύο</reference>
+		<reference osisRef="Matt.27.53!6-Matt.27.53!9" type="DFE" label="" verse="Matt 27:53" >μετὰ τὴν ἔγερσιν αὐτοῦ</reference>
+		<reference osisRef="Matt.28.8!7-Matt.28.8!11" type="DFE" label="" verse="Matt 28:8" >μετὰ φόβου καὶ χαρᾶς μεγάλης</reference>
+		<reference osisRef="Mark.1.9!18-Mark.1.9!19" type="DFE" label="" verse="Mark 1:9" >ὑπὸ ἰωάννου</reference>
+		<reference osisRef="Mark.1.13!6-Mark.1.13!7" type="DFE" label="" verse="Mark 1:13" >τεσσεράκοντα ἡμέρας</reference>
+		<reference osisRef="Mark.1.23!8-Mark.1.23!11" type="DFE" label="" verse="Mark 1:23" >ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ</reference>
+		<reference osisRef="Mark.1.39!8-Mark.1.39!11" type="DFE" label="" verse="Mark 1:39" >εἰς ὅλην τὴν γαλιλαίαν</reference>
+		<reference osisRef="Mark.1.44!20-Mark.1.44!22" type="DFE" label="" verse="Mark 1:44" >ἃ προσέταξεν μωϋσῆς</reference>
+		<reference osisRef="Mark.2.2!7-Mark.2.2!11" type="DFE" label="" verse="Mark 2:2" >μηδὲ τὰ πρὸς τὴν θύραν</reference>
+		<reference osisRef="Mark.3.16!10" type="DFE" label="" verse="Mark 3:16" >πέτρον</reference>
+		<reference osisRef="Mark.4.2!6" type="DFE" label="" verse="Mark 4:2" >πολλὰ</reference>
+		<reference osisRef="Mark.4.38!10" type="DFE" label="" verse="Mark 4:38" >καθεύδων</reference>
+		<reference osisRef="Mark.5.1!8-Mark.5.1!12" type="DFE" label="" verse="Mark 5:1" >εἰς τὴν χώραν τῶν γερασηνῶν</reference>
+		<reference osisRef="Mark.5.2!13-Mark.5.2!16" type="DFE" label="" verse="Mark 5:2" >ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ</reference>
+		<reference osisRef="Mark.5.11!7-Mark.5.11!10" type="DFE" label="" verse="Mark 5:11" >ἀγέλη χοίρων μεγάλη βοσκομένη</reference>
+		<reference osisRef="Mark.5.19!13-Mark.5.19!15" type="DFE" label="" verse="Mark 5:19" >πρὸς τοὺς σοὺς</reference>
+		<reference osisRef="Mark.5.20!9-Mark.5.20!13" type="DFE" label="" verse="Mark 5:20" >ὅσα ἐποίησεν αὐτῷ ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.5.25!7-Mark.5.25!8" type="DFE" label="" verse="Mark 5:25" >δώδεκα ἔτη</reference>
+		<reference osisRef="Mark.5.27!9" type="DFE" label="" verse="Mark 5:27" >ὄπισθεν</reference>
+		<reference osisRef="Mark.6.25!18-Mark.6.25!22" type="DFE" label="" verse="Mark 6:25" >τὴν κεφαλὴν ἰωάννου τοῦ βαπτιστοῦ</reference>
+		<reference osisRef="Mark.6.31!9-Mark.6.31!11" type="DFE" label="" verse="Mark 6:31" >εἰς ἔρημον τόπον</reference>
+		<reference osisRef="Mark.6.32!9-Mark.6.32!10" type="DFE" label="" verse="Mark 6:32" >κατ’ ἰδίαν</reference>
+		<reference osisRef="Mark.6.37!8" type="DFE" label="" verse="Mark 6:37" >ὑμεῖς</reference>
+		<reference osisRef="Mark.6.45!16-Mark.6.45!17" type="DFE" label="" verse="Mark 6:45" >πρὸς βηθσαϊδάν</reference>
+		<reference osisRef="Mark.7.17!6-Mark.7.17!8" type="DFE" label="" verse="Mark 7:17" >ἀπὸ τοῦ ὄχλου</reference>
+		<reference osisRef="Mark.7.33!7-Mark.7.33!8" type="DFE" label="" verse="Mark 7:33" >κατ’ ἰδίαν</reference>
+		<reference osisRef="Mark.9.2!22-Mark.9.2!24" type="DFE" label="" verse="Mark 9:2" >κατ’ ἰδίαν μόνους</reference>
+		<reference osisRef="Mark.9.35!16" type="DFE" label="" verse="Mark 9:35" >ἔσχατος</reference>
+		<reference osisRef="Mark.9.35!19" type="DFE" label="" verse="Mark 9:35" >διάκονος</reference>
+		<reference osisRef="Mark.10.30!29-Mark.10.30!30" type="DFE" label="" verse="Mark 10:30" >ζωὴν αἰώνιον</reference>
+		<reference osisRef="Mark.10.45!17-Mark.10.45!19" type="DFE" label="" verse="Mark 10:45" >λύτρον ἀντὶ πολλῶν</reference>
+		<reference osisRef="Mark.11.4!9-Mark.11.4!12" type="DFE" label="" verse="Mark 11:4" >ἔξω ἐπὶ τοῦ ἀμφόδου</reference>
+		<reference osisRef="Mark.11.11!5-Mark.11.11!7" type="DFE" label="" verse="Mark 11:11" >εἰς τὸ ἱερὸν</reference>
+		<reference osisRef="Mark.12.2!8" type="DFE" label="" verse="Mark 12:2" >δοῦλον</reference>
+		<reference osisRef="Mark.13.3!16-Mark.13.3!22" type="DFE" label="" verse="Mark 13:3" >πέτρος καὶ ἰάκωβος καὶ ἰωάννης καὶ ἀνδρέας</reference>
+		<reference osisRef="Mark.13.22!16-Mark.13.22!17" type="DFE" label="" verse="Mark 13:22" >τοὺς ἐκλεκτούς</reference>
+		<reference osisRef="Mark.14.55!12" type="DFE" label="" verse="Mark 14:55" >μαρτυρίαν</reference>
+		<reference osisRef="Mark.15.17!9-Mark.15.17!10" type="DFE" label="" verse="Mark 15:17" >ἀκάνθινον στέφανον</reference>
+		<reference osisRef="Mark.15.38!9-Mark.15.38!12" type="DFE" label="" verse="Mark 15:38" >ἀπ’ ἄνωθεν ἕως κάτω</reference>
+		<reference osisRef="Luke.1.3!6" type="DFE" label="" verse="Luke 1:3" >ἀκριβῶς</reference>
+		<reference osisRef="Luke.1.5!9-Luke.1.5!15" type="DFE" label="" verse="Luke 1:5" >ἱερεύς τις ὀνόματι ζαχαρίας ἐξ ἐφημερίας ἀβιά</reference>
+		<reference osisRef="Luke.1.6!17" type="DFE" label="" verse="Luke 1:6" >ἄμεμπτοι</reference>
+		<reference osisRef="Luke.1.17!23-Luke.1.17!24" type="DFE" label="" verse="Luke 1:17" >λαὸν κατεσκευασμένον</reference>
+		<reference osisRef="Luke.1.27!1-Luke.1.27!10" type="DFE" label="" verse="Luke 1:27" >πρὸς παρθένον ἐμνηστευμένην ἀνδρὶ ᾧ ὄνομα ἰωσὴφ ἐξ οἴκου δαυὶδ</reference>
+		<reference osisRef="Luke.1.31!14" type="DFE" label="" verse="Luke 1:31" >ἰησοῦν</reference>
+		<reference osisRef="Luke.1.33!7-Luke.1.33!9" type="DFE" label="" verse="Luke 1:33" >εἰς τοὺς αἰῶνας</reference>
+		<reference osisRef="Luke.1.37!7-Luke.1.37!8" type="DFE" label="" verse="Luke 1:37" >πᾶν ῥῆμα</reference>
+		<reference osisRef="Luke.1.39!14-Luke.1.39!16" type="DFE" label="" verse="Luke 1:39" >εἰς πόλιν ἰούδα</reference>
+		<reference osisRef="Luke.1.55!13-Luke.1.55!15" type="DFE" label="" verse="Luke 1:55" >εἰς τὸν αἰῶνα</reference>
+		<reference osisRef="Luke.1.75!7-Luke.1.75!10" type="DFE" label="" verse="Luke 1:75" >πάσαις ταῖς ἡμέραις ἡμῶν</reference>
+		<reference osisRef="Luke.1.77!5-Luke.1.77!7" type="DFE" label="" verse="Luke 1:77" >τῷ λαῷ αὐτοῦ</reference>
+		<reference osisRef="Luke.1.78!1-Luke.1.78!5" type="DFE" label="" verse="Luke 1:78" >διὰ σπλάγχνα ἐλέους θεοῦ ἡμῶν</reference>
+		<reference osisRef="Luke.2.2!8" type="DFE" label="" verse="Luke 2:2" >κυρηνίου</reference>
+		<reference osisRef="Luke.2.4!14-Luke.2.4!19" type="DFE" label="" verse="Luke 2:4" >εἰς πόλιν δαυὶδ ἥτις καλεῖται βηθλέεμ</reference>
+		<reference osisRef="Luke.2.11!5" type="DFE" label="" verse="Luke 2:11" >σωτὴρ</reference>
+		<reference osisRef="Luke.2.13!7-Luke.2.13!9" type="DFE" label="" verse="Luke 2:13" >πλῆθος στρατιᾶς οὐρανίου</reference>
+		<reference osisRef="Luke.2.21!14" type="DFE" label="" verse="Luke 2:21" >ἰησοῦς</reference>
+		<reference osisRef="Luke.2.27!6-Luke.2.27!8" type="DFE" label="" verse="Luke 2:27" >εἰς τὸ ἱερόν</reference>
+		<reference osisRef="Luke.2.29!11-Luke.2.29!12" type="DFE" label="" verse="Luke 2:29" >ἐν εἰρήνῃ</reference>
+		<reference osisRef="Luke.2.39!14-Luke.2.39!17" type="DFE" label="" verse="Luke 2:39" >εἰς πόλιν ἑαυτῶν ναζαρέθ</reference>
+		<reference osisRef="Luke.2.41!10-Luke.2.41!13" type="DFE" label="" verse="Luke 2:41" >τῇ ἑορτῇ τοῦ πάσχα</reference>
+		<reference osisRef="Luke.3.2!14-Luke.3.2!16" type="DFE" label="" verse="Luke 3:2" >ἐν τῇ ἐρήμῳ</reference>
+		<reference osisRef="Luke.4.1!15-Luke.4.1!17" type="DFE" label="" verse="Luke 4:1" >ἐν τῇ ἐρήμῳ</reference>
+		<reference osisRef="Luke.4.11!11-Luke.4.11!13" type="DFE" label="" verse="Luke 4:11" >τὸν πόδα σου</reference>
+		<reference osisRef="Luke.4.14!10-Luke.4.14!12" type="DFE" label="" verse="Luke 4:14" >εἰς τὴν γαλιλαίαν</reference>
+		<reference osisRef="Luke.4.16!19-Luke.4.16!21" type="DFE" label="" verse="Luke 4:16" >εἰς τὴν συναγωγὴν</reference>
+		<reference osisRef="Luke.4.18!15" type="DFE" label="" verse="Luke 4:18" >ἄφεσιν</reference>
+		<reference osisRef="Luke.4.18!18" type="DFE" label="" verse="Luke 4:18" >ἀνάβλεψιν</reference>
+		<reference osisRef="Luke.4.19!4" type="DFE" label="" verse="Luke 4:19" >δεκτόν</reference>
+		<reference osisRef="Luke.4.25!13-Luke.4.25!15" type="DFE" label="" verse="Luke 4:25" >ἐν τῷ ἰσραήλ</reference>
+		<reference osisRef="Luke.4.26!13-Luke.4.26!15" type="DFE" label="" verse="Luke 4:26" >πρὸς γυναῖκα χήραν</reference>
+		<reference osisRef="Luke.4.27!8-Luke.4.27!11" type="DFE" label="" verse="Luke 4:27" >ἐπὶ ἐλισαίου τοῦ προφήτου</reference>
+		<reference osisRef="Luke.5.18!7-Luke.5.18!10" type="DFE" label="" verse="Luke 5:18" >ἄνθρωπον ὃς ἦν παραλελυμένος</reference>
+		<reference osisRef="Luke.5.19!25-Luke.5.19!27" type="DFE" label="" verse="Luke 5:19" >ἔμπροσθεν τοῦ ἰησοῦ</reference>
+		<reference osisRef="Luke.6.22!21-Luke.6.22!25" type="DFE" label="" verse="Luke 6:22" >ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου</reference>
+		<reference osisRef="Luke.6.23!24-Luke.6.23!26" type="DFE" label="" verse="Luke 6:23" >οἱ πατέρες αὐτῶν</reference>
+		<reference osisRef="Luke.6.26!16-Luke.6.26!18" type="DFE" label="" verse="Luke 6:26" >οἱ πατέρες αὐτῶν</reference>
+		<reference osisRef="Luke.7.37!9" type="DFE" label="" verse="Luke 7:37" >ἁμαρτωλός</reference>
+		<reference osisRef="Luke.8.29!30-Luke.8.29!32" type="DFE" label="" verse="Luke 8:29" >εἰς τὰς ἐρήμους</reference>
+		<reference osisRef="Luke.8.33!19-Luke.8.33!21" type="DFE" label="" verse="Luke 8:33" >εἰς τὴν λίμνην</reference>
+		<reference osisRef="Luke.9.10!15-Luke.9.10!18" type="DFE" label="" verse="Luke 9:10" >εἰς πόλιν καλουμένην βηθσαϊδά</reference>
+		<reference osisRef="Luke.9.13!7" type="DFE" label="" verse="Luke 9:13" >ὑμεῖς</reference>
+		<reference osisRef="Luke.9.13!32" type="DFE" label="" verse="Luke 9:13" >βρώματα</reference>
+		<reference osisRef="Luke.9.14!17" type="DFE" label="" verse="Luke 9:14" >πεντήκοντα</reference>
+		<reference osisRef="Luke.9.36!20-Luke.9.36!22" type="DFE" label="" verse="Luke 9:36" >οὐδὲν ὧν ἑώρακαν</reference>
+		<reference osisRef="Luke.10.1!19-Luke.10.1!27" type="DFE" label="" verse="Luke 10:1" >εἰς πᾶσαν πόλιν καὶ τόπον οὗ ἤμελλεν αὐτὸς ἔρχεσθαι</reference>
+		<reference osisRef="Luke.10.23!6-Luke.10.23!7" type="DFE" label="" verse="Luke 10:23" >κατ’ ἰδίαν</reference>
+		<reference osisRef="Luke.11.46!13-Luke.11.46!14" type="DFE" label="" verse="Luke 11:46" >φορτία δυσβάστακτα</reference>
+		<reference osisRef="Luke.12.1!26-Luke.12.1!27" type="DFE" label="" verse="Luke 12:1" >τῶν φαρισαίων</reference>
+		<reference osisRef="Luke.12.12!11-Luke.12.12!13" type="DFE" label="" verse="Luke 12:12" >ἃ δεῖ εἰπεῖν</reference>
+		<reference osisRef="Luke.12.42!25-Luke.12.42!26" type="DFE" label="" verse="Luke 12:42" >τὸ σιτομέτριον</reference>
+		<reference osisRef="Luke.12.52!6-Luke.12.52!10" type="DFE" label="" verse="Luke 12:52" >πέντε ἐν ἑνὶ οἴκῳ διαμεμερισμένοι</reference>
+		<reference osisRef="Luke.13.10!8-Luke.13.10!10" type="DFE" label="" verse="Luke 13:10" >ἐν τοῖς σάββασιν</reference>
+		<reference osisRef="Luke.13.16!11-Luke.13.16!14" type="DFE" label="" verse="Luke 13:16" >δέκα καὶ ὀκτὼ ἔτη</reference>
+		<reference osisRef="Luke.13.16!22-Luke.13.16!25" type="DFE" label="" verse="Luke 13:16" >τῇ ἡμέρᾳ τοῦ σαββάτου</reference>
+		<reference osisRef="Luke.14.7!6" type="DFE" label="" verse="Luke 14:7" >παραβολήν</reference>
+		<reference osisRef="Luke.15.10!11-Luke.15.10!14" type="DFE" label="" verse="Luke 15:10" >ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι</reference>
+		<reference osisRef="Luke.16.19!14" type="DFE" label="" verse="Luke 16:19" >λαμπρῶς</reference>
+		<reference osisRef="Luke.16.22!12-Luke.16.22!15" type="DFE" label="" verse="Luke 16:22" >εἰς τὸν κόλπον ἀβραάμ</reference>
+		<reference osisRef="Luke.16.24!19" type="DFE" label="" verse="Luke 16:24" >ὕδατος</reference>
+		<reference osisRef="Luke.18.9!17-Luke.18.9!19" type="DFE" label="" verse="Luke 18:9" >τὴν παραβολὴν ταύτην</reference>
+		<reference osisRef="Luke.19.29!9-Luke.19.29!14" type="DFE" label="" verse="Luke 19:29" >πρὸς τὸ ὄρος τὸ καλούμενον ἐλαιῶν</reference>
+		<reference osisRef="Luke.19.42!11-Luke.19.42!13" type="DFE" label="" verse="Luke 19:42" >τὰ πρὸς εἰρήνην</reference>
+		<reference osisRef="Luke.19.47!7-Luke.19.47!9" type="DFE" label="" verse="Luke 19:47" >ἐν τῷ ἱερῷ</reference>
+		<reference osisRef="Luke.20.10!7" type="DFE" label="" verse="Luke 20:10" >δοῦλον</reference>
+		<reference osisRef="Luke.20.10!22" type="DFE" label="" verse="Luke 20:10" >κενόν</reference>
+		<reference osisRef="Luke.20.16!11" type="DFE" label="" verse="Luke 20:16" >ἄλλοις</reference>
+		<reference osisRef="Luke.20.25!10" type="DFE" label="" verse="Luke 20:25" >καίσαρι</reference>
+		<reference osisRef="Luke.20.25!15-Luke.20.25!16" type="DFE" label="" verse="Luke 20:25" >τῷ θεῷ</reference>
+		<reference osisRef="Luke.20.28!26-Luke.20.28!28" type="DFE" label="" verse="Luke 20:28" >τῷ ἀδελφῷ αὐτοῦ</reference>
+		<reference osisRef="Luke.20.37!15-Luke.20.37!23" type="DFE" label="" verse="Luke 20:37" >τὸν θεὸν ἀβραὰμ καὶ θεὸν ἰσαὰκ καὶ θεὸν ἰακώβ</reference>
+		<reference osisRef="Luke.20.43!7-Luke.20.43!10" type="DFE" label="" verse="Luke 20:43" >ὑποπόδιον τῶν ποδῶν σου</reference>
+		<reference osisRef="Luke.21.1!12" type="DFE" label="" verse="Luke 21:1" >πλουσίους</reference>
+		<reference osisRef="Luke.21.12!24-Luke.21.12!27" type="DFE" label="" verse="Luke 21:12" >ἕνεκεν τοῦ ὀνόματός μου</reference>
+		<reference osisRef="Luke.21.17!6-Luke.21.17!9" type="DFE" label="" verse="Luke 21:17" >διὰ τὸ ὄνομά μου</reference>
+		<reference osisRef="Luke.21.27!11-Luke.21.27!15" type="DFE" label="" verse="Luke 21:27" >μετὰ δυνάμεως καὶ δόξης πολλῆς</reference>
+		<reference osisRef="Luke.22.18!16-Luke.22.18!22" type="DFE" label="" verse="Luke 22:18" >ἕως οὗ ἡ βασιλεία τοῦ θεοῦ ἔλθῃ</reference>
+		<reference osisRef="Luke.22.29!10" type="DFE" label="" verse="Luke 22:29" >βασιλείαν</reference>
+		<reference osisRef="Luke.22.30!9-Luke.22.30!12" type="DFE" label="" verse="Luke 22:30" >ἐν τῇ βασιλείᾳ μου</reference>
+		<reference osisRef="Luke.22.34!10" type="DFE" label="" verse="Luke 22:34" >ἀλέκτωρ</reference>
+		<reference osisRef="Luke.22.38!8" type="DFE" label="" verse="Luke 22:38" >δύο</reference>
+		<reference osisRef="Luke.22.39!7-Luke.22.39!11" type="DFE" label="" verse="Luke 22:39" >εἰς τὸ ὄρος τῶν ἐλαιῶν</reference>
+		<reference osisRef="Luke.23.12!14-Luke.23.12!15" type="DFE" label="" verse="Luke 23:12" >μετ’ ἀλλήλων</reference>
+		<reference osisRef="Luke.23.55!11" type="DFE" label="" verse="Luke 23:55" >αὐτῷ</reference>
+		<reference osisRef="Luke.24.27!16-Luke.24.27!18" type="DFE" label="" verse="Luke 24:27" >τὰ περὶ ἑαυτοῦ</reference>
+		<reference osisRef="Luke.24.33!12-Luke.24.33!17" type="DFE" label="" verse="Luke 24:33" >τοὺς ἕνδεκα καὶ τοὺς σὺν αὐτοῖς</reference>
+		<reference osisRef="Luke.24.44!32-Luke.24.44!33" type="DFE" label="" verse="Luke 24:44" >περὶ ἐμοῦ</reference>
+		<reference osisRef="Luke.24.46!14-Luke.24.46!16" type="DFE" label="" verse="Luke 24:46" >τῇ τρίτῃ ἡμέρᾳ</reference>
+		<reference osisRef="Luke.24.47!11-Luke.24.47!14" type="DFE" label="" verse="Luke 24:47" >εἰς πάντα τὰ ἔθνη</reference>
+		<reference osisRef="John.1.19!16-John.1.19!18" type="DFE" label="" verse="John 1:19" >ἱερεῖς καὶ λευίτας</reference>
+		<reference osisRef="John.1.41!4-John.1.41!7" type="DFE" label="" verse="John 1:41" >τὸν ἀδελφὸν τὸν ἴδιον</reference>
+		<reference osisRef="John.2.14!6-John.2.14!16" type="DFE" label="" verse="John 2:14" >τοὺς πωλοῦντας βόας καὶ πρόβατα καὶ περιστερὰς καὶ τοὺς κερματιστὰς καθημένους</reference>
+		<reference osisRef="John.2.16!17-John.2.16!18" type="DFE" label="" verse="John 2:16" >οἶκον ἐμπορίου</reference>
+		<reference osisRef="John.3.25!10-John.3.25!11" type="DFE" label="" verse="John 3:25" >περὶ καθαρισμοῦ</reference>
+		<reference osisRef="John.3.30!3" type="DFE" label="" verse="John 3:30" >αὐξάνειν</reference>
+		<reference osisRef="John.3.30!6" type="DFE" label="" verse="John 3:30" >ἐλαττοῦσθαι</reference>
+		<reference osisRef="John.5.2!9-John.5.2!13" type="DFE" label="" verse="John 5:2" >κολυμβήθρα ἡ ἐπιλεγομένη ἑβραϊστὶ βηθζαθὰ</reference>
+		<reference osisRef="John.5.6!5" type="DFE" label="" verse="John 5:6" >κατακείμενον</reference>
+		<reference osisRef="John.5.24!29-John.5.24!31" type="DFE" label="" verse="John 5:24" >εἰς τὴν ζωήν</reference>
+		<reference osisRef="John.6.4!4-John.6.4!5" type="DFE" label="" verse="John 6:4" >τὸ πάσχα</reference>
+		<reference osisRef="John.6.11!17-John.6.11!18" type="DFE" label="" verse="John 6:11" >ὅσον ἤθελον</reference>
+		<reference osisRef="John.6.15!18-John.6.15!19" type="DFE" label="" verse="John 6:15" >αὐτὸς μόνος</reference>
+		<reference osisRef="John.6.49!8-John.6.49!9" type="DFE" label="" verse="John 6:49" >τὸ μάννα</reference>
+		<reference osisRef="John.7.39!10-John.7.39!13" type="DFE" label="" verse="John 7:39" >οἱ πιστεύσαντες εἰς αὐτόν</reference>
+		<reference osisRef="John.7.43!7-John.7.43!8" type="DFE" label="" verse="John 7:43" >δι’ αὐτόν</reference>
+		<reference osisRef="John.8.35!9-John.8.35!11" type="DFE" label="" verse="John 8:35" >εἰς τὸν αἰῶνα</reference>
+		<reference osisRef="John.8.55!18" type="DFE" label="" verse="John 8:55" >ψεύστης</reference>
+		<reference osisRef="John.10.23!8-John.10.23!12" type="DFE" label="" verse="John 10:23" >ἐν τῇ στοᾷ τοῦ σολομῶνος</reference>
+		<reference osisRef="John.10.40!7-John.10.40!15" type="DFE" label="" verse="John 10:40" >εἰς τὸν τόπον ὅπου ἦν ἰωάννης τὸ πρῶτον βαπτίζων</reference>
+		<reference osisRef="John.11.6!13-John.11.6!14" type="DFE" label="" verse="John 11:6" >δύο ἡμέρας</reference>
+		<reference osisRef="John.11.7!11" type="DFE" label="" verse="John 11:7" >πάλιν</reference>
+		<reference osisRef="John.11.24!11-John.11.24!14" type="DFE" label="" verse="John 11:24" >ἐν τῇ ἐσχάτῃ ἡμέρᾳ</reference>
+		<reference osisRef="John.11.44!10" type="DFE" label="" verse="John 11:44" >κειρίαις</reference>
+		<reference osisRef="John.11.54!19-John.11.54!22" type="DFE" label="" verse="John 11:54" >εἰς ἐφραὶμ λεγομένην πόλιν</reference>
+		<reference osisRef="John.11.55!4-John.11.55!7" type="DFE" label="" verse="John 11:55" >τὸ πάσχα τῶν ἰουδαίων</reference>
+		<reference osisRef="John.11.55!16-John.11.55!18" type="DFE" label="" verse="John 11:55" >πρὸ τοῦ πάσχα</reference>
+		<reference osisRef="John.13.1!21-John.13.1!23" type="DFE" label="" verse="John 13:1" >πρὸς τὸν πατέρα</reference>
+		<reference osisRef="John.14.21!29" type="DFE" label="" verse="John 14:21" >ἐμαυτόν</reference>
+		<reference osisRef="John.17.5!18-John.17.5!19" type="DFE" label="" verse="John 17:5" >παρὰ σοί</reference>
+		<reference osisRef="John.17.6!5-John.17.6!12" type="DFE" label="" verse="John 17:6" >τοῖς ἀνθρώποις οὓς ἔδωκάς μοι ἐκ τοῦ κόσμου</reference>
+		<reference osisRef="John.18.9!15" type="DFE" label="" verse="John 18:9" >οὐδένα</reference>
+		<reference osisRef="John.18.13!5" type="DFE" label="" verse="John 18:13" >πρῶτον</reference>
+		<reference osisRef="John.18.15!5-John.18.15!9" type="DFE" label="" verse="John 18:15" >σίμων πέτρος καὶ ἄλλος μαθητής</reference>
+		<reference osisRef="John.18.29!6-John.18.29!7" type="DFE" label="" verse="John 18:29" >πρὸς αὐτοὺς</reference>
+		<reference osisRef="John.19.6!20" type="DFE" label="" verse="John 19:6" >ὑμεῖς</reference>
+		<reference osisRef="John.19.9!6" type="DFE" label="" verse="John 19:9" >πάλιν</reference>
+		<reference osisRef="John.19.11!9" type="DFE" label="" verse="John 19:11" >οὐδεμίαν</reference>
+		<reference osisRef="John.19.13!16-John.19.13!19" type="DFE" label="" verse="John 19:13" >εἰς τόπον λεγόμενον λιθόστρωτον</reference>
+		<reference osisRef="John.19.17!15" type="DFE" label="" verse="John 19:17" >γολγοθα</reference>
+		<reference osisRef="John.19.25!8-John.19.25!24" type="DFE" label="" verse="John 19:25" >ἡ μήτηρ αὐτοῦ καὶ ἡ ἀδελφὴ τῆς μητρὸς αὐτοῦ μαρία ἡ τοῦ κλωπᾶ καὶ μαρία ἡ μαγδαληνή</reference>
+		<reference osisRef="John.19.34!13-John.19.34!15" type="DFE" label="" verse="John 19:34" >αἷμα καὶ ὕδωρ</reference>
+		<reference osisRef="John.19.41!8" type="DFE" label="" verse="John 19:41" >κῆπος</reference>
+		<reference osisRef="John.21.11!12-John.21.11!14" type="DFE" label="" verse="John 21:11" >μεστὸν ἰχθύων μεγάλων</reference>
+		<reference osisRef="John.21.20!18-John.21.20!21" type="DFE" label="" verse="John 21:20" >ἐπὶ τὸ στῆθος αὐτοῦ</reference>
+		<reference osisRef="Acts.1.3!10-Acts.1.3!12" type="DFE" label="" verse="Acts 1:3" >ἐν πολλοῖς τεκμηρίοις</reference>
+		<reference osisRef="Acts.1.12!5-Acts.1.12!9" type="DFE" label="" verse="Acts 1:12" >ἀπὸ ὄρους τοῦ καλουμένου ἐλαιῶνος</reference>
+		<reference osisRef="Acts.1.15!20-Acts.1.15!22" type="DFE" label="" verse="Acts 1:15" >ὡσεὶ ἑκατὸν εἴκοσι</reference>
+		<reference osisRef="Acts.1.16!16-Acts.1.16!17" type="DFE" label="" verse="Acts 1:16" >περὶ ἰούδα</reference>
+		<reference osisRef="Acts.1.19!17" type="DFE" label="" verse="Acts 1:19" >ἁκελδαμάχ</reference>
+		<reference osisRef="Acts.2.2!7-Acts.2.2!11" type="DFE" label="" verse="Acts 2:2" >ἦχος ὥσπερ φερομένης πνοῆς βιαίας</reference>
+		<reference osisRef="Acts.2.7!13" type="DFE" label="" verse="Acts 2:7" >γαλιλαῖοι</reference>
+		<reference osisRef="Acts.2.11!14-Acts.2.11!17" type="DFE" label="" verse="Acts 2:11" >τὰ μεγαλεῖα τοῦ θεοῦ</reference>
+		<reference osisRef="Acts.2.17!15-Acts.2.17!17" type="DFE" label="" verse="Acts 2:17" >ἐπὶ πᾶσαν σάρκα</reference>
+		<reference osisRef="Acts.2.25!11-Acts.2.25!12" type="DFE" label="" verse="Acts 2:25" >διὰ παντός</reference>
+		<reference osisRef="Acts.2.35!7-Acts.2.35!10" type="DFE" label="" verse="Acts 2:35" >ὑποπόδιον τῶν ποδῶν σου</reference>
+		<reference osisRef="Acts.2.38!16-Acts.2.38!20" type="DFE" label="" verse="Acts 2:38" >εἰς ἄφεσιν τῶν ἁμαρτιῶν ὑμῶν</reference>
+		<reference osisRef="Acts.2.41!15-Acts.2.41!17" type="DFE" label="" verse="Acts 2:41" >ψυχαὶ ὡσεὶ τρισχίλιαι</reference>
+		<reference osisRef="Acts.2.43!5" type="DFE" label="" verse="Acts 2:43" >φόβος</reference>
+		<reference osisRef="Acts.2.47!19-Acts.2.47!21" type="DFE" label="" verse="Acts 2:47" >ἐπὶ τὸ αὐτό</reference>
+		<reference osisRef="Acts.3.1!9-Acts.3.1!15" type="DFE" label="" verse="Acts 3:1" >ἐπὶ τὴν ὥραν τῆς προσευχῆς τὴν ἐνάτην</reference>
+		<reference osisRef="Acts.3.2!15-Acts.3.2!22" type="DFE" label="" verse="Acts 3:2" >πρὸς τὴν θύραν τοῦ ἱεροῦ τὴν λεγομένην ὡραίαν</reference>
+		<reference osisRef="Acts.4.2!13-Acts.4.2!17" type="DFE" label="" verse="Acts 4:2" >τὴν ἀνάστασιν τὴν ἐκ νεκρῶν</reference>
+		<reference osisRef="Acts.4.17!18-Acts.4.17!19" type="DFE" label="" verse="Acts 4:17" >μηδενὶ ἀνθρώπων</reference>
+		<reference osisRef="Acts.4.27!17-Acts.4.27!26" type="DFE" label="" verse="Acts 4:27" >ἡρῴδης τε καὶ πόντιος πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς ἰσραήλ</reference>
+		<reference osisRef="Acts.5.20!10-Acts.5.20!15" type="DFE" label="" verse="Acts 5:20" >πάντα τὰ ῥήματα τῆς ζωῆς ταύτης</reference>
+		<reference osisRef="Acts.5.36!15-Acts.5.36!17" type="DFE" label="" verse="Acts 5:36" >ἀριθμὸς ὡς τετρακοσίων</reference>
+		<reference osisRef="Acts.6.1!23-Acts.6.1!25" type="DFE" label="" verse="Acts 6:1" >αἱ χῆραι αὐτῶν</reference>
+		<reference osisRef="Acts.7.28!10-Acts.7.28!11" type="DFE" label="" verse="Acts 7:28" >τὸν αἰγύπτιον</reference>
+		<reference osisRef="Acts.7.30!13-Acts.7.30!17" type="DFE" label="" verse="Acts 7:30" >ἄγγελος ἐν φλογὶ πυρὸς βάτου</reference>
+		<reference osisRef="Acts.7.36!19-Acts.7.36!20" type="DFE" label="" verse="Acts 7:36" >ἔτη τεσσεράκοντα</reference>
+		<reference osisRef="Acts.7.37!19-Acts.7.37!20" type="DFE" label="" verse="Acts 7:37" >ὡς ἐμέ</reference>
+		<reference osisRef="Acts.7.39!17-Acts.7.39!18" type="DFE" label="" verse="Acts 7:39" >εἰς αἴγυπτον</reference>
+		<reference osisRef="Acts.7.45!24-Acts.7.45!27" type="DFE" label="" verse="Acts 7:45" >ἕως τῶν ἡμερῶν δαυίδ</reference>
+		<reference osisRef="Acts.8.1!14-Acts.8.1!21" type="DFE" label="" verse="Acts 8:1" >διωγμὸς μέγας ἐπὶ τὴν ἐκκλησίαν τὴν ἐν ἱεροσολύμοις</reference>
+		<reference osisRef="Acts.8.2!5-Acts.8.2!6" type="DFE" label="" verse="Acts 8:2" >ἄνδρες εὐλαβεῖς</reference>
+		<reference osisRef="Acts.8.6!10" type="DFE" label="" verse="Acts 8:6" >ὁμοθυμαδὸν</reference>
+		<reference osisRef="Acts.8.32!22" type="DFE" label="" verse="Acts 8:32" >ἄφωνος</reference>
+		<reference osisRef="Acts.8.33!19-Acts.8.33!21" type="DFE" label="" verse="Acts 8:33" >ἡ ζωὴ αὐτοῦ</reference>
+		<reference osisRef="Acts.9.2!7-Acts.9.2!9" type="DFE" label="" verse="Acts 9:2" >πρὸς τὰς συναγωγάς</reference>
+		<reference osisRef="Acts.9.11!19-Acts.9.11!21" type="DFE" label="" verse="Acts 9:11" >σαῦλον ὀνόματι ταρσέα</reference>
+		<reference osisRef="Acts.9.18!8-Acts.9.18!9" type="DFE" label="" verse="Acts 9:18" >ὡς λεπίδες</reference>
+		<reference osisRef="Acts.9.19!12-Acts.9.19!13" type="DFE" label="" verse="Acts 9:19" >ἡμέρας τινὰς</reference>
+		<reference osisRef="Acts.9.43!8-Acts.9.43!11" type="DFE" label="" verse="Acts 9:43" >παρά τινι σίμωνι βυρσεῖ</reference>
+		<reference osisRef="Acts.10.3!11-Acts.10.3!13" type="DFE" label="" verse="Acts 10:3" >ἄγγελον τοῦ θεοῦ</reference>
+		<reference osisRef="Acts.10.11!8-Acts.10.11!12" type="DFE" label="" verse="Acts 10:11" >σκεῦός τι ὡς ὀθόνην μεγάλην</reference>
+		<reference osisRef="Acts.10.27!8" type="DFE" label="" verse="Acts 10:27" >πολλούς</reference>
+		<reference osisRef="Acts.10.42!17-Acts.10.42!20" type="DFE" label="" verse="Acts 10:42" >κριτὴς ζώντων καὶ νεκρῶν</reference>
+		<reference osisRef="Acts.10.43!13-Acts.10.43!17" type="DFE" label="" verse="Acts 10:43" >πάντα τὸν πιστεύοντα εἰς αὐτόν</reference>
+		<reference osisRef="Acts.11.5!11" type="DFE" label="" verse="Acts 11:5" >ὅραμα</reference>
+		<reference osisRef="Acts.11.5!13-Acts.11.5!23" type="DFE" label="" verse="Acts 11:5" >σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς καθιεμένην ἐκ τοῦ οὐρανοῦ</reference>
+		<reference osisRef="Acts.11.11!16-Acts.11.11!17" type="DFE" label="" verse="Acts 11:11" >πρός με</reference>
+		<reference osisRef="Acts.11.26!27" type="DFE" label="" verse="Acts 11:26" >χριστιανούς</reference>
+		<reference osisRef="Acts.11.30!8-Acts.11.30!12" type="DFE" label="" verse="Acts 11:30" >διὰ χειρὸς βαρναβᾶ καὶ σαύλου</reference>
+		<reference osisRef="Acts.13.1!9-Acts.13.1!11" type="DFE" label="" verse="Acts 13:1" >προφῆται καὶ διδάσκαλοι</reference>
+		<reference osisRef="Acts.13.23!12" type="DFE" label="" verse="Acts 13:23" >σωτῆρα</reference>
+		<reference osisRef="Acts.13.24!10-Acts.13.24!13" type="DFE" label="" verse="Acts 13:24" >παντὶ τῷ λαῷ ἰσραήλ</reference>
+		<reference osisRef="Acts.14.1!24-Acts.14.1!25" type="DFE" label="" verse="Acts 14:1" >πολὺ πλῆθος</reference>
+		<reference osisRef="Acts.14.10!9" type="DFE" label="" verse="Acts 14:10" >ὀρθός</reference>
+		<reference osisRef="Acts.14.19!7" type="DFE" label="" verse="Acts 14:19" >ἰουδαῖοι</reference>
+		<reference osisRef="Acts.14.20!18-Acts.14.20!19" type="DFE" label="" verse="Acts 14:20" >εἰς δέρβην</reference>
+		<reference osisRef="Acts.14.23!6" type="DFE" label="" verse="Acts 14:23" >πρεσβυτέρους</reference>
+		<reference osisRef="Acts.14.27!19-Acts.14.27!20" type="DFE" label="" verse="Acts 14:27" >θύραν πίστεως</reference>
+		<reference osisRef="Acts.15.14!11-Acts.15.14!14" type="DFE" label="" verse="Acts 15:14" >λαὸν τῷ ὀνόματι αὐτοῦ</reference>
+		<reference osisRef="Acts.15.22!24-Acts.15.22!29" type="DFE" label="" verse="Acts 15:22" >ἰούδαν τὸν καλούμενον βαρσαββᾶν καὶ σιλᾶν</reference>
+		<reference osisRef="Acts.15.33!10-Acts.15.33!13" type="DFE" label="" verse="Acts 15:33" >πρὸς τοὺς ἀποστείλαντας αὐτούς</reference>
+		<reference osisRef="Acts.15.35!15-Acts.15.35!18" type="DFE" label="" verse="Acts 15:35" >τὸν λόγον τοῦ κυρίου</reference>
+		<reference osisRef="Acts.16.13!10-Acts.16.13!11" type="DFE" label="" verse="Acts 16:13" >παρὰ ποταμὸν</reference>
+		<reference osisRef="Acts.16.19!23-Acts.16.19!25" type="DFE" label="" verse="Acts 16:19" >ἐπὶ τοὺς ἄρχοντας</reference>
+		<reference osisRef="Acts.16.33!21" type="DFE" label="" verse="Acts 16:33" >παραχρῆμα</reference>
+		<reference osisRef="Acts.16.37!10" type="DFE" label="" verse="Acts 16:37" >ἀκατακρίτους</reference>
+		<reference osisRef="Acts.17.4!17-Acts.17.4!18" type="DFE" label="" verse="Acts 17:4" >πλῆθος πολύ</reference>
+		<reference osisRef="Acts.17.4!23-Acts.17.4!24" type="DFE" label="" verse="Acts 17:4" >οὐκ ὀλίγαι</reference>
+		<reference osisRef="Acts.17.5!9-Acts.17.5!11" type="DFE" label="" verse="Acts 17:5" >ἄνδρας τινὰς πονηροὺς</reference>
+		<reference osisRef="Acts.17.12!15-Acts.17.12!16" type="DFE" label="" verse="Acts 17:12" >οὐκ ὀλίγοι</reference>
+		<reference osisRef="Acts.17.17!7-Acts.17.17!11" type="DFE" label="" verse="Acts 17:17" >τοῖς ἰουδαίοις καὶ τοῖς σεβομένοις</reference>
+		<reference osisRef="Acts.17.17!19-Acts.17.17!21" type="DFE" label="" verse="Acts 17:17" >πρὸς τοὺς παρατυγχάνοντας</reference>
+		<reference osisRef="Acts.17.26!5-Acts.17.26!7" type="DFE" label="" verse="Acts 17:26" >πᾶν ἔθνος ἀνθρώπων</reference>
+		<reference osisRef="Acts.17.32!15-Acts.17.32!16" type="DFE" label="" verse="Acts 17:32" >καὶ πάλιν</reference>
+		<reference osisRef="Acts.18.4!6-Acts.18.4!8" type="DFE" label="" verse="Acts 18:4" >κατὰ πᾶν σάββατον</reference>
+		<reference osisRef="Acts.18.5!24" type="DFE" label="" verse="Acts 18:5" >ἰησοῦν</reference>
+		<reference osisRef="Acts.18.9!9-Acts.18.9!10" type="DFE" label="" verse="Acts 18:9" >τῷ παύλῳ</reference>
+		<reference osisRef="Acts.18.18!24-Acts.18.18!25" type="DFE" label="" verse="Acts 18:18" >τὴν κεφαλήν</reference>
+		<reference osisRef="Acts.18.28!14" type="DFE" label="" verse="Acts 18:28" >ἰησοῦν</reference>
+		<reference osisRef="Acts.19.12!11-Acts.19.12!13" type="DFE" label="" verse="Acts 19:12" >σουδάρια ἢ σιμικίνθια</reference>
+		<reference osisRef="Acts.19.13!17-Acts.19.13!21" type="DFE" label="" verse="Acts 19:13" >τὸ ὄνομα τοῦ κυρίου ἰησοῦ</reference>
+		<reference osisRef="Acts.19.19!21-Acts.19.19!22" type="DFE" label="" verse="Acts 19:19" >μυριάδας πέντε</reference>
+		<reference osisRef="Acts.19.22!6-Acts.19.22!9" type="DFE" label="" verse="Acts 19:22" >δύο τῶν διακονούντων αὐτῷ</reference>
+		<reference osisRef="Acts.19.23!7-Acts.19.23!12" type="DFE" label="" verse="Acts 19:23" >τάραχος οὐκ ὀλίγος περὶ τῆς ὁδοῦ</reference>
+		<reference osisRef="Acts.19.24!13-Acts.19.24!15" type="DFE" label="" verse="Acts 19:24" >οὐκ ὀλίγην ἐργασίαν</reference>
+		<reference osisRef="Acts.20.6!9-Acts.20.6!10" type="DFE" label="" verse="Acts 20:6" >ἀπὸ φιλίππων</reference>
+		<reference osisRef="Acts.20.6!18-Acts.20.6!20" type="DFE" label="" verse="Acts 20:6" >ἄχρι ἡμερῶν πέντε</reference>
+		<reference osisRef="Acts.20.21!6-Acts.20.21!16" type="DFE" label="" verse="Acts 20:21" >τὴν εἰς θεὸν μετάνοιαν καὶ πίστιν εἰς τὸν κύριον ἡμῶν ἰησοῦν</reference>
+		<reference osisRef="Acts.21.5!17-Acts.21.5!20" type="DFE" label="" verse="Acts 21:5" >ἕως ἔξω τῆς πόλεως</reference>
+		<reference osisRef="Acts.21.19!15-Acts.21.19!18" type="DFE" label="" verse="Acts 21:19" >διὰ τῆς διακονίας αὐτοῦ</reference>
+		<reference osisRef="Acts.21.29!10-Acts.21.29!11" type="DFE" label="" verse="Acts 21:29" >σὺν αὐτῷ</reference>
+		<reference osisRef="Acts.21.35!13-Acts.21.35!17" type="DFE" label="" verse="Acts 21:35" >διὰ τὴν βίαν τοῦ ὄχλου</reference>
+		<reference osisRef="Acts.21.38!18-Acts.21.38!22" type="DFE" label="" verse="Acts 21:38" >τοὺς τετρακισχιλίους ἄνδρας τῶν σικαρίων</reference>
+		<reference osisRef="Acts.21.40!13-Acts.21.40!14" type="DFE" label="" verse="Acts 21:40" >τῷ λαῷ</reference>
+		<reference osisRef="Acts.22.3!16-Acts.22.3!19" type="DFE" label="" verse="Acts 22:3" >παρὰ τοὺς πόδας γαμαλιὴλ</reference>
+		<reference osisRef="Acts.22.4!13-Acts.22.4!16" type="DFE" label="" verse="Acts 22:4" >ἄνδρας τε καὶ γυναῖκας</reference>
+		<reference osisRef="Acts.22.18!11-Acts.22.18!12" type="DFE" label="" verse="Acts 22:18" >ἐξ ἰερουσαλήμ</reference>
+		<reference osisRef="Acts.22.19!15-Acts.22.19!18" type="DFE" label="" verse="Acts 22:19" >τοὺς πιστεύοντας ἐπὶ σέ</reference>
+		<reference osisRef="Acts.22.22!18-Acts.22.22!19" type="DFE" label="" verse="Acts 22:22" >τὸν τοιοῦτον</reference>
+		<reference osisRef="Acts.23.31!15-Acts.23.31!17" type="DFE" label="" verse="Acts 23:31" >εἰς τὴν ἀντιπατρίδα</reference>
+		<reference osisRef="Acts.23.33!10-Acts.23.33!11" type="DFE" label="" verse="Acts 23:33" >τῷ ἡγεμόνι</reference>
+		<reference osisRef="Acts.24.18!9-Acts.24.18!14" type="DFE" label="" verse="Acts 24:18" >οὐ μετὰ ὄχλου οὐδὲ μετὰ θορύβου</reference>
+		<reference osisRef="Acts.28.23!11" type="DFE" label="" verse="Acts 28:23" >πλείονες</reference>
+		<reference osisRef="Acts.28.31!17" type="DFE" label="" verse="Acts 28:31" >ἀκωλύτως</reference>
+		<reference osisRef="Rom.1.3!1-Rom.1.3!4" type="DFE" label="" verse="Rom 1:3" >περὶ τοῦ υἱοῦ αὐτοῦ</reference>
+		<reference osisRef="Rom.1.4!10-Rom.1.4!12" type="DFE" label="" verse="Rom 1:4" >ἐξ ἀναστάσεως νεκρῶν</reference>
+		<reference osisRef="Rom.1.8!10-Rom.1.8!12" type="DFE" label="" verse="Rom 1:8" >περὶ πάντων ὑμῶν</reference>
+		<reference osisRef="Rom.1.9!13-Rom.1.9!18" type="DFE" label="" verse="Rom 1:9" >ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ</reference>
+		<reference osisRef="Rom.1.16!12-Rom.1.16!14" type="DFE" label="" verse="Rom 1:16" >παντὶ τῷ πιστεύοντι</reference>
+		<reference osisRef="Rom.1.18!7-Rom.1.18!18" type="DFE" label="" verse="Rom 1:18" >ἐπὶ πᾶσαν ἀσέβειαν καὶ ἀδικίαν ἀνθρώπων τῶν τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων</reference>
+		<reference osisRef="Rom.1.24!12-Rom.1.24!13" type="DFE" label="" verse="Rom 1:24" >εἰς ἀκαθαρσίαν</reference>
+		<reference osisRef="Rom.3.8!10" type="DFE" label="" verse="Rom 3:8" >λέγειν</reference>
+		<reference osisRef="Rom.5.16!15-Rom.5.16!16" type="DFE" label="" verse="Rom 5:16" >εἰς κατάκριμα</reference>
+		<reference osisRef="Rom.5.16!23-Rom.5.16!24" type="DFE" label="" verse="Rom 5:16" >εἰς δικαίωμα</reference>
+		<reference osisRef="Rom.5.18!10-Rom.5.18!11" type="DFE" label="" verse="Rom 5:18" >εἰς κατάκριμα</reference>
+		<reference osisRef="Rom.5.18!20-Rom.5.18!22" type="DFE" label="" verse="Rom 5:18" >εἰς δικαίωσιν ζωῆς</reference>
+		<reference osisRef="Rom.6.13!6-Rom.6.13!9" type="DFE" label="" verse="Rom 6:13" >ὅπλα ἀδικίας τῇ ἁμαρτίᾳ</reference>
+		<reference osisRef="Rom.6.13!23-Rom.6.13!26" type="DFE" label="" verse="Rom 6:13" >ὅπλα δικαιοσύνης τῷ θεῷ</reference>
+		<reference osisRef="Rom.7.18!14" type="DFE" label="" verse="Rom 7:18" >ἀγαθόν</reference>
+		<reference osisRef="Rom.8.21!12-Rom.8.21!20" type="DFE" label="" verse="Rom 8:21" >εἰς τὴν ἐλευθερίαν τῆς δόξης τῶν τέκνων τοῦ θεοῦ</reference>
+		<reference osisRef="Rom.9.3!10-Rom.9.3!18" type="DFE" label="" verse="Rom 9:3" >ὑπὲρ τῶν ἀδελφῶν μου τῶν συγγενῶν μου κατὰ σάρκα</reference>
+		<reference osisRef="Rom.9.9!15" type="DFE" label="" verse="Rom 9:9" >υἱός</reference>
+		<reference osisRef="Rom.9.22!18-Rom.9.22!22" type="DFE" label="" verse="Rom 9:22" >σκεύη ὀργῆς κατηρτισμένα εἰς ἀπώλειαν</reference>
+		<reference osisRef="Rom.9.25!12-Rom.9.25!13" type="DFE" label="" verse="Rom 9:25" >λαόν μου</reference>
+		<reference osisRef="Rom.9.25!18" type="DFE" label="" verse="Rom 9:25" >ἠγαπημένην</reference>
+		<reference osisRef="Rom.11.13!13" type="DFE" label="" verse="Rom 11:13" >ἀπόστολος</reference>
+		<reference osisRef="Rom.11.26!11-Rom.11.26!12" type="DFE" label="" verse="Rom 11:26" >ὁ ῥυόμενος</reference>
+		<reference osisRef="Rom.12.1!14-Rom.12.1!19" type="DFE" label="" verse="Rom 12:1" >θυσίαν ζῶσαν ἁγίαν εὐάρεστον τῷ θεῷ</reference>
+		<reference osisRef="Rom.12.6!10" type="DFE" label="" verse="Rom 12:6" >διάφορα</reference>
+		<reference osisRef="Rom.12.10!5" type="DFE" label="" verse="Rom 12:10" >φιλόστοργοι</reference>
+		<reference osisRef="Rom.12.11!3-Rom.12.11!4" type="DFE" label="" verse="Rom 12:11" >μὴ ὀκνηροί</reference>
+		<reference osisRef="Rom.14.22!12-Rom.14.22!18" type="DFE" label="" verse="Rom 14:22" >ὁ μὴ κρίνων ἑαυτὸν ἐν ᾧ δοκιμάζει</reference>
+		<reference osisRef="Rom.15.2!9-Rom.15.2!10" type="DFE" label="" verse="Rom 15:2" >πρὸς οἰκοδομήν</reference>
+		<reference osisRef="Rom.15.11!7-Rom.15.11!8" type="DFE" label="" verse="Rom 15:11" >τὸν κύριον</reference>
+		<reference osisRef="Rom.15.13!22-Rom.15.13!25" type="DFE" label="" verse="Rom 15:13" >ἐν δυνάμει πνεύματος ἁγίου</reference>
+		<reference osisRef="Rom.16.2!6-Rom.16.2!8" type="DFE" label="" verse="Rom 16:2" >ἀξίως τῶν ἁγίων</reference>
+		<reference osisRef="Rom.16.20!13-Rom.16.20!14" type="DFE" label="" verse="Rom 16:20" >ἐν τάχει</reference>
+		<reference osisRef="Rom.16.22!9-Rom.16.22!10" type="DFE" label="" verse="Rom 16:22" >ἐν κυρίῳ</reference>
+		<reference osisRef="1Cor.2.7!16-1Cor.2.7!18" type="DFE" label="" verse="1Cor 2:7" >εἰς δόξαν ἡμῶν</reference>
+		<reference osisRef="1Cor.4.6!9-1Cor.4.6!10" type="DFE" label="" verse="1Cor 4:6" >δι’ ὑμᾶς</reference>
+		<reference osisRef="1Cor.4.17!13-1Cor.4.17!14" type="DFE" label="" verse="1Cor 4:17" >ἐν κυρίῳ</reference>
+		<reference osisRef="1Cor.5.1!5" type="DFE" label="" verse="1Cor 5:1" >πορνεία</reference>
+		<reference osisRef="1Cor.6.5!10-1Cor.6.5!11" type="DFE" label="" verse="1Cor 6:5" >οὐδεὶς σοφός</reference>
+		<reference osisRef="1Cor.7.5!9-1Cor.7.5!10" type="DFE" label="" verse="1Cor 7:5" >πρὸς καιρόν</reference>
+		<reference osisRef="1Cor.9.22!4" type="DFE" label="" verse="1Cor 9:22" >ἀσθενής</reference>
+		<reference osisRef="1Cor.10.8!11-1Cor.10.8!13" type="DFE" label="" verse="1Cor 10:8" >εἴκοσι τρεῖς χιλιάδες</reference>
+		<reference osisRef="1Cor.10.13!25-1Cor.10.13!27" type="DFE" label="" verse="1Cor 10:13" >καὶ τὴν ἔκβασιν</reference>
+		<reference osisRef="1Cor.11.10!11-1Cor.11.10!13" type="DFE" label="" verse="1Cor 11:10" >διὰ τοὺς ἀγγέλους</reference>
+		<reference osisRef="1Cor.11.23!7-1Cor.11.23!10" type="DFE" label="" verse="1Cor 11:23" >ὃ καὶ παρέδωκα ὑμῖν</reference>
+		<reference osisRef="1Cor.11.25!25-1Cor.11.25!28" type="DFE" label="" verse="1Cor 11:25" >εἰς τὴν ἐμὴν ἀνάμνησιν</reference>
+		<reference osisRef="1Cor.12.18!14-1Cor.12.18!15" type="DFE" label="" verse="1Cor 12:18" >καθὼς ἠθέλησεν</reference>
+		<reference osisRef="1Cor.13.12!6-1Cor.13.12!7" type="DFE" label="" verse="1Cor 13:12" >ἐν αἰνίγματι</reference>
+		<reference osisRef="1Cor.14.11!12" type="DFE" label="" verse="1Cor 14:11" >βάρβαρος</reference>
+		<reference osisRef="1Cor.15.3!6-1Cor.15.3!8" type="DFE" label="" verse="1Cor 15:3" >ὃ καὶ παρέλαβον</reference>
+		<reference osisRef="1Cor.15.3!16-1Cor.15.3!18" type="DFE" label="" verse="1Cor 15:3" >κατὰ τὰς γραφὰς</reference>
+		<reference osisRef="1Cor.15.33!6-1Cor.15.33!7" type="DFE" label="" verse="1Cor 15:33" >ὁμιλίαι κακαί</reference>
+		<reference osisRef="1Cor.15.55!4-1Cor.15.55!5" type="DFE" label="" verse="1Cor 15:55" >τὸ νῖκος</reference>
+		<reference osisRef="1Cor.15.55!9-1Cor.15.55!10" type="DFE" label="" verse="1Cor 15:55" >τὸ κέντρον</reference>
+		<reference osisRef="1Cor.15.58!14" type="DFE" label="" verse="1Cor 15:58" >πάντοτε</reference>
+		<reference osisRef="1Cor.16.19!12-1Cor.16.19!14" type="DFE" label="" verse="1Cor 16:19" >ἀκύλας καὶ πρίσκα</reference>
+		<reference osisRef="2Cor.2.5!14-2Cor.2.5!15" type="DFE" label="" verse="2Cor 2:5" >πάντας ὑμᾶς</reference>
+		<reference osisRef="2Cor.2.16!6-2Cor.2.16!7" type="DFE" label="" verse="2Cor 2:16" >εἰς θάνατον</reference>
+		<reference osisRef="2Cor.2.16!13-2Cor.2.16!14" type="DFE" label="" verse="2Cor 2:16" >εἰς ζωήν</reference>
+		<reference osisRef="2Cor.3.1!10-2Cor.3.1!16" type="DFE" label="" verse="2Cor 3:1" >συστατικῶν ἐπιστολῶν πρὸς ὑμᾶς ἢ ἐξ ὑμῶν</reference>
+		<reference osisRef="2Cor.5.16!15" type="DFE" label="" verse="2Cor 5:16" >χριστόν</reference>
+		<reference osisRef="2Cor.8.22!11" type="DFE" label="" verse="2Cor 8:22" >πολλάκις</reference>
+		<reference osisRef="2Cor.10.15!23-2Cor.10.15!24" type="DFE" label="" verse="2Cor 10:15" >εἰς περισσείαν</reference>
+		<reference osisRef="Gal.1.6!13-Gal.1.6!15" type="DFE" label="" verse="Gal 1:6" >εἰς ἕτερον εὐαγγέλιον</reference>
+		<reference osisRef="Gal.1.17!5-Gal.1.17!9" type="DFE" label="" verse="Gal 1:17" >πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους</reference>
+		<reference osisRef="Gal.2.17!14" type="DFE" label="" verse="Gal 2:17" >διάκονος</reference>
+		<reference osisRef="Gal.2.20!3-Gal.2.20!4" type="DFE" label="" verse="Gal 2:20" >οὐκέτι ἐγώ</reference>
+		<reference osisRef="Gal.3.16!23-Gal.3.16!26" type="DFE" label="" verse="Gal 3:16" >καὶ τῷ σπέρματί σου</reference>
+		<reference osisRef="Gal.3.19!15" type="DFE" label="" verse="Gal 3:19" >ἐπήγγελται</reference>
+		<reference osisRef="Gal.3.19!19-Gal.3.19!21" type="DFE" label="" verse="Gal 3:19" >ἐν χειρὶ μεσίτου</reference>
+		<reference osisRef="Gal.4.18!6" type="DFE" label="" verse="Gal 4:18" >πάντοτε</reference>
+		<reference osisRef="Gal.5.7!2" type="DFE" label="" verse="Gal 5:7" >καλῶς</reference>
+		<reference osisRef="Eph.1.14!11-Eph.1.14!15" type="DFE" label="" verse="Eph 1:14" >εἰς ἔπαινον τῆς δόξης αὐτοῦ</reference>
+		<reference osisRef="Eph.2.7!8-Eph.2.7!20" type="DFE" label="" verse="Eph 2:7" >τὸ ὑπερβάλλον πλοῦτος τῆς χάριτος αὐτοῦ ἐν χρηστότητι ἐφ’ ἡμᾶς ἐν χριστῷ ἰησοῦ</reference>
+		<reference osisRef="Eph.2.16!10-Eph.2.16!12" type="DFE" label="" verse="Eph 2:16" >διὰ τοῦ σταυροῦ</reference>
+		<reference osisRef="Eph.3.16!16-Eph.3.16!19" type="DFE" label="" verse="Eph 3:16" >εἰς τὸν ἔσω ἄνθρωπον</reference>
+		<reference osisRef="Eph.3.17!7-Eph.3.17!10" type="DFE" label="" verse="Eph 3:17" >ἐν ταῖς καρδίαις ὑμῶν</reference>
+		<reference osisRef="Eph.3.17!13-Eph.3.17!15" type="DFE" label="" verse="Eph 3:17" >ἐρριζωμένοι καὶ τεθεμελιωμένοι</reference>
+		<reference osisRef="Eph.4.22!7-Eph.4.22!16" type="DFE" label="" verse="Eph 4:22" >τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης</reference>
+		<reference osisRef="Eph.4.28!12-Eph.4.28!13" type="DFE" label="" verse="Eph 4:28" >τὸ ἀγαθόν</reference>
+		<reference osisRef="Eph.5.19!16-Eph.5.19!17" type="DFE" label="" verse="Eph 5:19" >τῷ κυρίῳ</reference>
+		<reference osisRef="Eph.5.20!12-Eph.5.20!15" type="DFE" label="" verse="Eph 5:20" >τῷ θεῷ καὶ πατρί</reference>
+		<reference osisRef="Eph.6.5!17-Eph.6.5!19" type="DFE" label="" verse="Eph 6:5" >ὡς τῷ χριστῷ</reference>
+		<reference osisRef="Eph.6.18!10-Eph.6.18!11" type="DFE" label="" verse="Eph 6:18" >ἐν πνεύματι</reference>
+		<reference osisRef="Eph.6.18!21-Eph.6.18!24" type="DFE" label="" verse="Eph 6:18" >περὶ πάντων τῶν ἁγίων</reference>
+		<reference osisRef="Eph.6.22!5-Eph.6.22!7" type="DFE" label="" verse="Eph 6:22" >εἰς αὐτὸ τοῦτο</reference>
+		<reference osisRef="Phil.3.7!11" type="DFE" label="" verse="Phil 3:7" >ζημίαν</reference>
+		<reference osisRef="Phil.3.17!13" type="DFE" label="" verse="Phil 3:17" >ἡμᾶς</reference>
+		<reference osisRef="Col.2.9!10" type="DFE" label="" verse="Col 2:9" >σωματικῶς</reference>
+		<reference osisRef="Col.2.19!16-Col.2.19!18" type="DFE" label="" verse="Col 2:19" >ἐπιχορηγούμενον καὶ συμβιβαζόμενον</reference>
+		<reference osisRef="Col.3.3!11-Col.3.3!13" type="DFE" label="" verse="Col 3:3" >ἐν τῷ θεῷ</reference>
+		<reference osisRef="Col.3.12!10-Col.3.12!15" type="DFE" label="" verse="Col 3:12" >σπλάγχνα οἰκτιρμοῦ χρηστότητα ταπεινοφροσύνην πραΰτητα μακροθυμίαν</reference>
+		<reference osisRef="Col.3.16!28-Col.3.16!29" type="DFE" label="" verse="Col 3:16" >τῷ θεῷ</reference>
+		<reference osisRef="Col.3.22!6-Col.3.22!9" type="DFE" label="" verse="Col 3:22" >τοῖς κατὰ σάρκα κυρίοις</reference>
+		<reference osisRef="1Thess.1.4!7-1Thess.1.4!9" type="DFE" label="" verse="1Thess 1:4" >τὴν ἐκλογὴν ὑμῶν</reference>
+		<reference osisRef="1Thess.1.6!15-1Thess.1.6!18" type="DFE" label="" verse="1Thess 1:6" >μετὰ χαρᾶς πνεύματος ἁγίου</reference>
+		<reference osisRef="1Thess.1.9!17-1Thess.1.9!19" type="DFE" label="" verse="1Thess 1:9" >ἀπὸ τῶν εἰδώλων</reference>
+		<reference osisRef="1Thess.2.2!7-1Thess.2.2!8" type="DFE" label="" verse="1Thess 2:2" >ἐν φιλίπποις</reference>
+		<reference osisRef="1Thess.2.9!4-1Thess.2.9!9" type="DFE" label="" verse="1Thess 2:9" >τὸν κόπον ἡμῶν καὶ τὸν μόχθον</reference>
+		<reference osisRef="1Thess.2.13!16-1Thess.2.13!17" type="DFE" label="" verse="1Thess 2:13" >τοῦ θεοῦ</reference>
+		<reference osisRef="1Thess.2.13!26-1Thess.2.13!27" type="DFE" label="" verse="1Thess 2:13" >λόγον θεοῦ</reference>
+		<reference osisRef="1Thess.2.17!10-1Thess.2.17!12" type="DFE" label="" verse="1Thess 2:17" >προσώπῳ οὐ καρδίᾳ</reference>
+		<reference osisRef="1Thess.2.19!19-1Thess.2.19!22" type="DFE" label="" verse="1Thess 2:19" >ἐν τῇ αὐτοῦ παρουσίᾳ</reference>
+		<reference osisRef="1Thess.3.6!7-1Thess.3.6!8" type="DFE" label="" verse="1Thess 3:6" >ἀφ’ ὑμῶν</reference>
+		<reference osisRef="1Thess.3.7!5-1Thess.3.7!6" type="DFE" label="" verse="1Thess 3:7" >ἐφ’ ὑμῖν</reference>
+		<reference osisRef="1Thess.3.7!14-1Thess.3.7!17" type="DFE" label="" verse="1Thess 3:7" >διὰ τῆς ὑμῶν πίστεως</reference>
+		<reference osisRef="1Thess.4.6!9-1Thess.4.6!11" type="DFE" label="" verse="1Thess 4:6" >τὸν ἀδελφὸν αὐτοῦ</reference>
+		<reference osisRef="1Thess.4.13!7-1Thess.4.13!9" type="DFE" label="" verse="1Thess 4:13" >περὶ τῶν κοιμωμένων</reference>
+		<reference osisRef="1Thess.4.17!13-1Thess.4.17!18" type="DFE" label="" verse="1Thess 4:17" >εἰς ἀπάντησιν τοῦ κυρίου εἰς ἀέρα</reference>
+		<reference osisRef="1Thess.5.13!7-1Thess.5.13!10" type="DFE" label="" verse="1Thess 5:13" >διὰ τὸ ἔργον αὐτῶν</reference>
+		<reference osisRef="2Thess.1.6!9" type="DFE" label="" verse="2Thess 1:6" >θλῖψιν</reference>
+		<reference osisRef="2Thess.3.1!5-2Thess.3.1!6" type="DFE" label="" verse="2Thess 3:1" >περὶ ἡμῶν</reference>
+		<reference osisRef="2Thess.3.16!13-2Thess.3.16!15" type="DFE" label="" verse="2Thess 3:16" >ἐν παντὶ τρόπῳ</reference>
+		<reference osisRef="1Tim.4.3!13-1Tim.4.3!18" type="DFE" label="" verse="1Tim 4:3" >τοῖς πιστοῖς καὶ ἐπεγνωκόσι τὴν ἀλήθειαν</reference>
+		<reference osisRef="1Tim.5.2!7-1Tim.5.2!9" type="DFE" label="" verse="1Tim 5:2" >ἐν πάσῃ ἁγνείᾳ</reference>
+		<reference osisRef="1Tim.6.6!5-1Tim.6.6!8" type="DFE" label="" verse="1Tim 6:6" >ἡ εὐσέβεια μετὰ αὐταρκείας</reference>
+		<reference osisRef="1Tim.6.16!14" type="DFE" label="" verse="1Tim 6:16" >δύναται</reference>
+		<reference osisRef="2Tim.1.3!9-2Tim.1.3!11" type="DFE" label="" verse="2Tim 1:3" >ἐν καθαρᾷ συνειδήσει</reference>
+		<reference osisRef="2Tim.1.3!23-2Tim.1.3!25" type="DFE" label="" verse="2Tim 1:3" >νυκτὸς καὶ ἡμέρας</reference>
+		<reference osisRef="2Tim.1.9!25-2Tim.1.9!27" type="DFE" label="" verse="2Tim 1:9" >πρὸ χρόνων αἰωνίων</reference>
+		<reference osisRef="Titus.1.5!15" type="DFE" label="" verse="Titus 1:5" >πρεσβυτέρους</reference>
+		<reference osisRef="Titus.1.16!17" type="DFE" label="" verse="Titus 1:16" >ἀδόκιμοι</reference>
+		<reference osisRef="Titus.2.3!5" type="DFE" label="" verse="Titus 2:3" >ἱεροπρεπεῖς</reference>
+		<reference osisRef="Phlm.1.11!4" type="DFE" label="" verse="Phlm 1:11" >ἄχρηστον</reference>
+		<reference osisRef="Heb.2.7!5-Heb.2.7!6" type="DFE" label="" verse="Heb 2:7" >παρ’ ἀγγέλους</reference>
+		<reference osisRef="Heb.3.3!15-Heb.3.3!17" type="DFE" label="" verse="Heb 3:3" >ὁ κατασκευάσας αὐτόν</reference>
+		<reference osisRef="Heb.3.5!10-Heb.3.5!11" type="DFE" label="" verse="Heb 3:5" >ὡς θεράπων</reference>
+		<reference osisRef="Heb.4.3!6-Heb.4.3!7" type="DFE" label="" verse="Heb 4:3" >οἱ πιστεύσαντες</reference>
+		<reference osisRef="Heb.4.4!7" type="DFE" label="" verse="Heb 4:4" >οὕτως</reference>
+		<reference osisRef="Heb.4.4!17-Heb.4.4!21" type="DFE" label="" verse="Heb 4:4" >ἀπὸ πάντων τῶν ἔργων αὐτοῦ</reference>
+		<reference osisRef="Heb.4.15!17-Heb.4.15!18" type="DFE" label="" verse="Heb 4:15" >χωρὶς ἁμαρτίας</reference>
+		<reference osisRef="Heb.4.16!5-Heb.4.16!8" type="DFE" label="" verse="Heb 4:16" >τῷ θρόνῳ τῆς χάριτος</reference>
+		<reference osisRef="Heb.5.8!8-Heb.5.8!9" type="DFE" label="" verse="Heb 5:8" >τὴν ὑπακοήν</reference>
+		<reference osisRef="Heb.5.9!8-Heb.5.9!10" type="DFE" label="" verse="Heb 5:9" >αἴτιος σωτηρίας αἰωνίου</reference>
+		<reference osisRef="Heb.5.10!5-Heb.5.10!9" type="DFE" label="" verse="Heb 5:10" >ἀρχιερεὺς κατὰ τὴν τάξιν μελχισέδεκ</reference>
+		<reference osisRef="Heb.6.9!6-Heb.6.9!10" type="DFE" label="" verse="Heb 6:9" >τὰ κρείσσονα καὶ ἐχόμενα σωτηρίας</reference>
+		<reference osisRef="Heb.6.17!12-Heb.6.17!16" type="DFE" label="" verse="Heb 6:17" >τὸ ἀμετάθετον τῆς βουλῆς αὐτοῦ</reference>
+		<reference osisRef="Heb.8.4!14-Heb.8.4!15" type="DFE" label="" verse="Heb 8:4" >κατὰ νόμον</reference>
+		<reference osisRef="Heb.8.8!21-Heb.8.8!22" type="DFE" label="" verse="Heb 8:8" >διαθήκην καινήν</reference>
+		<reference osisRef="Heb.9.19!10-Heb.9.19!12" type="DFE" label="" verse="Heb 9:19" >παντὶ τῷ λαῷ</reference>
+		<reference osisRef="Heb.9.25!15-Heb.9.25!17" type="DFE" label="" verse="Heb 9:25" >ἐν αἵματι ἀλλοτρίῳ</reference>
+		<reference osisRef="Heb.10.7!15-Heb.10.7!17" type="DFE" label="" verse="Heb 10:7" >τὸ θέλημά σου</reference>
+		<reference osisRef="Heb.10.10!13" type="DFE" label="" verse="Heb 10:10" >ἐφάπαξ</reference>
+		<reference osisRef="Heb.10.14!8-Heb.10.14!9" type="DFE" label="" verse="Heb 10:14" >τοὺς ἁγιαζομένους</reference>
+		<reference osisRef="Heb.10.22!5-Heb.10.22!7" type="DFE" label="" verse="Heb 10:22" >ἐν πληροφορίᾳ πίστεως</reference>
+		<reference osisRef="Heb.10.22!18-Heb.10.22!19" type="DFE" label="" verse="Heb 10:22" >ὕδατι καθαρῷ</reference>
+		<reference osisRef="Heb.11.4!20-Heb.11.4!21" type="DFE" label="" verse="Heb 11:4" >τοῦ θεοῦ</reference>
+		<reference osisRef="Heb.11.9!7-Heb.11.9!8" type="DFE" label="" verse="Heb 11:9" >ὡς ἀλλοτρίαν</reference>
+		<reference osisRef="Heb.11.26!7-Heb.11.26!10" type="DFE" label="" verse="Heb 11:26" >τὸν ὀνειδισμὸν τοῦ χριστοῦ</reference>
+		<reference osisRef="Heb.11.32!11-Heb.11.32!22" type="DFE" label="" verse="Heb 11:32" >περὶ γεδεών βαράκ σαμψών ἰεφθάε δαυίδ τε καὶ σαμουὴλ καὶ τῶν προφητῶν</reference>
+		<reference osisRef="Heb.13.17!14-Heb.13.17!16" type="DFE" label="" verse="Heb 13:17" >ὡς λόγον ἀποδώσοντες</reference>
+		<reference osisRef="Jas.1.18!14" type="DFE" label="" verse="Jas 1:18" >κτισμάτων</reference>
+		<reference osisRef="Jas.2.2!7-Jas.2.2!11" type="DFE" label="" verse="Jas 2:2" >ἀνὴρ χρυσοδακτύλιος ἐν ἐσθῆτι λαμπρᾷ</reference>
+		<reference osisRef="Jas.2.3!15" type="DFE" label="" verse="Jas 2:3" >καλῶς</reference>
+		<reference osisRef="Jas.2.9!10-Jas.2.9!11" type="DFE" label="" verse="Jas 2:9" >ὡς παραβάται</reference>
+		<reference osisRef="Jas.2.18!25-Jas.2.18!26" type="DFE" label="" verse="Jas 2:18" >τὴν πίστιν</reference>
+		<reference osisRef="Jas.3.13!15-Jas.3.13!17" type="DFE" label="" verse="Jas 3:13" >ἐν πραΰτητι σοφίας</reference>
+		<reference osisRef="Jas.5.7!4-Jas.5.7!8" type="DFE" label="" verse="Jas 5:7" >ἕως τῆς παρουσίας τοῦ κυρίου</reference>
+		<reference osisRef="Jas.5.9!4-Jas.5.9!5" type="DFE" label="" verse="Jas 5:9" >κατ’ ἀλλήλων</reference>
+		<reference osisRef="Jas.5.10!9-Jas.5.10!16" type="DFE" label="" verse="Jas 5:10" >τοὺς προφήτας οἳ ἐλάλησαν ἐν τῷ ὀνόματι κυρίου</reference>
+		<reference osisRef="Jas.5.17!18-Jas.5.17!22" type="DFE" label="" verse="Jas 5:17" >ἐνιαυτοὺς τρεῖς καὶ μῆνας ἕξ</reference>
+		<reference osisRef="1Pet.1.3!22-1Pet.1.3!27" type="DFE" label="" verse="1Pet 1:3" >δι’ ἀναστάσεως ἰησοῦ χριστοῦ ἐκ νεκρῶν</reference>
+		<reference osisRef="1Pet.1.4!11-1Pet.1.4!12" type="DFE" label="" verse="1Pet 1:4" >εἰς ὑμᾶς</reference>
+		<reference osisRef="1Pet.1.5!8-1Pet.1.5!14" type="DFE" label="" verse="1Pet 1:5" >εἰς σωτηρίαν ἑτοίμην ἀποκαλυφθῆναι ἐν καιρῷ ἐσχάτῳ</reference>
+		<reference osisRef="1Pet.1.7!22-1Pet.1.7!25" type="DFE" label="" verse="1Pet 1:7" >ἐν ἀποκαλύψει ἰησοῦ χριστοῦ</reference>
+		<reference osisRef="1Pet.1.20!12-1Pet.1.20!13" type="DFE" label="" verse="1Pet 1:20" >δι’ ὑμᾶς</reference>
+		<reference osisRef="1Pet.1.22!10-1Pet.1.22!12" type="DFE" label="" verse="1Pet 1:22" >εἰς φιλαδελφίαν ἀνυπόκριτον</reference>
+		<reference osisRef="1Pet.1.23!8-1Pet.1.23!13" type="DFE" label="" verse="1Pet 1:23" >διὰ λόγου ζῶντος θεοῦ καὶ μένοντος</reference>
+		<reference osisRef="1Pet.2.6!9-1Pet.2.6!10" type="DFE" label="" verse="1Pet 2:6" >λίθον ἀκρογωνιαῖον</reference>
+		<reference osisRef="1Pet.2.18!7-1Pet.2.18!8" type="DFE" label="" verse="1Pet 2:18" >τοῖς δεσπόταις</reference>
+		<reference osisRef="1Pet.2.24!11-1Pet.2.24!13" type="DFE" label="" verse="1Pet 2:24" >ἐπὶ τὸ ξύλον</reference>
+		<reference osisRef="1Pet.3.4!20" type="DFE" label="" verse="1Pet 3:4" >πολυτελές</reference>
+		<reference osisRef="1Pet.3.7!7-1Pet.3.7!9" type="DFE" label="" verse="1Pet 3:7" >ὡς ἀσθενεστέρῳ σκεύει</reference>
+		<reference osisRef="1Pet.4.6!12" type="DFE" label="" verse="1Pet 4:6" >σαρκὶ</reference>
+		<reference osisRef="1Pet.4.6!17" type="DFE" label="" verse="1Pet 4:6" >πνεύματι</reference>
+		<reference osisRef="1Pet.4.9!4-1Pet.4.9!5" type="DFE" label="" verse="1Pet 4:9" >ἄνευ γογγυσμοῦ</reference>
+		<reference osisRef="2Pet.1.5!13-2Pet.1.5!14" type="DFE" label="" verse="2Pet 1:5" >τὴν ἀρετήν</reference>
+		<reference osisRef="2Pet.1.17!6-2Pet.1.17!8" type="DFE" label="" verse="2Pet 1:17" >τιμὴν καὶ δόξαν</reference>
+		<reference osisRef="2Pet.2.11!14-2Pet.2.11!15" type="DFE" label="" verse="2Pet 2:11" >βλάσφημον κρίσιν</reference>
+		<reference osisRef="2Pet.2.18!10-2Pet.2.18!16" type="DFE" label="" verse="2Pet 2:18" >τοὺς ὀλίγως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους</reference>
+		<reference osisRef="2Pet.3.1!14-2Pet.3.1!16" type="DFE" label="" verse="2Pet 3:1" >τὴν εἰλικρινῆ διάνοιαν</reference>
+		<reference osisRef="2Pet.3.3!10-2Pet.3.3!12" type="DFE" label="" verse="2Pet 3:3" >ἐν ἐμπαιγμονῇ ἐμπαῖκται</reference>
+		<reference osisRef="1John.4.10!22-1John.4.10!26" type="DFE" label="" verse="1John 4:10" >ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν</reference>
+		<reference osisRef="1John.4.14!12-1John.4.14!14" type="DFE" label="" verse="1John 4:14" >σωτῆρα τοῦ κόσμου</reference>
+		<reference osisRef="2John.1.3!18-2John.1.3!21" type="DFE" label="" verse="2John 1:3" >ἐν ἀληθείᾳ καὶ ἀγάπῃ</reference>
+		<reference osisRef="Rev.1.1!25-Rev.1.1!28" type="DFE" label="" verse="Rev 1:1" >τῷ δούλῳ αὐτοῦ ἰωάννῃ</reference>
+		<reference osisRef="Rev.1.9!24-Rev.1.9!32" type="DFE" label="" verse="Rev 1:9" >διὰ τὸν λόγον τοῦ θεοῦ καὶ τὴν μαρτυρίαν ἰησοῦ</reference>
+		<reference osisRef="Rev.1.13!16-Rev.1.13!17" type="DFE" label="" verse="Rev 1:13" >ζώνην χρυσᾶν</reference>
+		<reference osisRef="Rev.1.16!8-Rev.1.16!9" type="DFE" label="" verse="Rev 1:16" >ἀστέρας ἑπτὰ</reference>
+		<reference osisRef="Rev.1.17!10-Rev.1.17!11" type="DFE" label="" verse="Rev 1:17" >ὡς νεκρός</reference>
+		<reference osisRef="Rev.2.26!9-Rev.2.26!11" type="DFE" label="" verse="Rev 2:26" >τὰ ἔργα μου</reference>
+		<reference osisRef="Rev.3.21!21-Rev.3.21!24" type="DFE" label="" verse="Rev 3:21" >ἐν τῷ θρόνῳ αὐτοῦ</reference>
+		<reference osisRef="Rev.4.6!19-Rev.4.6!20" type="DFE" label="" verse="Rev 4:6" >τέσσαρα ζῷα</reference>
+		<reference osisRef="Rev.5.6!16" type="DFE" label="" verse="Rev 5:6" >ἀρνίον</reference>
+		<reference osisRef="Rev.5.9!26-Rev.5.9!34" type="DFE" label="" verse="Rev 5:9" >ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ ἔθνους</reference>
+		<reference osisRef="Rev.5.10!7-Rev.5.10!9" type="DFE" label="" verse="Rev 5:10" >βασιλείαν καὶ ἱερεῖς</reference>
+		<reference osisRef="Rev.6.9!11-Rev.6.9!25" type="DFE" label="" verse="Rev 6:9" >τὰς ψυχὰς τῶν ἐσφαγμένων διὰ τὸν λόγον τοῦ θεοῦ καὶ διὰ τὴν μαρτυρίαν ἣν εἶχον</reference>
+		<reference osisRef="Rev.7.11!21-Rev.7.11!24" type="DFE" label="" verse="Rev 7:11" >ἐπὶ τὰ πρόσωπα αὐτῶν</reference>
+		<reference osisRef="Rev.8.1!13-Rev.8.1!14" type="DFE" label="" verse="Rev 8:1" >ὡς ἡμιώριον</reference>
+		<reference osisRef="Rev.8.4!15-Rev.8.4!17" type="DFE" label="" verse="Rev 8:4" >ἐνώπιον τοῦ θεοῦ</reference>
+		<reference osisRef="Rev.8.10!11-Rev.8.10!12" type="DFE" label="" verse="Rev 8:10" >ἀστὴρ μέγας</reference>
+		<reference osisRef="Rev.9.2!13-Rev.9.2!16" type="DFE" label="" verse="Rev 9:2" >ὡς καπνὸς καμίνου μεγάλης</reference>
+		<reference osisRef="Rev.10.2!7-Rev.10.2!8" type="DFE" label="" verse="Rev 10:2" >βιβλαρίδιον ἠνεῳγμένον</reference>
+		<reference osisRef="Rev.10.10!19-Rev.10.10!21" type="DFE" label="" verse="Rev 10:10" >ὡς μέλι γλυκὺ</reference>
+		<reference osisRef="Rev.11.12!17-Rev.11.12!19" type="DFE" label="" verse="Rev 11:12" >ἐν τῇ νεφέλῃ</reference>
+		<reference osisRef="Rev.11.13!20-Rev.11.13!23" type="DFE" label="" verse="Rev 11:13" >ὀνόματα ἀνθρώπων χιλιάδες ἑπτὰ</reference>
+		<reference osisRef="Rev.12.15!12-Rev.12.15!14" type="DFE" label="" verse="Rev 12:15" >ὕδωρ ὡς ποταμόν</reference>
+		<reference osisRef="Rev.13.1!6-Rev.13.1!7" type="DFE" label="" verse="Rev 13:1" >θηρίον ἀναβαῖνον</reference>
+		<reference osisRef="Rev.13.13!16-Rev.13.13!18" type="DFE" label="" verse="Rev 13:13" >ἐνώπιον τῶν ἀνθρώπων</reference>
+		<reference osisRef="Rev.14.4!24-Rev.14.4!29" type="DFE" label="" verse="Rev 14:4" >ἀπαρχὴ τῷ θεῷ καὶ τῷ ἀρνίῳ</reference>
+		<reference osisRef="Rev.14.14!20-Rev.14.14!21" type="DFE" label="" verse="Rev 14:14" >στέφανον χρυσοῦν</reference>
+		<reference osisRef="Rev.14.15!12-Rev.14.15!16" type="DFE" label="" verse="Rev 14:15" >τῷ καθημένῳ ἐπὶ τῆς νεφέλης</reference>
+		<reference osisRef="Rev.14.20!19-Rev.14.20!22" type="DFE" label="" verse="Rev 14:20" >ἀπὸ σταδίων χιλίων ἑξακοσίων</reference>
+		<reference osisRef="Rev.15.6!23-Rev.15.6!24" type="DFE" label="" verse="Rev 15:6" >ζώνας χρυσᾶς</reference>
+		<reference osisRef="Rev.16.13!20-Rev.16.13!24" type="DFE" label="" verse="Rev 16:13" >πνεύματα τρία ἀκάθαρτα ὡς βάτραχοι</reference>
+		<reference osisRef="Rev.16.17!18-Rev.16.17!20" type="DFE" label="" verse="Rev 16:17" >ἀπὸ τοῦ θρόνου</reference>
+		<reference osisRef="Rev.16.21!10-Rev.16.21!12" type="DFE" label="" verse="Rev 16:21" >ἐπὶ τοὺς ἀνθρώπους</reference>
+		<reference osisRef="Rev.17.5!9-Rev.17.5!20" type="DFE" label="" verse="Rev 17:5" >βαβυλὼν ἡ μεγάλη ἡ μήτηρ τῶν πορνῶν καὶ τῶν βδελυγμάτων τῆς γῆς</reference>
+		<reference osisRef="Rev.17.6!22-Rev.17.6!23" type="DFE" label="" verse="Rev 17:6" >θαῦμα μέγα</reference>
+		<reference osisRef="Rev.19.5!12-Rev.19.5!19" type="DFE" label="" verse="Rev 19:5" >πάντες οἱ δοῦλοι αὐτοῦ καὶ οἱ φοβούμενοι αὐτόν</reference>
+		<reference osisRef="Rev.19.16!11-Rev.19.16!12" type="DFE" label="" verse="Rev 19:16" >ὄνομα γεγραμμένον</reference>
+		<reference osisRef="Rev.20.4!57-Rev.20.4!58" type="DFE" label="" verse="Rev 20:4" >χίλια ἔτη</reference>
+		<reference osisRef="Rev.20.10!27-Rev.20.10!31" type="DFE" label="" verse="Rev 20:10" >εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
+		<reference osisRef="Rev.20.12!35-Rev.20.12!38" type="DFE" label="" verse="Rev 20:12" >κατὰ τὰ ἔργα αὐτῶν</reference>
+		<reference osisRef="Rev.21.2!13-Rev.21.2!15" type="DFE" label="" verse="Rev 21:2" >ἀπὸ τοῦ θεοῦ</reference>
+		<reference osisRef="Rev.21.6!28" type="DFE" label="" verse="Rev 21:6" >δωρεάν</reference>
+		<reference osisRef="Rev.21.10!6-Rev.21.10!10" type="DFE" label="" verse="Rev 21:10" >ἐπὶ ὄρος μέγα καὶ ὑψηλόν</reference>
+		<reference osisRef="Rev.21.10!23-Rev.21.10!25" type="DFE" label="" verse="Rev 21:10" >ἀπὸ τοῦ θεοῦ</reference>
+		<reference osisRef="Rev.21.15!8-Rev.21.15!9" type="DFE" label="" verse="Rev 21:15" >κάλαμον χρυσοῦν</reference>
+		<reference osisRef="Rev.21.17!6-Rev.21.17!11" type="DFE" label="" verse="Rev 21:17" >ἑκατὸν τεσσεράκοντα τεσσάρων πηχῶν μέτρον ἀνθρώπου</reference>
+		<reference osisRef="Rev.22.2!1-Rev.22.2!5" type="DFE" label="" verse="Rev 22:2" >ἐν μέσῳ τῆς πλατείας αὐτῆς</reference>
 	</references>
-</markup>
+</feature>

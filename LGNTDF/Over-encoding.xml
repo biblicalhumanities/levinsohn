@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<markup>
+<feature>
 	<header>
 		<copyright>©2016 SIL International</copyright>
 		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
@@ -10,709 +10,709 @@
 		<defaultstyle label="" bkcolor="#FFFFFF00" fontcolor="" brdrcolor="" brdrline="Solid" brdrpos="None" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
 	</header>
 	<references>
-		<reference osisRef="MAT.1.19!3-MAT.1.19!5" type="Over-encoding" label="" verse="MAT 1:19" >ὁ ἀνὴρ αὐτῆς</reference>
-		<reference osisRef="MAT.1.24!3-MAT.1.24!4" type="Over-encoding" label="" verse="MAT 1:24" >ὁ ἰωσὴφ</reference>
-		<reference osisRef="MAT.2.7!2" type="Over-encoding" label="" verse="MAT 2:7" >ἡρῴδης</reference>
-		<reference osisRef="MAT.3.14!1" type="Over-encoding" label="" verse="MAT 3:14" >ὁ</reference>
-		<reference osisRef="MAT.3.14!3" type="Over-encoding" label="" verse="MAT 3:14" >ἰωάννης</reference>
-		<reference osisRef="MAT.3.15!3-MAT.3.15!4" type="Over-encoding" label="" verse="MAT 3:15" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.3.16!3-MAT.3.16!4" type="Over-encoding" label="" verse="MAT 3:16" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.4.5!4-MAT.4.5!5" type="Over-encoding" label="" verse="MAT 4:5" >ὁ διάβολος</reference>
-		<reference osisRef="MAT.4.7!3-MAT.4.7!4" type="Over-encoding" label="" verse="MAT 4:7" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.4.8!4-MAT.4.8!5" type="Over-encoding" label="" verse="MAT 4:8" >ὁ διάβολος</reference>
-		<reference osisRef="MAT.4.10!4-MAT.4.10!5" type="Over-encoding" label="" verse="MAT 4:10" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.4.11!4-MAT.4.11!5" type="Over-encoding" label="" verse="MAT 4:11" >ὁ διάβολος</reference>
-		<reference osisRef="MAT.4.17!4-MAT.4.17!5" type="Over-encoding" label="" verse="MAT 4:17" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.5.25!18-MAT.5.25!19" type="Over-encoding" label="" verse="MAT 5:25" >ὁ ἀντίδικος</reference>
-		<reference osisRef="MAT.5.48!3" type="Over-encoding" label="" verse="MAT 5:48" >ὑμεῖς</reference>
-		<reference osisRef="MAT.6.6!24-MAT.6.6!26" type="Over-encoding" label="" verse="MAT 6:6" >ὁ πατήρ σου</reference>
-		<reference osisRef="MAT.6.6!27-MAT.6.6!31" type="Over-encoding" label="" verse="MAT 6:6" >ὁ βλέπων ἐν τῷ κρυπτῷ</reference>
-		<reference osisRef="MAT.6.9!4" type="Over-encoding" label="" verse="MAT 6:9" >ὑμεῖς</reference>
-		<reference osisRef="MAT.6.18!16-MAT.6.18!18" type="Over-encoding" label="" verse="MAT 6:18" >ὁ πατήρ σου</reference>
-		<reference osisRef="MAT.6.18!19-MAT.6.18!23" type="Over-encoding" label="" verse="MAT 6:18" >ὁ βλέπων ἐν τῷ κρυφαίῳ</reference>
-		<reference osisRef="MAT.7.28!5-MAT.7.28!6" type="Over-encoding" label="" verse="MAT 7:28" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.8.8!3-MAT.8.8!4" type="Over-encoding" label="" verse="MAT 8:8" >ὁ ἑκατόνταρχος</reference>
-		<reference osisRef="MAT.8.10!3-MAT.8.10!4" type="Over-encoding" label="" verse="MAT 8:10" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.8.13!3-MAT.8.13!4" type="Over-encoding" label="" verse="MAT 8:13" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.8.18!3-MAT.8.18!4" type="Over-encoding" label="" verse="MAT 8:18" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.8.20!4-MAT.8.20!5" type="Over-encoding" label="" verse="MAT 8:20" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.8.22!1" type="Over-encoding" label="" verse="MAT 8:22" >ὁ</reference>
-		<reference osisRef="MAT.8.22!3" type="Over-encoding" label="" verse="MAT 8:22" >ἰησοῦς</reference>
-		<reference osisRef="MAT.9.2!11-MAT.9.2!12" type="Over-encoding" label="" verse="MAT 9:2" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.9.10!16-MAT.9.10!17" type="Over-encoding" label="" verse="MAT 9:10" >τῷ ἰησοῦ</reference>
-		<reference osisRef="MAT.9.15!4-MAT.9.15!5" type="Over-encoding" label="" verse="MAT 9:15" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.9.19!3-MAT.9.19!4" type="Over-encoding" label="" verse="MAT 9:19" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.9.22!1" type="Over-encoding" label="" verse="MAT 9:22" >ὁ</reference>
-		<reference osisRef="MAT.9.22!3" type="Over-encoding" label="" verse="MAT 9:22" >ἰησοῦς</reference>
-		<reference osisRef="MAT.9.25!4-MAT.9.25!5" type="Over-encoding" label="" verse="MAT 9:25" >ὁ ὄχλος</reference>
-		<reference osisRef="MAT.9.25!13-MAT.9.25!14" type="Over-encoding" label="" verse="MAT 9:25" >τὸ κοράσιον</reference>
-		<reference osisRef="MAT.9.27!4-MAT.9.27!5" type="Over-encoding" label="" verse="MAT 9:27" >τῷ ἰησοῦ</reference>
-		<reference osisRef="MAT.9.28!13-MAT.9.28!14" type="Over-encoding" label="" verse="MAT 9:28" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.9.30!9-MAT.9.30!10" type="Over-encoding" label="" verse="MAT 9:30" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.9.35!3-MAT.9.35!4" type="Over-encoding" label="" verse="MAT 9:35" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.10.5!5-MAT.10.5!6" type="Over-encoding" label="" verse="MAT 10:5" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.11.1!5-MAT.11.1!6" type="Over-encoding" label="" verse="MAT 11:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.11.4!3-MAT.11.4!4" type="Over-encoding" label="" verse="MAT 11:4" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.11.7!5-MAT.11.7!6" type="Over-encoding" label="" verse="MAT 11:7" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.11.25!6-MAT.11.25!7" type="Over-encoding" label="" verse="MAT 11:25" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.12.1!6-MAT.12.1!7" type="Over-encoding" label="" verse="MAT 12:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.12.15!1" type="Over-encoding" label="" verse="MAT 12:15" >ὁ</reference>
-		<reference osisRef="MAT.12.15!3" type="Over-encoding" label="" verse="MAT 12:15" >ἰησοῦς</reference>
-		<reference osisRef="MAT.12.22!12-MAT.12.22!13" type="Over-encoding" label="" verse="MAT 12:22" >τὸν κωφὸν</reference>
-		<reference osisRef="MAT.13.1!6-MAT.13.1!7" type="Over-encoding" label="" verse="MAT 13:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.13.18!1" type="Over-encoding" label="" verse="MAT 13:18" >ὑμεῖς</reference>
-		<reference osisRef="MAT.13.28!9" type="Over-encoding" label="" verse="MAT 13:28" >οἱ</reference>
-		<reference osisRef="MAT.13.28!11" type="Over-encoding" label="" verse="MAT 13:28" >δοῦλοι</reference>
-		<reference osisRef="MAT.13.30!10-MAT.13.30!11" type="Over-encoding" label="" verse="MAT 13:30" >τοῦ θερισμοῦ</reference>
-		<reference osisRef="MAT.13.34!4-MAT.13.34!5" type="Over-encoding" label="" verse="MAT 13:34" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.13.53!5-MAT.13.53!6" type="Over-encoding" label="" verse="MAT 13:53" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.13.57!5" type="Over-encoding" label="" verse="MAT 13:57" >ὁ</reference>
-		<reference osisRef="MAT.13.57!7" type="Over-encoding" label="" verse="MAT 13:57" >ἰησοῦς</reference>
-		<reference osisRef="MAT.14.13!3-MAT.14.13!4" type="Over-encoding" label="" verse="MAT 14:13" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.14.16!3" type="Over-encoding" label="" verse="MAT 14:16" >ἰησοῦς</reference>
-		<reference osisRef="MAT.14.27!4-MAT.14.27!5" type="Over-encoding" label="" verse="MAT 14:27" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.14.29!10-MAT.14.29!11" type="Over-encoding" label="" verse="MAT 14:29" >ὁ πέτρος</reference>
-		<reference osisRef="MAT.14.31!3-MAT.14.31!4" type="Over-encoding" label="" verse="MAT 14:31" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.15.1!3-MAT.15.1!4" type="Over-encoding" label="" verse="MAT 15:1" >τῷ ἰησοῦ</reference>
-		<reference osisRef="MAT.15.21!4-MAT.15.21!5" type="Over-encoding" label="" verse="MAT 15:21" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.15.28!3-MAT.15.28!4" type="Over-encoding" label="" verse="MAT 15:28" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.15.34!4-MAT.15.34!5" type="Over-encoding" label="" verse="MAT 15:34" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.16.13!3-MAT.16.13!4" type="Over-encoding" label="" verse="MAT 16:13" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.16.17!3-MAT.16.17!4" type="Over-encoding" label="" verse="MAT 16:17" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.16.21!4-MAT.16.21!5" type="Over-encoding" label="" verse="MAT 16:21" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.16.23!5-MAT.16.23!6" type="Over-encoding" label="" verse="MAT 16:23" >τῷ πέτρῳ</reference>
-		<reference osisRef="MAT.16.24!2-MAT.16.24!3" type="Over-encoding" label="" verse="MAT 16:24" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.17.1!6-MAT.17.1!7" type="Over-encoding" label="" verse="MAT 17:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.17.9!9-MAT.17.9!10" type="Over-encoding" label="" verse="MAT 17:9" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.17.17!3-MAT.17.17!4" type="Over-encoding" label="" verse="MAT 17:17" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.17.18!4-MAT.17.18!5" type="Over-encoding" label="" verse="MAT 17:18" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.17.22!9-MAT.17.22!10" type="Over-encoding" label="" verse="MAT 17:22" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.17.26!8-MAT.17.26!9" type="Over-encoding" label="" verse="MAT 17:26" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.18.22!3-MAT.18.22!4" type="Over-encoding" label="" verse="MAT 18:22" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.18.26!3-MAT.18.26!4" type="Over-encoding" label="" verse="MAT 18:26" >ὁ δοῦλος</reference>
-		<reference osisRef="MAT.18.27!3-MAT.18.27!7" type="Over-encoding" label="" verse="MAT 18:27" >ὁ κύριος τοῦ δούλου ἐκείνου</reference>
-		<reference osisRef="MAT.18.29!3-MAT.18.29!5" type="Over-encoding" label="" verse="MAT 18:29" >ὁ σύνδουλος αὐτοῦ</reference>
-		<reference osisRef="MAT.18.34!3-MAT.18.34!5" type="Over-encoding" label="" verse="MAT 18:34" >ὁ κύριος αὐτοῦ</reference>
-		<reference osisRef="MAT.19.1!5-MAT.19.1!6" type="Over-encoding" label="" verse="MAT 19:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.19.8!4" type="Over-encoding" label="" verse="MAT 19:8" >μωϋσῆς</reference>
-		<reference osisRef="MAT.19.18!4" type="Over-encoding" label="" verse="MAT 19:18" >ὁ</reference>
-		<reference osisRef="MAT.19.18!6" type="Over-encoding" label="" verse="MAT 19:18" >ἰησοῦς</reference>
-		<reference osisRef="MAT.19.20!3-MAT.19.20!4" type="Over-encoding" label="" verse="MAT 19:20" >ὁ νεανίσκος</reference>
-		<reference osisRef="MAT.19.21!3-MAT.19.21!4" type="Over-encoding" label="" verse="MAT 19:21" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.19.22!3-MAT.19.22!4" type="Over-encoding" label="" verse="MAT 19:22" >ὁ νεανίσκος</reference>
-		<reference osisRef="MAT.19.25!3-MAT.19.25!4" type="Over-encoding" label="" verse="MAT 19:25" >οἱ μαθηταὶ</reference>
-		<reference osisRef="MAT.19.26!3-MAT.19.26!4" type="Over-encoding" label="" verse="MAT 19:26" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.19.28!1" type="Over-encoding" label="" verse="MAT 19:28" >ὁ</reference>
-		<reference osisRef="MAT.19.28!3" type="Over-encoding" label="" verse="MAT 19:28" >ἰησοῦς</reference>
-		<reference osisRef="MAT.20.17!3-MAT.20.17!4" type="Over-encoding" label="" verse="MAT 20:17" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.20.22!3-MAT.20.22!4" type="Over-encoding" label="" verse="MAT 20:22" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.20.34!3-MAT.20.34!4" type="Over-encoding" label="" verse="MAT 20:34" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.21.1!16" type="Over-encoding" label="" verse="MAT 21:1" >ἰησοῦς</reference>
-		<reference osisRef="MAT.21.12!3" type="Over-encoding" label="" verse="MAT 21:12" >ἰησοῦς</reference>
-		<reference osisRef="MAT.21.16!8" type="Over-encoding" label="" verse="MAT 21:16" >ὁ</reference>
-		<reference osisRef="MAT.21.16!10" type="Over-encoding" label="" verse="MAT 21:16" >ἰησοῦς</reference>
-		<reference osisRef="MAT.21.21!3-MAT.21.21!4" type="Over-encoding" label="" verse="MAT 21:21" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.21.24!3-MAT.21.24!4" type="Over-encoding" label="" verse="MAT 21:24" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.21.31!15-MAT.21.31!16" type="Over-encoding" label="" verse="MAT 21:31" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.21.42!3-MAT.21.42!4" type="Over-encoding" label="" verse="MAT 21:42" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.21.45!3-MAT.21.45!7" type="Over-encoding" label="" verse="MAT 21:45" >οἱ ἀρχιερεῖς καὶ οἱ φαρισαῖοι</reference>
-		<reference osisRef="MAT.22.1!3-MAT.22.1!4" type="Over-encoding" label="" verse="MAT 22:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.22.10!3-MAT.22.10!5" type="Over-encoding" label="" verse="MAT 22:10" >οἱ δοῦλοι ἐκεῖνοι</reference>
-		<reference osisRef="MAT.22.18!3-MAT.22.18!4" type="Over-encoding" label="" verse="MAT 22:18" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.22.29!3-MAT.22.29!4" type="Over-encoding" label="" verse="MAT 22:29" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.22.41!7-MAT.22.41!8" type="Over-encoding" label="" verse="MAT 22:41" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.23.1!2-MAT.23.1!3" type="Over-encoding" label="" verse="MAT 23:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.24.1!3-MAT.24.1!4" type="Over-encoding" label="" verse="MAT 24:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.24.4!3-MAT.24.4!4" type="Over-encoding" label="" verse="MAT 24:4" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.25.21!3-MAT.25.21!5" type="Over-encoding" label="" verse="MAT 25:21" >ὁ κύριος αὐτοῦ</reference>
-		<reference osisRef="MAT.25.23!3-MAT.25.23!5" type="Over-encoding" label="" verse="MAT 25:23" >ὁ κύριος αὐτοῦ</reference>
-		<reference osisRef="MAT.25.26!3-MAT.25.26!5" type="Over-encoding" label="" verse="MAT 25:26" >ὁ κύριος αὐτοῦ</reference>
-		<reference osisRef="MAT.25.34!3-MAT.25.34!4" type="Over-encoding" label="" verse="MAT 25:34" >ὁ βασιλεὺς</reference>
-		<reference osisRef="MAT.25.37!4-MAT.25.37!5" type="Over-encoding" label="" verse="MAT 25:37" >οἱ δίκαιοι</reference>
-		<reference osisRef="MAT.25.40!3-MAT.25.40!4" type="Over-encoding" label="" verse="MAT 25:40" >ὁ βασιλεὺς</reference>
-		<reference osisRef="MAT.25.44!3-MAT.25.44!4" type="Over-encoding" label="" verse="MAT 25:44" >καὶ αὐτοὶ</reference>
-		<reference osisRef="MAT.26.1!5-MAT.26.1!6" type="Over-encoding" label="" verse="MAT 26:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.26.19!3-MAT.26.19!4" type="Over-encoding" label="" verse="MAT 26:19" >οἱ μαθηταὶ</reference>
-		<reference osisRef="MAT.26.19!8-MAT.26.19!9" type="Over-encoding" label="" verse="MAT 26:19" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.26.24!18-MAT.26.24!21" type="Over-encoding" label="" verse="MAT 26:24" >ὁ υἱὸς τοῦ ἀνθρώπου</reference>
-		<reference osisRef="MAT.26.24!29-MAT.26.24!31" type="Over-encoding" label="" verse="MAT 26:24" >ὁ ἄνθρωπος ἐκεῖνος</reference>
-		<reference osisRef="MAT.26.26!5-MAT.26.26!6" type="Over-encoding" label="" verse="MAT 26:26" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.26.34!3-MAT.26.34!4" type="Over-encoding" label="" verse="MAT 26:34" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.26.35!3-MAT.26.35!4" type="Over-encoding" label="" verse="MAT 26:35" >ὁ πέτρος</reference>
-		<reference osisRef="MAT.26.50!1" type="Over-encoding" label="" verse="MAT 26:50" >ὁ</reference>
-		<reference osisRef="MAT.26.50!3" type="Over-encoding" label="" verse="MAT 26:50" >ἰησοῦς</reference>
-		<reference osisRef="MAT.26.50!15-MAT.26.50!17" type="Over-encoding" label="" verse="MAT 26:50" >ἐπὶ τὸν ἰησοῦν</reference>
-		<reference osisRef="MAT.26.55!6-MAT.26.55!7" type="Over-encoding" label="" verse="MAT 26:55" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.26.57!4-MAT.26.57!5" type="Over-encoding" label="" verse="MAT 26:57" >τὸν ἰησοῦν</reference>
-		<reference osisRef="MAT.26.63!1" type="Over-encoding" label="" verse="MAT 26:63" >ὁ</reference>
-		<reference osisRef="MAT.26.63!3" type="Over-encoding" label="" verse="MAT 26:63" >ἰησοῦς</reference>
-		<reference osisRef="MAT.26.64!3-MAT.26.64!4" type="Over-encoding" label="" verse="MAT 26:64" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.26.65!2-MAT.26.65!3" type="Over-encoding" label="" verse="MAT 26:65" >ὁ ἀρχιερεὺς</reference>
-		<reference osisRef="MAT.26.73!8-MAT.26.73!9" type="Over-encoding" label="" verse="MAT 26:73" >τῷ πέτρῳ</reference>
-		<reference osisRef="MAT.26.75!3-MAT.26.75!4" type="Over-encoding" label="" verse="MAT 26:75" >ὁ πέτρος</reference>
-		<reference osisRef="MAT.27.8!3-MAT.27.8!5" type="Over-encoding" label="" verse="MAT 27:8" >ὁ ἀγρὸς ἐκεῖνος</reference>
-		<reference osisRef="MAT.27.11!11-MAT.27.11!12" type="Over-encoding" label="" verse="MAT 27:11" >ὁ ἡγεμὼν</reference>
-		<reference osisRef="MAT.27.11!20" type="Over-encoding" label="" verse="MAT 27:11" >ὁ</reference>
-		<reference osisRef="MAT.27.11!22" type="Over-encoding" label="" verse="MAT 27:11" >ἰησοῦς</reference>
-		<reference osisRef="MAT.27.14!11-MAT.27.14!12" type="Over-encoding" label="" verse="MAT 27:14" >τὸν ἡγεμόνα</reference>
-		<reference osisRef="MAT.27.15!5-MAT.27.15!6" type="Over-encoding" label="" verse="MAT 27:15" >ὁ ἡγεμὼν</reference>
-		<reference osisRef="MAT.27.22!3-MAT.27.22!4" type="Over-encoding" label="" verse="MAT 27:22" >ὁ πιλᾶτος</reference>
-		<reference osisRef="MAT.27.24!3-MAT.27.24!4" type="Over-encoding" label="" verse="MAT 27:24" >ὁ πιλᾶτος</reference>
-		<reference osisRef="MAT.27.25!3-MAT.27.25!5" type="Over-encoding" label="" verse="MAT 27:25" >πᾶς ὁ λαὸς</reference>
-		<reference osisRef="MAT.27.27!7-MAT.27.27!8" type="Over-encoding" label="" verse="MAT 27:27" >τὸν ἰησοῦν</reference>
-		<reference osisRef="MAT.27.58!11-MAT.27.58!12" type="Over-encoding" label="" verse="MAT 27:58" >ὁ πιλᾶτος</reference>
-		<reference osisRef="MAT.27.65!3-MAT.27.65!4" type="Over-encoding" label="" verse="MAT 27:65" >ὁ πιλᾶτος</reference>
-		<reference osisRef="MAT.28.5!10" type="Over-encoding" label="" verse="MAT 28:5" >ὑμεῖς</reference>
-		<reference osisRef="MAT.28.10!4-MAT.28.10!5" type="Over-encoding" label="" verse="MAT 28:10" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MAT.28.18!3-MAT.28.18!4" type="Over-encoding" label="" verse="MAT 28:18" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.1.14!8-MRK.1.14!9" type="Over-encoding" label="" verse="MRK 1:14" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.1.17!4-MRK.1.17!5" type="Over-encoding" label="" verse="MRK 1:17" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.1.25!4-MRK.1.25!5" type="Over-encoding" label="" verse="MRK 1:25" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.2.19!4-MRK.2.19!5" type="Over-encoding" label="" verse="MRK 2:19" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.3.7!2-MRK.3.7!3" type="Over-encoding" label="" verse="MRK 3:7" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.3.24!10-MRK.3.24!12" type="Over-encoding" label="" verse="MRK 3:24" >ἡ βασιλεία ἐκείνη</reference>
-		<reference osisRef="MRK.3.25!9-MRK.3.25!11" type="Over-encoding" label="" verse="MRK 3:25" >ἡ οἰκία ἐκείνη</reference>
-		<reference osisRef="MRK.4.37!16-MRK.4.37!17" type="Over-encoding" label="" verse="MRK 4:37" >τὸ πλοῖον</reference>
-		<reference osisRef="MRK.5.13!6-MRK.5.13!9" type="Over-encoding" label="" verse="MRK 5:13" >τὰ πνεύματα τὰ ἀκάθαρτα</reference>
-		<reference osisRef="MRK.5.41!5-MRK.5.41!6" type="Over-encoding" label="" verse="MRK 5:41" >τοῦ παιδίου</reference>
-		<reference osisRef="MRK.5.42!4-MRK.5.42!5" type="Over-encoding" label="" verse="MRK 5:42" >τὸ κοράσιον</reference>
-		<reference osisRef="MRK.6.4!4-MRK.6.4!5" type="Over-encoding" label="" verse="MRK 6:4" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.6.17!3-MRK.6.17!4" type="Over-encoding" label="" verse="MRK 6:17" >ὁ ἡρῴδης</reference>
-		<reference osisRef="MRK.6.22!16-MRK.6.22!17" type="Over-encoding" label="" verse="MRK 6:22" >ὁ βασιλεὺς</reference>
-		<reference osisRef="MRK.6.22!18-MRK.6.22!19" type="Over-encoding" label="" verse="MRK 6:22" >τῷ κορασίῳ</reference>
-		<reference osisRef="MRK.6.26!4-MRK.6.26!5" type="Over-encoding" label="" verse="MRK 6:26" >ὁ βασιλεὺς</reference>
-		<reference osisRef="MRK.6.27!4-MRK.6.27!5" type="Over-encoding" label="" verse="MRK 6:27" >ὁ βασιλεὺς</reference>
-		<reference osisRef="MRK.6.28!14-MRK.6.28!15" type="Over-encoding" label="" verse="MRK 6:28" >τὸ κοράσιον</reference>
-		<reference osisRef="MRK.6.31!5-MRK.6.31!6" type="Over-encoding" label="" verse="MRK 6:31" >ὑμεῖς αὐτοὶ</reference>
-		<reference osisRef="MRK.7.5!4-MRK.7.5!8" type="Over-encoding" label="" verse="MRK 7:5" >οἱ φαρισαῖοι καὶ οἱ γραμματεῖς</reference>
-		<reference osisRef="MRK.8.4!4-MRK.8.4!6" type="Over-encoding" label="" verse="MRK 8:4" >οἱ μαθηταὶ αὐτοῦ</reference>
-		<reference osisRef="MRK.8.12!18-MRK.8.12!20" type="Over-encoding" label="" verse="MRK 8:12" >τῇ γενεᾷ ταύτῃ</reference>
-		<reference osisRef="MRK.8.23!5-MRK.8.23!6" type="Over-encoding" label="" verse="MRK 8:23" >τοῦ τυφλοῦ</reference>
-		<reference osisRef="MRK.8.27!3-MRK.8.27!4" type="Over-encoding" label="" verse="MRK 8:27" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.8.27!20-MRK.8.27!22" type="Over-encoding" label="" verse="MRK 8:27" >τοὺς μαθητὰς αὐτοῦ</reference>
-		<reference osisRef="MRK.9.2!6-MRK.9.2!7" type="Over-encoding" label="" verse="MRK 9:2" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.9.23!1" type="Over-encoding" label="" verse="MRK 9:23" >ὁ</reference>
-		<reference osisRef="MRK.9.23!3" type="Over-encoding" label="" verse="MRK 9:23" >ἰησοῦς</reference>
-		<reference osisRef="MRK.9.24!3-MRK.9.24!6" type="Over-encoding" label="" verse="MRK 9:24" >ὁ πατὴρ τοῦ παιδίου</reference>
-		<reference osisRef="MRK.9.25!3-MRK.9.25!4" type="Over-encoding" label="" verse="MRK 9:25" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.9.39!1" type="Over-encoding" label="" verse="MRK 9:39" >ὁ</reference>
-		<reference osisRef="MRK.9.39!3" type="Over-encoding" label="" verse="MRK 9:39" >ἰησοῦς</reference>
-		<reference osisRef="MRK.10.4!5" type="Over-encoding" label="" verse="MRK 10:4" >μωϋσῆς</reference>
-		<reference osisRef="MRK.10.5!1" type="Over-encoding" label="" verse="MRK 10:5" >ὁ</reference>
-		<reference osisRef="MRK.10.5!3" type="Over-encoding" label="" verse="MRK 10:5" >ἰησοῦς</reference>
-		<reference osisRef="MRK.10.14!3-MRK.10.14!4" type="Over-encoding" label="" verse="MRK 10:14" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.10.18!1" type="Over-encoding" label="" verse="MRK 10:18" >ὁ</reference>
-		<reference osisRef="MRK.10.18!3" type="Over-encoding" label="" verse="MRK 10:18" >ἰησοῦς</reference>
-		<reference osisRef="MRK.10.21!1" type="Over-encoding" label="" verse="MRK 10:21" >ὁ</reference>
-		<reference osisRef="MRK.10.21!3" type="Over-encoding" label="" verse="MRK 10:21" >ἰησοῦς</reference>
-		<reference osisRef="MRK.10.24!1" type="Over-encoding" label="" verse="MRK 10:24" >οἱ</reference>
-		<reference osisRef="MRK.10.24!3" type="Over-encoding" label="" verse="MRK 10:24" >μαθηταὶ</reference>
-		<reference osisRef="MRK.10.24!9" type="Over-encoding" label="" verse="MRK 10:24" >ὁ</reference>
-		<reference osisRef="MRK.10.24!11" type="Over-encoding" label="" verse="MRK 10:24" >ἰησοῦς</reference>
-		<reference osisRef="MRK.10.27!3-MRK.10.27!4" type="Over-encoding" label="" verse="MRK 10:27" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.10.29!2-MRK.10.29!3" type="Over-encoding" label="" verse="MRK 10:29" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.10.38!1" type="Over-encoding" label="" verse="MRK 10:38" >ὁ</reference>
-		<reference osisRef="MRK.10.38!3" type="Over-encoding" label="" verse="MRK 10:38" >ἰησοῦς</reference>
-		<reference osisRef="MRK.10.39!6" type="Over-encoding" label="" verse="MRK 10:39" >ὁ</reference>
-		<reference osisRef="MRK.10.39!8" type="Over-encoding" label="" verse="MRK 10:39" >ἰησοῦς</reference>
-		<reference osisRef="MRK.10.49!10-MRK.10.49!11" type="Over-encoding" label="" verse="MRK 10:49" >τὸν τυφλὸν</reference>
-		<reference osisRef="MRK.10.51!4-MRK.10.51!5" type="Over-encoding" label="" verse="MRK 10:51" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.10.51!11" type="Over-encoding" label="" verse="MRK 10:51" >ὁ</reference>
-		<reference osisRef="MRK.10.51!13" type="Over-encoding" label="" verse="MRK 10:51" >τυφλὸς</reference>
-		<reference osisRef="MRK.10.52!2-MRK.10.52!3" type="Over-encoding" label="" verse="MRK 10:52" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.11.22!3-MRK.11.22!4" type="Over-encoding" label="" verse="MRK 11:22" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.11.29!1" type="Over-encoding" label="" verse="MRK 11:29" >ὁ</reference>
-		<reference osisRef="MRK.11.29!3" type="Over-encoding" label="" verse="MRK 11:29" >ἰησοῦς</reference>
-		<reference osisRef="MRK.11.33!9-MRK.11.33!10" type="Over-encoding" label="" verse="MRK 11:33" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.12.2!10-MRK.12.2!12" type="Over-encoding" label="" verse="MRK 12:2" >παρὰ τῶν γεωργῶν</reference>
-		<reference osisRef="MRK.12.7!1" type="Over-encoding" label="" verse="MRK 12:7" >ἐκεῖνοι</reference>
-		<reference osisRef="MRK.12.7!3-MRK.12.7!4" type="Over-encoding" label="" verse="MRK 12:7" >οἱ γεωργοὶ</reference>
-		<reference osisRef="MRK.12.17!1" type="Over-encoding" label="" verse="MRK 12:17" >ὁ</reference>
-		<reference osisRef="MRK.12.17!3" type="Over-encoding" label="" verse="MRK 12:17" >ἰησοῦς</reference>
-		<reference osisRef="MRK.12.24!3-MRK.12.24!4" type="Over-encoding" label="" verse="MRK 12:24" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.12.29!2-MRK.12.29!3" type="Over-encoding" label="" verse="MRK 12:29" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.12.32!4-MRK.12.32!5" type="Over-encoding" label="" verse="MRK 12:32" >ὁ γραμματεύς</reference>
-		<reference osisRef="MRK.12.34!2-MRK.12.34!3" type="Over-encoding" label="" verse="MRK 12:34" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.12.35!3-MRK.12.35!4" type="Over-encoding" label="" verse="MRK 12:35" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.13.2!2-MRK.13.2!3" type="Over-encoding" label="" verse="MRK 13:2" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.13.5!1" type="Over-encoding" label="" verse="MRK 13:5" >ὁ</reference>
-		<reference osisRef="MRK.13.5!3" type="Over-encoding" label="" verse="MRK 13:5" >ἰησοῦς</reference>
-		<reference osisRef="MRK.13.9!3" type="Over-encoding" label="" verse="MRK 13:9" >ὑμεῖς</reference>
-		<reference osisRef="MRK.14.10!4-MRK.14.10!7" type="Over-encoding" label="" verse="MRK 14:10" >ὁ εἷς τῶν δώδεκα</reference>
-		<reference osisRef="MRK.14.18!6-MRK.14.18!7" type="Over-encoding" label="" verse="MRK 14:18" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.14.21!19-MRK.14.21!22" type="Over-encoding" label="" verse="MRK 14:21" >ὁ υἱὸς τοῦ ἀνθρώπου</reference>
-		<reference osisRef="MRK.14.21!29-MRK.14.21!31" type="Over-encoding" label="" verse="MRK 14:21" >ὁ ἄνθρωπος ἐκεῖνος</reference>
-		<reference osisRef="MRK.14.27!4-MRK.14.27!5" type="Over-encoding" label="" verse="MRK 14:27" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.14.30!4-MRK.14.30!5" type="Over-encoding" label="" verse="MRK 14:30" >ὁ ἰησοῦς</reference>
-		<reference osisRef="MRK.14.44!3-MRK.14.44!5" type="Over-encoding" label="" verse="MRK 14:44" >ὁ παραδιδοὺς αὐτὸν</reference>
-		<reference osisRef="MRK.14.62!1" type="Over-encoding" label="" verse="MRK 14:62" >ὁ</reference>
-		<reference osisRef="MRK.14.62!3" type="Over-encoding" label="" verse="MRK 14:62" >ἰησοῦς</reference>
-		<reference osisRef="MRK.14.63!1" type="Over-encoding" label="" verse="MRK 14:63" >ὁ</reference>
-		<reference osisRef="MRK.14.63!3" type="Over-encoding" label="" verse="MRK 14:63" >ἀρχιερεὺς</reference>
-		<reference osisRef="MRK.14.67!3-MRK.14.67!4" type="Over-encoding" label="" verse="MRK 14:67" >τὸν πέτρον</reference>
-		<reference osisRef="MRK.14.70!12-MRK.14.70!13" type="Over-encoding" label="" verse="MRK 14:70" >τῷ πέτρῳ</reference>
-		<reference osisRef="MRK.14.72!9-MRK.14.72!10" type="Over-encoding" label="" verse="MRK 14:72" >ὁ πέτρος</reference>
-		<reference osisRef="MRK.15.2!4-MRK.15.2!5" type="Over-encoding" label="" verse="MRK 15:2" >ὁ πιλᾶτος</reference>
-		<reference osisRef="MRK.15.5!1" type="Over-encoding" label="" verse="MRK 15:5" >ὁ</reference>
-		<reference osisRef="MRK.15.5!3" type="Over-encoding" label="" verse="MRK 15:5" >ἰησοῦς</reference>
-		<reference osisRef="MRK.15.9!1" type="Over-encoding" label="" verse="MRK 15:9" >ὁ</reference>
-		<reference osisRef="MRK.15.9!3" type="Over-encoding" label="" verse="MRK 15:9" >πιλᾶτος</reference>
-		<reference osisRef="MRK.15.14!1" type="Over-encoding" label="" verse="MRK 15:14" >ὁ</reference>
-		<reference osisRef="MRK.15.14!3" type="Over-encoding" label="" verse="MRK 15:14" >πιλᾶτος</reference>
-		<reference osisRef="MRK.15.15!1" type="Over-encoding" label="" verse="MRK 15:15" >ὁ</reference>
-		<reference osisRef="MRK.15.15!3" type="Over-encoding" label="" verse="MRK 15:15" >πιλᾶτος</reference>
-		<reference osisRef="MRK.15.37!1" type="Over-encoding" label="" verse="MRK 15:37" >ὁ</reference>
-		<reference osisRef="MRK.15.37!3" type="Over-encoding" label="" verse="MRK 15:37" >ἰησοῦς</reference>
-		<reference osisRef="MRK.15.44!1" type="Over-encoding" label="" verse="MRK 15:44" >ὁ</reference>
-		<reference osisRef="MRK.15.44!3" type="Over-encoding" label="" verse="MRK 15:44" >πιλᾶτος</reference>
-		<reference osisRef="MRK.15.45!3-MRK.15.45!5" type="Over-encoding" label="" verse="MRK 15:45" >ἀπὸ τοῦ κεντυρίωνος</reference>
-		<reference osisRef="MRK.16.1!5-MRK.16.1!12" type="Over-encoding" label="" verse="MRK 16:1" >μαρία ἡ μαγδαληνὴ καὶ μαρία ἡ τοῦ ἰακώβου</reference>
-		<reference osisRef="MRK.16.19!1" type="Over-encoding" label="" verse="MRK 16:19" >ὁ</reference>
-		<reference osisRef="MRK.16.19!4-MRK.16.19!5" type="Over-encoding" label="" verse="MRK 16:19" >κύριος ἰησοῦς</reference>
-		<reference osisRef="LUK.1.18!3" type="Over-encoding" label="" verse="LUK 1:18" >ζαχαρίας</reference>
-		<reference osisRef="LUK.1.18!4-LUK.1.18!6" type="Over-encoding" label="" verse="LUK 1:18" >πρὸς τὸν ἄγγελον</reference>
-		<reference osisRef="LUK.1.19!3-LUK.1.19!4" type="Over-encoding" label="" verse="LUK 1:19" >ὁ ἄγγελος</reference>
-		<reference osisRef="LUK.1.34!3" type="Over-encoding" label="" verse="LUK 1:34" >μαριὰμ</reference>
-		<reference osisRef="LUK.1.34!4-LUK.1.34!6" type="Over-encoding" label="" verse="LUK 1:34" >πρὸς τὸν ἄγγελον</reference>
-		<reference osisRef="LUK.1.35!3-LUK.1.35!4" type="Over-encoding" label="" verse="LUK 1:35" >ὁ ἄγγελος</reference>
-		<reference osisRef="LUK.1.38!3" type="Over-encoding" label="" verse="LUK 1:38" >μαριάμ</reference>
-		<reference osisRef="LUK.1.38!18-LUK.1.38!19" type="Over-encoding" label="" verse="LUK 1:38" >ὁ ἄγγελος</reference>
-		<reference osisRef="LUK.1.41!5-LUK.1.41!8" type="Over-encoding" label="" verse="LUK 1:41" >τὸν ἀσπασμὸν τῆς μαρίας</reference>
-		<reference osisRef="LUK.1.41!9-LUK.1.41!10" type="Over-encoding" label="" verse="LUK 1:41" >ἡ ἐλισάβετ</reference>
-		<reference osisRef="LUK.1.47!9-LUK.1.47!11" type="Over-encoding" label="" verse="LUK 1:47" >τῷ σωτῆρί μου</reference>
-		<reference osisRef="LUK.1.67!3-LUK.1.67!5" type="Over-encoding" label="" verse="LUK 1:67" >ὁ πατὴρ αὐτοῦ</reference>
-		<reference osisRef="LUK.2.25!11-LUK.2.25!12" type="Over-encoding" label="" verse="LUK 2:25" >ὁ ἄνθρωπος</reference>
-		<reference osisRef="LUK.3.16!4-LUK.3.16!5" type="Over-encoding" label="" verse="LUK 3:16" >ὁ ἰωάννης</reference>
-		<reference osisRef="LUK.3.19!22-LUK.3.19!23" type="Over-encoding" label="" verse="LUK 3:19" >ὁ ἡρῴδης</reference>
-		<reference osisRef="LUK.4.1!1" type="Over-encoding" label="" verse="LUK 4:1" >ἰησοῦς</reference>
-		<reference osisRef="LUK.4.4!5-LUK.4.4!6" type="Over-encoding" label="" verse="LUK 4:4" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.4.6!4-LUK.4.6!5" type="Over-encoding" label="" verse="LUK 4:6" >ὁ διάβολος</reference>
-		<reference osisRef="LUK.4.8!3-LUK.4.8!4" type="Over-encoding" label="" verse="LUK 4:8" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.4.12!5-LUK.4.12!6" type="Over-encoding" label="" verse="LUK 4:12" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.4.13!5-LUK.4.13!6" type="Over-encoding" label="" verse="LUK 4:13" >ὁ διάβολος</reference>
-		<reference osisRef="LUK.4.14!3-LUK.4.14!4" type="Over-encoding" label="" verse="LUK 4:14" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.4.35!4-LUK.4.35!5" type="Over-encoding" label="" verse="LUK 4:35" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.4.35!15-LUK.4.35!16" type="Over-encoding" label="" verse="LUK 4:35" >τὸ δαιμόνιον</reference>
-		<reference osisRef="LUK.5.5!3" type="Over-encoding" label="" verse="LUK 5:5" >σίμων</reference>
-		<reference osisRef="LUK.5.34!1" type="Over-encoding" label="" verse="LUK 5:34" >ὁ</reference>
-		<reference osisRef="LUK.5.34!3" type="Over-encoding" label="" verse="LUK 5:34" >ἰησοῦς</reference>
-		<reference osisRef="LUK.7.6!1" type="Over-encoding" label="" verse="LUK 7:6" >ὁ</reference>
-		<reference osisRef="LUK.7.6!3" type="Over-encoding" label="" verse="LUK 7:6" >ἰησοῦς</reference>
-		<reference osisRef="LUK.7.9!4-LUK.7.9!5" type="Over-encoding" label="" verse="LUK 7:9" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.7.15!3-LUK.7.15!4" type="Over-encoding" label="" verse="LUK 7:15" >ὁ νεκρὸς</reference>
-		<reference osisRef="LUK.7.18!17-LUK.7.18!18" type="Over-encoding" label="" verse="LUK 7:18" >ὁ ἰωάννης</reference>
-		<reference osisRef="LUK.7.24!11-LUK.7.24!12" type="Over-encoding" label="" verse="LUK 7:24" >περὶ ἰωάννου</reference>
-		<reference osisRef="LUK.7.36!16-LUK.7.36!17" type="Over-encoding" label="" verse="LUK 7:36" >τοῦ φαρισαίου</reference>
-		<reference osisRef="LUK.7.43!2" type="Over-encoding" label="" verse="LUK 7:43" >σίμων</reference>
-		<reference osisRef="LUK.8.33!3-LUK.8.33!4" type="Over-encoding" label="" verse="LUK 8:33" >τὰ δαιμόνια</reference>
-		<reference osisRef="LUK.8.46!1" type="Over-encoding" label="" verse="LUK 8:46" >ὁ</reference>
-		<reference osisRef="LUK.8.46!3" type="Over-encoding" label="" verse="LUK 8:46" >ἰησοῦς</reference>
-		<reference osisRef="LUK.9.41!3-LUK.9.41!4" type="Over-encoding" label="" verse="LUK 9:41" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.9.50!5-LUK.9.50!6" type="Over-encoding" label="" verse="LUK 9:50" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.9.58!4-LUK.9.58!5" type="Over-encoding" label="" verse="LUK 9:58" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.9.62!5-LUK.9.62!6" type="Over-encoding" label="" verse="LUK 9:62" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.10.1!5-LUK.10.1!6" type="Over-encoding" label="" verse="LUK 10:1" >ὁ κύριος</reference>
-		<reference osisRef="LUK.10.29!7-LUK.10.29!9" type="Over-encoding" label="" verse="LUK 10:29" >πρὸς τὸν ἰησοῦν</reference>
-		<reference osisRef="LUK.10.30!2-LUK.10.30!3" type="Over-encoding" label="" verse="LUK 10:30" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.10.37!13-LUK.10.37!14" type="Over-encoding" label="" verse="LUK 10:37" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.11.39!3-LUK.11.39!4" type="Over-encoding" label="" verse="LUK 11:39" >ὁ κύριος</reference>
-		<reference osisRef="LUK.12.42!3-LUK.12.42!4" type="Over-encoding" label="" verse="LUK 12:42" >ὁ κύριος</reference>
-		<reference osisRef="LUK.13.14!10-LUK.13.14!11" type="Over-encoding" label="" verse="LUK 13:14" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.14.3!3-LUK.14.3!4" type="Over-encoding" label="" verse="LUK 14:3" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.14.22!3-LUK.14.22!4" type="Over-encoding" label="" verse="LUK 14:22" >ὁ δοῦλος</reference>
-		<reference osisRef="LUK.14.23!3-LUK.14.23!4" type="Over-encoding" label="" verse="LUK 14:23" >ὁ κύριος</reference>
-		<reference osisRef="LUK.14.23!5-LUK.14.23!7" type="Over-encoding" label="" verse="LUK 14:23" >πρὸς τὸν δοῦλον</reference>
-		<reference osisRef="LUK.15.22!3-LUK.15.22!4" type="Over-encoding" label="" verse="LUK 15:22" >ὁ πατὴρ</reference>
-		<reference osisRef="LUK.15.30!7-LUK.15.30!13" type="Over-encoding" label="" verse="LUK 15:30" >ὁ καταφαγών σου τὸν βίον μετὰ πορνῶν</reference>
-		<reference osisRef="LUK.16.8!7-LUK.16.8!8" type="Over-encoding" label="" verse="LUK 16:8" >τῆς ἀδικίας</reference>
-		<reference osisRef="LUK.16.24!2" type="Over-encoding" label="" verse="LUK 16:24" >αὐτὸς</reference>
-		<reference osisRef="LUK.16.25!3" type="Over-encoding" label="" verse="LUK 16:25" >ἀβραάμ</reference>
-		<reference osisRef="LUK.16.29!3" type="Over-encoding" label="" verse="LUK 16:29" >ἀβραάμ</reference>
-		<reference osisRef="LUK.17.5!5-LUK.17.5!6" type="Over-encoding" label="" verse="LUK 17:5" >τῷ κυρίῳ</reference>
-		<reference osisRef="LUK.17.6!3-LUK.17.6!4" type="Over-encoding" label="" verse="LUK 17:6" >ὁ κύριος</reference>
-		<reference osisRef="LUK.17.17!3-LUK.17.17!4" type="Over-encoding" label="" verse="LUK 17:17" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.17.20!18-LUK.17.20!21" type="Over-encoding" label="" verse="LUK 17:20" >ἡ βασιλεία τοῦ θεοῦ</reference>
-		<reference osisRef="LUK.17.21!9-LUK.17.21!12" type="Over-encoding" label="" verse="LUK 17:21" >ἡ βασιλεία τοῦ θεοῦ</reference>
-		<reference osisRef="LUK.18.6!3-LUK.18.6!4" type="Over-encoding" label="" verse="LUK 18:6" >ὁ κύριος</reference>
-		<reference osisRef="LUK.18.6!9-LUK.18.6!10" type="Over-encoding" label="" verse="LUK 18:6" >τῆς ἀδικίας</reference>
-		<reference osisRef="LUK.18.19!4-LUK.18.19!5" type="Over-encoding" label="" verse="LUK 18:19" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.18.22!3-LUK.18.22!4" type="Over-encoding" label="" verse="LUK 18:22" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.18.42!2-LUK.18.42!3" type="Over-encoding" label="" verse="LUK 18:42" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.19.9!5-LUK.19.9!6" type="Over-encoding" label="" verse="LUK 19:9" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.19.27!6-LUK.19.27!12" type="Over-encoding" label="" verse="LUK 19:27" >τοὺς μὴ θελήσαντάς με βασιλεῦσαι ἐπ’ αὐτοὺς</reference>
-		<reference osisRef="LUK.19.32!3-LUK.19.32!4" type="Over-encoding" label="" verse="LUK 19:32" >οἱ ἀπεσταλμένοι</reference>
-		<reference osisRef="LUK.20.8!2-LUK.20.8!3" type="Over-encoding" label="" verse="LUK 20:8" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.20.10!16" type="Over-encoding" label="" verse="LUK 20:10" >οἱ</reference>
-		<reference osisRef="LUK.20.10!18" type="Over-encoding" label="" verse="LUK 20:10" >γεωργοὶ</reference>
-		<reference osisRef="LUK.20.13!3-LUK.20.13!6" type="Over-encoding" label="" verse="LUK 20:13" >ὁ κύριος τοῦ ἀμπελῶνος</reference>
-		<reference osisRef="LUK.20.13!13-LUK.20.13!14" type="Over-encoding" label="" verse="LUK 20:13" >τὸν ἀγαπητόν</reference>
-		<reference osisRef="LUK.20.16!4-LUK.20.16!6" type="Over-encoding" label="" verse="LUK 20:16" >τοὺς γεωργοὺς τούτους</reference>
-		<reference osisRef="LUK.20.34!4-LUK.20.34!5" type="Over-encoding" label="" verse="LUK 20:34" >ὁ ἰησοῦς</reference>
-		<reference osisRef="LUK.20.44!1" type="Over-encoding" label="" verse="LUK 20:44" >δαυὶδ</reference>
-		<reference osisRef="LUK.22.41!2" type="Over-encoding" label="" verse="LUK 22:41" >αὐτὸς</reference>
-		<reference osisRef="LUK.22.47!10-LUK.22.47!12" type="Over-encoding" label="" verse="LUK 22:47" >εἷς τῶν δώδεκα</reference>
-		<reference osisRef="LUK.22.48!1" type="Over-encoding" label="" verse="LUK 22:48" >ἰησοῦς</reference>
-		<reference osisRef="LUK.22.52!3" type="Over-encoding" label="" verse="LUK 22:52" >ἰησοῦς</reference>
-		<reference osisRef="LUK.22.55!11-LUK.22.55!12" type="Over-encoding" label="" verse="LUK 22:55" >ὁ πέτρος</reference>
-		<reference osisRef="LUK.22.58!13" type="Over-encoding" label="" verse="LUK 22:58" >ὁ</reference>
-		<reference osisRef="LUK.22.58!15" type="Over-encoding" label="" verse="LUK 22:58" >πέτρος</reference>
-		<reference osisRef="LUK.22.60!3-LUK.22.60!4" type="Over-encoding" label="" verse="LUK 22:60" >ὁ πέτρος</reference>
-		<reference osisRef="LUK.22.61!10-LUK.22.61!11" type="Over-encoding" label="" verse="LUK 22:61" >ὁ πέτρος</reference>
-		<reference osisRef="LUK.23.6!1" type="Over-encoding" label="" verse="LUK 23:6" >πιλᾶτος</reference>
-		<reference osisRef="LUK.23.14!21-LUK.23.14!24" type="Over-encoding" label="" verse="LUK 23:14" >ἐν τῷ ἀνθρώπῳ τούτῳ</reference>
-		<reference osisRef="LUK.23.28!5-LUK.23.28!6" type="Over-encoding" label="" verse="LUK 23:28" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.1.1!7-JHN.1.1!8" type="Over-encoding" label="" verse="JHN 1:1" >ὁ λόγος</reference>
-		<reference osisRef="JHN.1.1!16-JHN.1.1!17" type="Over-encoding" label="" verse="JHN 1:1" >ὁ λόγος</reference>
-		<reference osisRef="JHN.1.2!1" type="Over-encoding" label="" verse="JHN 1:2" >οὗτος</reference>
-		<reference osisRef="JHN.1.7!1" type="Over-encoding" label="" verse="JHN 1:7" >οὗτος</reference>
-		<reference osisRef="JHN.1.10!12-JHN.1.10!13" type="Over-encoding" label="" verse="JHN 1:10" >ὁ κόσμος</reference>
-		<reference osisRef="JHN.1.26!3-JHN.1.26!4" type="Over-encoding" label="" verse="JHN 1:26" >ὁ ἰωάννης</reference>
-		<reference osisRef="JHN.1.32!3" type="Over-encoding" label="" verse="JHN 1:32" >ἰωάννης</reference>
-		<reference osisRef="JHN.1.35!5-JHN.1.35!6" type="Over-encoding" label="" verse="JHN 1:35" >ὁ ἰωάννης</reference>
-		<reference osisRef="JHN.1.38!3-JHN.1.38!4" type="Over-encoding" label="" verse="JHN 1:38" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.1.41!2" type="Over-encoding" label="" verse="JHN 1:41" >οὗτος</reference>
-		<reference osisRef="JHN.1.42!8-JHN.1.42!9" type="Over-encoding" label="" verse="JHN 1:42" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.1.43!14-JHN.1.43!15" type="Over-encoding" label="" verse="JHN 1:43" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.1.45!2" type="Over-encoding" label="" verse="JHN 1:45" >φίλιππος</reference>
-		<reference osisRef="JHN.1.46!4" type="Over-encoding" label="" verse="JHN 1:46" >ναθαναήλ</reference>
-		<reference osisRef="JHN.1.46!13-JHN.1.46!14" type="Over-encoding" label="" verse="JHN 1:46" >ὁ φίλιππος</reference>
-		<reference osisRef="JHN.1.48!3" type="Over-encoding" label="" verse="JHN 1:48" >ναθαναήλ</reference>
-		<reference osisRef="JHN.1.48!8" type="Over-encoding" label="" verse="JHN 1:48" >ἰησοῦς</reference>
-		<reference osisRef="JHN.1.49!3" type="Over-encoding" label="" verse="JHN 1:49" >ναθαναήλ</reference>
-		<reference osisRef="JHN.1.50!2" type="Over-encoding" label="" verse="JHN 1:50" >ἰησοῦς</reference>
-		<reference osisRef="JHN.2.4!4-JHN.2.4!5" type="Over-encoding" label="" verse="JHN 2:4" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.2.5!2-JHN.2.5!4" type="Over-encoding" label="" verse="JHN 2:5" >ἡ μήτηρ αὐτοῦ</reference>
-		<reference osisRef="JHN.2.9!4-JHN.2.9!5" type="Over-encoding" label="" verse="JHN 2:9" >ὁ ἀρχιτρίκλινος</reference>
-		<reference osisRef="JHN.2.9!26-JHN.2.9!27" type="Over-encoding" label="" verse="JHN 2:9" >ὁ ἀρχιτρίκλινος</reference>
-		<reference osisRef="JHN.2.19!2" type="Over-encoding" label="" verse="JHN 2:19" >ἰησοῦς</reference>
-		<reference osisRef="JHN.2.20!3-JHN.2.20!4" type="Over-encoding" label="" verse="JHN 2:20" >οἱ ἰουδαῖοι</reference>
-		<reference osisRef="JHN.3.3!2" type="Over-encoding" label="" verse="JHN 3:3" >ἰησοῦς</reference>
-		<reference osisRef="JHN.3.4!4-JHN.3.4!5" type="Over-encoding" label="" verse="JHN 3:4" >ὁ νικόδημος</reference>
-		<reference osisRef="JHN.3.5!2" type="Over-encoding" label="" verse="JHN 3:5" >ἰησοῦς</reference>
-		<reference osisRef="JHN.3.9!2" type="Over-encoding" label="" verse="JHN 3:9" >νικόδημος</reference>
-		<reference osisRef="JHN.3.10!2" type="Over-encoding" label="" verse="JHN 3:10" >ἰησοῦς</reference>
-		<reference osisRef="JHN.3.27!2" type="Over-encoding" label="" verse="JHN 3:27" >ἰωάννης</reference>
-		<reference osisRef="JHN.4.9!4-JHN.4.9!7" type="Over-encoding" label="" verse="JHN 4:9" >ἡ γυνὴ ἡ σαμαρῖτις</reference>
-		<reference osisRef="JHN.4.10!2" type="Over-encoding" label="" verse="JHN 4:10" >ἰησοῦς</reference>
-		<reference osisRef="JHN.4.11!3-JHN.4.11!4" type="Over-encoding" label="" verse="JHN 4:11" >ἡ γυνή</reference>
-		<reference osisRef="JHN.4.13!2" type="Over-encoding" label="" verse="JHN 4:13" >ἰησοῦς</reference>
-		<reference osisRef="JHN.4.14!19-JHN.4.14!23" type="Over-encoding" label="" verse="JHN 4:14" >τὸ ὕδωρ ὃ δώσω αὐτῷ</reference>
-		<reference osisRef="JHN.4.15!4-JHN.4.15!5" type="Over-encoding" label="" verse="JHN 4:15" >ἡ γυνή</reference>
-		<reference osisRef="JHN.4.17!2-JHN.4.17!3" type="Over-encoding" label="" verse="JHN 4:17" >ἡ γυνὴ</reference>
-		<reference osisRef="JHN.4.17!12-JHN.4.17!13" type="Over-encoding" label="" verse="JHN 4:17" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.4.19!3-JHN.4.19!4" type="Over-encoding" label="" verse="JHN 4:19" >ἡ γυνή</reference>
-		<reference osisRef="JHN.4.21!3-JHN.4.21!4" type="Over-encoding" label="" verse="JHN 4:21" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.4.25!3-JHN.4.25!4" type="Over-encoding" label="" verse="JHN 4:25" >ἡ γυνή</reference>
-		<reference osisRef="JHN.4.26!3-JHN.4.26!4" type="Over-encoding" label="" verse="JHN 4:26" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.4.33!3-JHN.4.33!4" type="Over-encoding" label="" verse="JHN 4:33" >οἱ μαθηταὶ</reference>
-		<reference osisRef="JHN.4.34!3-JHN.4.34!4" type="Over-encoding" label="" verse="JHN 4:34" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.4.48!3-JHN.4.48!4" type="Over-encoding" label="" verse="JHN 4:48" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.4.49!4-JHN.4.49!5" type="Over-encoding" label="" verse="JHN 4:49" >ὁ βασιλικός</reference>
-		<reference osisRef="JHN.4.50!3-JHN.4.50!4" type="Over-encoding" label="" verse="JHN 4:50" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.4.50!18-JHN.4.50!19" type="Over-encoding" label="" verse="JHN 4:50" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.5.7!3-JHN.5.7!4" type="Over-encoding" label="" verse="JHN 5:7" >ὁ ἀσθενῶν</reference>
-		<reference osisRef="JHN.5.8!3-JHN.5.8!4" type="Over-encoding" label="" verse="JHN 5:8" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.5.15!2-JHN.5.15!3" type="Over-encoding" label="" verse="JHN 5:15" >ὁ ἄνθρωπος</reference>
-		<reference osisRef="JHN.5.17!3" type="Over-encoding" label="" verse="JHN 5:17" >ἰησοῦς</reference>
-		<reference osisRef="JHN.5.32!14-JHN.5.32!17" type="Over-encoding" label="" verse="JHN 5:32" >ἣν μαρτυρεῖ περὶ ἐμοῦ</reference>
-		<reference osisRef="JHN.6.1!4-JHN.6.1!5" type="Over-encoding" label="" verse="JHN 6:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.6.7!3-JHN.6.7!4" type="Over-encoding" label="" verse="JHN 6:7" >ὁ φίλιππος</reference>
-		<reference osisRef="JHN.6.10!2-JHN.6.10!3" type="Over-encoding" label="" verse="JHN 6:10" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.6.24!16" type="Over-encoding" label="" verse="JHN 6:24" >αὐτοὶ</reference>
-		<reference osisRef="JHN.6.24!25-JHN.6.24!26" type="Over-encoding" label="" verse="JHN 6:24" >τὸν ἰησοῦν</reference>
-		<reference osisRef="JHN.6.26!3-JHN.6.26!4" type="Over-encoding" label="" verse="JHN 6:26" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.6.29!2-JHN.6.29!3" type="Over-encoding" label="" verse="JHN 6:29" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.6.32!4-JHN.6.32!5" type="Over-encoding" label="" verse="JHN 6:32" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.6.35!3-JHN.6.35!4" type="Over-encoding" label="" verse="JHN 6:35" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.6.64!13-JHN.6.64!14" type="Over-encoding" label="" verse="JHN 6:64" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.6.70!3-JHN.6.70!4" type="Over-encoding" label="" verse="JHN 6:70" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.7.6!4-JHN.7.6!5" type="Over-encoding" label="" verse="JHN 7:6" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.7.21!2" type="Over-encoding" label="" verse="JHN 7:21" >ἰησοῦς</reference>
-		<reference osisRef="JHN.7.46!2-JHN.7.46!3" type="Over-encoding" label="" verse="JHN 7:46" >οἱ ὑπηρέται</reference>
-		<reference osisRef="JHN.8.11!8-JHN.8.11!9" type="Over-encoding" label="" verse="JHN 8:11" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.8.12!5-JHN.8.12!6" type="Over-encoding" label="" verse="JHN 8:12" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.8.14!2" type="Over-encoding" label="" verse="JHN 8:14" >ἰησοῦς</reference>
-		<reference osisRef="JHN.8.19!10" type="Over-encoding" label="" verse="JHN 8:19" >ἰησοῦς</reference>
-		<reference osisRef="JHN.8.22!3-JHN.8.22!4" type="Over-encoding" label="" verse="JHN 8:22" >οἱ ἰουδαῖοι</reference>
-		<reference osisRef="JHN.8.25!9-JHN.8.25!10" type="Over-encoding" label="" verse="JHN 8:25" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.8.28!4-JHN.8.28!5" type="Over-encoding" label="" verse="JHN 8:28" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.8.34!3-JHN.8.34!4" type="Over-encoding" label="" verse="JHN 8:34" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.8.39!12-JHN.8.39!13" type="Over-encoding" label="" verse="JHN 8:39" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.8.42!3-JHN.8.42!4" type="Over-encoding" label="" verse="JHN 8:42" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.8.48!2-JHN.8.48!3" type="Over-encoding" label="" verse="JHN 8:48" >οἱ ἰουδαῖοι</reference>
-		<reference osisRef="JHN.8.49!2" type="Over-encoding" label="" verse="JHN 8:49" >ἰησοῦς</reference>
-		<reference osisRef="JHN.8.52!4-JHN.8.52!5" type="Over-encoding" label="" verse="JHN 8:52" >οἱ ἰουδαῖοι</reference>
-		<reference osisRef="JHN.8.54!2" type="Over-encoding" label="" verse="JHN 8:54" >ἰησοῦς</reference>
-		<reference osisRef="JHN.8.57!3-JHN.8.57!4" type="Over-encoding" label="" verse="JHN 8:57" >οἱ ἰουδαῖοι</reference>
-		<reference osisRef="JHN.8.58!3" type="Over-encoding" label="" verse="JHN 8:58" >ἰησοῦς</reference>
-		<reference osisRef="JHN.9.3!2" type="Over-encoding" label="" verse="JHN 9:3" >ἰησοῦς</reference>
-		<reference osisRef="JHN.9.11!2" type="Over-encoding" label="" verse="JHN 9:11" >ἐκεῖνος</reference>
-		<reference osisRef="JHN.9.20!3-JHN.9.20!5" type="Over-encoding" label="" verse="JHN 9:20" >οἱ γονεῖς αὐτοῦ</reference>
-		<reference osisRef="JHN.9.25!3" type="Over-encoding" label="" verse="JHN 9:25" >ἐκεῖνος</reference>
-		<reference osisRef="JHN.9.30!2-JHN.9.30!3" type="Over-encoding" label="" verse="JHN 9:30" >ὁ ἄνθρωπος</reference>
-		<reference osisRef="JHN.9.36!2" type="Over-encoding" label="" verse="JHN 9:36" >ἐκεῖνος</reference>
-		<reference osisRef="JHN.9.37!3-JHN.9.37!4" type="Over-encoding" label="" verse="JHN 9:37" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.9.39!3-JHN.9.39!4" type="Over-encoding" label="" verse="JHN 9:39" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.9.41!3-JHN.9.41!4" type="Over-encoding" label="" verse="JHN 9:41" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.10.4!10-JHN.10.4!11" type="Over-encoding" label="" verse="JHN 10:4" >τὰ πρόβατα</reference>
-		<reference osisRef="JHN.10.6!6-JHN.10.6!7" type="Over-encoding" label="" verse="JHN 10:6" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.10.7!4-JHN.10.7!5" type="Over-encoding" label="" verse="JHN 10:7" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.10.25!3-JHN.10.25!4" type="Over-encoding" label="" verse="JHN 10:25" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.10.31!4-JHN.10.31!5" type="Over-encoding" label="" verse="JHN 10:31" >οἱ ἰουδαῖοι</reference>
-		<reference osisRef="JHN.10.32!3-JHN.10.32!4" type="Over-encoding" label="" verse="JHN 10:32" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.10.33!3-JHN.10.33!4" type="Over-encoding" label="" verse="JHN 10:33" >οἱ ἰουδαῖοι</reference>
-		<reference osisRef="JHN.10.34!3-JHN.10.34!4" type="Over-encoding" label="" verse="JHN 10:34" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.10.41!18" type="Over-encoding" label="" verse="JHN 10:41" >ἰωάννης</reference>
-		<reference osisRef="JHN.11.4!3-JHN.11.4!4" type="Over-encoding" label="" verse="JHN 11:4" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.11.5!3-JHN.11.5!4" type="Over-encoding" label="" verse="JHN 11:5" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.11.8!3-JHN.11.8!4" type="Over-encoding" label="" verse="JHN 11:8" >οἱ μαθηταί</reference>
-		<reference osisRef="JHN.11.9!2" type="Over-encoding" label="" verse="JHN 11:9" >ἰησοῦς</reference>
-		<reference osisRef="JHN.11.12!3-JHN.11.12!5" type="Over-encoding" label="" verse="JHN 11:12" >οἱ μαθηταὶ αὐτῷ</reference>
-		<reference osisRef="JHN.11.13!3-JHN.11.13!4" type="Over-encoding" label="" verse="JHN 11:13" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.11.22!13-JHN.11.22!14" type="Over-encoding" label="" verse="JHN 11:22" >ὁ θεός</reference>
-		<reference osisRef="JHN.11.23!3-JHN.11.23!4" type="Over-encoding" label="" verse="JHN 11:23" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.11.24!3-JHN.11.24!4" type="Over-encoding" label="" verse="JHN 11:24" >ἡ μάρθα</reference>
-		<reference osisRef="JHN.11.25!3-JHN.11.25!4" type="Over-encoding" label="" verse="JHN 11:25" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.11.33!1" type="Over-encoding" label="" verse="JHN 11:33" >ἰησοῦς</reference>
-		<reference osisRef="JHN.11.35!2-JHN.11.35!3" type="Over-encoding" label="" verse="JHN 11:35" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.11.40!3-JHN.11.40!4" type="Over-encoding" label="" verse="JHN 11:40" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.11.44!2-JHN.11.44!3" type="Over-encoding" label="" verse="JHN 11:44" >ὁ τεθνηκὼς</reference>
-		<reference osisRef="JHN.12.1!1" type="Over-encoding" label="" verse="JHN 12:1" >ὁ</reference>
-		<reference osisRef="JHN.12.1!3" type="Over-encoding" label="" verse="JHN 12:1" >ἰησοῦς</reference>
-		<reference osisRef="JHN.12.1!19" type="Over-encoding" label="" verse="JHN 12:1" >ἰησοῦς</reference>
-		<reference osisRef="JHN.12.3!20-JHN.12.3!22" type="Over-encoding" label="" verse="JHN 12:3" >τοὺς πόδας αὐτοῦ</reference>
-		<reference osisRef="JHN.12.23!1" type="Over-encoding" label="" verse="JHN 12:23" >ὁ</reference>
-		<reference osisRef="JHN.12.23!3" type="Over-encoding" label="" verse="JHN 12:23" >ἰησοῦς</reference>
-		<reference osisRef="JHN.12.35!4-JHN.12.35!5" type="Over-encoding" label="" verse="JHN 12:35" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.12.36!15" type="Over-encoding" label="" verse="JHN 12:36" >ἰησοῦς</reference>
-		<reference osisRef="JHN.12.41!3" type="Over-encoding" label="" verse="JHN 12:41" >ἠσαΐας</reference>
-		<reference osisRef="JHN.13.1!8-JHN.13.1!9" type="Over-encoding" label="" verse="JHN 13:1" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.13.7!2" type="Over-encoding" label="" verse="JHN 13:7" >ἰησοῦς</reference>
-		<reference osisRef="JHN.13.8!3" type="Over-encoding" label="" verse="JHN 13:8" >πέτρος</reference>
-		<reference osisRef="JHN.13.8!14" type="Over-encoding" label="" verse="JHN 13:8" >ἰησοῦς</reference>
-		<reference osisRef="JHN.13.9!3-JHN.13.9!4" type="Over-encoding" label="" verse="JHN 13:9" >σίμων πέτρος</reference>
-		<reference osisRef="JHN.13.10!3-JHN.13.10!4" type="Over-encoding" label="" verse="JHN 13:10" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.13.21!3-JHN.13.21!4" type="Over-encoding" label="" verse="JHN 13:21" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.13.22!4-JHN.13.22!5" type="Over-encoding" label="" verse="JHN 13:22" >οἱ μαθηταὶ</reference>
-		<reference osisRef="JHN.13.25!3" type="Over-encoding" label="" verse="JHN 13:25" >ἐκεῖνος</reference>
-		<reference osisRef="JHN.13.26!2-JHN.13.26!3" type="Over-encoding" label="" verse="JHN 13:26" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.13.36!10" type="Over-encoding" label="" verse="JHN 13:36" >ἰησοῦς</reference>
-		<reference osisRef="JHN.13.37!3-JHN.13.37!4" type="Over-encoding" label="" verse="JHN 13:37" >ὁ πέτρος</reference>
-		<reference osisRef="JHN.13.38!2" type="Over-encoding" label="" verse="JHN 13:38" >ἰησοῦς</reference>
-		<reference osisRef="JHN.14.6!3-JHN.14.6!4" type="Over-encoding" label="" verse="JHN 14:6" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.14.9!3-JHN.14.9!4" type="Over-encoding" label="" verse="JHN 14:9" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.14.23!2" type="Over-encoding" label="" verse="JHN 14:23" >ἰησοῦς</reference>
-		<reference osisRef="JHN.16.31!3" type="Over-encoding" label="" verse="JHN 16:31" >ἰησοῦς</reference>
-		<reference osisRef="JHN.17.1!3" type="Over-encoding" label="" verse="JHN 17:1" >ἰησοῦς</reference>
-		<reference osisRef="JHN.17.1!22-JHN.17.1!23" type="Over-encoding" label="" verse="JHN 17:1" >ὁ υἱὸς</reference>
-		<reference osisRef="JHN.17.11!25-JHN.17.11!27" type="Over-encoding" label="" verse="JHN 17:11" >ᾧ δέδωκάς μοι</reference>
-		<reference osisRef="JHN.17.12!12-JHN.17.12!14" type="Over-encoding" label="" verse="JHN 17:12" >ᾧ δέδωκάς μοι</reference>
-		<reference osisRef="JHN.18.1!3" type="Over-encoding" label="" verse="JHN 18:1" >ἰησοῦς</reference>
-		<reference osisRef="JHN.18.1!20-JHN.18.1!24" type="Over-encoding" label="" verse="JHN 18:1" >αὐτὸς καὶ οἱ μαθηταὶ αὐτοῦ</reference>
-		<reference osisRef="JHN.18.5!14-JHN.18.5!16" type="Over-encoding" label="" verse="JHN 18:5" >ὁ παραδιδοὺς αὐτὸν</reference>
-		<reference osisRef="JHN.18.8!2" type="Over-encoding" label="" verse="JHN 18:8" >ἰησοῦς</reference>
-		<reference osisRef="JHN.18.16!15-JHN.18.16!18" type="Over-encoding" label="" verse="JHN 18:16" >ὁ γνωστὸς τοῦ ἀρχιερέως</reference>
-		<reference osisRef="JHN.18.20!3" type="Over-encoding" label="" verse="JHN 18:20" >ἰησοῦς</reference>
-		<reference osisRef="JHN.18.22!11-JHN.18.22!12" type="Over-encoding" label="" verse="JHN 18:22" >τῷ ἰησοῦ</reference>
-		<reference osisRef="JHN.18.23!3" type="Over-encoding" label="" verse="JHN 18:23" >ἰησοῦς</reference>
-		<reference osisRef="JHN.18.25!20" type="Over-encoding" label="" verse="JHN 18:25" >ἐκεῖνος</reference>
-		<reference osisRef="JHN.18.27!4" type="Over-encoding" label="" verse="JHN 18:27" >πέτρος</reference>
-		<reference osisRef="JHN.18.31!4-JHN.18.31!5" type="Over-encoding" label="" verse="JHN 18:31" >ὁ πιλᾶτος</reference>
-		<reference osisRef="JHN.18.31!18-JHN.18.31!19" type="Over-encoding" label="" verse="JHN 18:31" >οἱ ἰουδαῖοι</reference>
-		<reference osisRef="JHN.18.34!2" type="Over-encoding" label="" verse="JHN 18:34" >ἰησοῦς</reference>
-		<reference osisRef="JHN.18.35!2-JHN.18.35!3" type="Over-encoding" label="" verse="JHN 18:35" >ὁ πιλᾶτος</reference>
-		<reference osisRef="JHN.18.36!2" type="Over-encoding" label="" verse="JHN 18:36" >ἰησοῦς</reference>
-		<reference osisRef="JHN.18.37!4-JHN.18.37!5" type="Over-encoding" label="" verse="JHN 18:37" >ὁ πιλᾶτος</reference>
-		<reference osisRef="JHN.18.37!11-JHN.18.37!12" type="Over-encoding" label="" verse="JHN 18:37" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.18.38!3-JHN.18.38!4" type="Over-encoding" label="" verse="JHN 18:38" >ὁ πιλᾶτος</reference>
-		<reference osisRef="JHN.19.7!3-JHN.19.7!4" type="Over-encoding" label="" verse="JHN 19:7" >οἱ ἰουδαῖοι</reference>
-		<reference osisRef="JHN.19.8!4-JHN.19.8!5" type="Over-encoding" label="" verse="JHN 19:8" >ὁ πιλᾶτος</reference>
-		<reference osisRef="JHN.19.9!14" type="Over-encoding" label="" verse="JHN 19:9" >ὁ</reference>
-		<reference osisRef="JHN.19.9!16" type="Over-encoding" label="" verse="JHN 19:9" >ἰησοῦς</reference>
-		<reference osisRef="JHN.19.10!4-JHN.19.10!5" type="Over-encoding" label="" verse="JHN 19:10" >ὁ πιλᾶτος</reference>
-		<reference osisRef="JHN.19.11!3" type="Over-encoding" label="" verse="JHN 19:11" >ἰησοῦς</reference>
-		<reference osisRef="JHN.19.12!3-JHN.19.12!4" type="Over-encoding" label="" verse="JHN 19:12" >ὁ πιλᾶτος</reference>
-		<reference osisRef="JHN.19.13!1" type="Over-encoding" label="" verse="JHN 19:13" >ὁ</reference>
-		<reference osisRef="JHN.19.13!3" type="Over-encoding" label="" verse="JHN 19:13" >πιλᾶτος</reference>
-		<reference osisRef="JHN.19.15!3" type="Over-encoding" label="" verse="JHN 19:15" >ἐκεῖνοι</reference>
-		<reference osisRef="JHN.19.22!2-JHN.19.22!3" type="Over-encoding" label="" verse="JHN 19:22" >ὁ πιλᾶτος</reference>
-		<reference osisRef="JHN.19.27!15-JHN.19.27!16" type="Over-encoding" label="" verse="JHN 19:27" >ὁ μαθητὴς</reference>
-		<reference osisRef="JHN.19.30!6-JHN.19.30!7" type="Over-encoding" label="" verse="JHN 19:30" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.20.3!3-JHN.20.3!8" type="Over-encoding" label="" verse="JHN 20:3" >ὁ πέτρος καὶ ὁ ἄλλος μαθητὴς</reference>
-		<reference osisRef="JHN.20.13!4" type="Over-encoding" label="" verse="JHN 20:13" >ἐκεῖνοι</reference>
-		<reference osisRef="JHN.20.16!3" type="Over-encoding" label="" verse="JHN 20:16" >ἰησοῦς</reference>
-		<reference osisRef="JHN.20.16!6" type="Over-encoding" label="" verse="JHN 20:16" >ἐκείνη</reference>
-		<reference osisRef="JHN.20.17!3" type="Over-encoding" label="" verse="JHN 20:17" >ἰησοῦς</reference>
-		<reference osisRef="JHN.20.19!7-JHN.20.19!9" type="Over-encoding" label="" verse="JHN 20:19" >τῇ μιᾷ σαββάτων</reference>
-		<reference osisRef="JHN.20.20!13-JHN.20.20!14" type="Over-encoding" label="" verse="JHN 20:20" >οἱ μαθηταὶ</reference>
-		<reference osisRef="JHN.20.21!4-JHN.20.21!5" type="Over-encoding" label="" verse="JHN 20:21" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.20.24!3-JHN.20.24!9" type="Over-encoding" label="" verse="JHN 20:24" >εἷς ἐκ τῶν δώδεκα ὁ λεγόμενος δίδυμος</reference>
-		<reference osisRef="JHN.20.28!2" type="Over-encoding" label="" verse="JHN 20:28" >θωμᾶς</reference>
-		<reference osisRef="JHN.20.29!3-JHN.20.29!4" type="Over-encoding" label="" verse="JHN 20:29" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.20.30!8-JHN.20.30!9" type="Over-encoding" label="" verse="JHN 20:30" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.21.5!4-JHN.21.5!5" type="Over-encoding" label="" verse="JHN 21:5" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.21.7!15" type="Over-encoding" label="" verse="JHN 21:7" >σίμων</reference>
-		<reference osisRef="JHN.21.7!17" type="Over-encoding" label="" verse="JHN 21:7" >πέτρος</reference>
-		<reference osisRef="JHN.21.14!5" type="Over-encoding" label="" verse="JHN 21:14" >ἰησοῦς</reference>
-		<reference osisRef="JHN.21.15!8-JHN.21.15!9" type="Over-encoding" label="" verse="JHN 21:15" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.21.17!10-JHN.21.17!11" type="Over-encoding" label="" verse="JHN 21:17" >ὁ πέτρος</reference>
-		<reference osisRef="JHN.21.17!33-JHN.21.17!34" type="Over-encoding" label="" verse="JHN 21:17" >ὁ ἰησοῦς</reference>
-		<reference osisRef="JHN.21.20!2-JHN.21.20!3" type="Over-encoding" label="" verse="JHN 21:20" >ὁ πέτρος</reference>
-		<reference osisRef="JHN.21.21!4-JHN.21.21!5" type="Over-encoding" label="" verse="JHN 21:21" >ὁ πέτρος</reference>
-		<reference osisRef="JHN.21.22!3-JHN.21.22!4" type="Over-encoding" label="" verse="JHN 21:22" >ὁ ἰησοῦς</reference>
-		<reference osisRef="ACT.1.11!15-ACT.1.11!21" type="Over-encoding" label="" verse="ACT 1:11" >ὁ ἀναλημφθεὶς ἀφ’ ὑμῶν εἰς τὸν οὐρανὸν</reference>
-		<reference osisRef="ACT.1.13!11-ACT.1.13!34" type="Over-encoding" label="" verse="ACT 1:13" >ὅ τε πέτρος καὶ ἰωάννης καὶ ἰάκωβος καὶ ἀνδρέας φίλιππος καὶ θωμᾶς βαρθολομαῖος καὶ μαθθαῖος ἰάκωβος ἁλφαίου καὶ σίμων ὁ ζηλωτὴς καὶ ἰούδας ἰακώβου</reference>
-		<reference osisRef="ACT.1.24!6-ACT.1.24!7" type="Over-encoding" label="" verse="ACT 1:24" >καρδιογνῶστα πάντων</reference>
-		<reference osisRef="ACT.3.9!7-ACT.3.9!11" type="Over-encoding" label="" verse="ACT 3:9" >περιπατοῦντα καὶ αἰνοῦντα τὸν θεόν</reference>
-		<reference osisRef="ACT.3.13!5-ACT.3.13!6" type="Over-encoding" label="" verse="ACT 3:13" >ὁ θεὸς</reference>
-		<reference osisRef="ACT.3.13!9-ACT.3.13!10" type="Over-encoding" label="" verse="ACT 3:13" >ὁ θεὸς</reference>
-		<reference osisRef="ACT.3.13!12-ACT.3.13!13" type="Over-encoding" label="" verse="ACT 3:13" >ὁ θεὸς</reference>
-		<reference osisRef="ACT.3.24!11-ACT.3.24!12" type="Over-encoding" label="" verse="ACT 3:24" >ὅσοι ἐλάλησαν</reference>
-		<reference osisRef="ACT.5.5!3-ACT.5.5!4" type="Over-encoding" label="" verse="ACT 5:5" >ὁ ἁνανίας</reference>
-		<reference osisRef="ACT.5.9!1" type="Over-encoding" label="" verse="ACT 5:9" >ὁ</reference>
-		<reference osisRef="ACT.5.9!3" type="Over-encoding" label="" verse="ACT 5:9" >πέτρος</reference>
-		<reference osisRef="ACT.7.6!4-ACT.7.6!5" type="Over-encoding" label="" verse="ACT 7:6" >ὁ θεὸς</reference>
-		<reference osisRef="ACT.7.7!9-ACT.7.7!11" type="Over-encoding" label="" verse="ACT 7:7" >ὁ θεὸς εἶπεν</reference>
-		<reference osisRef="ACT.7.10!17-ACT.7.10!18" type="Over-encoding" label="" verse="ACT 7:10" >βασιλέως αἰγύπτου</reference>
-		<reference osisRef="ACT.7.14!6-ACT.7.14!8" type="Over-encoding" label="" verse="ACT 7:14" >τὸν πατέρα αὐτοῦ</reference>
-		<reference osisRef="ACT.7.15!3" type="Over-encoding" label="" verse="ACT 7:15" >ἰακὼβ</reference>
-		<reference osisRef="ACT.7.23!16-ACT.7.23!18" type="Over-encoding" label="" verse="ACT 7:23" >τοὺς υἱοὺς ἰσραήλ</reference>
-		<reference osisRef="ACT.7.29!3" type="Over-encoding" label="" verse="ACT 7:29" >μωϋσῆς</reference>
-		<reference osisRef="ACT.7.31!1" type="Over-encoding" label="" verse="ACT 7:31" >ὁ</reference>
-		<reference osisRef="ACT.7.31!3" type="Over-encoding" label="" verse="ACT 7:31" >μωϋσῆς</reference>
-		<reference osisRef="ACT.7.32!17" type="Over-encoding" label="" verse="ACT 7:32" >μωϋσῆς</reference>
-		<reference osisRef="ACT.7.37!3-ACT.7.37!4" type="Over-encoding" label="" verse="ACT 7:37" >ὁ μωϋσῆς</reference>
-		<reference osisRef="ACT.8.10!4-ACT.8.10!7" type="Over-encoding" label="" verse="ACT 8:10" >ἀπὸ μικροῦ ἕως μεγάλου</reference>
-		<reference osisRef="ACT.8.24!3-ACT.8.24!4" type="Over-encoding" label="" verse="ACT 8:24" >ὁ σίμων</reference>
-		<reference osisRef="ACT.8.24!7" type="Over-encoding" label="" verse="ACT 8:24" >ὑμεῖς</reference>
-		<reference osisRef="ACT.8.30!3-ACT.8.30!4" type="Over-encoding" label="" verse="ACT 8:30" >ὁ φίλιππος</reference>
-		<reference osisRef="ACT.8.35!3-ACT.8.35!4" type="Over-encoding" label="" verse="ACT 8:35" >ὁ φίλιππος</reference>
-		<reference osisRef="ACT.9.11!1" type="Over-encoding" label="" verse="ACT 9:11" >ὁ</reference>
-		<reference osisRef="ACT.9.11!3" type="Over-encoding" label="" verse="ACT 9:11" >κύριος</reference>
-		<reference osisRef="ACT.9.13!3" type="Over-encoding" label="" verse="ACT 9:13" >ἁνανίας</reference>
-		<reference osisRef="ACT.9.15!5-ACT.9.15!6" type="Over-encoding" label="" verse="ACT 9:15" >ὁ κύριος</reference>
-		<reference osisRef="ACT.9.17!3" type="Over-encoding" label="" verse="ACT 9:17" >ἁνανίας</reference>
-		<reference osisRef="ACT.9.39!3" type="Over-encoding" label="" verse="ACT 9:39" >πέτρος</reference>
-		<reference osisRef="ACT.10.7!6-ACT.10.7!8" type="Over-encoding" label="" verse="ACT 10:7" >ὁ λαλῶν αὐτῷ</reference>
-		<reference osisRef="ACT.10.14!1" type="Over-encoding" label="" verse="ACT 10:14" >ὁ</reference>
-		<reference osisRef="ACT.10.14!3" type="Over-encoding" label="" verse="ACT 10:14" >πέτρος</reference>
-		<reference osisRef="ACT.10.21!3" type="Over-encoding" label="" verse="ACT 10:21" >πέτρος</reference>
-		<reference osisRef="ACT.10.26!1" type="Over-encoding" label="" verse="ACT 10:26" >ὁ</reference>
-		<reference osisRef="ACT.10.26!3" type="Over-encoding" label="" verse="ACT 10:26" >πέτρος</reference>
-		<reference osisRef="ACT.10.30!2-ACT.10.30!3" type="Over-encoding" label="" verse="ACT 10:30" >ὁ κορνήλιος</reference>
-		<reference osisRef="ACT.10.34!3" type="Over-encoding" label="" verse="ACT 10:34" >πέτρος</reference>
-		<reference osisRef="ACT.10.44!3-ACT.10.44!4" type="Over-encoding" label="" verse="ACT 10:44" >τοῦ πέτρου</reference>
-		<reference osisRef="ACT.11.4!3" type="Over-encoding" label="" verse="ACT 11:4" >πέτρος</reference>
-		<reference osisRef="ACT.13.9!3-ACT.13.9!5" type="Over-encoding" label="" verse="ACT 13:9" >ὁ καὶ παῦλος</reference>
-		<reference osisRef="ACT.15.8!3" type="Over-encoding" label="" verse="ACT 15:8" >καρδιογνώστης</reference>
-		<reference osisRef="ACT.16.37!1" type="Over-encoding" label="" verse="ACT 16:37" >ὁ</reference>
-		<reference osisRef="ACT.16.37!3" type="Over-encoding" label="" verse="ACT 16:37" >παῦλος</reference>
-		<reference osisRef="ACT.16.38!5-ACT.16.38!6" type="Over-encoding" label="" verse="ACT 16:38" >οἱ ῥαβδοῦχοι</reference>
-		<reference osisRef="ACT.17.33!2-ACT.17.33!3" type="Over-encoding" label="" verse="ACT 17:33" >ὁ παῦλος</reference>
-		<reference osisRef="ACT.19.4!3" type="Over-encoding" label="" verse="ACT 19:4" >παῦλος</reference>
-		<reference osisRef="ACT.19.33!11" type="Over-encoding" label="" verse="ACT 19:33" >ὁ</reference>
-		<reference osisRef="ACT.19.33!13" type="Over-encoding" label="" verse="ACT 19:33" >ἀλέξανδρος</reference>
-		<reference osisRef="ACT.20.25!14-ACT.20.25!19" type="Over-encoding" label="" verse="ACT 20:25" >ἐν οἷς διῆλθον κηρύσσων τὴν βασιλείαν</reference>
-		<reference osisRef="ACT.21.13!3-ACT.21.13!4" type="Over-encoding" label="" verse="ACT 21:13" >ὁ παῦλος</reference>
-		<reference osisRef="ACT.21.26!2-ACT.21.26!3" type="Over-encoding" label="" verse="ACT 21:26" >ὁ παῦλος</reference>
-		<reference osisRef="ACT.21.39!3-ACT.21.39!4" type="Over-encoding" label="" verse="ACT 21:39" >ὁ παῦλος</reference>
-		<reference osisRef="ACT.21.40!4-ACT.21.40!5" type="Over-encoding" label="" verse="ACT 21:40" >ὁ παῦλος</reference>
-		<reference osisRef="ACT.22.10!6" type="Over-encoding" label="" verse="ACT 22:10" >ὁ</reference>
-		<reference osisRef="ACT.22.10!8" type="Over-encoding" label="" verse="ACT 22:10" >κύριος</reference>
-		<reference osisRef="ACT.22.19!1" type="Over-encoding" label="" verse="ACT 22:19" >κἀγὼ</reference>
-		<reference osisRef="ACT.22.26!3-ACT.22.26!4" type="Over-encoding" label="" verse="ACT 22:26" >ὁ ἑκατοντάρχης</reference>
-		<reference osisRef="ACT.22.28!3-ACT.22.28!4" type="Over-encoding" label="" verse="ACT 22:28" >ὁ χιλίαρχος</reference>
-		<reference osisRef="ACT.22.28!12" type="Over-encoding" label="" verse="ACT 22:28" >ὁ</reference>
-		<reference osisRef="ACT.22.28!14" type="Over-encoding" label="" verse="ACT 22:28" >παῦλος</reference>
-		<reference osisRef="ACT.23.5!3-ACT.23.5!4" type="Over-encoding" label="" verse="ACT 23:5" >ὁ παῦλος</reference>
-		<reference osisRef="ACT.23.6!3-ACT.23.6!4" type="Over-encoding" label="" verse="ACT 23:6" >ὁ παῦλος</reference>
-		<reference osisRef="ACT.23.22!1" type="Over-encoding" label="" verse="ACT 23:22" >ὁ</reference>
-		<reference osisRef="ACT.23.22!4" type="Over-encoding" label="" verse="ACT 23:22" >χιλίαρχος</reference>
-		<reference osisRef="ACT.25.4!1" type="Over-encoding" label="" verse="ACT 25:4" >ὁ</reference>
-		<reference osisRef="ACT.25.4!4" type="Over-encoding" label="" verse="ACT 25:4" >φῆστος</reference>
-		<reference osisRef="ACT.25.10!3-ACT.25.10!4" type="Over-encoding" label="" verse="ACT 25:10" >ὁ παῦλος</reference>
-		<reference osisRef="ACT.25.12!2-ACT.25.12!3" type="Over-encoding" label="" verse="ACT 25:12" >ὁ φῆστος</reference>
-		<reference osisRef="ACT.26.1!13-ACT.26.1!14" type="Over-encoding" label="" verse="ACT 26:1" >ὁ παῦλος</reference>
-		<reference osisRef="ACT.26.15!7" type="Over-encoding" label="" verse="ACT 26:15" >ὁ</reference>
-		<reference osisRef="ACT.26.15!9" type="Over-encoding" label="" verse="ACT 26:15" >κύριος</reference>
-		<reference osisRef="ACT.26.28!4-ACT.26.28!6" type="Over-encoding" label="" verse="ACT 26:28" >πρὸς τὸν παῦλον</reference>
-		<reference osisRef="ROM.2.1!21-ROM.2.1!22" type="Over-encoding" label="" verse="ROM 2:1" >ὁ κρίνων</reference>
-		<reference osisRef="ROM.4.2!3" type="Over-encoding" label="" verse="ROM 4:2" >ἀβραὰμ</reference>
-		<reference osisRef="ROM.8.11!26-ROM.8.11!31" type="Over-encoding" label="" verse="ROM 8:11" >τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος ἐν ὑμῖν</reference>
-		<reference osisRef="1CO.1.2!9-1CO.1.2!14" type="Over-encoding" label="" verse="1CO 1:2" >ἡγιασμένοις ἐν χριστῷ ἰησοῦ κλητοῖς ἁγίοις</reference>
-		<reference osisRef="1CO.1.7!11-1CO.1.7!14" type="Over-encoding" label="" verse="1CO 1:7" >τοῦ κυρίου ἡμῶν ἰησοῦ</reference>
-		<reference osisRef="1CO.1.8!11-1CO.1.8!14" type="Over-encoding" label="" verse="1CO 1:8" >τοῦ κυρίου ἡμῶν ἰησοῦ</reference>
-		<reference osisRef="1CO.1.9!12-1CO.1.9!16" type="Over-encoding" label="" verse="1CO 1:9" >ἰησοῦ χριστοῦ τοῦ κυρίου ἡμῶν</reference>
-		<reference osisRef="1CO.1.10!8-1CO.1.10!12" type="Over-encoding" label="" verse="1CO 1:10" >τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ</reference>
-		<reference osisRef="1CO.1.24!5-1CO.1.24!8" type="Over-encoding" label="" verse="1CO 1:24" >ἰουδαίοις τε καὶ ἕλλησιν</reference>
-		<reference osisRef="1CO.1.27!19-1CO.1.27!20" type="Over-encoding" label="" verse="1CO 1:27" >ὁ θεός</reference>
-		<reference osisRef="1CO.1.28!10-1CO.1.28!11" type="Over-encoding" label="" verse="1CO 1:28" >ὁ θεός</reference>
-		<reference osisRef="1CO.2.10!4-1CO.2.10!5" type="Over-encoding" label="" verse="1CO 2:10" >ὁ θεὸς</reference>
-		<reference osisRef="1CO.5.4!17-1CO.5.4!20" type="Over-encoding" label="" verse="1CO 5:4" >τοῦ κυρίου ἡμῶν ἰησοῦ</reference>
-		<reference osisRef="1CO.10.15!5" type="Over-encoding" label="" verse="1CO 10:15" >ὑμεῖς</reference>
-		<reference osisRef="1CO.10.30!9" type="Over-encoding" label="" verse="1CO 10:30" >ἐγὼ</reference>
-		<reference osisRef="1CO.12.6!9-1CO.12.6!14" type="Over-encoding" label="" verse="1CO 12:6" >ὁ ἐνεργῶν τὰ πάντα ἐν πᾶσιν</reference>
-		<reference osisRef="1CO.13.4!5-1CO.13.4!6" type="Over-encoding" label="" verse="1CO 13:4" >ἡ ἀγάπη</reference>
-		<reference osisRef="1CO.13.4!9-1CO.13.4!10" type="Over-encoding" label="" verse="1CO 13:4" >ἡ ἀγάπη</reference>
-		<reference osisRef="1CO.13.8!1-1CO.13.8!2" type="Over-encoding" label="" verse="1CO 13:8" >ἡ ἀγάπη</reference>
-		<reference osisRef="1CO.15.4!11-1CO.15.4!13" type="Over-encoding" label="" verse="1CO 15:4" >κατὰ τὰς γραφὰς</reference>
-		<reference osisRef="2CO.1.1!2-2CO.1.1!7" type="Over-encoding" label="" verse="2CO 1:1" >ἀπόστολος χριστοῦ ἰησοῦ διὰ θελήματος θεοῦ</reference>
-		<reference osisRef="2CO.1.1!10-2CO.1.1!11" type="Over-encoding" label="" verse="2CO 1:1" >ὁ ἀδελφὸς</reference>
-		<reference osisRef="2CO.1.3!11-2CO.1.4!44" type="Over-encoding" label="" verse="2CO 1:3 - 4" >ὁ πατὴρ τῶν οἰκτιρμῶν καὶ θεὸς πάσης παρακλήσεως ὁ παρακαλῶν ἡμᾶς ἐπὶ πάσῃ τῇ θλίψει ἡμῶν εἰς τὸ δύνασθαι ἡμᾶς παρακαλεῖν τοὺς ἐν πάσῃ θλίψει διὰ τῆς παρακλήσεως ἧς παρακαλούμεθα αὐτοὶ ὑπὸ τοῦ θεοῦ</reference>
-		<reference osisRef="2CO.1.9!20-2CO.1.9!23" type="Over-encoding" label="" verse="2CO 1:9" >τῷ ἐγείροντι τοὺς νεκρούς</reference>
-		<reference osisRef="2CO.1.19!6-2CO.1.19!7" type="Over-encoding" label="" verse="2CO 1:19" >ἰησοῦς χριστὸς</reference>
-		<reference osisRef="2CO.1.19!8-2CO.1.19!13" type="Over-encoding" label="" verse="2CO 1:19" >ὁ ἐν ὑμῖν δι’ ἡμῶν κηρυχθείς</reference>
-		<reference osisRef="2CO.1.22!1-2CO.1.22!14" type="Over-encoding" label="" verse="2CO 1:22" >ὁ καὶ σφραγισάμενος ἡμᾶς καὶ δοὺς τὸν ἀρραβῶνα τοῦ πνεύματος ἐν ταῖς καρδίαις ἡμῶν</reference>
-		<reference osisRef="2CO.2.13!12-2CO.2.13!14" type="Over-encoding" label="" verse="2CO 2:13" >τὸν ἀδελφόν μου</reference>
-		<reference osisRef="2CO.2.14!5-2CO.2.14!23" type="Over-encoding" label="" verse="2CO 2:14" >τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ χριστῷ καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι’ ἡμῶν ἐν παντὶ τόπῳ</reference>
-		<reference osisRef="2CO.4.6!4-2CO.4.6!9" type="Over-encoding" label="" verse="2CO 4:6" >ὁ εἰπών ἐκ σκότους φῶς λάμψει</reference>
-		<reference osisRef="2CO.5.5!9-2CO.5.5!15" type="Over-encoding" label="" verse="2CO 5:5" >ὁ δοὺς ἡμῖν τὸν ἀρραβῶνα τοῦ πνεύματος</reference>
-		<reference osisRef="2CO.5.18!7-2CO.5.18!19" type="Over-encoding" label="" verse="2CO 5:18" >τοῦ καταλλάξαντος ἡμᾶς ἑαυτῷ διὰ χριστοῦ καὶ δόντος ἡμῖν τὴν διακονίαν τῆς καταλλαγῆς</reference>
-		<reference osisRef="2CO.8.16!5-2CO.8.16!15" type="Over-encoding" label="" verse="2CO 8:16" >τῷ δόντι τὴν αὐτὴν σπουδὴν ὑπὲρ ὑμῶν ἐν τῇ καρδίᾳ τίτου</reference>
-		<reference osisRef="2CO.9.8!3-2CO.9.8!4" type="Over-encoding" label="" verse="2CO 9:8" >ὁ θεὸς</reference>
-		<reference osisRef="2CO.10.8!11-2CO.10.8!21" type="Over-encoding" label="" verse="2CO 10:8" >ἧς ἔδωκεν ὁ κύριος εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν ὑμῶν</reference>
-		<reference osisRef="2CO.12.7!15-2CO.12.7!16" type="Over-encoding" label="" verse="2CO 12:7" >ἄγγελος σατανᾶ</reference>
-		<reference osisRef="2CO.12.7!20-2CO.12.7!22" type="Over-encoding" label="" verse="2CO 12:7" >ἵνα μὴ ὑπεραίρωμαι</reference>
-		<reference osisRef="GAL.1.1!16-GAL.1.1!20" type="Over-encoding" label="" verse="GAL 1:1" >τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν</reference>
-		<reference osisRef="GAL.1.4!1-GAL.1.4!24" type="Over-encoding" label="" verse="GAL 1:4" >τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ αἰῶνος τοῦ ἐνεστῶτος πονηροῦ κατὰ τὸ θέλημα τοῦ θεοῦ καὶ πατρὸς ἡμῶν</reference>
-		<reference osisRef="GAL.1.15!6-GAL.1.15!18" type="Over-encoding" label="" verse="GAL 1:15" >ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ</reference>
-		<reference osisRef="GAL.2.3!4-GAL.2.3!8" type="Over-encoding" label="" verse="GAL 2:3" >ὁ σὺν ἐμοί ἕλλην ὤν</reference>
-		<reference osisRef="GAL.2.6!21-GAL.2.6!22" type="Over-encoding" label="" verse="GAL 2:6" >οἱ δοκοῦντες</reference>
-		<reference osisRef="GAL.2.9!13-GAL.2.9!16" type="Over-encoding" label="" verse="GAL 2:9" >οἱ δοκοῦντες στῦλοι εἶναι</reference>
-		<reference osisRef="GAL.2.15!2-GAL.2.15!8" type="Over-encoding" label="" verse="GAL 2:15" >φύσει ἰουδαῖοι καὶ οὐκ ἐξ ἐθνῶν ἁμαρτωλοί</reference>
-		<reference osisRef="GAL.2.20!24-GAL.2.20!31" type="Over-encoding" label="" verse="GAL 2:20" >τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ</reference>
-		<reference osisRef="GAL.5.2!3" type="Over-encoding" label="" verse="GAL 5:2" >παῦλος</reference>
-		<reference osisRef="COL.1.28!9-COL.1.28!10" type="Over-encoding" label="" verse="COL 1:28" >πάντα ἄνθρωπον</reference>
-		<reference osisRef="COL.1.28!16-COL.1.28!17" type="Over-encoding" label="" verse="COL 1:28" >πάντα ἄνθρωπον</reference>
-		<reference osisRef="2TH.3.16!16-2TH.3.16!17" type="Over-encoding" label="" verse="2TH 3:16" >ὁ κύριος</reference>
-		<reference osisRef="JAS.5.11!17-JAS.5.11!18" type="Over-encoding" label="" verse="JAS 5:11" >ὁ κύριος</reference>
-		<reference osisRef="2PE.2.8!5-2PE.2.8!6" type="Over-encoding" label="" verse="2PE 2:8" >ὁ δίκαιος</reference>
-		<reference osisRef="1JN.1.3!29-1JN.1.3!30" type="Over-encoding" label="" verse="1JN 1:3" >ἰησοῦ χριστοῦ</reference>
-		<reference osisRef="1JN.1.7!21-1JN.1.7!23" type="Over-encoding" label="" verse="1JN 1:7" >τοῦ υἱοῦ αὐτοῦ</reference>
-		<reference osisRef="1JN.3.23!14-1JN.3.23!15" type="Over-encoding" label="" verse="1JN 3:23" >ἰησοῦ χριστοῦ</reference>
-		<reference osisRef="1JN.4.20!22-1JN.4.20!23" type="Over-encoding" label="" verse="1JN 4:20" >ὃν ἑώρακεν</reference>
-		<reference osisRef="1JN.4.20!26-1JN.4.20!28" type="Over-encoding" label="" verse="1JN 4:20" >ὃν οὐχ ἑώρακεν</reference>
-		<reference osisRef="1JN.5.6!31-1JN.5.6!32" type="Over-encoding" label="" verse="1JN 5:6" >τὸ πνεῦμά</reference>
-		<reference osisRef="1JN.5.12!13-1JN.5.12!14" type="Over-encoding" label="" verse="1JN 5:12" >τοῦ θεοῦ</reference>
-		<reference osisRef="REV.4.10!14-REV.4.10!20" type="Over-encoding" label="" verse="REV 4:10" >τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
-		<reference osisRef="REV.9.15!3-REV.9.15!5" type="Over-encoding" label="" verse="REV 9:15" >οἱ τέσσαρες ἄγγελοι</reference>
-		<reference osisRef="REV.10.4!4-REV.10.4!6" type="Over-encoding" label="" verse="REV 10:4" >αἱ ἑπτὰ βρονταί</reference>
-		<reference osisRef="REV.11.9!20-REV.11.9!22" type="Over-encoding" label="" verse="REV 11:9" >τὰ πτώματα αὐτῶν</reference>
-		<reference osisRef="REV.13.2!2-REV.13.2!5" type="Over-encoding" label="" verse="REV 13:2" >τὸ θηρίον ὃ εἶδον</reference>
-		<reference osisRef="REV.13.15!24-REV.13.15!27" type="Over-encoding" label="" verse="REV 13:15" >τῇ εἰκόνι τοῦ θηρίου</reference>
-		<reference osisRef="REV.14.2!17-REV.14.2!20" type="Over-encoding" label="" verse="REV 14:2" >ἡ φωνὴ ἣν ἤκουσα</reference>
-		<reference osisRef="REV.14.16!3-REV.14.16!7" type="Over-encoding" label="" verse="REV 14:16" >ὁ καθήμενος ἐπὶ τῆς νεφέλης</reference>
-		<reference osisRef="REV.14.19!3-REV.14.19!4" type="Over-encoding" label="" verse="REV 14:19" >ὁ ἄγγελος</reference>
-		<reference osisRef="REV.15.3!25-REV.15.3!26" type="Over-encoding" label="" verse="REV 15:3" >ὁ παντοκράτωρ</reference>
-		<reference osisRef="REV.15.7!19-REV.15.7!25" type="Over-encoding" label="" verse="REV 15:7" >τοῦ ζῶντος εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
-		<reference osisRef="REV.16.7!10-REV.16.7!11" type="Over-encoding" label="" verse="REV 16:7" >ὁ παντοκράτωρ</reference>
-		<reference osisRef="REV.16.21!15-REV.16.21!16" type="Over-encoding" label="" verse="REV 16:21" >οἱ ἄνθρωποι</reference>
-		<reference osisRef="REV.18.15!4-REV.18.15!7" type="Over-encoding" label="" verse="REV 18:15" >οἱ πλουτήσαντες ἀπ’ αὐτῆς</reference>
-		<reference osisRef="REV.19.4!16-REV.19.4!20" type="Over-encoding" label="" verse="REV 19:4" >τῷ καθημένῳ ἐπὶ τῷ θρόνῳ</reference>
-		<reference osisRef="REV.20.2!5-REV.20.2!8" type="Over-encoding" label="" verse="REV 20:2" >ὁ ὄφις ὁ ἀρχαῖος</reference>
-		<reference osisRef="REV.20.10!4-REV.20.10!6" type="Over-encoding" label="" verse="REV 20:10" >ὁ πλανῶν αὐτοὺς</reference>
-		<reference osisRef="REV.20.12!5-REV.20.12!9" type="Over-encoding" label="" verse="REV 20:12" >τοὺς μεγάλους καὶ τοὺς μικρούς</reference>
-		<reference osisRef="REV.21.22!12-REV.21.22!13" type="Over-encoding" label="" verse="REV 21:22" >ὁ παντοκράτωρ</reference>
-		<reference osisRef="REV.22.6!15-REV.22.6!18" type="Over-encoding" label="" verse="REV 22:6" >τῶν πνευμάτων τῶν προφητῶν</reference>
+		<reference osisRef="Matt.1.19!3-Matt.1.19!5" type="Over-encoding" label="" verse="Matt 1:19" >ὁ ἀνὴρ αὐτῆς</reference>
+		<reference osisRef="Matt.1.24!3-Matt.1.24!4" type="Over-encoding" label="" verse="Matt 1:24" >ὁ ἰωσὴφ</reference>
+		<reference osisRef="Matt.2.7!2" type="Over-encoding" label="" verse="Matt 2:7" >ἡρῴδης</reference>
+		<reference osisRef="Matt.3.14!1" type="Over-encoding" label="" verse="Matt 3:14" >ὁ</reference>
+		<reference osisRef="Matt.3.14!3" type="Over-encoding" label="" verse="Matt 3:14" >ἰωάννης</reference>
+		<reference osisRef="Matt.3.15!3-Matt.3.15!4" type="Over-encoding" label="" verse="Matt 3:15" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.3.16!3-Matt.3.16!4" type="Over-encoding" label="" verse="Matt 3:16" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.4.5!4-Matt.4.5!5" type="Over-encoding" label="" verse="Matt 4:5" >ὁ διάβολος</reference>
+		<reference osisRef="Matt.4.7!3-Matt.4.7!4" type="Over-encoding" label="" verse="Matt 4:7" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.4.8!4-Matt.4.8!5" type="Over-encoding" label="" verse="Matt 4:8" >ὁ διάβολος</reference>
+		<reference osisRef="Matt.4.10!4-Matt.4.10!5" type="Over-encoding" label="" verse="Matt 4:10" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.4.11!4-Matt.4.11!5" type="Over-encoding" label="" verse="Matt 4:11" >ὁ διάβολος</reference>
+		<reference osisRef="Matt.4.17!4-Matt.4.17!5" type="Over-encoding" label="" verse="Matt 4:17" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.5.25!18-Matt.5.25!19" type="Over-encoding" label="" verse="Matt 5:25" >ὁ ἀντίδικος</reference>
+		<reference osisRef="Matt.5.48!3" type="Over-encoding" label="" verse="Matt 5:48" >ὑμεῖς</reference>
+		<reference osisRef="Matt.6.6!24-Matt.6.6!26" type="Over-encoding" label="" verse="Matt 6:6" >ὁ πατήρ σου</reference>
+		<reference osisRef="Matt.6.6!27-Matt.6.6!31" type="Over-encoding" label="" verse="Matt 6:6" >ὁ βλέπων ἐν τῷ κρυπτῷ</reference>
+		<reference osisRef="Matt.6.9!4" type="Over-encoding" label="" verse="Matt 6:9" >ὑμεῖς</reference>
+		<reference osisRef="Matt.6.18!16-Matt.6.18!18" type="Over-encoding" label="" verse="Matt 6:18" >ὁ πατήρ σου</reference>
+		<reference osisRef="Matt.6.18!19-Matt.6.18!23" type="Over-encoding" label="" verse="Matt 6:18" >ὁ βλέπων ἐν τῷ κρυφαίῳ</reference>
+		<reference osisRef="Matt.7.28!5-Matt.7.28!6" type="Over-encoding" label="" verse="Matt 7:28" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.8.8!3-Matt.8.8!4" type="Over-encoding" label="" verse="Matt 8:8" >ὁ ἑκατόνταρχος</reference>
+		<reference osisRef="Matt.8.10!3-Matt.8.10!4" type="Over-encoding" label="" verse="Matt 8:10" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.8.13!3-Matt.8.13!4" type="Over-encoding" label="" verse="Matt 8:13" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.8.18!3-Matt.8.18!4" type="Over-encoding" label="" verse="Matt 8:18" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.8.20!4-Matt.8.20!5" type="Over-encoding" label="" verse="Matt 8:20" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.8.22!1" type="Over-encoding" label="" verse="Matt 8:22" >ὁ</reference>
+		<reference osisRef="Matt.8.22!3" type="Over-encoding" label="" verse="Matt 8:22" >ἰησοῦς</reference>
+		<reference osisRef="Matt.9.2!11-Matt.9.2!12" type="Over-encoding" label="" verse="Matt 9:2" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.9.10!16-Matt.9.10!17" type="Over-encoding" label="" verse="Matt 9:10" >τῷ ἰησοῦ</reference>
+		<reference osisRef="Matt.9.15!4-Matt.9.15!5" type="Over-encoding" label="" verse="Matt 9:15" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.9.19!3-Matt.9.19!4" type="Over-encoding" label="" verse="Matt 9:19" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.9.22!1" type="Over-encoding" label="" verse="Matt 9:22" >ὁ</reference>
+		<reference osisRef="Matt.9.22!3" type="Over-encoding" label="" verse="Matt 9:22" >ἰησοῦς</reference>
+		<reference osisRef="Matt.9.25!4-Matt.9.25!5" type="Over-encoding" label="" verse="Matt 9:25" >ὁ ὄχλος</reference>
+		<reference osisRef="Matt.9.25!13-Matt.9.25!14" type="Over-encoding" label="" verse="Matt 9:25" >τὸ κοράσιον</reference>
+		<reference osisRef="Matt.9.27!4-Matt.9.27!5" type="Over-encoding" label="" verse="Matt 9:27" >τῷ ἰησοῦ</reference>
+		<reference osisRef="Matt.9.28!13-Matt.9.28!14" type="Over-encoding" label="" verse="Matt 9:28" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.9.30!9-Matt.9.30!10" type="Over-encoding" label="" verse="Matt 9:30" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.9.35!3-Matt.9.35!4" type="Over-encoding" label="" verse="Matt 9:35" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.10.5!5-Matt.10.5!6" type="Over-encoding" label="" verse="Matt 10:5" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.11.1!5-Matt.11.1!6" type="Over-encoding" label="" verse="Matt 11:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.11.4!3-Matt.11.4!4" type="Over-encoding" label="" verse="Matt 11:4" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.11.7!5-Matt.11.7!6" type="Over-encoding" label="" verse="Matt 11:7" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.11.25!6-Matt.11.25!7" type="Over-encoding" label="" verse="Matt 11:25" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.12.1!6-Matt.12.1!7" type="Over-encoding" label="" verse="Matt 12:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.12.15!1" type="Over-encoding" label="" verse="Matt 12:15" >ὁ</reference>
+		<reference osisRef="Matt.12.15!3" type="Over-encoding" label="" verse="Matt 12:15" >ἰησοῦς</reference>
+		<reference osisRef="Matt.12.22!12-Matt.12.22!13" type="Over-encoding" label="" verse="Matt 12:22" >τὸν κωφὸν</reference>
+		<reference osisRef="Matt.13.1!6-Matt.13.1!7" type="Over-encoding" label="" verse="Matt 13:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.13.18!1" type="Over-encoding" label="" verse="Matt 13:18" >ὑμεῖς</reference>
+		<reference osisRef="Matt.13.28!9" type="Over-encoding" label="" verse="Matt 13:28" >οἱ</reference>
+		<reference osisRef="Matt.13.28!11" type="Over-encoding" label="" verse="Matt 13:28" >δοῦλοι</reference>
+		<reference osisRef="Matt.13.30!10-Matt.13.30!11" type="Over-encoding" label="" verse="Matt 13:30" >τοῦ θερισμοῦ</reference>
+		<reference osisRef="Matt.13.34!4-Matt.13.34!5" type="Over-encoding" label="" verse="Matt 13:34" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.13.53!5-Matt.13.53!6" type="Over-encoding" label="" verse="Matt 13:53" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.13.57!5" type="Over-encoding" label="" verse="Matt 13:57" >ὁ</reference>
+		<reference osisRef="Matt.13.57!7" type="Over-encoding" label="" verse="Matt 13:57" >ἰησοῦς</reference>
+		<reference osisRef="Matt.14.13!3-Matt.14.13!4" type="Over-encoding" label="" verse="Matt 14:13" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.14.16!3" type="Over-encoding" label="" verse="Matt 14:16" >ἰησοῦς</reference>
+		<reference osisRef="Matt.14.27!4-Matt.14.27!5" type="Over-encoding" label="" verse="Matt 14:27" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.14.29!10-Matt.14.29!11" type="Over-encoding" label="" verse="Matt 14:29" >ὁ πέτρος</reference>
+		<reference osisRef="Matt.14.31!3-Matt.14.31!4" type="Over-encoding" label="" verse="Matt 14:31" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.15.1!3-Matt.15.1!4" type="Over-encoding" label="" verse="Matt 15:1" >τῷ ἰησοῦ</reference>
+		<reference osisRef="Matt.15.21!4-Matt.15.21!5" type="Over-encoding" label="" verse="Matt 15:21" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.15.28!3-Matt.15.28!4" type="Over-encoding" label="" verse="Matt 15:28" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.15.34!4-Matt.15.34!5" type="Over-encoding" label="" verse="Matt 15:34" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.16.13!3-Matt.16.13!4" type="Over-encoding" label="" verse="Matt 16:13" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.16.17!3-Matt.16.17!4" type="Over-encoding" label="" verse="Matt 16:17" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.16.21!4-Matt.16.21!5" type="Over-encoding" label="" verse="Matt 16:21" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.16.23!5-Matt.16.23!6" type="Over-encoding" label="" verse="Matt 16:23" >τῷ πέτρῳ</reference>
+		<reference osisRef="Matt.16.24!2-Matt.16.24!3" type="Over-encoding" label="" verse="Matt 16:24" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.17.1!6-Matt.17.1!7" type="Over-encoding" label="" verse="Matt 17:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.17.9!9-Matt.17.9!10" type="Over-encoding" label="" verse="Matt 17:9" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.17.17!3-Matt.17.17!4" type="Over-encoding" label="" verse="Matt 17:17" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.17.18!4-Matt.17.18!5" type="Over-encoding" label="" verse="Matt 17:18" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.17.22!9-Matt.17.22!10" type="Over-encoding" label="" verse="Matt 17:22" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.17.26!8-Matt.17.26!9" type="Over-encoding" label="" verse="Matt 17:26" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.18.22!3-Matt.18.22!4" type="Over-encoding" label="" verse="Matt 18:22" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.18.26!3-Matt.18.26!4" type="Over-encoding" label="" verse="Matt 18:26" >ὁ δοῦλος</reference>
+		<reference osisRef="Matt.18.27!3-Matt.18.27!7" type="Over-encoding" label="" verse="Matt 18:27" >ὁ κύριος τοῦ δούλου ἐκείνου</reference>
+		<reference osisRef="Matt.18.29!3-Matt.18.29!5" type="Over-encoding" label="" verse="Matt 18:29" >ὁ σύνδουλος αὐτοῦ</reference>
+		<reference osisRef="Matt.18.34!3-Matt.18.34!5" type="Over-encoding" label="" verse="Matt 18:34" >ὁ κύριος αὐτοῦ</reference>
+		<reference osisRef="Matt.19.1!5-Matt.19.1!6" type="Over-encoding" label="" verse="Matt 19:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.19.8!4" type="Over-encoding" label="" verse="Matt 19:8" >μωϋσῆς</reference>
+		<reference osisRef="Matt.19.18!4" type="Over-encoding" label="" verse="Matt 19:18" >ὁ</reference>
+		<reference osisRef="Matt.19.18!6" type="Over-encoding" label="" verse="Matt 19:18" >ἰησοῦς</reference>
+		<reference osisRef="Matt.19.20!3-Matt.19.20!4" type="Over-encoding" label="" verse="Matt 19:20" >ὁ νεανίσκος</reference>
+		<reference osisRef="Matt.19.21!3-Matt.19.21!4" type="Over-encoding" label="" verse="Matt 19:21" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.19.22!3-Matt.19.22!4" type="Over-encoding" label="" verse="Matt 19:22" >ὁ νεανίσκος</reference>
+		<reference osisRef="Matt.19.25!3-Matt.19.25!4" type="Over-encoding" label="" verse="Matt 19:25" >οἱ μαθηταὶ</reference>
+		<reference osisRef="Matt.19.26!3-Matt.19.26!4" type="Over-encoding" label="" verse="Matt 19:26" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.19.28!1" type="Over-encoding" label="" verse="Matt 19:28" >ὁ</reference>
+		<reference osisRef="Matt.19.28!3" type="Over-encoding" label="" verse="Matt 19:28" >ἰησοῦς</reference>
+		<reference osisRef="Matt.20.17!3-Matt.20.17!4" type="Over-encoding" label="" verse="Matt 20:17" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.20.22!3-Matt.20.22!4" type="Over-encoding" label="" verse="Matt 20:22" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.20.34!3-Matt.20.34!4" type="Over-encoding" label="" verse="Matt 20:34" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.21.1!16" type="Over-encoding" label="" verse="Matt 21:1" >ἰησοῦς</reference>
+		<reference osisRef="Matt.21.12!3" type="Over-encoding" label="" verse="Matt 21:12" >ἰησοῦς</reference>
+		<reference osisRef="Matt.21.16!8" type="Over-encoding" label="" verse="Matt 21:16" >ὁ</reference>
+		<reference osisRef="Matt.21.16!10" type="Over-encoding" label="" verse="Matt 21:16" >ἰησοῦς</reference>
+		<reference osisRef="Matt.21.21!3-Matt.21.21!4" type="Over-encoding" label="" verse="Matt 21:21" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.21.24!3-Matt.21.24!4" type="Over-encoding" label="" verse="Matt 21:24" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.21.31!15-Matt.21.31!16" type="Over-encoding" label="" verse="Matt 21:31" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.21.42!3-Matt.21.42!4" type="Over-encoding" label="" verse="Matt 21:42" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.21.45!3-Matt.21.45!7" type="Over-encoding" label="" verse="Matt 21:45" >οἱ ἀρχιερεῖς καὶ οἱ φαρισαῖοι</reference>
+		<reference osisRef="Matt.22.1!3-Matt.22.1!4" type="Over-encoding" label="" verse="Matt 22:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.22.10!3-Matt.22.10!5" type="Over-encoding" label="" verse="Matt 22:10" >οἱ δοῦλοι ἐκεῖνοι</reference>
+		<reference osisRef="Matt.22.18!3-Matt.22.18!4" type="Over-encoding" label="" verse="Matt 22:18" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.22.29!3-Matt.22.29!4" type="Over-encoding" label="" verse="Matt 22:29" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.22.41!7-Matt.22.41!8" type="Over-encoding" label="" verse="Matt 22:41" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.23.1!2-Matt.23.1!3" type="Over-encoding" label="" verse="Matt 23:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.24.1!3-Matt.24.1!4" type="Over-encoding" label="" verse="Matt 24:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.24.4!3-Matt.24.4!4" type="Over-encoding" label="" verse="Matt 24:4" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.25.21!3-Matt.25.21!5" type="Over-encoding" label="" verse="Matt 25:21" >ὁ κύριος αὐτοῦ</reference>
+		<reference osisRef="Matt.25.23!3-Matt.25.23!5" type="Over-encoding" label="" verse="Matt 25:23" >ὁ κύριος αὐτοῦ</reference>
+		<reference osisRef="Matt.25.26!3-Matt.25.26!5" type="Over-encoding" label="" verse="Matt 25:26" >ὁ κύριος αὐτοῦ</reference>
+		<reference osisRef="Matt.25.34!3-Matt.25.34!4" type="Over-encoding" label="" verse="Matt 25:34" >ὁ βασιλεὺς</reference>
+		<reference osisRef="Matt.25.37!4-Matt.25.37!5" type="Over-encoding" label="" verse="Matt 25:37" >οἱ δίκαιοι</reference>
+		<reference osisRef="Matt.25.40!3-Matt.25.40!4" type="Over-encoding" label="" verse="Matt 25:40" >ὁ βασιλεὺς</reference>
+		<reference osisRef="Matt.25.44!3-Matt.25.44!4" type="Over-encoding" label="" verse="Matt 25:44" >καὶ αὐτοὶ</reference>
+		<reference osisRef="Matt.26.1!5-Matt.26.1!6" type="Over-encoding" label="" verse="Matt 26:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.26.19!3-Matt.26.19!4" type="Over-encoding" label="" verse="Matt 26:19" >οἱ μαθηταὶ</reference>
+		<reference osisRef="Matt.26.19!8-Matt.26.19!9" type="Over-encoding" label="" verse="Matt 26:19" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.26.24!18-Matt.26.24!21" type="Over-encoding" label="" verse="Matt 26:24" >ὁ υἱὸς τοῦ ἀνθρώπου</reference>
+		<reference osisRef="Matt.26.24!29-Matt.26.24!31" type="Over-encoding" label="" verse="Matt 26:24" >ὁ ἄνθρωπος ἐκεῖνος</reference>
+		<reference osisRef="Matt.26.26!5-Matt.26.26!6" type="Over-encoding" label="" verse="Matt 26:26" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.26.34!3-Matt.26.34!4" type="Over-encoding" label="" verse="Matt 26:34" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.26.35!3-Matt.26.35!4" type="Over-encoding" label="" verse="Matt 26:35" >ὁ πέτρος</reference>
+		<reference osisRef="Matt.26.50!1" type="Over-encoding" label="" verse="Matt 26:50" >ὁ</reference>
+		<reference osisRef="Matt.26.50!3" type="Over-encoding" label="" verse="Matt 26:50" >ἰησοῦς</reference>
+		<reference osisRef="Matt.26.50!15-Matt.26.50!17" type="Over-encoding" label="" verse="Matt 26:50" >ἐπὶ τὸν ἰησοῦν</reference>
+		<reference osisRef="Matt.26.55!6-Matt.26.55!7" type="Over-encoding" label="" verse="Matt 26:55" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.26.57!4-Matt.26.57!5" type="Over-encoding" label="" verse="Matt 26:57" >τὸν ἰησοῦν</reference>
+		<reference osisRef="Matt.26.63!1" type="Over-encoding" label="" verse="Matt 26:63" >ὁ</reference>
+		<reference osisRef="Matt.26.63!3" type="Over-encoding" label="" verse="Matt 26:63" >ἰησοῦς</reference>
+		<reference osisRef="Matt.26.64!3-Matt.26.64!4" type="Over-encoding" label="" verse="Matt 26:64" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.26.65!2-Matt.26.65!3" type="Over-encoding" label="" verse="Matt 26:65" >ὁ ἀρχιερεὺς</reference>
+		<reference osisRef="Matt.26.73!8-Matt.26.73!9" type="Over-encoding" label="" verse="Matt 26:73" >τῷ πέτρῳ</reference>
+		<reference osisRef="Matt.26.75!3-Matt.26.75!4" type="Over-encoding" label="" verse="Matt 26:75" >ὁ πέτρος</reference>
+		<reference osisRef="Matt.27.8!3-Matt.27.8!5" type="Over-encoding" label="" verse="Matt 27:8" >ὁ ἀγρὸς ἐκεῖνος</reference>
+		<reference osisRef="Matt.27.11!11-Matt.27.11!12" type="Over-encoding" label="" verse="Matt 27:11" >ὁ ἡγεμὼν</reference>
+		<reference osisRef="Matt.27.11!20" type="Over-encoding" label="" verse="Matt 27:11" >ὁ</reference>
+		<reference osisRef="Matt.27.11!22" type="Over-encoding" label="" verse="Matt 27:11" >ἰησοῦς</reference>
+		<reference osisRef="Matt.27.14!11-Matt.27.14!12" type="Over-encoding" label="" verse="Matt 27:14" >τὸν ἡγεμόνα</reference>
+		<reference osisRef="Matt.27.15!5-Matt.27.15!6" type="Over-encoding" label="" verse="Matt 27:15" >ὁ ἡγεμὼν</reference>
+		<reference osisRef="Matt.27.22!3-Matt.27.22!4" type="Over-encoding" label="" verse="Matt 27:22" >ὁ πιλᾶτος</reference>
+		<reference osisRef="Matt.27.24!3-Matt.27.24!4" type="Over-encoding" label="" verse="Matt 27:24" >ὁ πιλᾶτος</reference>
+		<reference osisRef="Matt.27.25!3-Matt.27.25!5" type="Over-encoding" label="" verse="Matt 27:25" >πᾶς ὁ λαὸς</reference>
+		<reference osisRef="Matt.27.27!7-Matt.27.27!8" type="Over-encoding" label="" verse="Matt 27:27" >τὸν ἰησοῦν</reference>
+		<reference osisRef="Matt.27.58!11-Matt.27.58!12" type="Over-encoding" label="" verse="Matt 27:58" >ὁ πιλᾶτος</reference>
+		<reference osisRef="Matt.27.65!3-Matt.27.65!4" type="Over-encoding" label="" verse="Matt 27:65" >ὁ πιλᾶτος</reference>
+		<reference osisRef="Matt.28.5!10" type="Over-encoding" label="" verse="Matt 28:5" >ὑμεῖς</reference>
+		<reference osisRef="Matt.28.10!4-Matt.28.10!5" type="Over-encoding" label="" verse="Matt 28:10" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Matt.28.18!3-Matt.28.18!4" type="Over-encoding" label="" verse="Matt 28:18" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.1.14!8-Mark.1.14!9" type="Over-encoding" label="" verse="Mark 1:14" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.1.17!4-Mark.1.17!5" type="Over-encoding" label="" verse="Mark 1:17" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.1.25!4-Mark.1.25!5" type="Over-encoding" label="" verse="Mark 1:25" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.2.19!4-Mark.2.19!5" type="Over-encoding" label="" verse="Mark 2:19" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.3.7!2-Mark.3.7!3" type="Over-encoding" label="" verse="Mark 3:7" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.3.24!10-Mark.3.24!12" type="Over-encoding" label="" verse="Mark 3:24" >ἡ βασιλεία ἐκείνη</reference>
+		<reference osisRef="Mark.3.25!9-Mark.3.25!11" type="Over-encoding" label="" verse="Mark 3:25" >ἡ οἰκία ἐκείνη</reference>
+		<reference osisRef="Mark.4.37!16-Mark.4.37!17" type="Over-encoding" label="" verse="Mark 4:37" >τὸ πλοῖον</reference>
+		<reference osisRef="Mark.5.13!6-Mark.5.13!9" type="Over-encoding" label="" verse="Mark 5:13" >τὰ πνεύματα τὰ ἀκάθαρτα</reference>
+		<reference osisRef="Mark.5.41!5-Mark.5.41!6" type="Over-encoding" label="" verse="Mark 5:41" >τοῦ παιδίου</reference>
+		<reference osisRef="Mark.5.42!4-Mark.5.42!5" type="Over-encoding" label="" verse="Mark 5:42" >τὸ κοράσιον</reference>
+		<reference osisRef="Mark.6.4!4-Mark.6.4!5" type="Over-encoding" label="" verse="Mark 6:4" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.6.17!3-Mark.6.17!4" type="Over-encoding" label="" verse="Mark 6:17" >ὁ ἡρῴδης</reference>
+		<reference osisRef="Mark.6.22!16-Mark.6.22!17" type="Over-encoding" label="" verse="Mark 6:22" >ὁ βασιλεὺς</reference>
+		<reference osisRef="Mark.6.22!18-Mark.6.22!19" type="Over-encoding" label="" verse="Mark 6:22" >τῷ κορασίῳ</reference>
+		<reference osisRef="Mark.6.26!4-Mark.6.26!5" type="Over-encoding" label="" verse="Mark 6:26" >ὁ βασιλεὺς</reference>
+		<reference osisRef="Mark.6.27!4-Mark.6.27!5" type="Over-encoding" label="" verse="Mark 6:27" >ὁ βασιλεὺς</reference>
+		<reference osisRef="Mark.6.28!14-Mark.6.28!15" type="Over-encoding" label="" verse="Mark 6:28" >τὸ κοράσιον</reference>
+		<reference osisRef="Mark.6.31!5-Mark.6.31!6" type="Over-encoding" label="" verse="Mark 6:31" >ὑμεῖς αὐτοὶ</reference>
+		<reference osisRef="Mark.7.5!4-Mark.7.5!8" type="Over-encoding" label="" verse="Mark 7:5" >οἱ φαρισαῖοι καὶ οἱ γραμματεῖς</reference>
+		<reference osisRef="Mark.8.4!4-Mark.8.4!6" type="Over-encoding" label="" verse="Mark 8:4" >οἱ μαθηταὶ αὐτοῦ</reference>
+		<reference osisRef="Mark.8.12!18-Mark.8.12!20" type="Over-encoding" label="" verse="Mark 8:12" >τῇ γενεᾷ ταύτῃ</reference>
+		<reference osisRef="Mark.8.23!5-Mark.8.23!6" type="Over-encoding" label="" verse="Mark 8:23" >τοῦ τυφλοῦ</reference>
+		<reference osisRef="Mark.8.27!3-Mark.8.27!4" type="Over-encoding" label="" verse="Mark 8:27" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.8.27!20-Mark.8.27!22" type="Over-encoding" label="" verse="Mark 8:27" >τοὺς μαθητὰς αὐτοῦ</reference>
+		<reference osisRef="Mark.9.2!6-Mark.9.2!7" type="Over-encoding" label="" verse="Mark 9:2" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.9.23!1" type="Over-encoding" label="" verse="Mark 9:23" >ὁ</reference>
+		<reference osisRef="Mark.9.23!3" type="Over-encoding" label="" verse="Mark 9:23" >ἰησοῦς</reference>
+		<reference osisRef="Mark.9.24!3-Mark.9.24!6" type="Over-encoding" label="" verse="Mark 9:24" >ὁ πατὴρ τοῦ παιδίου</reference>
+		<reference osisRef="Mark.9.25!3-Mark.9.25!4" type="Over-encoding" label="" verse="Mark 9:25" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.9.39!1" type="Over-encoding" label="" verse="Mark 9:39" >ὁ</reference>
+		<reference osisRef="Mark.9.39!3" type="Over-encoding" label="" verse="Mark 9:39" >ἰησοῦς</reference>
+		<reference osisRef="Mark.10.4!5" type="Over-encoding" label="" verse="Mark 10:4" >μωϋσῆς</reference>
+		<reference osisRef="Mark.10.5!1" type="Over-encoding" label="" verse="Mark 10:5" >ὁ</reference>
+		<reference osisRef="Mark.10.5!3" type="Over-encoding" label="" verse="Mark 10:5" >ἰησοῦς</reference>
+		<reference osisRef="Mark.10.14!3-Mark.10.14!4" type="Over-encoding" label="" verse="Mark 10:14" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.10.18!1" type="Over-encoding" label="" verse="Mark 10:18" >ὁ</reference>
+		<reference osisRef="Mark.10.18!3" type="Over-encoding" label="" verse="Mark 10:18" >ἰησοῦς</reference>
+		<reference osisRef="Mark.10.21!1" type="Over-encoding" label="" verse="Mark 10:21" >ὁ</reference>
+		<reference osisRef="Mark.10.21!3" type="Over-encoding" label="" verse="Mark 10:21" >ἰησοῦς</reference>
+		<reference osisRef="Mark.10.24!1" type="Over-encoding" label="" verse="Mark 10:24" >οἱ</reference>
+		<reference osisRef="Mark.10.24!3" type="Over-encoding" label="" verse="Mark 10:24" >μαθηταὶ</reference>
+		<reference osisRef="Mark.10.24!9" type="Over-encoding" label="" verse="Mark 10:24" >ὁ</reference>
+		<reference osisRef="Mark.10.24!11" type="Over-encoding" label="" verse="Mark 10:24" >ἰησοῦς</reference>
+		<reference osisRef="Mark.10.27!3-Mark.10.27!4" type="Over-encoding" label="" verse="Mark 10:27" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.10.29!2-Mark.10.29!3" type="Over-encoding" label="" verse="Mark 10:29" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.10.38!1" type="Over-encoding" label="" verse="Mark 10:38" >ὁ</reference>
+		<reference osisRef="Mark.10.38!3" type="Over-encoding" label="" verse="Mark 10:38" >ἰησοῦς</reference>
+		<reference osisRef="Mark.10.39!6" type="Over-encoding" label="" verse="Mark 10:39" >ὁ</reference>
+		<reference osisRef="Mark.10.39!8" type="Over-encoding" label="" verse="Mark 10:39" >ἰησοῦς</reference>
+		<reference osisRef="Mark.10.49!10-Mark.10.49!11" type="Over-encoding" label="" verse="Mark 10:49" >τὸν τυφλὸν</reference>
+		<reference osisRef="Mark.10.51!4-Mark.10.51!5" type="Over-encoding" label="" verse="Mark 10:51" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.10.51!11" type="Over-encoding" label="" verse="Mark 10:51" >ὁ</reference>
+		<reference osisRef="Mark.10.51!13" type="Over-encoding" label="" verse="Mark 10:51" >τυφλὸς</reference>
+		<reference osisRef="Mark.10.52!2-Mark.10.52!3" type="Over-encoding" label="" verse="Mark 10:52" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.11.22!3-Mark.11.22!4" type="Over-encoding" label="" verse="Mark 11:22" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.11.29!1" type="Over-encoding" label="" verse="Mark 11:29" >ὁ</reference>
+		<reference osisRef="Mark.11.29!3" type="Over-encoding" label="" verse="Mark 11:29" >ἰησοῦς</reference>
+		<reference osisRef="Mark.11.33!9-Mark.11.33!10" type="Over-encoding" label="" verse="Mark 11:33" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.12.2!10-Mark.12.2!12" type="Over-encoding" label="" verse="Mark 12:2" >παρὰ τῶν γεωργῶν</reference>
+		<reference osisRef="Mark.12.7!1" type="Over-encoding" label="" verse="Mark 12:7" >ἐκεῖνοι</reference>
+		<reference osisRef="Mark.12.7!3-Mark.12.7!4" type="Over-encoding" label="" verse="Mark 12:7" >οἱ γεωργοὶ</reference>
+		<reference osisRef="Mark.12.17!1" type="Over-encoding" label="" verse="Mark 12:17" >ὁ</reference>
+		<reference osisRef="Mark.12.17!3" type="Over-encoding" label="" verse="Mark 12:17" >ἰησοῦς</reference>
+		<reference osisRef="Mark.12.24!3-Mark.12.24!4" type="Over-encoding" label="" verse="Mark 12:24" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.12.29!2-Mark.12.29!3" type="Over-encoding" label="" verse="Mark 12:29" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.12.32!4-Mark.12.32!5" type="Over-encoding" label="" verse="Mark 12:32" >ὁ γραμματεύς</reference>
+		<reference osisRef="Mark.12.34!2-Mark.12.34!3" type="Over-encoding" label="" verse="Mark 12:34" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.12.35!3-Mark.12.35!4" type="Over-encoding" label="" verse="Mark 12:35" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.13.2!2-Mark.13.2!3" type="Over-encoding" label="" verse="Mark 13:2" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.13.5!1" type="Over-encoding" label="" verse="Mark 13:5" >ὁ</reference>
+		<reference osisRef="Mark.13.5!3" type="Over-encoding" label="" verse="Mark 13:5" >ἰησοῦς</reference>
+		<reference osisRef="Mark.13.9!3" type="Over-encoding" label="" verse="Mark 13:9" >ὑμεῖς</reference>
+		<reference osisRef="Mark.14.10!4-Mark.14.10!7" type="Over-encoding" label="" verse="Mark 14:10" >ὁ εἷς τῶν δώδεκα</reference>
+		<reference osisRef="Mark.14.18!6-Mark.14.18!7" type="Over-encoding" label="" verse="Mark 14:18" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.14.21!19-Mark.14.21!22" type="Over-encoding" label="" verse="Mark 14:21" >ὁ υἱὸς τοῦ ἀνθρώπου</reference>
+		<reference osisRef="Mark.14.21!29-Mark.14.21!31" type="Over-encoding" label="" verse="Mark 14:21" >ὁ ἄνθρωπος ἐκεῖνος</reference>
+		<reference osisRef="Mark.14.27!4-Mark.14.27!5" type="Over-encoding" label="" verse="Mark 14:27" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.14.30!4-Mark.14.30!5" type="Over-encoding" label="" verse="Mark 14:30" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Mark.14.44!3-Mark.14.44!5" type="Over-encoding" label="" verse="Mark 14:44" >ὁ παραδιδοὺς αὐτὸν</reference>
+		<reference osisRef="Mark.14.62!1" type="Over-encoding" label="" verse="Mark 14:62" >ὁ</reference>
+		<reference osisRef="Mark.14.62!3" type="Over-encoding" label="" verse="Mark 14:62" >ἰησοῦς</reference>
+		<reference osisRef="Mark.14.63!1" type="Over-encoding" label="" verse="Mark 14:63" >ὁ</reference>
+		<reference osisRef="Mark.14.63!3" type="Over-encoding" label="" verse="Mark 14:63" >ἀρχιερεὺς</reference>
+		<reference osisRef="Mark.14.67!3-Mark.14.67!4" type="Over-encoding" label="" verse="Mark 14:67" >τὸν πέτρον</reference>
+		<reference osisRef="Mark.14.70!12-Mark.14.70!13" type="Over-encoding" label="" verse="Mark 14:70" >τῷ πέτρῳ</reference>
+		<reference osisRef="Mark.14.72!9-Mark.14.72!10" type="Over-encoding" label="" verse="Mark 14:72" >ὁ πέτρος</reference>
+		<reference osisRef="Mark.15.2!4-Mark.15.2!5" type="Over-encoding" label="" verse="Mark 15:2" >ὁ πιλᾶτος</reference>
+		<reference osisRef="Mark.15.5!1" type="Over-encoding" label="" verse="Mark 15:5" >ὁ</reference>
+		<reference osisRef="Mark.15.5!3" type="Over-encoding" label="" verse="Mark 15:5" >ἰησοῦς</reference>
+		<reference osisRef="Mark.15.9!1" type="Over-encoding" label="" verse="Mark 15:9" >ὁ</reference>
+		<reference osisRef="Mark.15.9!3" type="Over-encoding" label="" verse="Mark 15:9" >πιλᾶτος</reference>
+		<reference osisRef="Mark.15.14!1" type="Over-encoding" label="" verse="Mark 15:14" >ὁ</reference>
+		<reference osisRef="Mark.15.14!3" type="Over-encoding" label="" verse="Mark 15:14" >πιλᾶτος</reference>
+		<reference osisRef="Mark.15.15!1" type="Over-encoding" label="" verse="Mark 15:15" >ὁ</reference>
+		<reference osisRef="Mark.15.15!3" type="Over-encoding" label="" verse="Mark 15:15" >πιλᾶτος</reference>
+		<reference osisRef="Mark.15.37!1" type="Over-encoding" label="" verse="Mark 15:37" >ὁ</reference>
+		<reference osisRef="Mark.15.37!3" type="Over-encoding" label="" verse="Mark 15:37" >ἰησοῦς</reference>
+		<reference osisRef="Mark.15.44!1" type="Over-encoding" label="" verse="Mark 15:44" >ὁ</reference>
+		<reference osisRef="Mark.15.44!3" type="Over-encoding" label="" verse="Mark 15:44" >πιλᾶτος</reference>
+		<reference osisRef="Mark.15.45!3-Mark.15.45!5" type="Over-encoding" label="" verse="Mark 15:45" >ἀπὸ τοῦ κεντυρίωνος</reference>
+		<reference osisRef="Mark.16.1!5-Mark.16.1!12" type="Over-encoding" label="" verse="Mark 16:1" >μαρία ἡ μαγδαληνὴ καὶ μαρία ἡ τοῦ ἰακώβου</reference>
+		<reference osisRef="Mark.16.19!1" type="Over-encoding" label="" verse="Mark 16:19" >ὁ</reference>
+		<reference osisRef="Mark.16.19!4-Mark.16.19!5" type="Over-encoding" label="" verse="Mark 16:19" >κύριος ἰησοῦς</reference>
+		<reference osisRef="Luke.1.18!3" type="Over-encoding" label="" verse="Luke 1:18" >ζαχαρίας</reference>
+		<reference osisRef="Luke.1.18!4-Luke.1.18!6" type="Over-encoding" label="" verse="Luke 1:18" >πρὸς τὸν ἄγγελον</reference>
+		<reference osisRef="Luke.1.19!3-Luke.1.19!4" type="Over-encoding" label="" verse="Luke 1:19" >ὁ ἄγγελος</reference>
+		<reference osisRef="Luke.1.34!3" type="Over-encoding" label="" verse="Luke 1:34" >μαριὰμ</reference>
+		<reference osisRef="Luke.1.34!4-Luke.1.34!6" type="Over-encoding" label="" verse="Luke 1:34" >πρὸς τὸν ἄγγελον</reference>
+		<reference osisRef="Luke.1.35!3-Luke.1.35!4" type="Over-encoding" label="" verse="Luke 1:35" >ὁ ἄγγελος</reference>
+		<reference osisRef="Luke.1.38!3" type="Over-encoding" label="" verse="Luke 1:38" >μαριάμ</reference>
+		<reference osisRef="Luke.1.38!18-Luke.1.38!19" type="Over-encoding" label="" verse="Luke 1:38" >ὁ ἄγγελος</reference>
+		<reference osisRef="Luke.1.41!5-Luke.1.41!8" type="Over-encoding" label="" verse="Luke 1:41" >τὸν ἀσπασμὸν τῆς μαρίας</reference>
+		<reference osisRef="Luke.1.41!9-Luke.1.41!10" type="Over-encoding" label="" verse="Luke 1:41" >ἡ ἐλισάβετ</reference>
+		<reference osisRef="Luke.1.47!9-Luke.1.47!11" type="Over-encoding" label="" verse="Luke 1:47" >τῷ σωτῆρί μου</reference>
+		<reference osisRef="Luke.1.67!3-Luke.1.67!5" type="Over-encoding" label="" verse="Luke 1:67" >ὁ πατὴρ αὐτοῦ</reference>
+		<reference osisRef="Luke.2.25!11-Luke.2.25!12" type="Over-encoding" label="" verse="Luke 2:25" >ὁ ἄνθρωπος</reference>
+		<reference osisRef="Luke.3.16!4-Luke.3.16!5" type="Over-encoding" label="" verse="Luke 3:16" >ὁ ἰωάννης</reference>
+		<reference osisRef="Luke.3.19!22-Luke.3.19!23" type="Over-encoding" label="" verse="Luke 3:19" >ὁ ἡρῴδης</reference>
+		<reference osisRef="Luke.4.1!1" type="Over-encoding" label="" verse="Luke 4:1" >ἰησοῦς</reference>
+		<reference osisRef="Luke.4.4!5-Luke.4.4!6" type="Over-encoding" label="" verse="Luke 4:4" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.4.6!4-Luke.4.6!5" type="Over-encoding" label="" verse="Luke 4:6" >ὁ διάβολος</reference>
+		<reference osisRef="Luke.4.8!3-Luke.4.8!4" type="Over-encoding" label="" verse="Luke 4:8" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.4.12!5-Luke.4.12!6" type="Over-encoding" label="" verse="Luke 4:12" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.4.13!5-Luke.4.13!6" type="Over-encoding" label="" verse="Luke 4:13" >ὁ διάβολος</reference>
+		<reference osisRef="Luke.4.14!3-Luke.4.14!4" type="Over-encoding" label="" verse="Luke 4:14" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.4.35!4-Luke.4.35!5" type="Over-encoding" label="" verse="Luke 4:35" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.4.35!15-Luke.4.35!16" type="Over-encoding" label="" verse="Luke 4:35" >τὸ δαιμόνιον</reference>
+		<reference osisRef="Luke.5.5!3" type="Over-encoding" label="" verse="Luke 5:5" >σίμων</reference>
+		<reference osisRef="Luke.5.34!1" type="Over-encoding" label="" verse="Luke 5:34" >ὁ</reference>
+		<reference osisRef="Luke.5.34!3" type="Over-encoding" label="" verse="Luke 5:34" >ἰησοῦς</reference>
+		<reference osisRef="Luke.7.6!1" type="Over-encoding" label="" verse="Luke 7:6" >ὁ</reference>
+		<reference osisRef="Luke.7.6!3" type="Over-encoding" label="" verse="Luke 7:6" >ἰησοῦς</reference>
+		<reference osisRef="Luke.7.9!4-Luke.7.9!5" type="Over-encoding" label="" verse="Luke 7:9" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.7.15!3-Luke.7.15!4" type="Over-encoding" label="" verse="Luke 7:15" >ὁ νεκρὸς</reference>
+		<reference osisRef="Luke.7.18!17-Luke.7.18!18" type="Over-encoding" label="" verse="Luke 7:18" >ὁ ἰωάννης</reference>
+		<reference osisRef="Luke.7.24!11-Luke.7.24!12" type="Over-encoding" label="" verse="Luke 7:24" >περὶ ἰωάννου</reference>
+		<reference osisRef="Luke.7.36!16-Luke.7.36!17" type="Over-encoding" label="" verse="Luke 7:36" >τοῦ φαρισαίου</reference>
+		<reference osisRef="Luke.7.43!2" type="Over-encoding" label="" verse="Luke 7:43" >σίμων</reference>
+		<reference osisRef="Luke.8.33!3-Luke.8.33!4" type="Over-encoding" label="" verse="Luke 8:33" >τὰ δαιμόνια</reference>
+		<reference osisRef="Luke.8.46!1" type="Over-encoding" label="" verse="Luke 8:46" >ὁ</reference>
+		<reference osisRef="Luke.8.46!3" type="Over-encoding" label="" verse="Luke 8:46" >ἰησοῦς</reference>
+		<reference osisRef="Luke.9.41!3-Luke.9.41!4" type="Over-encoding" label="" verse="Luke 9:41" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.9.50!5-Luke.9.50!6" type="Over-encoding" label="" verse="Luke 9:50" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.9.58!4-Luke.9.58!5" type="Over-encoding" label="" verse="Luke 9:58" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.9.62!5-Luke.9.62!6" type="Over-encoding" label="" verse="Luke 9:62" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.10.1!5-Luke.10.1!6" type="Over-encoding" label="" verse="Luke 10:1" >ὁ κύριος</reference>
+		<reference osisRef="Luke.10.29!7-Luke.10.29!9" type="Over-encoding" label="" verse="Luke 10:29" >πρὸς τὸν ἰησοῦν</reference>
+		<reference osisRef="Luke.10.30!2-Luke.10.30!3" type="Over-encoding" label="" verse="Luke 10:30" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.10.37!13-Luke.10.37!14" type="Over-encoding" label="" verse="Luke 10:37" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.11.39!3-Luke.11.39!4" type="Over-encoding" label="" verse="Luke 11:39" >ὁ κύριος</reference>
+		<reference osisRef="Luke.12.42!3-Luke.12.42!4" type="Over-encoding" label="" verse="Luke 12:42" >ὁ κύριος</reference>
+		<reference osisRef="Luke.13.14!10-Luke.13.14!11" type="Over-encoding" label="" verse="Luke 13:14" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.14.3!3-Luke.14.3!4" type="Over-encoding" label="" verse="Luke 14:3" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.14.22!3-Luke.14.22!4" type="Over-encoding" label="" verse="Luke 14:22" >ὁ δοῦλος</reference>
+		<reference osisRef="Luke.14.23!3-Luke.14.23!4" type="Over-encoding" label="" verse="Luke 14:23" >ὁ κύριος</reference>
+		<reference osisRef="Luke.14.23!5-Luke.14.23!7" type="Over-encoding" label="" verse="Luke 14:23" >πρὸς τὸν δοῦλον</reference>
+		<reference osisRef="Luke.15.22!3-Luke.15.22!4" type="Over-encoding" label="" verse="Luke 15:22" >ὁ πατὴρ</reference>
+		<reference osisRef="Luke.15.30!7-Luke.15.30!13" type="Over-encoding" label="" verse="Luke 15:30" >ὁ καταφαγών σου τὸν βίον μετὰ πορνῶν</reference>
+		<reference osisRef="Luke.16.8!7-Luke.16.8!8" type="Over-encoding" label="" verse="Luke 16:8" >τῆς ἀδικίας</reference>
+		<reference osisRef="Luke.16.24!2" type="Over-encoding" label="" verse="Luke 16:24" >αὐτὸς</reference>
+		<reference osisRef="Luke.16.25!3" type="Over-encoding" label="" verse="Luke 16:25" >ἀβραάμ</reference>
+		<reference osisRef="Luke.16.29!3" type="Over-encoding" label="" verse="Luke 16:29" >ἀβραάμ</reference>
+		<reference osisRef="Luke.17.5!5-Luke.17.5!6" type="Over-encoding" label="" verse="Luke 17:5" >τῷ κυρίῳ</reference>
+		<reference osisRef="Luke.17.6!3-Luke.17.6!4" type="Over-encoding" label="" verse="Luke 17:6" >ὁ κύριος</reference>
+		<reference osisRef="Luke.17.17!3-Luke.17.17!4" type="Over-encoding" label="" verse="Luke 17:17" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.17.20!18-Luke.17.20!21" type="Over-encoding" label="" verse="Luke 17:20" >ἡ βασιλεία τοῦ θεοῦ</reference>
+		<reference osisRef="Luke.17.21!9-Luke.17.21!12" type="Over-encoding" label="" verse="Luke 17:21" >ἡ βασιλεία τοῦ θεοῦ</reference>
+		<reference osisRef="Luke.18.6!3-Luke.18.6!4" type="Over-encoding" label="" verse="Luke 18:6" >ὁ κύριος</reference>
+		<reference osisRef="Luke.18.6!9-Luke.18.6!10" type="Over-encoding" label="" verse="Luke 18:6" >τῆς ἀδικίας</reference>
+		<reference osisRef="Luke.18.19!4-Luke.18.19!5" type="Over-encoding" label="" verse="Luke 18:19" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.18.22!3-Luke.18.22!4" type="Over-encoding" label="" verse="Luke 18:22" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.18.42!2-Luke.18.42!3" type="Over-encoding" label="" verse="Luke 18:42" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.19.9!5-Luke.19.9!6" type="Over-encoding" label="" verse="Luke 19:9" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.19.27!6-Luke.19.27!12" type="Over-encoding" label="" verse="Luke 19:27" >τοὺς μὴ θελήσαντάς με βασιλεῦσαι ἐπ’ αὐτοὺς</reference>
+		<reference osisRef="Luke.19.32!3-Luke.19.32!4" type="Over-encoding" label="" verse="Luke 19:32" >οἱ ἀπεσταλμένοι</reference>
+		<reference osisRef="Luke.20.8!2-Luke.20.8!3" type="Over-encoding" label="" verse="Luke 20:8" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.20.10!16" type="Over-encoding" label="" verse="Luke 20:10" >οἱ</reference>
+		<reference osisRef="Luke.20.10!18" type="Over-encoding" label="" verse="Luke 20:10" >γεωργοὶ</reference>
+		<reference osisRef="Luke.20.13!3-Luke.20.13!6" type="Over-encoding" label="" verse="Luke 20:13" >ὁ κύριος τοῦ ἀμπελῶνος</reference>
+		<reference osisRef="Luke.20.13!13-Luke.20.13!14" type="Over-encoding" label="" verse="Luke 20:13" >τὸν ἀγαπητόν</reference>
+		<reference osisRef="Luke.20.16!4-Luke.20.16!6" type="Over-encoding" label="" verse="Luke 20:16" >τοὺς γεωργοὺς τούτους</reference>
+		<reference osisRef="Luke.20.34!4-Luke.20.34!5" type="Over-encoding" label="" verse="Luke 20:34" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Luke.20.44!1" type="Over-encoding" label="" verse="Luke 20:44" >δαυὶδ</reference>
+		<reference osisRef="Luke.22.41!2" type="Over-encoding" label="" verse="Luke 22:41" >αὐτὸς</reference>
+		<reference osisRef="Luke.22.47!10-Luke.22.47!12" type="Over-encoding" label="" verse="Luke 22:47" >εἷς τῶν δώδεκα</reference>
+		<reference osisRef="Luke.22.48!1" type="Over-encoding" label="" verse="Luke 22:48" >ἰησοῦς</reference>
+		<reference osisRef="Luke.22.52!3" type="Over-encoding" label="" verse="Luke 22:52" >ἰησοῦς</reference>
+		<reference osisRef="Luke.22.55!11-Luke.22.55!12" type="Over-encoding" label="" verse="Luke 22:55" >ὁ πέτρος</reference>
+		<reference osisRef="Luke.22.58!13" type="Over-encoding" label="" verse="Luke 22:58" >ὁ</reference>
+		<reference osisRef="Luke.22.58!15" type="Over-encoding" label="" verse="Luke 22:58" >πέτρος</reference>
+		<reference osisRef="Luke.22.60!3-Luke.22.60!4" type="Over-encoding" label="" verse="Luke 22:60" >ὁ πέτρος</reference>
+		<reference osisRef="Luke.22.61!10-Luke.22.61!11" type="Over-encoding" label="" verse="Luke 22:61" >ὁ πέτρος</reference>
+		<reference osisRef="Luke.23.6!1" type="Over-encoding" label="" verse="Luke 23:6" >πιλᾶτος</reference>
+		<reference osisRef="Luke.23.14!21-Luke.23.14!24" type="Over-encoding" label="" verse="Luke 23:14" >ἐν τῷ ἀνθρώπῳ τούτῳ</reference>
+		<reference osisRef="Luke.23.28!5-Luke.23.28!6" type="Over-encoding" label="" verse="Luke 23:28" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.1.1!7-John.1.1!8" type="Over-encoding" label="" verse="John 1:1" >ὁ λόγος</reference>
+		<reference osisRef="John.1.1!16-John.1.1!17" type="Over-encoding" label="" verse="John 1:1" >ὁ λόγος</reference>
+		<reference osisRef="John.1.2!1" type="Over-encoding" label="" verse="John 1:2" >οὗτος</reference>
+		<reference osisRef="John.1.7!1" type="Over-encoding" label="" verse="John 1:7" >οὗτος</reference>
+		<reference osisRef="John.1.10!12-John.1.10!13" type="Over-encoding" label="" verse="John 1:10" >ὁ κόσμος</reference>
+		<reference osisRef="John.1.26!3-John.1.26!4" type="Over-encoding" label="" verse="John 1:26" >ὁ ἰωάννης</reference>
+		<reference osisRef="John.1.32!3" type="Over-encoding" label="" verse="John 1:32" >ἰωάννης</reference>
+		<reference osisRef="John.1.35!5-John.1.35!6" type="Over-encoding" label="" verse="John 1:35" >ὁ ἰωάννης</reference>
+		<reference osisRef="John.1.38!3-John.1.38!4" type="Over-encoding" label="" verse="John 1:38" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.1.41!2" type="Over-encoding" label="" verse="John 1:41" >οὗτος</reference>
+		<reference osisRef="John.1.42!8-John.1.42!9" type="Over-encoding" label="" verse="John 1:42" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.1.43!14-John.1.43!15" type="Over-encoding" label="" verse="John 1:43" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.1.45!2" type="Over-encoding" label="" verse="John 1:45" >φίλιππος</reference>
+		<reference osisRef="John.1.46!4" type="Over-encoding" label="" verse="John 1:46" >ναθαναήλ</reference>
+		<reference osisRef="John.1.46!13-John.1.46!14" type="Over-encoding" label="" verse="John 1:46" >ὁ φίλιππος</reference>
+		<reference osisRef="John.1.48!3" type="Over-encoding" label="" verse="John 1:48" >ναθαναήλ</reference>
+		<reference osisRef="John.1.48!8" type="Over-encoding" label="" verse="John 1:48" >ἰησοῦς</reference>
+		<reference osisRef="John.1.49!3" type="Over-encoding" label="" verse="John 1:49" >ναθαναήλ</reference>
+		<reference osisRef="John.1.50!2" type="Over-encoding" label="" verse="John 1:50" >ἰησοῦς</reference>
+		<reference osisRef="John.2.4!4-John.2.4!5" type="Over-encoding" label="" verse="John 2:4" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.2.5!2-John.2.5!4" type="Over-encoding" label="" verse="John 2:5" >ἡ μήτηρ αὐτοῦ</reference>
+		<reference osisRef="John.2.9!4-John.2.9!5" type="Over-encoding" label="" verse="John 2:9" >ὁ ἀρχιτρίκλινος</reference>
+		<reference osisRef="John.2.9!26-John.2.9!27" type="Over-encoding" label="" verse="John 2:9" >ὁ ἀρχιτρίκλινος</reference>
+		<reference osisRef="John.2.19!2" type="Over-encoding" label="" verse="John 2:19" >ἰησοῦς</reference>
+		<reference osisRef="John.2.20!3-John.2.20!4" type="Over-encoding" label="" verse="John 2:20" >οἱ ἰουδαῖοι</reference>
+		<reference osisRef="John.3.3!2" type="Over-encoding" label="" verse="John 3:3" >ἰησοῦς</reference>
+		<reference osisRef="John.3.4!4-John.3.4!5" type="Over-encoding" label="" verse="John 3:4" >ὁ νικόδημος</reference>
+		<reference osisRef="John.3.5!2" type="Over-encoding" label="" verse="John 3:5" >ἰησοῦς</reference>
+		<reference osisRef="John.3.9!2" type="Over-encoding" label="" verse="John 3:9" >νικόδημος</reference>
+		<reference osisRef="John.3.10!2" type="Over-encoding" label="" verse="John 3:10" >ἰησοῦς</reference>
+		<reference osisRef="John.3.27!2" type="Over-encoding" label="" verse="John 3:27" >ἰωάννης</reference>
+		<reference osisRef="John.4.9!4-John.4.9!7" type="Over-encoding" label="" verse="John 4:9" >ἡ γυνὴ ἡ σαμαρῖτις</reference>
+		<reference osisRef="John.4.10!2" type="Over-encoding" label="" verse="John 4:10" >ἰησοῦς</reference>
+		<reference osisRef="John.4.11!3-John.4.11!4" type="Over-encoding" label="" verse="John 4:11" >ἡ γυνή</reference>
+		<reference osisRef="John.4.13!2" type="Over-encoding" label="" verse="John 4:13" >ἰησοῦς</reference>
+		<reference osisRef="John.4.14!19-John.4.14!23" type="Over-encoding" label="" verse="John 4:14" >τὸ ὕδωρ ὃ δώσω αὐτῷ</reference>
+		<reference osisRef="John.4.15!4-John.4.15!5" type="Over-encoding" label="" verse="John 4:15" >ἡ γυνή</reference>
+		<reference osisRef="John.4.17!2-John.4.17!3" type="Over-encoding" label="" verse="John 4:17" >ἡ γυνὴ</reference>
+		<reference osisRef="John.4.17!12-John.4.17!13" type="Over-encoding" label="" verse="John 4:17" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.4.19!3-John.4.19!4" type="Over-encoding" label="" verse="John 4:19" >ἡ γυνή</reference>
+		<reference osisRef="John.4.21!3-John.4.21!4" type="Over-encoding" label="" verse="John 4:21" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.4.25!3-John.4.25!4" type="Over-encoding" label="" verse="John 4:25" >ἡ γυνή</reference>
+		<reference osisRef="John.4.26!3-John.4.26!4" type="Over-encoding" label="" verse="John 4:26" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.4.33!3-John.4.33!4" type="Over-encoding" label="" verse="John 4:33" >οἱ μαθηταὶ</reference>
+		<reference osisRef="John.4.34!3-John.4.34!4" type="Over-encoding" label="" verse="John 4:34" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.4.48!3-John.4.48!4" type="Over-encoding" label="" verse="John 4:48" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.4.49!4-John.4.49!5" type="Over-encoding" label="" verse="John 4:49" >ὁ βασιλικός</reference>
+		<reference osisRef="John.4.50!3-John.4.50!4" type="Over-encoding" label="" verse="John 4:50" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.4.50!18-John.4.50!19" type="Over-encoding" label="" verse="John 4:50" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.5.7!3-John.5.7!4" type="Over-encoding" label="" verse="John 5:7" >ὁ ἀσθενῶν</reference>
+		<reference osisRef="John.5.8!3-John.5.8!4" type="Over-encoding" label="" verse="John 5:8" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.5.15!2-John.5.15!3" type="Over-encoding" label="" verse="John 5:15" >ὁ ἄνθρωπος</reference>
+		<reference osisRef="John.5.17!3" type="Over-encoding" label="" verse="John 5:17" >ἰησοῦς</reference>
+		<reference osisRef="John.5.32!14-John.5.32!17" type="Over-encoding" label="" verse="John 5:32" >ἣν μαρτυρεῖ περὶ ἐμοῦ</reference>
+		<reference osisRef="John.6.1!4-John.6.1!5" type="Over-encoding" label="" verse="John 6:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.6.7!3-John.6.7!4" type="Over-encoding" label="" verse="John 6:7" >ὁ φίλιππος</reference>
+		<reference osisRef="John.6.10!2-John.6.10!3" type="Over-encoding" label="" verse="John 6:10" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.6.24!16" type="Over-encoding" label="" verse="John 6:24" >αὐτοὶ</reference>
+		<reference osisRef="John.6.24!25-John.6.24!26" type="Over-encoding" label="" verse="John 6:24" >τὸν ἰησοῦν</reference>
+		<reference osisRef="John.6.26!3-John.6.26!4" type="Over-encoding" label="" verse="John 6:26" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.6.29!2-John.6.29!3" type="Over-encoding" label="" verse="John 6:29" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.6.32!4-John.6.32!5" type="Over-encoding" label="" verse="John 6:32" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.6.35!3-John.6.35!4" type="Over-encoding" label="" verse="John 6:35" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.6.64!13-John.6.64!14" type="Over-encoding" label="" verse="John 6:64" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.6.70!3-John.6.70!4" type="Over-encoding" label="" verse="John 6:70" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.7.6!4-John.7.6!5" type="Over-encoding" label="" verse="John 7:6" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.7.21!2" type="Over-encoding" label="" verse="John 7:21" >ἰησοῦς</reference>
+		<reference osisRef="John.7.46!2-John.7.46!3" type="Over-encoding" label="" verse="John 7:46" >οἱ ὑπηρέται</reference>
+		<reference osisRef="John.8.11!8-John.8.11!9" type="Over-encoding" label="" verse="John 8:11" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.8.12!5-John.8.12!6" type="Over-encoding" label="" verse="John 8:12" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.8.14!2" type="Over-encoding" label="" verse="John 8:14" >ἰησοῦς</reference>
+		<reference osisRef="John.8.19!10" type="Over-encoding" label="" verse="John 8:19" >ἰησοῦς</reference>
+		<reference osisRef="John.8.22!3-John.8.22!4" type="Over-encoding" label="" verse="John 8:22" >οἱ ἰουδαῖοι</reference>
+		<reference osisRef="John.8.25!9-John.8.25!10" type="Over-encoding" label="" verse="John 8:25" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.8.28!4-John.8.28!5" type="Over-encoding" label="" verse="John 8:28" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.8.34!3-John.8.34!4" type="Over-encoding" label="" verse="John 8:34" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.8.39!12-John.8.39!13" type="Over-encoding" label="" verse="John 8:39" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.8.42!3-John.8.42!4" type="Over-encoding" label="" verse="John 8:42" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.8.48!2-John.8.48!3" type="Over-encoding" label="" verse="John 8:48" >οἱ ἰουδαῖοι</reference>
+		<reference osisRef="John.8.49!2" type="Over-encoding" label="" verse="John 8:49" >ἰησοῦς</reference>
+		<reference osisRef="John.8.52!4-John.8.52!5" type="Over-encoding" label="" verse="John 8:52" >οἱ ἰουδαῖοι</reference>
+		<reference osisRef="John.8.54!2" type="Over-encoding" label="" verse="John 8:54" >ἰησοῦς</reference>
+		<reference osisRef="John.8.57!3-John.8.57!4" type="Over-encoding" label="" verse="John 8:57" >οἱ ἰουδαῖοι</reference>
+		<reference osisRef="John.8.58!3" type="Over-encoding" label="" verse="John 8:58" >ἰησοῦς</reference>
+		<reference osisRef="John.9.3!2" type="Over-encoding" label="" verse="John 9:3" >ἰησοῦς</reference>
+		<reference osisRef="John.9.11!2" type="Over-encoding" label="" verse="John 9:11" >ἐκεῖνος</reference>
+		<reference osisRef="John.9.20!3-John.9.20!5" type="Over-encoding" label="" verse="John 9:20" >οἱ γονεῖς αὐτοῦ</reference>
+		<reference osisRef="John.9.25!3" type="Over-encoding" label="" verse="John 9:25" >ἐκεῖνος</reference>
+		<reference osisRef="John.9.30!2-John.9.30!3" type="Over-encoding" label="" verse="John 9:30" >ὁ ἄνθρωπος</reference>
+		<reference osisRef="John.9.36!2" type="Over-encoding" label="" verse="John 9:36" >ἐκεῖνος</reference>
+		<reference osisRef="John.9.37!3-John.9.37!4" type="Over-encoding" label="" verse="John 9:37" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.9.39!3-John.9.39!4" type="Over-encoding" label="" verse="John 9:39" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.9.41!3-John.9.41!4" type="Over-encoding" label="" verse="John 9:41" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.10.4!10-John.10.4!11" type="Over-encoding" label="" verse="John 10:4" >τὰ πρόβατα</reference>
+		<reference osisRef="John.10.6!6-John.10.6!7" type="Over-encoding" label="" verse="John 10:6" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.10.7!4-John.10.7!5" type="Over-encoding" label="" verse="John 10:7" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.10.25!3-John.10.25!4" type="Over-encoding" label="" verse="John 10:25" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.10.31!4-John.10.31!5" type="Over-encoding" label="" verse="John 10:31" >οἱ ἰουδαῖοι</reference>
+		<reference osisRef="John.10.32!3-John.10.32!4" type="Over-encoding" label="" verse="John 10:32" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.10.33!3-John.10.33!4" type="Over-encoding" label="" verse="John 10:33" >οἱ ἰουδαῖοι</reference>
+		<reference osisRef="John.10.34!3-John.10.34!4" type="Over-encoding" label="" verse="John 10:34" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.10.41!18" type="Over-encoding" label="" verse="John 10:41" >ἰωάννης</reference>
+		<reference osisRef="John.11.4!3-John.11.4!4" type="Over-encoding" label="" verse="John 11:4" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.11.5!3-John.11.5!4" type="Over-encoding" label="" verse="John 11:5" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.11.8!3-John.11.8!4" type="Over-encoding" label="" verse="John 11:8" >οἱ μαθηταί</reference>
+		<reference osisRef="John.11.9!2" type="Over-encoding" label="" verse="John 11:9" >ἰησοῦς</reference>
+		<reference osisRef="John.11.12!3-John.11.12!5" type="Over-encoding" label="" verse="John 11:12" >οἱ μαθηταὶ αὐτῷ</reference>
+		<reference osisRef="John.11.13!3-John.11.13!4" type="Over-encoding" label="" verse="John 11:13" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.11.22!13-John.11.22!14" type="Over-encoding" label="" verse="John 11:22" >ὁ θεός</reference>
+		<reference osisRef="John.11.23!3-John.11.23!4" type="Over-encoding" label="" verse="John 11:23" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.11.24!3-John.11.24!4" type="Over-encoding" label="" verse="John 11:24" >ἡ μάρθα</reference>
+		<reference osisRef="John.11.25!3-John.11.25!4" type="Over-encoding" label="" verse="John 11:25" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.11.33!1" type="Over-encoding" label="" verse="John 11:33" >ἰησοῦς</reference>
+		<reference osisRef="John.11.35!2-John.11.35!3" type="Over-encoding" label="" verse="John 11:35" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.11.40!3-John.11.40!4" type="Over-encoding" label="" verse="John 11:40" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.11.44!2-John.11.44!3" type="Over-encoding" label="" verse="John 11:44" >ὁ τεθνηκὼς</reference>
+		<reference osisRef="John.12.1!1" type="Over-encoding" label="" verse="John 12:1" >ὁ</reference>
+		<reference osisRef="John.12.1!3" type="Over-encoding" label="" verse="John 12:1" >ἰησοῦς</reference>
+		<reference osisRef="John.12.1!19" type="Over-encoding" label="" verse="John 12:1" >ἰησοῦς</reference>
+		<reference osisRef="John.12.3!20-John.12.3!22" type="Over-encoding" label="" verse="John 12:3" >τοὺς πόδας αὐτοῦ</reference>
+		<reference osisRef="John.12.23!1" type="Over-encoding" label="" verse="John 12:23" >ὁ</reference>
+		<reference osisRef="John.12.23!3" type="Over-encoding" label="" verse="John 12:23" >ἰησοῦς</reference>
+		<reference osisRef="John.12.35!4-John.12.35!5" type="Over-encoding" label="" verse="John 12:35" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.12.36!15" type="Over-encoding" label="" verse="John 12:36" >ἰησοῦς</reference>
+		<reference osisRef="John.12.41!3" type="Over-encoding" label="" verse="John 12:41" >ἠσαΐας</reference>
+		<reference osisRef="John.13.1!8-John.13.1!9" type="Over-encoding" label="" verse="John 13:1" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.13.7!2" type="Over-encoding" label="" verse="John 13:7" >ἰησοῦς</reference>
+		<reference osisRef="John.13.8!3" type="Over-encoding" label="" verse="John 13:8" >πέτρος</reference>
+		<reference osisRef="John.13.8!14" type="Over-encoding" label="" verse="John 13:8" >ἰησοῦς</reference>
+		<reference osisRef="John.13.9!3-John.13.9!4" type="Over-encoding" label="" verse="John 13:9" >σίμων πέτρος</reference>
+		<reference osisRef="John.13.10!3-John.13.10!4" type="Over-encoding" label="" verse="John 13:10" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.13.21!3-John.13.21!4" type="Over-encoding" label="" verse="John 13:21" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.13.22!4-John.13.22!5" type="Over-encoding" label="" verse="John 13:22" >οἱ μαθηταὶ</reference>
+		<reference osisRef="John.13.25!3" type="Over-encoding" label="" verse="John 13:25" >ἐκεῖνος</reference>
+		<reference osisRef="John.13.26!2-John.13.26!3" type="Over-encoding" label="" verse="John 13:26" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.13.36!10" type="Over-encoding" label="" verse="John 13:36" >ἰησοῦς</reference>
+		<reference osisRef="John.13.37!3-John.13.37!4" type="Over-encoding" label="" verse="John 13:37" >ὁ πέτρος</reference>
+		<reference osisRef="John.13.38!2" type="Over-encoding" label="" verse="John 13:38" >ἰησοῦς</reference>
+		<reference osisRef="John.14.6!3-John.14.6!4" type="Over-encoding" label="" verse="John 14:6" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.14.9!3-John.14.9!4" type="Over-encoding" label="" verse="John 14:9" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.14.23!2" type="Over-encoding" label="" verse="John 14:23" >ἰησοῦς</reference>
+		<reference osisRef="John.16.31!3" type="Over-encoding" label="" verse="John 16:31" >ἰησοῦς</reference>
+		<reference osisRef="John.17.1!3" type="Over-encoding" label="" verse="John 17:1" >ἰησοῦς</reference>
+		<reference osisRef="John.17.1!22-John.17.1!23" type="Over-encoding" label="" verse="John 17:1" >ὁ υἱὸς</reference>
+		<reference osisRef="John.17.11!25-John.17.11!27" type="Over-encoding" label="" verse="John 17:11" >ᾧ δέδωκάς μοι</reference>
+		<reference osisRef="John.17.12!12-John.17.12!14" type="Over-encoding" label="" verse="John 17:12" >ᾧ δέδωκάς μοι</reference>
+		<reference osisRef="John.18.1!3" type="Over-encoding" label="" verse="John 18:1" >ἰησοῦς</reference>
+		<reference osisRef="John.18.1!20-John.18.1!24" type="Over-encoding" label="" verse="John 18:1" >αὐτὸς καὶ οἱ μαθηταὶ αὐτοῦ</reference>
+		<reference osisRef="John.18.5!14-John.18.5!16" type="Over-encoding" label="" verse="John 18:5" >ὁ παραδιδοὺς αὐτὸν</reference>
+		<reference osisRef="John.18.8!2" type="Over-encoding" label="" verse="John 18:8" >ἰησοῦς</reference>
+		<reference osisRef="John.18.16!15-John.18.16!18" type="Over-encoding" label="" verse="John 18:16" >ὁ γνωστὸς τοῦ ἀρχιερέως</reference>
+		<reference osisRef="John.18.20!3" type="Over-encoding" label="" verse="John 18:20" >ἰησοῦς</reference>
+		<reference osisRef="John.18.22!11-John.18.22!12" type="Over-encoding" label="" verse="John 18:22" >τῷ ἰησοῦ</reference>
+		<reference osisRef="John.18.23!3" type="Over-encoding" label="" verse="John 18:23" >ἰησοῦς</reference>
+		<reference osisRef="John.18.25!20" type="Over-encoding" label="" verse="John 18:25" >ἐκεῖνος</reference>
+		<reference osisRef="John.18.27!4" type="Over-encoding" label="" verse="John 18:27" >πέτρος</reference>
+		<reference osisRef="John.18.31!4-John.18.31!5" type="Over-encoding" label="" verse="John 18:31" >ὁ πιλᾶτος</reference>
+		<reference osisRef="John.18.31!18-John.18.31!19" type="Over-encoding" label="" verse="John 18:31" >οἱ ἰουδαῖοι</reference>
+		<reference osisRef="John.18.34!2" type="Over-encoding" label="" verse="John 18:34" >ἰησοῦς</reference>
+		<reference osisRef="John.18.35!2-John.18.35!3" type="Over-encoding" label="" verse="John 18:35" >ὁ πιλᾶτος</reference>
+		<reference osisRef="John.18.36!2" type="Over-encoding" label="" verse="John 18:36" >ἰησοῦς</reference>
+		<reference osisRef="John.18.37!4-John.18.37!5" type="Over-encoding" label="" verse="John 18:37" >ὁ πιλᾶτος</reference>
+		<reference osisRef="John.18.37!11-John.18.37!12" type="Over-encoding" label="" verse="John 18:37" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.18.38!3-John.18.38!4" type="Over-encoding" label="" verse="John 18:38" >ὁ πιλᾶτος</reference>
+		<reference osisRef="John.19.7!3-John.19.7!4" type="Over-encoding" label="" verse="John 19:7" >οἱ ἰουδαῖοι</reference>
+		<reference osisRef="John.19.8!4-John.19.8!5" type="Over-encoding" label="" verse="John 19:8" >ὁ πιλᾶτος</reference>
+		<reference osisRef="John.19.9!14" type="Over-encoding" label="" verse="John 19:9" >ὁ</reference>
+		<reference osisRef="John.19.9!16" type="Over-encoding" label="" verse="John 19:9" >ἰησοῦς</reference>
+		<reference osisRef="John.19.10!4-John.19.10!5" type="Over-encoding" label="" verse="John 19:10" >ὁ πιλᾶτος</reference>
+		<reference osisRef="John.19.11!3" type="Over-encoding" label="" verse="John 19:11" >ἰησοῦς</reference>
+		<reference osisRef="John.19.12!3-John.19.12!4" type="Over-encoding" label="" verse="John 19:12" >ὁ πιλᾶτος</reference>
+		<reference osisRef="John.19.13!1" type="Over-encoding" label="" verse="John 19:13" >ὁ</reference>
+		<reference osisRef="John.19.13!3" type="Over-encoding" label="" verse="John 19:13" >πιλᾶτος</reference>
+		<reference osisRef="John.19.15!3" type="Over-encoding" label="" verse="John 19:15" >ἐκεῖνοι</reference>
+		<reference osisRef="John.19.22!2-John.19.22!3" type="Over-encoding" label="" verse="John 19:22" >ὁ πιλᾶτος</reference>
+		<reference osisRef="John.19.27!15-John.19.27!16" type="Over-encoding" label="" verse="John 19:27" >ὁ μαθητὴς</reference>
+		<reference osisRef="John.19.30!6-John.19.30!7" type="Over-encoding" label="" verse="John 19:30" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.20.3!3-John.20.3!8" type="Over-encoding" label="" verse="John 20:3" >ὁ πέτρος καὶ ὁ ἄλλος μαθητὴς</reference>
+		<reference osisRef="John.20.13!4" type="Over-encoding" label="" verse="John 20:13" >ἐκεῖνοι</reference>
+		<reference osisRef="John.20.16!3" type="Over-encoding" label="" verse="John 20:16" >ἰησοῦς</reference>
+		<reference osisRef="John.20.16!6" type="Over-encoding" label="" verse="John 20:16" >ἐκείνη</reference>
+		<reference osisRef="John.20.17!3" type="Over-encoding" label="" verse="John 20:17" >ἰησοῦς</reference>
+		<reference osisRef="John.20.19!7-John.20.19!9" type="Over-encoding" label="" verse="John 20:19" >τῇ μιᾷ σαββάτων</reference>
+		<reference osisRef="John.20.20!13-John.20.20!14" type="Over-encoding" label="" verse="John 20:20" >οἱ μαθηταὶ</reference>
+		<reference osisRef="John.20.21!4-John.20.21!5" type="Over-encoding" label="" verse="John 20:21" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.20.24!3-John.20.24!9" type="Over-encoding" label="" verse="John 20:24" >εἷς ἐκ τῶν δώδεκα ὁ λεγόμενος δίδυμος</reference>
+		<reference osisRef="John.20.28!2" type="Over-encoding" label="" verse="John 20:28" >θωμᾶς</reference>
+		<reference osisRef="John.20.29!3-John.20.29!4" type="Over-encoding" label="" verse="John 20:29" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.20.30!8-John.20.30!9" type="Over-encoding" label="" verse="John 20:30" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.21.5!4-John.21.5!5" type="Over-encoding" label="" verse="John 21:5" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.21.7!15" type="Over-encoding" label="" verse="John 21:7" >σίμων</reference>
+		<reference osisRef="John.21.7!17" type="Over-encoding" label="" verse="John 21:7" >πέτρος</reference>
+		<reference osisRef="John.21.14!5" type="Over-encoding" label="" verse="John 21:14" >ἰησοῦς</reference>
+		<reference osisRef="John.21.15!8-John.21.15!9" type="Over-encoding" label="" verse="John 21:15" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.21.17!10-John.21.17!11" type="Over-encoding" label="" verse="John 21:17" >ὁ πέτρος</reference>
+		<reference osisRef="John.21.17!33-John.21.17!34" type="Over-encoding" label="" verse="John 21:17" >ὁ ἰησοῦς</reference>
+		<reference osisRef="John.21.20!2-John.21.20!3" type="Over-encoding" label="" verse="John 21:20" >ὁ πέτρος</reference>
+		<reference osisRef="John.21.21!4-John.21.21!5" type="Over-encoding" label="" verse="John 21:21" >ὁ πέτρος</reference>
+		<reference osisRef="John.21.22!3-John.21.22!4" type="Over-encoding" label="" verse="John 21:22" >ὁ ἰησοῦς</reference>
+		<reference osisRef="Acts.1.11!15-Acts.1.11!21" type="Over-encoding" label="" verse="Acts 1:11" >ὁ ἀναλημφθεὶς ἀφ’ ὑμῶν εἰς τὸν οὐρανὸν</reference>
+		<reference osisRef="Acts.1.13!11-Acts.1.13!34" type="Over-encoding" label="" verse="Acts 1:13" >ὅ τε πέτρος καὶ ἰωάννης καὶ ἰάκωβος καὶ ἀνδρέας φίλιππος καὶ θωμᾶς βαρθολομαῖος καὶ μαθθαῖος ἰάκωβος ἁλφαίου καὶ σίμων ὁ ζηλωτὴς καὶ ἰούδας ἰακώβου</reference>
+		<reference osisRef="Acts.1.24!6-Acts.1.24!7" type="Over-encoding" label="" verse="Acts 1:24" >καρδιογνῶστα πάντων</reference>
+		<reference osisRef="Acts.3.9!7-Acts.3.9!11" type="Over-encoding" label="" verse="Acts 3:9" >περιπατοῦντα καὶ αἰνοῦντα τὸν θεόν</reference>
+		<reference osisRef="Acts.3.13!5-Acts.3.13!6" type="Over-encoding" label="" verse="Acts 3:13" >ὁ θεὸς</reference>
+		<reference osisRef="Acts.3.13!9-Acts.3.13!10" type="Over-encoding" label="" verse="Acts 3:13" >ὁ θεὸς</reference>
+		<reference osisRef="Acts.3.13!12-Acts.3.13!13" type="Over-encoding" label="" verse="Acts 3:13" >ὁ θεὸς</reference>
+		<reference osisRef="Acts.3.24!11-Acts.3.24!12" type="Over-encoding" label="" verse="Acts 3:24" >ὅσοι ἐλάλησαν</reference>
+		<reference osisRef="Acts.5.5!3-Acts.5.5!4" type="Over-encoding" label="" verse="Acts 5:5" >ὁ ἁνανίας</reference>
+		<reference osisRef="Acts.5.9!1" type="Over-encoding" label="" verse="Acts 5:9" >ὁ</reference>
+		<reference osisRef="Acts.5.9!3" type="Over-encoding" label="" verse="Acts 5:9" >πέτρος</reference>
+		<reference osisRef="Acts.7.6!4-Acts.7.6!5" type="Over-encoding" label="" verse="Acts 7:6" >ὁ θεὸς</reference>
+		<reference osisRef="Acts.7.7!9-Acts.7.7!11" type="Over-encoding" label="" verse="Acts 7:7" >ὁ θεὸς εἶπεν</reference>
+		<reference osisRef="Acts.7.10!17-Acts.7.10!18" type="Over-encoding" label="" verse="Acts 7:10" >βασιλέως αἰγύπτου</reference>
+		<reference osisRef="Acts.7.14!6-Acts.7.14!8" type="Over-encoding" label="" verse="Acts 7:14" >τὸν πατέρα αὐτοῦ</reference>
+		<reference osisRef="Acts.7.15!3" type="Over-encoding" label="" verse="Acts 7:15" >ἰακὼβ</reference>
+		<reference osisRef="Acts.7.23!16-Acts.7.23!18" type="Over-encoding" label="" verse="Acts 7:23" >τοὺς υἱοὺς ἰσραήλ</reference>
+		<reference osisRef="Acts.7.29!3" type="Over-encoding" label="" verse="Acts 7:29" >μωϋσῆς</reference>
+		<reference osisRef="Acts.7.31!1" type="Over-encoding" label="" verse="Acts 7:31" >ὁ</reference>
+		<reference osisRef="Acts.7.31!3" type="Over-encoding" label="" verse="Acts 7:31" >μωϋσῆς</reference>
+		<reference osisRef="Acts.7.32!17" type="Over-encoding" label="" verse="Acts 7:32" >μωϋσῆς</reference>
+		<reference osisRef="Acts.7.37!3-Acts.7.37!4" type="Over-encoding" label="" verse="Acts 7:37" >ὁ μωϋσῆς</reference>
+		<reference osisRef="Acts.8.10!4-Acts.8.10!7" type="Over-encoding" label="" verse="Acts 8:10" >ἀπὸ μικροῦ ἕως μεγάλου</reference>
+		<reference osisRef="Acts.8.24!3-Acts.8.24!4" type="Over-encoding" label="" verse="Acts 8:24" >ὁ σίμων</reference>
+		<reference osisRef="Acts.8.24!7" type="Over-encoding" label="" verse="Acts 8:24" >ὑμεῖς</reference>
+		<reference osisRef="Acts.8.30!3-Acts.8.30!4" type="Over-encoding" label="" verse="Acts 8:30" >ὁ φίλιππος</reference>
+		<reference osisRef="Acts.8.35!3-Acts.8.35!4" type="Over-encoding" label="" verse="Acts 8:35" >ὁ φίλιππος</reference>
+		<reference osisRef="Acts.9.11!1" type="Over-encoding" label="" verse="Acts 9:11" >ὁ</reference>
+		<reference osisRef="Acts.9.11!3" type="Over-encoding" label="" verse="Acts 9:11" >κύριος</reference>
+		<reference osisRef="Acts.9.13!3" type="Over-encoding" label="" verse="Acts 9:13" >ἁνανίας</reference>
+		<reference osisRef="Acts.9.15!5-Acts.9.15!6" type="Over-encoding" label="" verse="Acts 9:15" >ὁ κύριος</reference>
+		<reference osisRef="Acts.9.17!3" type="Over-encoding" label="" verse="Acts 9:17" >ἁνανίας</reference>
+		<reference osisRef="Acts.9.39!3" type="Over-encoding" label="" verse="Acts 9:39" >πέτρος</reference>
+		<reference osisRef="Acts.10.7!6-Acts.10.7!8" type="Over-encoding" label="" verse="Acts 10:7" >ὁ λαλῶν αὐτῷ</reference>
+		<reference osisRef="Acts.10.14!1" type="Over-encoding" label="" verse="Acts 10:14" >ὁ</reference>
+		<reference osisRef="Acts.10.14!3" type="Over-encoding" label="" verse="Acts 10:14" >πέτρος</reference>
+		<reference osisRef="Acts.10.21!3" type="Over-encoding" label="" verse="Acts 10:21" >πέτρος</reference>
+		<reference osisRef="Acts.10.26!1" type="Over-encoding" label="" verse="Acts 10:26" >ὁ</reference>
+		<reference osisRef="Acts.10.26!3" type="Over-encoding" label="" verse="Acts 10:26" >πέτρος</reference>
+		<reference osisRef="Acts.10.30!2-Acts.10.30!3" type="Over-encoding" label="" verse="Acts 10:30" >ὁ κορνήλιος</reference>
+		<reference osisRef="Acts.10.34!3" type="Over-encoding" label="" verse="Acts 10:34" >πέτρος</reference>
+		<reference osisRef="Acts.10.44!3-Acts.10.44!4" type="Over-encoding" label="" verse="Acts 10:44" >τοῦ πέτρου</reference>
+		<reference osisRef="Acts.11.4!3" type="Over-encoding" label="" verse="Acts 11:4" >πέτρος</reference>
+		<reference osisRef="Acts.13.9!3-Acts.13.9!5" type="Over-encoding" label="" verse="Acts 13:9" >ὁ καὶ παῦλος</reference>
+		<reference osisRef="Acts.15.8!3" type="Over-encoding" label="" verse="Acts 15:8" >καρδιογνώστης</reference>
+		<reference osisRef="Acts.16.37!1" type="Over-encoding" label="" verse="Acts 16:37" >ὁ</reference>
+		<reference osisRef="Acts.16.37!3" type="Over-encoding" label="" verse="Acts 16:37" >παῦλος</reference>
+		<reference osisRef="Acts.16.38!5-Acts.16.38!6" type="Over-encoding" label="" verse="Acts 16:38" >οἱ ῥαβδοῦχοι</reference>
+		<reference osisRef="Acts.17.33!2-Acts.17.33!3" type="Over-encoding" label="" verse="Acts 17:33" >ὁ παῦλος</reference>
+		<reference osisRef="Acts.19.4!3" type="Over-encoding" label="" verse="Acts 19:4" >παῦλος</reference>
+		<reference osisRef="Acts.19.33!11" type="Over-encoding" label="" verse="Acts 19:33" >ὁ</reference>
+		<reference osisRef="Acts.19.33!13" type="Over-encoding" label="" verse="Acts 19:33" >ἀλέξανδρος</reference>
+		<reference osisRef="Acts.20.25!14-Acts.20.25!19" type="Over-encoding" label="" verse="Acts 20:25" >ἐν οἷς διῆλθον κηρύσσων τὴν βασιλείαν</reference>
+		<reference osisRef="Acts.21.13!3-Acts.21.13!4" type="Over-encoding" label="" verse="Acts 21:13" >ὁ παῦλος</reference>
+		<reference osisRef="Acts.21.26!2-Acts.21.26!3" type="Over-encoding" label="" verse="Acts 21:26" >ὁ παῦλος</reference>
+		<reference osisRef="Acts.21.39!3-Acts.21.39!4" type="Over-encoding" label="" verse="Acts 21:39" >ὁ παῦλος</reference>
+		<reference osisRef="Acts.21.40!4-Acts.21.40!5" type="Over-encoding" label="" verse="Acts 21:40" >ὁ παῦλος</reference>
+		<reference osisRef="Acts.22.10!6" type="Over-encoding" label="" verse="Acts 22:10" >ὁ</reference>
+		<reference osisRef="Acts.22.10!8" type="Over-encoding" label="" verse="Acts 22:10" >κύριος</reference>
+		<reference osisRef="Acts.22.19!1" type="Over-encoding" label="" verse="Acts 22:19" >κἀγὼ</reference>
+		<reference osisRef="Acts.22.26!3-Acts.22.26!4" type="Over-encoding" label="" verse="Acts 22:26" >ὁ ἑκατοντάρχης</reference>
+		<reference osisRef="Acts.22.28!3-Acts.22.28!4" type="Over-encoding" label="" verse="Acts 22:28" >ὁ χιλίαρχος</reference>
+		<reference osisRef="Acts.22.28!12" type="Over-encoding" label="" verse="Acts 22:28" >ὁ</reference>
+		<reference osisRef="Acts.22.28!14" type="Over-encoding" label="" verse="Acts 22:28" >παῦλος</reference>
+		<reference osisRef="Acts.23.5!3-Acts.23.5!4" type="Over-encoding" label="" verse="Acts 23:5" >ὁ παῦλος</reference>
+		<reference osisRef="Acts.23.6!3-Acts.23.6!4" type="Over-encoding" label="" verse="Acts 23:6" >ὁ παῦλος</reference>
+		<reference osisRef="Acts.23.22!1" type="Over-encoding" label="" verse="Acts 23:22" >ὁ</reference>
+		<reference osisRef="Acts.23.22!4" type="Over-encoding" label="" verse="Acts 23:22" >χιλίαρχος</reference>
+		<reference osisRef="Acts.25.4!1" type="Over-encoding" label="" verse="Acts 25:4" >ὁ</reference>
+		<reference osisRef="Acts.25.4!4" type="Over-encoding" label="" verse="Acts 25:4" >φῆστος</reference>
+		<reference osisRef="Acts.25.10!3-Acts.25.10!4" type="Over-encoding" label="" verse="Acts 25:10" >ὁ παῦλος</reference>
+		<reference osisRef="Acts.25.12!2-Acts.25.12!3" type="Over-encoding" label="" verse="Acts 25:12" >ὁ φῆστος</reference>
+		<reference osisRef="Acts.26.1!13-Acts.26.1!14" type="Over-encoding" label="" verse="Acts 26:1" >ὁ παῦλος</reference>
+		<reference osisRef="Acts.26.15!7" type="Over-encoding" label="" verse="Acts 26:15" >ὁ</reference>
+		<reference osisRef="Acts.26.15!9" type="Over-encoding" label="" verse="Acts 26:15" >κύριος</reference>
+		<reference osisRef="Acts.26.28!4-Acts.26.28!6" type="Over-encoding" label="" verse="Acts 26:28" >πρὸς τὸν παῦλον</reference>
+		<reference osisRef="Rom.2.1!21-Rom.2.1!22" type="Over-encoding" label="" verse="Rom 2:1" >ὁ κρίνων</reference>
+		<reference osisRef="Rom.4.2!3" type="Over-encoding" label="" verse="Rom 4:2" >ἀβραὰμ</reference>
+		<reference osisRef="Rom.8.11!26-Rom.8.11!31" type="Over-encoding" label="" verse="Rom 8:11" >τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος ἐν ὑμῖν</reference>
+		<reference osisRef="1Cor.1.2!9-1Cor.1.2!14" type="Over-encoding" label="" verse="1Cor 1:2" >ἡγιασμένοις ἐν χριστῷ ἰησοῦ κλητοῖς ἁγίοις</reference>
+		<reference osisRef="1Cor.1.7!11-1Cor.1.7!14" type="Over-encoding" label="" verse="1Cor 1:7" >τοῦ κυρίου ἡμῶν ἰησοῦ</reference>
+		<reference osisRef="1Cor.1.8!11-1Cor.1.8!14" type="Over-encoding" label="" verse="1Cor 1:8" >τοῦ κυρίου ἡμῶν ἰησοῦ</reference>
+		<reference osisRef="1Cor.1.9!12-1Cor.1.9!16" type="Over-encoding" label="" verse="1Cor 1:9" >ἰησοῦ χριστοῦ τοῦ κυρίου ἡμῶν</reference>
+		<reference osisRef="1Cor.1.10!8-1Cor.1.10!12" type="Over-encoding" label="" verse="1Cor 1:10" >τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ</reference>
+		<reference osisRef="1Cor.1.24!5-1Cor.1.24!8" type="Over-encoding" label="" verse="1Cor 1:24" >ἰουδαίοις τε καὶ ἕλλησιν</reference>
+		<reference osisRef="1Cor.1.27!19-1Cor.1.27!20" type="Over-encoding" label="" verse="1Cor 1:27" >ὁ θεός</reference>
+		<reference osisRef="1Cor.1.28!10-1Cor.1.28!11" type="Over-encoding" label="" verse="1Cor 1:28" >ὁ θεός</reference>
+		<reference osisRef="1Cor.2.10!4-1Cor.2.10!5" type="Over-encoding" label="" verse="1Cor 2:10" >ὁ θεὸς</reference>
+		<reference osisRef="1Cor.5.4!17-1Cor.5.4!20" type="Over-encoding" label="" verse="1Cor 5:4" >τοῦ κυρίου ἡμῶν ἰησοῦ</reference>
+		<reference osisRef="1Cor.10.15!5" type="Over-encoding" label="" verse="1Cor 10:15" >ὑμεῖς</reference>
+		<reference osisRef="1Cor.10.30!9" type="Over-encoding" label="" verse="1Cor 10:30" >ἐγὼ</reference>
+		<reference osisRef="1Cor.12.6!9-1Cor.12.6!14" type="Over-encoding" label="" verse="1Cor 12:6" >ὁ ἐνεργῶν τὰ πάντα ἐν πᾶσιν</reference>
+		<reference osisRef="1Cor.13.4!5-1Cor.13.4!6" type="Over-encoding" label="" verse="1Cor 13:4" >ἡ ἀγάπη</reference>
+		<reference osisRef="1Cor.13.4!9-1Cor.13.4!10" type="Over-encoding" label="" verse="1Cor 13:4" >ἡ ἀγάπη</reference>
+		<reference osisRef="1Cor.13.8!1-1Cor.13.8!2" type="Over-encoding" label="" verse="1Cor 13:8" >ἡ ἀγάπη</reference>
+		<reference osisRef="1Cor.15.4!11-1Cor.15.4!13" type="Over-encoding" label="" verse="1Cor 15:4" >κατὰ τὰς γραφὰς</reference>
+		<reference osisRef="2Cor.1.1!2-2Cor.1.1!7" type="Over-encoding" label="" verse="2Cor 1:1" >ἀπόστολος χριστοῦ ἰησοῦ διὰ θελήματος θεοῦ</reference>
+		<reference osisRef="2Cor.1.1!10-2Cor.1.1!11" type="Over-encoding" label="" verse="2Cor 1:1" >ὁ ἀδελφὸς</reference>
+		<reference osisRef="2Cor.1.3!11-2Cor.1.4!44" type="Over-encoding" label="" verse="2Cor 1:3 - 4" >ὁ πατὴρ τῶν οἰκτιρμῶν καὶ θεὸς πάσης παρακλήσεως ὁ παρακαλῶν ἡμᾶς ἐπὶ πάσῃ τῇ θλίψει ἡμῶν εἰς τὸ δύνασθαι ἡμᾶς παρακαλεῖν τοὺς ἐν πάσῃ θλίψει διὰ τῆς παρακλήσεως ἧς παρακαλούμεθα αὐτοὶ ὑπὸ τοῦ θεοῦ</reference>
+		<reference osisRef="2Cor.1.9!20-2Cor.1.9!23" type="Over-encoding" label="" verse="2Cor 1:9" >τῷ ἐγείροντι τοὺς νεκρούς</reference>
+		<reference osisRef="2Cor.1.19!6-2Cor.1.19!7" type="Over-encoding" label="" verse="2Cor 1:19" >ἰησοῦς χριστὸς</reference>
+		<reference osisRef="2Cor.1.19!8-2Cor.1.19!13" type="Over-encoding" label="" verse="2Cor 1:19" >ὁ ἐν ὑμῖν δι’ ἡμῶν κηρυχθείς</reference>
+		<reference osisRef="2Cor.1.22!1-2Cor.1.22!14" type="Over-encoding" label="" verse="2Cor 1:22" >ὁ καὶ σφραγισάμενος ἡμᾶς καὶ δοὺς τὸν ἀρραβῶνα τοῦ πνεύματος ἐν ταῖς καρδίαις ἡμῶν</reference>
+		<reference osisRef="2Cor.2.13!12-2Cor.2.13!14" type="Over-encoding" label="" verse="2Cor 2:13" >τὸν ἀδελφόν μου</reference>
+		<reference osisRef="2Cor.2.14!5-2Cor.2.14!23" type="Over-encoding" label="" verse="2Cor 2:14" >τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ χριστῷ καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι’ ἡμῶν ἐν παντὶ τόπῳ</reference>
+		<reference osisRef="2Cor.4.6!4-2Cor.4.6!9" type="Over-encoding" label="" verse="2Cor 4:6" >ὁ εἰπών ἐκ σκότους φῶς λάμψει</reference>
+		<reference osisRef="2Cor.5.5!9-2Cor.5.5!15" type="Over-encoding" label="" verse="2Cor 5:5" >ὁ δοὺς ἡμῖν τὸν ἀρραβῶνα τοῦ πνεύματος</reference>
+		<reference osisRef="2Cor.5.18!7-2Cor.5.18!19" type="Over-encoding" label="" verse="2Cor 5:18" >τοῦ καταλλάξαντος ἡμᾶς ἑαυτῷ διὰ χριστοῦ καὶ δόντος ἡμῖν τὴν διακονίαν τῆς καταλλαγῆς</reference>
+		<reference osisRef="2Cor.8.16!5-2Cor.8.16!15" type="Over-encoding" label="" verse="2Cor 8:16" >τῷ δόντι τὴν αὐτὴν σπουδὴν ὑπὲρ ὑμῶν ἐν τῇ καρδίᾳ τίτου</reference>
+		<reference osisRef="2Cor.9.8!3-2Cor.9.8!4" type="Over-encoding" label="" verse="2Cor 9:8" >ὁ θεὸς</reference>
+		<reference osisRef="2Cor.10.8!11-2Cor.10.8!21" type="Over-encoding" label="" verse="2Cor 10:8" >ἧς ἔδωκεν ὁ κύριος εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν ὑμῶν</reference>
+		<reference osisRef="2Cor.12.7!15-2Cor.12.7!16" type="Over-encoding" label="" verse="2Cor 12:7" >ἄγγελος σατανᾶ</reference>
+		<reference osisRef="2Cor.12.7!20-2Cor.12.7!22" type="Over-encoding" label="" verse="2Cor 12:7" >ἵνα μὴ ὑπεραίρωμαι</reference>
+		<reference osisRef="Gal.1.1!16-Gal.1.1!20" type="Over-encoding" label="" verse="Gal 1:1" >τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν</reference>
+		<reference osisRef="Gal.1.4!1-Gal.1.4!24" type="Over-encoding" label="" verse="Gal 1:4" >τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ αἰῶνος τοῦ ἐνεστῶτος πονηροῦ κατὰ τὸ θέλημα τοῦ θεοῦ καὶ πατρὸς ἡμῶν</reference>
+		<reference osisRef="Gal.1.15!6-Gal.1.15!18" type="Over-encoding" label="" verse="Gal 1:15" >ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ</reference>
+		<reference osisRef="Gal.2.3!4-Gal.2.3!8" type="Over-encoding" label="" verse="Gal 2:3" >ὁ σὺν ἐμοί ἕλλην ὤν</reference>
+		<reference osisRef="Gal.2.6!21-Gal.2.6!22" type="Over-encoding" label="" verse="Gal 2:6" >οἱ δοκοῦντες</reference>
+		<reference osisRef="Gal.2.9!13-Gal.2.9!16" type="Over-encoding" label="" verse="Gal 2:9" >οἱ δοκοῦντες στῦλοι εἶναι</reference>
+		<reference osisRef="Gal.2.15!2-Gal.2.15!8" type="Over-encoding" label="" verse="Gal 2:15" >φύσει ἰουδαῖοι καὶ οὐκ ἐξ ἐθνῶν ἁμαρτωλοί</reference>
+		<reference osisRef="Gal.2.20!24-Gal.2.20!31" type="Over-encoding" label="" verse="Gal 2:20" >τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ</reference>
+		<reference osisRef="Gal.5.2!3" type="Over-encoding" label="" verse="Gal 5:2" >παῦλος</reference>
+		<reference osisRef="Col.1.28!9-Col.1.28!10" type="Over-encoding" label="" verse="Col 1:28" >πάντα ἄνθρωπον</reference>
+		<reference osisRef="Col.1.28!16-Col.1.28!17" type="Over-encoding" label="" verse="Col 1:28" >πάντα ἄνθρωπον</reference>
+		<reference osisRef="2Thess.3.16!16-2Thess.3.16!17" type="Over-encoding" label="" verse="2Thess 3:16" >ὁ κύριος</reference>
+		<reference osisRef="Jas.5.11!17-Jas.5.11!18" type="Over-encoding" label="" verse="Jas 5:11" >ὁ κύριος</reference>
+		<reference osisRef="2Pet.2.8!5-2Pet.2.8!6" type="Over-encoding" label="" verse="2Pet 2:8" >ὁ δίκαιος</reference>
+		<reference osisRef="1John.1.3!29-1John.1.3!30" type="Over-encoding" label="" verse="1John 1:3" >ἰησοῦ χριστοῦ</reference>
+		<reference osisRef="1John.1.7!21-1John.1.7!23" type="Over-encoding" label="" verse="1John 1:7" >τοῦ υἱοῦ αὐτοῦ</reference>
+		<reference osisRef="1John.3.23!14-1John.3.23!15" type="Over-encoding" label="" verse="1John 3:23" >ἰησοῦ χριστοῦ</reference>
+		<reference osisRef="1John.4.20!22-1John.4.20!23" type="Over-encoding" label="" verse="1John 4:20" >ὃν ἑώρακεν</reference>
+		<reference osisRef="1John.4.20!26-1John.4.20!28" type="Over-encoding" label="" verse="1John 4:20" >ὃν οὐχ ἑώρακεν</reference>
+		<reference osisRef="1John.5.6!31-1John.5.6!32" type="Over-encoding" label="" verse="1John 5:6" >τὸ πνεῦμά</reference>
+		<reference osisRef="1John.5.12!13-1John.5.12!14" type="Over-encoding" label="" verse="1John 5:12" >τοῦ θεοῦ</reference>
+		<reference osisRef="Rev.4.10!14-Rev.4.10!20" type="Over-encoding" label="" verse="Rev 4:10" >τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
+		<reference osisRef="Rev.9.15!3-Rev.9.15!5" type="Over-encoding" label="" verse="Rev 9:15" >οἱ τέσσαρες ἄγγελοι</reference>
+		<reference osisRef="Rev.10.4!4-Rev.10.4!6" type="Over-encoding" label="" verse="Rev 10:4" >αἱ ἑπτὰ βρονταί</reference>
+		<reference osisRef="Rev.11.9!20-Rev.11.9!22" type="Over-encoding" label="" verse="Rev 11:9" >τὰ πτώματα αὐτῶν</reference>
+		<reference osisRef="Rev.13.2!2-Rev.13.2!5" type="Over-encoding" label="" verse="Rev 13:2" >τὸ θηρίον ὃ εἶδον</reference>
+		<reference osisRef="Rev.13.15!24-Rev.13.15!27" type="Over-encoding" label="" verse="Rev 13:15" >τῇ εἰκόνι τοῦ θηρίου</reference>
+		<reference osisRef="Rev.14.2!17-Rev.14.2!20" type="Over-encoding" label="" verse="Rev 14:2" >ἡ φωνὴ ἣν ἤκουσα</reference>
+		<reference osisRef="Rev.14.16!3-Rev.14.16!7" type="Over-encoding" label="" verse="Rev 14:16" >ὁ καθήμενος ἐπὶ τῆς νεφέλης</reference>
+		<reference osisRef="Rev.14.19!3-Rev.14.19!4" type="Over-encoding" label="" verse="Rev 14:19" >ὁ ἄγγελος</reference>
+		<reference osisRef="Rev.15.3!25-Rev.15.3!26" type="Over-encoding" label="" verse="Rev 15:3" >ὁ παντοκράτωρ</reference>
+		<reference osisRef="Rev.15.7!19-Rev.15.7!25" type="Over-encoding" label="" verse="Rev 15:7" >τοῦ ζῶντος εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
+		<reference osisRef="Rev.16.7!10-Rev.16.7!11" type="Over-encoding" label="" verse="Rev 16:7" >ὁ παντοκράτωρ</reference>
+		<reference osisRef="Rev.16.21!15-Rev.16.21!16" type="Over-encoding" label="" verse="Rev 16:21" >οἱ ἄνθρωποι</reference>
+		<reference osisRef="Rev.18.15!4-Rev.18.15!7" type="Over-encoding" label="" verse="Rev 18:15" >οἱ πλουτήσαντες ἀπ’ αὐτῆς</reference>
+		<reference osisRef="Rev.19.4!16-Rev.19.4!20" type="Over-encoding" label="" verse="Rev 19:4" >τῷ καθημένῳ ἐπὶ τῷ θρόνῳ</reference>
+		<reference osisRef="Rev.20.2!5-Rev.20.2!8" type="Over-encoding" label="" verse="Rev 20:2" >ὁ ὄφις ὁ ἀρχαῖος</reference>
+		<reference osisRef="Rev.20.10!4-Rev.20.10!6" type="Over-encoding" label="" verse="Rev 20:10" >ὁ πλανῶν αὐτοὺς</reference>
+		<reference osisRef="Rev.20.12!5-Rev.20.12!9" type="Over-encoding" label="" verse="Rev 20:12" >τοὺς μεγάλους καὶ τοὺς μικρούς</reference>
+		<reference osisRef="Rev.21.22!12-Rev.21.22!13" type="Over-encoding" label="" verse="Rev 21:22" >ὁ παντοκράτωρ</reference>
+		<reference osisRef="Rev.22.6!15-Rev.22.6!18" type="Over-encoding" label="" verse="Rev 22:6" >τῶν πνευμάτων τῶν προφητῶν</reference>
 	</references>
-</markup>
+</feature>

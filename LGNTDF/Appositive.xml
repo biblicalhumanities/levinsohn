@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<markup>
+<feature>
 	<header>
 		<copyright>©2016 SIL International</copyright>
 		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
@@ -10,232 +10,232 @@
 		<defaultstyle label="App" bkcolor="" fontcolor="" brdrcolor="" brdrline="Solid" brdrpos="B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
 	</header>
 	<references>
-		<reference osisRef="MAT.2.11!26-MAT.2.11!30" type="Appositive" label="App" verse="MAT 2:11" >χρυσὸν καὶ λίβανον καὶ σμύρναν</reference>
-		<reference osisRef="MAT.4.18!11-MAT.4.18!19" type="Appositive" label="App" verse="MAT 4:18" >σίμωνα τὸν λεγόμενον πέτρον καὶ ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ</reference>
-		<reference osisRef="MAT.4.21!8-MAT.4.21!16" type="Appositive" label="App" verse="MAT 4:21" >ἰάκωβον τὸν τοῦ ζεβεδαίου καὶ ἰωάννην τὸν ἀδελφὸν αὐτοῦ</reference>
-		<reference osisRef="MAT.9.8!10-MAT.9.8!15" type="Appositive" label="App" verse="MAT 9:8" >τὸν δόντα ἐξουσίαν τοιαύτην τοῖς ἀνθρώποις</reference>
-		<reference osisRef="MAT.12.24!16-MAT.12.24!18" type="Appositive" label="App" verse="MAT 12:24" >ἄρχοντι τῶν δαιμονίων</reference>
-		<reference osisRef="MAT.14.20!12-MAT.14.20!14" type="Appositive" label="App" verse="MAT 14:20" >δώδεκα κοφίνους πλήρεις</reference>
-		<reference osisRef="MAT.17.4!20-MAT.17.4!27" type="Appositive" label="App" verse="MAT 17:4" >σοὶ μίαν καὶ μωϋσεῖ μίαν καὶ ἠλίᾳ μίαν</reference>
-		<reference osisRef="MAT.22.10!13-MAT.22.10!16" type="Appositive" label="App" verse="MAT 22:10" >πονηρούς τε καὶ ἀγαθούς</reference>
-		<reference osisRef="MAT.23.23!23-MAT.23.23!30" type="Appositive" label="App" verse="MAT 23:23" >τὴν κρίσιν καὶ τὸ ἔλεος καὶ τὴν πίστιν</reference>
-		<reference osisRef="MAT.27.38!7-MAT.27.38!13" type="Appositive" label="App" verse="MAT 27:38" >εἷς ἐκ δεξιῶν καὶ εἷς ἐξ εὐωνύμων</reference>
-		<reference osisRef="MRK.2.7!13-MRK.2.7!14" type="Appositive" label="App" verse="MRK 2:7" >ὁ θεός</reference>
-		<reference osisRef="MRK.5.15!14-MRK.5.15!17" type="Appositive" label="App" verse="MRK 5:15" >τὸν ἐσχηκότα τὸν λεγιῶνα</reference>
-		<reference osisRef="MRK.8.8!9-MRK.8.8!10" type="Appositive" label="App" verse="MRK 8:8" >ἑπτὰ σπυρίδας</reference>
-		<reference osisRef="MRK.9.43!27-MRK.9.43!31" type="Appositive" label="App" verse="MRK 9:43" >εἰς τὸ πῦρ τὸ ἄσβεστον</reference>
-		<reference osisRef="MRK.10.18!15-MRK.10.18!16" type="Appositive" label="App" verse="MRK 10:18" >ὁ θεός</reference>
-		<reference osisRef="MRK.14.43!8-MRK.14.43!10" type="Appositive" label="App" verse="MRK 14:43" >εἷς τῶν δώδεκα</reference>
-		<reference osisRef="LUK.1.19!10-LUK.1.19!14" type="Appositive" label="App" verse="LUK 1:19" >ὁ παρεστηκὼς ἐνώπιον τοῦ θεοῦ</reference>
-		<reference osisRef="LUK.1.36!20-LUK.1.36!22" type="Appositive" label="App" verse="LUK 1:36" >τῇ καλουμένῃ στείρᾳ</reference>
-		<reference osisRef="LUK.2.21!15-LUK.2.21!26" type="Appositive" label="App" verse="LUK 2:21" >τὸ κληθὲν ὑπὸ τοῦ ἀγγέλου πρὸ τοῦ συλλημφθῆναι αὐτὸν ἐν τῇ κοιλίᾳ</reference>
-		<reference osisRef="LUK.4.31!5-LUK.4.31!7" type="Appositive" label="App" verse="LUK 4:31" >πόλιν τῆς γαλιλαίας</reference>
-		<reference osisRef="LUK.8.28!16-LUK.8.28!21" type="Appositive" label="App" verse="LUK 8:28" >ἰησοῦ υἱὲ τοῦ θεοῦ τοῦ ὑψίστου</reference>
-		<reference osisRef="LUK.9.17!11-LUK.9.17!13" type="Appositive" label="App" verse="LUK 9:17" >κλασμάτων κόφινοι δώδεκα</reference>
-		<reference osisRef="LUK.12.33!13-LUK.12.33!17" type="Appositive" label="App" verse="LUK 12:33" >θησαυρὸν ἀνέκλειπτον ἐν τοῖς οὐρανοῖς</reference>
-		<reference osisRef="LUK.18.11!20-LUK.18.11!28" type="Appositive" label="App" verse="LUK 18:11" >ἅρπαγες ἄδικοι μοιχοί ἢ καὶ ὡς οὗτος ὁ τελώνης</reference>
-		<reference osisRef="LUK.18.13!25-LUK.18.13!26" type="Appositive" label="App" verse="LUK 18:13" >τῷ ἁμαρτωλῷ</reference>
-		<reference osisRef="LUK.18.19!15-LUK.18.19!16" type="Appositive" label="App" verse="LUK 18:19" >ὁ θεός</reference>
-		<reference osisRef="LUK.20.27!6-LUK.20.27!10" type="Appositive" label="App" verse="LUK 20:27" >οἱ [ἀντι]λέγοντες ἀνάστασιν μὴ εἶναι</reference>
-		<reference osisRef="LUK.20.46!5-LUK.20.46!25" type="Appositive" label="App" verse="LUK 20:46" >τῶν θελόντων περιπατεῖν ἐν στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς καὶ πρωτοκλισίας ἐν τοῖς δείπνοις</reference>
-		<reference osisRef="LUK.22.1!7-LUK.22.1!9" type="Appositive" label="App" verse="LUK 22:1" >ἡ λεγομένη πάσχα</reference>
-		<reference osisRef="LUK.22.66!10-LUK.22.66!13" type="Appositive" label="App" verse="LUK 22:66" >ἀρχιερεῖς τε καὶ γραμματεῖς</reference>
-		<reference osisRef="LUK.23.35!23-LUK.23.35!24" type="Appositive" label="App" verse="LUK 23:35" >ὁ ἐκλεκτός</reference>
-		<reference osisRef="LUK.24.24!13-LUK.24.24!17" type="Appositive" label="App" verse="LUK 24:24" >καθὼς καὶ αἱ γυναῖκες εἶπον</reference>
-		<reference osisRef="JHN.1.14!15-JHN.1.14!23" type="Appositive" label="App" verse="JHN 1:14" >δόξαν ὡς μονογενοῦς παρὰ πατρός πλήρης χάριτος καὶ ἀληθείας</reference>
-		<reference osisRef="JHN.1.29!16-JHN.1.29!21" type="Appositive" label="App" verse="JHN 1:29" >ὁ αἴρων τὴν ἁμαρτίαν τοῦ κόσμου</reference>
-		<reference osisRef="JHN.1.41!8" type="Appositive" label="App" verse="JHN 1:41" >σίμωνα</reference>
-		<reference osisRef="JHN.1.44!7-JHN.1.44!12" type="Appositive" label="App" verse="JHN 1:44" >ἐκ τῆς πόλεως ἀνδρέου καὶ πέτρου</reference>
-		<reference osisRef="JHN.3.13!14-JHN.3.13!17" type="Appositive" label="App" verse="JHN 3:13" >ὁ υἱὸς τοῦ ἀνθρώπου</reference>
-		<reference osisRef="JHN.5.23!19-JHN.5.23!21" type="Appositive" label="App" verse="JHN 5:23" >τὸν πέμψαντα αὐτόν</reference>
-		<reference osisRef="JHN.5.45!14" type="Appositive" label="App" verse="JHN 5:45" >μωϋσῆς</reference>
-		<reference osisRef="JHN.6.1!11-JHN.6.1!12" type="Appositive" label="App" verse="JHN 6:1" >τῆς τιβεριάδος</reference>
-		<reference osisRef="JHN.6.4!6-JHN.6.4!9" type="Appositive" label="App" verse="JHN 6:4" >ἡ ἑορτὴ τῶν ἰουδαίων</reference>
-		<reference osisRef="JHN.6.8!8-JHN.6.8!12" type="Appositive" label="App" verse="JHN 6:8" >ἀνδρέας ὁ ἀδελφὸς σίμωνος πέτρου</reference>
-		<reference osisRef="JHN.7.37!6-JHN.7.37!9" type="Appositive" label="App" verse="JHN 7:37" >τῇ μεγάλῃ τῆς ἑορτῆς</reference>
-		<reference osisRef="JHN.9.16!12-JHN.9.16!13" type="Appositive" label="App" verse="JHN 9:16" >ὁ ἄνθρωπος</reference>
-		<reference osisRef="JHN.9.18!19-JHN.9.18!20" type="Appositive" label="App" verse="JHN 9:18" >τοῦ ἀναβλέψαντος</reference>
-		<reference osisRef="JHN.11.1!5-JHN.11.1!7" type="Appositive" label="App" verse="JHN 11:1" >λάζαρος ἀπὸ βηθανίας</reference>
-		<reference osisRef="JHN.11.18!8-JHN.11.18!11" type="Appositive" label="App" verse="JHN 11:18" >ὡς ἀπὸ σταδίων δεκαπέντε</reference>
-		<reference osisRef="JHN.11.27!12-JHN.11.27!15" type="Appositive" label="App" verse="JHN 11:27" >ὁ υἱὸς τοῦ θεοῦ</reference>
-		<reference osisRef="JHN.11.27!16-JHN.11.27!20" type="Appositive" label="App" verse="JHN 11:27" >ὁ εἰς τὸν κόσμον ἐρχόμενος</reference>
-		<reference osisRef="JHN.11.37!9-JHN.11.37!14" type="Appositive" label="App" verse="JHN 11:37" >ὁ ἀνοίξας τοὺς ὀφθαλμοὺς τοῦ τυφλοῦ</reference>
-		<reference osisRef="JHN.11.39!13" type="Appositive" label="App" verse="JHN 11:39" >μάρθα</reference>
-		<reference osisRef="JHN.11.49!6" type="Appositive" label="App" verse="JHN 11:49" >καϊάφας</reference>
-		<reference osisRef="JHN.12.1!12-JHN.12.1!19" type="Appositive" label="App" verse="JHN 12:1" >ὅπου ἦν λάζαρος ὃν ἤγειρεν ἐκ νεκρῶν ἰησοῦς</reference>
-		<reference osisRef="JHN.12.4!6-JHN.12.4!14" type="Appositive" label="App" verse="JHN 12:4" >εἷς ἐκ τῶν μαθητῶν αὐτοῦ ὁ μέλλων αὐτὸν παραδιδόναι</reference>
-		<reference osisRef="JHN.12.13!20-JHN.12.13!24" type="Appositive" label="App" verse="JHN 12:13" >καὶ ὁ βασιλεὺς τοῦ ἰσραήλ</reference>
-		<reference osisRef="JHN.15.26!12-JHN.15.26!20" type="Appositive" label="App" verse="JHN 15:26" >τὸ πνεῦμα τῆς ἀληθείας ὃ παρὰ τοῦ πατρὸς ἐκπορεύεται</reference>
-		<reference osisRef="JHN.16.13!5-JHN.16.13!8" type="Appositive" label="App" verse="JHN 16:13" >τὸ πνεῦμα τῆς ἀληθείας</reference>
-		<reference osisRef="JHN.17.3!10-JHN.17.3!13" type="Appositive" label="App" verse="JHN 17:3" >τὸν μόνον ἀληθινὸν θεὸν</reference>
-		<reference osisRef="JHN.17.3!17-JHN.17.3!18" type="Appositive" label="App" verse="JHN 17:3" >ἰησοῦν χριστόν</reference>
-		<reference osisRef="JHN.19.23!16-JHN.19.23!18" type="Appositive" label="App" verse="JHN 19:23" >ἑκάστῳ στρατιώτῃ μέρος</reference>
-		<reference osisRef="JHN.19.39!5-JHN.19.39!11" type="Appositive" label="App" verse="JHN 19:39" >ὁ ἐλθὼν πρὸς αὐτὸν νυκτὸς τὸ πρῶτον</reference>
-		<reference osisRef="JHN.20.8!8-JHN.20.8!13" type="Appositive" label="App" verse="JHN 20:8" >ὁ ἐλθὼν πρῶτος εἰς τὸ μνημεῖον</reference>
-		<reference osisRef="JHN.21.11!15-JHN.21.11!17" type="Appositive" label="App" verse="JHN 21:11" >ἑκατὸν πεντήκοντα τριῶν</reference>
-		<reference osisRef="ACT.3.20!15-ACT.3.20!16" type="Appositive" label="App" verse="ACT 3:20" >χριστὸν ἰησοῦν</reference>
-		<reference osisRef="ACT.5.14!7-ACT.5.14!11" type="Appositive" label="App" verse="ACT 5:14" >πλήθη ἀνδρῶν τε καὶ γυναικῶν</reference>
-		<reference osisRef="ACT.6.5!12-ACT.6.5!17" type="Appositive" label="App" verse="ACT 6:5" >ἄνδρα πλήρης πίστεως καὶ πνεύματος ἁγίου</reference>
-		<reference osisRef="ACT.7.14!13-ACT.7.14!16" type="Appositive" label="App" verse="ACT 7:14" >ἐν ψυχαῖς ἑβδομήκοντα πέντε</reference>
-		<reference osisRef="ACT.7.32!7-ACT.7.32!13" type="Appositive" label="App" verse="ACT 7:32" >ὁ θεὸς ἀβραὰμ καὶ ἰσαὰκ καὶ ἰακώβ</reference>
-		<reference osisRef="ACT.7.43!14-ACT.7.43!19" type="Appositive" label="App" verse="ACT 7:43" >τοὺς τύπους οὓς ἐποιήσατε προσκυνεῖν αὐτοῖς</reference>
-		<reference osisRef="ACT.9.2!17-ACT.9.2!20" type="Appositive" label="App" verse="ACT 9:2" >ἄνδρας τε καὶ γυναῖκας</reference>
-		<reference osisRef="ACT.9.12!6-ACT.9.12!7" type="Appositive" label="App" verse="ACT 9:12" >ἁνανίαν ὀνόματι</reference>
-		<reference osisRef="ACT.9.17!22" type="Appositive" label="App" verse="ACT 9:17" >ἰησοῦς</reference>
-		<reference osisRef="ACT.9.17!23-ACT.9.17!30" type="Appositive" label="App" verse="ACT 9:17" >ὁ ὀφθείς σοι ἐν τῇ ὁδῷ ᾗ ἤρχου</reference>
-		<reference osisRef="ACT.10.41!12-ACT.10.41!23" type="Appositive" label="App" verse="ACT 10:41" >ἡμῖν οἵτινες συνεφάγομεν καὶ συνεπίομεν αὐτῷ μετὰ τὸ ἀναστῆναι αὐτὸν ἐκ νεκρῶν</reference>
-		<reference osisRef="ACT.13.1!12-ACT.13.1!31" type="Appositive" label="App" verse="ACT 13:1" >ὅ τε βαρναβᾶς καὶ συμεὼν ὁ καλούμενος νίγερ καὶ λούκιος ὁ κυρηναῖος μαναήν τε ἡρῴδου τοῦ τετραάρχου σύντροφος καὶ σαῦλος</reference>
-		<reference osisRef="ACT.13.6!12-ACT.13.6!16" type="Appositive" label="App" verse="ACT 13:6" >ψευδοπροφήτην ἰουδαῖον ᾧ ὄνομα βαριησοῦ</reference>
-		<reference osisRef="ACT.13.7!8-ACT.13.7!9" type="Appositive" label="App" verse="ACT 13:7" >ἀνδρὶ συνετῷ</reference>
-		<reference osisRef="ACT.13.9!3-ACT.13.9!5" type="Appositive" label="App" verse="ACT 13:9" >ὁ καὶ παῦλος</reference>
-		<reference osisRef="ACT.13.21!13-ACT.13.21!16" type="Appositive" label="App" verse="ACT 13:21" >ἄνδρα ἐκ φυλῆς βενιαμίν</reference>
-		<reference osisRef="ACT.13.23!13" type="Appositive" label="App" verse="ACT 13:23" >ἰησοῦν</reference>
-		<reference osisRef="ACT.13.33!9" type="Appositive" label="App" verse="ACT 13:33" >ἡμῖν</reference>
-		<reference osisRef="ACT.14.6!8-ACT.14.6!10" type="Appositive" label="App" verse="ACT 14:6" >λύστραν καὶ δέρβην</reference>
-		<reference osisRef="ACT.15.22!30-ACT.15.22!34" type="Appositive" label="App" verse="ACT 15:22" >ἄνδρας ἡγουμένους ἐν τοῖς ἀδελφοῖς</reference>
-		<reference osisRef="ACT.15.26!1-ACT.15.26!13" type="Appositive" label="App" verse="ACT 15:26" >ἀνθρώποις παραδεδωκόσι τὰς ψυχὰς αὐτῶν ὑπὲρ τοῦ ὀνόματος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ</reference>
-		<reference osisRef="ACT.16.12!11" type="Appositive" label="App" verse="ACT 16:12" >κολωνία</reference>
-		<reference osisRef="ACT.19.22!10-ACT.19.22!12" type="Appositive" label="App" verse="ACT 19:22" >τιμόθεον καὶ ἔραστον</reference>
-		<reference osisRef="ACT.19.29!17-ACT.19.29!19" type="Appositive" label="App" verse="ACT 19:29" >μακεδόνας συνεκδήμους παύλου</reference>
-		<reference osisRef="ROM.1.16!15-ROM.1.16!19" type="Appositive" label="App" verse="ROM 1:16" >ἰουδαίῳ τε πρῶτον καὶ ἕλληνι</reference>
-		<reference osisRef="ROM.2.1!6-ROM.2.1!8" type="Appositive" label="App" verse="ROM 2:1" >πᾶς ὁ κρίνων</reference>
-		<reference osisRef="ROM.2.3!6-ROM.2.3!14" type="Appositive" label="App" verse="ROM 2:3" >ὁ κρίνων τοὺς τὰ τοιαῦτα πράσσοντας καὶ ποιῶν αὐτά</reference>
-		<reference osisRef="ROM.2.27!11-ROM.2.27!17" type="Appositive" label="App" verse="ROM 2:27" >τὸν διὰ γράμματος καὶ περιτομῆς παραβάτην νόμου</reference>
-		<reference osisRef="ROM.3.5!15-ROM.3.5!18" type="Appositive" label="App" verse="ROM 3:5" >ὁ ἐπιφέρων τὴν ὀργήν</reference>
-		<reference osisRef="ROM.4.16!17-ROM.4.16!28" type="Appositive" label="App" verse="ROM 4:16" >οὐ τῷ ἐκ τοῦ νόμου μόνον ἀλλὰ καὶ τῷ ἐκ πίστεως ἀβραάμ</reference>
-		<reference osisRef="ROM.4.17!13-ROM.4.17!23" type="Appositive" label="App" verse="ROM 4:17" >τοῦ ζῳοποιοῦντος τοὺς νεκροὺς καὶ καλοῦντος τὰ μὴ ὄντα ὡς ὄντα</reference>
-		<reference osisRef="ROM.4.24!8-ROM.4.24!18" type="Appositive" label="App" verse="ROM 4:24" >τοῖς πιστεύουσιν ἐπὶ τὸν ἐγείραντα ἰησοῦν τὸν κύριον ἡμῶν ἐκ νεκρῶν</reference>
-		<reference osisRef="ROM.7.4!19-ROM.7.4!22" type="Appositive" label="App" verse="ROM 7:4" >τῷ ἐκ νεκρῶν ἐγερθέντι</reference>
-		<reference osisRef="ROM.7.18!8-ROM.7.18!13" type="Appositive" label="App" verse="ROM 7:18" >τοῦτ’ ἔστιν ἐν τῇ σαρκί μου</reference>
-		<reference osisRef="ROM.8.4!9-ROM.8.4!16" type="Appositive" label="App" verse="ROM 8:4" >τοῖς μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα</reference>
-		<reference osisRef="ROM.8.17!6-ROM.8.17!11" type="Appositive" label="App" verse="ROM 8:17" >κληρονόμοι μὲν θεοῦ συγκληρονόμοι δὲ χριστοῦ</reference>
-		<reference osisRef="ROM.9.30!12-ROM.9.30!16" type="Appositive" label="App" verse="ROM 9:30" >δικαιοσύνην δὲ τὴν ἐκ πίστεως</reference>
-		<reference osisRef="ROM.12.2!22-ROM.12.2!27" type="Appositive" label="App" verse="ROM 12:2" >τὸ ἀγαθὸν καὶ εὐάρεστον καὶ τέλειον</reference>
-		<reference osisRef="ROM.15.12!10-ROM.15.12!14" type="Appositive" label="App" verse="ROM 15:12" >καὶ ὁ ἀνιστάμενος ἄρχειν ἐθνῶν</reference>
-		<reference osisRef="ROM.16.3!5-ROM.16.3!10" type="Appositive" label="App" verse="ROM 16:3" >τοὺς συνεργούς μου ἐν χριστῷ ἰησοῦ</reference>
-		<reference osisRef="ROM.16.7!5-ROM.16.7!10" type="Appositive" label="App" verse="ROM 16:7" >τοὺς συγγενεῖς μου καὶ συναιχμαλώτους μου</reference>
-		<reference osisRef="ROM.16.22!5-ROM.16.22!8" type="Appositive" label="App" verse="ROM 16:22" >ὁ γράψας τὴν ἐπιστολὴν</reference>
-		<reference osisRef="1CO.2.6!19-1CO.2.6!20" type="Appositive" label="App" verse="1CO 2:6" >τῶν καταργουμένων</reference>
-		<reference osisRef="1CO.3.1!12-1CO.3.1!15" type="Appositive" label="App" verse="1CO 3:1" >ὡς νηπίοις ἐν χριστῷ</reference>
-		<reference osisRef="1CO.5.1!6-1CO.5.1!13" type="Appositive" label="App" verse="1CO 5:1" >καὶ τοιαύτη πορνεία ἥτις οὐδὲ ἐν τοῖς ἔθνεσιν</reference>
-		<reference osisRef="1CO.8.10!6-1CO.8.10!8" type="Appositive" label="App" verse="1CO 8:10" >τὸν ἔχοντα γνῶσιν</reference>
-		<reference osisRef="1CO.12.18!8-1CO.12.18!10" type="Appositive" label="App" verse="1CO 12:18" >ἓν ἕκαστον αὐτῶν</reference>
-		<reference osisRef="1CO.13.13!7-1CO.13.13!9" type="Appositive" label="App" verse="1CO 13:13" >τὰ τρία ταῦτα</reference>
-		<reference osisRef="1CO.15.52!3-1CO.15.52!9" type="Appositive" label="App" verse="1CO 15:52" >ἐν ῥιπῇ ὀφθαλμοῦ ἐν τῇ ἐσχάτῃ σάλπιγγι</reference>
-		<reference osisRef="1CO.16.21!6" type="Appositive" label="App" verse="1CO 16:21" >παύλου</reference>
-		<reference osisRef="2CO.5.10!22-2CO.5.10!25" type="Appositive" label="App" verse="2CO 5:10" >εἴτε ἀγαθὸν εἴτε φαῦλον</reference>
-		<reference osisRef="GAL.2.20!19-GAL.2.20!31" type="Appositive" label="App" verse="GAL 2:20" >τῇ τοῦ υἱοῦ τοῦ θεοῦ τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ</reference>
-		<reference osisRef="GAL.4.24!9-GAL.4.24!19" type="Appositive" label="App" verse="GAL 4:24" >μία μὲν ἀπὸ ὄρους σινᾶ εἰς δουλείαν γεννῶσα ἥτις ἐστὶν ἁγάρ</reference>
-		<reference osisRef="EPH.1.3!11-EPH.1.3!22" type="Appositive" label="App" verse="EPH 1:3" >ὁ εὐλογήσας ἡμᾶς ἐν πάσῃ εὐλογίᾳ πνευματικῇ ἐν τοῖς ἐπουρανίοις ἐν χριστῷ</reference>
-		<reference osisRef="EPH.1.7!10-EPH.1.7!13" type="Appositive" label="App" verse="EPH 1:7" >τὴν ἄφεσιν τῶν παραπτωμάτων</reference>
-		<reference osisRef="EPH.1.13!10-EPH.1.13!14" type="Appositive" label="App" verse="EPH 1:13" >τὸ εὐαγγέλιον τῆς σωτηρίας ὑμῶν</reference>
-		<reference osisRef="EPH.1.17!9-EPH.1.17!12" type="Appositive" label="App" verse="EPH 1:17" >ὁ πατὴρ τῆς δόξης</reference>
-		<reference osisRef="EPH.1.19!11-EPH.1.19!20" type="Appositive" label="App" verse="EPH 1:19" >τοὺς πιστεύοντας κατὰ τὴν ἐνέργειαν τοῦ κράτους τῆς ἰσχύος αὐτοῦ</reference>
-		<reference osisRef="EPH.1.23!6-EPH.1.23!13" type="Appositive" label="App" verse="EPH 1:23" >τὸ πλήρωμα τοῦ τὰ πάντα ἐν πᾶσιν πληρουμένου</reference>
-		<reference osisRef="EPH.2.11!10-EPH.2.11!19" type="Appositive" label="App" verse="EPH 2:11" >οἱ λεγόμενοι ἀκροβυστία ὑπὸ τῆς λεγομένης περιτομῆς ἐν σαρκὶ χειροποιήτου</reference>
-		<reference osisRef="EPH.3.1!5-EPH.3.1!13" type="Appositive" label="App" verse="EPH 3:1" >ὁ δέσμιος τοῦ χριστοῦ ἰησοῦ ὑπὲρ ὑμῶν τῶν ἐθνῶν</reference>
-		<reference osisRef="EPH.4.1!5-EPH.4.1!8" type="Appositive" label="App" verse="EPH 4:1" >ὁ δέσμιος ἐν κυρίῳ</reference>
-		<reference osisRef="EPH.4.6!6-EPH.4.6!14" type="Appositive" label="App" verse="EPH 4:6" >ὁ ἐπὶ πάντων καὶ διὰ πάντων καὶ ἐν πᾶσιν</reference>
-		<reference osisRef="EPH.4.15!14" type="Appositive" label="App" verse="EPH 4:15" >χριστός</reference>
-		<reference osisRef="EPH.6.21!9-EPH.6.21!10" type="Appositive" label="App" verse="EPH 6:21" >τί πράσσω</reference>
-		<reference osisRef="EPH.6.21!15-EPH.6.21!22" type="Appositive" label="App" verse="EPH 6:21" >ὁ ἀγαπητὸς ἀδελφὸς καὶ πιστὸς διάκονος ἐν κυρίῳ</reference>
-		<reference osisRef="COL.1.8!1-COL.1.8!9" type="Appositive" label="App" verse="COL 1:8" >ὁ καὶ δηλώσας ἡμῖν τὴν ὑμῶν ἀγάπην ἐν πνεύματι</reference>
-		<reference osisRef="COL.1.14!6-COL.1.14!9" type="Appositive" label="App" verse="COL 1:14" >τὴν ἄφεσιν τῶν ἁμαρτιῶν</reference>
-		<reference osisRef="COL.1.15!8-COL.1.15!10" type="Appositive" label="App" verse="COL 1:15" >πρωτότοκος πάσης κτίσεως</reference>
-		<reference osisRef="COL.1.16!14-COL.1.16!18" type="Appositive" label="App" verse="COL 1:16" >τὰ ὁρατὰ καὶ τὰ ἀόρατα</reference>
-		<reference osisRef="COL.1.18!13-COL.1.18!16" type="Appositive" label="App" verse="COL 1:18" >πρωτότοκος ἐκ τῶν νεκρῶν</reference>
-		<reference osisRef="COL.1.26!1-COL.1.26!11" type="Appositive" label="App" verse="COL 1:26" >τὸ μυστήριον τὸ ἀποκεκρυμμένον ἀπὸ τῶν αἰώνων καὶ ἀπὸ τῶν γενεῶν</reference>
-		<reference osisRef="COL.3.5!9-COL.3.5!19" type="Appositive" label="App" verse="COL 3:5" >πορνείαν ἀκαθαρσίαν πάθος ἐπιθυμίαν κακήν καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία</reference>
-		<reference osisRef="COL.3.8!8-COL.3.8!16" type="Appositive" label="App" verse="COL 3:8" >ὀργήν θυμόν κακίαν βλασφημίαν αἰσχρολογίαν ἐκ τοῦ στόματος ὑμῶν</reference>
-		<reference osisRef="COL.3.10!5-COL.3.10!13" type="Appositive" label="App" verse="COL 3:10" >τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ’ εἰκόνα τοῦ κτίσαντος αὐτόν</reference>
-		<reference osisRef="COL.4.7!8-COL.4.7!17" type="Appositive" label="App" verse="COL 4:7" >ὁ ἀγαπητὸς ἀδελφὸς καὶ πιστὸς διάκονος καὶ σύνδουλος ἐν κυρίῳ</reference>
-		<reference osisRef="COL.4.12!4-COL.4.12!9" type="Appositive" label="App" verse="COL 4:12" >ὁ ἐξ ὑμῶν δοῦλος χριστοῦ ἰησοῦ</reference>
-		<reference osisRef="1TH.2.4!18-1TH.2.4!22" type="Appositive" label="App" verse="1TH 2:4" >τῷ δοκιμάζοντι τὰς καρδίας ἡμῶν</reference>
-		<reference osisRef="1TH.2.12!14-1TH.2.12!22" type="Appositive" label="App" verse="1TH 2:12" >τοῦ καλοῦντος ὑμᾶς εἰς τὴν ἑαυτοῦ βασιλείαν καὶ δόξαν</reference>
-		<reference osisRef="1TH.3.2!4-1TH.3.2!15" type="Appositive" label="App" verse="1TH 3:2" >τὸν ἀδελφὸν ἡμῶν καὶ συνεργὸν τοῦ θεοῦ ἐν τῷ εὐαγγελίῳ τοῦ χριστοῦ</reference>
-		<reference osisRef="1TH.4.8!10-1TH.4.8!19" type="Appositive" label="App" verse="1TH 4:8" >τὸν καὶ διδόντα τὸ πνεῦμα αὐτοῦ τὸ ἅγιον εἰς ὑμᾶς</reference>
-		<reference osisRef="1TH.5.10!1-1TH.5.10!4" type="Appositive" label="App" verse="1TH 5:10" >τοῦ ἀποθανόντος ὑπὲρ ἡμῶν</reference>
-		<reference osisRef="2TH.2.3!21-2TH.2.4!34" type="Appositive" label="App" verse="2TH 2:3 - 4" >ὁ υἱὸς τῆς ἀπωλείας ὁ ἀντικείμενος καὶ ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεὸν ἢ σέβασμα</reference>
-		<reference osisRef="1TI.1.12!6-1TI.1.12!10" type="Appositive" label="App" verse="1TI 1:12" >χριστῷ ἰησοῦ τῷ κυρίῳ ἡμῶν</reference>
-		<reference osisRef="1TI.3.15!17-1TI.3.15!21" type="Appositive" label="App" verse="1TI 3:15" >στῦλος καὶ ἑδραίωμα τῆς ἀληθείας</reference>
-		<reference osisRef="1TI.4.10!17-1TI.4.10!18" type="Appositive" label="App" verse="1TI 4:10" >μάλιστα πιστῶν</reference>
-		<reference osisRef="1TI.6.15!10-1TI.6.15!17" type="Appositive" label="App" verse="1TI 6:15" >ὁ βασιλεὺς τῶν βασιλευόντων καὶ κύριος τῶν κυριευόντων</reference>
-		<reference osisRef="1TI.6.16!1-1TI.6.16!7" type="Appositive" label="App" verse="1TI 6:16" >ὁ μόνος ἔχων ἀθανασίαν φῶς οἰκῶν ἀπρόσιτον</reference>
-		<reference osisRef="1TI.6.17!18-1TI.6.17!24" type="Appositive" label="App" verse="1TI 6:17" >τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν</reference>
-		<reference osisRef="2TI.1.8!11-2TI.1.8!13" type="Appositive" label="App" verse="2TI 1:8" >τὸν δέσμιον αὐτοῦ</reference>
-		<reference osisRef="2TI.4.1!8-2TI.4.1!21" type="Appositive" label="App" verse="2TI 4:1" >τοῦ μέλλοντος κρίνειν ζῶντας καὶ νεκρούς καὶ τὴν ἐπιφάνειαν αὐτοῦ καὶ τὴν βασιλείαν αὐτοῦ</reference>
-		<reference osisRef="TIT.1.12!5-TIT.1.12!7" type="Appositive" label="App" verse="TIT 1:12" >ἴδιος αὐτῶν προφήτης</reference>
-		<reference osisRef="HEB.2.15!4-HEB.2.15!13" type="Appositive" label="App" verse="HEB 2:15" >ὅσοι φόβῳ θανάτου διὰ παντὸς τοῦ ζῆν ἔνοχοι ἦσαν δουλείας</reference>
-		<reference osisRef="HEB.3.1!15" type="Appositive" label="App" verse="HEB 3:1" >ἰησοῦν</reference>
-		<reference osisRef="HEB.4.7!5" type="Appositive" label="App" verse="HEB 4:7" >σήμερον</reference>
-		<reference osisRef="HEB.4.14!8-HEB.4.14!12" type="Appositive" label="App" verse="HEB 4:14" >ἰησοῦν τὸν υἱὸν τοῦ θεοῦ</reference>
-		<reference osisRef="HEB.7.26!7-HEB.7.26!18" type="Appositive" label="App" verse="HEB 7:26" >ὅσιος ἄκακος ἀμίαντος κεχωρισμένος ἀπὸ τῶν ἁμαρτωλῶν καὶ ὑψηλότερος τῶν οὐρανῶν γενόμενος</reference>
-		<reference osisRef="HEB.9.10!9-HEB.9.10!14" type="Appositive" label="App" verse="HEB 9:10" >δικαιώματα σαρκὸς μέχρι καιροῦ διορθώσεως ἐπικείμενα</reference>
-		<reference osisRef="HEB.12.2!9" type="Appositive" label="App" verse="HEB 12:2" >ἰησοῦν</reference>
-		<reference osisRef="HEB.12.24!5" type="Appositive" label="App" verse="HEB 12:24" >ἰησοῦ</reference>
-		<reference osisRef="HEB.13.20!20-HEB.13.20!23" type="Appositive" label="App" verse="HEB 13:20" >τὸν κύριον ἡμῶν ἰησοῦν</reference>
-		<reference osisRef="JAS.1.25!7-JAS.1.25!9" type="Appositive" label="App" verse="JAS 1:25" >τὸν τῆς ἐλευθερίας</reference>
-		<reference osisRef="1PE.1.7!7-1PE.1.7!14" type="Appositive" label="App" verse="1PE 1:7" >πολυτιμότερον χρυσίου τοῦ ἀπολλυμένου διὰ πυρὸς δὲ δοκιμαζομένου</reference>
-		<reference osisRef="1PE.1.9!7-1PE.1.9!8" type="Appositive" label="App" verse="1PE 1:9" >σωτηρίαν ψυχῶν</reference>
-		<reference osisRef="1PE.1.19!9" type="Appositive" label="App" verse="1PE 1:19" >χριστοῦ</reference>
-		<reference osisRef="1PE.1.21!7-1PE.1.21!15" type="Appositive" label="App" verse="1PE 1:21" >τὸν ἐγείραντα αὐτὸν ἐκ νεκρῶν καὶ δόξαν αὐτῷ δόντα</reference>
-		<reference osisRef="1PE.2.6!11-1PE.2.6!12" type="Appositive" label="App" verse="1PE 2:6" >ἐκλεκτὸν ἔντιμον</reference>
-		<reference osisRef="1PE.5.12!3-1PE.5.12!8" type="Appositive" label="App" verse="1PE 5:12" >ὑμῖν τοῦ πιστοῦ ἀδελφοῦ ὡς λογίζομαι</reference>
-		<reference osisRef="1PE.5.13!9-1PE.5.13!11" type="Appositive" label="App" verse="1PE 5:13" >ὁ υἱός μου</reference>
-		<reference osisRef="1JN.2.16!7-1JN.2.16!20" type="Appositive" label="App" verse="1JN 2:16" >ἡ ἐπιθυμία τῆς σαρκὸς καὶ ἡ ἐπιθυμία τῶν ὀφθαλμῶν καὶ ἡ ἀλαζονεία τοῦ βίου</reference>
-		<reference osisRef="1JN.5.20!22-1JN.5.20!27" type="Appositive" label="App" verse="1JN 5:20" >ἐν τῷ υἱῷ αὐτοῦ ἰησοῦ χριστῷ</reference>
-		<reference osisRef="JUD.1.4!5-JUD.1.4!12" type="Appositive" label="App" verse="JUD 1:4" >οἱ πάλαι προγεγραμμένοι εἰς τοῦτο τὸ κρίμα ἀσεβεῖς</reference>
-		<reference osisRef="JUD.1.14!8" type="Appositive" label="App" verse="JUD 1:14" >ἑνὼχ</reference>
-		<reference osisRef="REV.1.5!5-REV.1.5!19" type="Appositive" label="App" verse="REV 1:5" >ὁ μάρτυς ὁ πιστός ὁ πρωτότοκος τῶν νεκρῶν καὶ ὁ ἄρχων τῶν βασιλέων τῆς γῆς</reference>
-		<reference osisRef="REV.1.8!12-REV.1.8!19" type="Appositive" label="App" verse="REV 1:8" >ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος</reference>
-		<reference osisRef="REV.1.8!20-REV.1.8!21" type="Appositive" label="App" verse="REV 1:8" >ὁ παντοκράτωρ</reference>
-		<reference osisRef="REV.1.11!12-REV.1.11!31" type="Appositive" label="App" verse="REV 1:11" >εἰς ἔφεσον καὶ εἰς σμύρναν καὶ εἰς πέργαμον καὶ εἰς θυάτειρα καὶ εἰς σάρδεις καὶ εἰς φιλαδέλφειαν καὶ εἰς λαοδίκειαν</reference>
-		<reference osisRef="REV.1.14!12-REV.1.14!13" type="Appositive" label="App" verse="REV 1:14" >ὡς χιὼν</reference>
-		<reference osisRef="REV.2.1!19-REV.2.1!27" type="Appositive" label="App" verse="REV 2:1" >ὁ περιπατῶν ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν</reference>
-		<reference osisRef="REV.2.13!4-REV.2.13!8" type="Appositive" label="App" verse="REV 2:13" >ὅπου ὁ θρόνος τοῦ σατανᾶ</reference>
-		<reference osisRef="REV.2.14!6-REV.2.14!26" type="Appositive" label="App" verse="REV 2:14" >ὅτι ἔχεις ἐκεῖ κρατοῦντας τὴν διδαχὴν βαλαάμ ὃς ἐδίδασκεν τῷ βαλὰκ βαλεῖν σκάνδαλον ἐνώπιον τῶν υἱῶν ἰσραὴλ φαγεῖν εἰδωλόθυτα καὶ πορνεῦσαι</reference>
-		<reference osisRef="REV.2.18!15-REV.2.18!28" type="Appositive" label="App" verse="REV 2:18" >ὁ ἔχων τοὺς ὀφθαλμοὺς αὐτοῦ ὡς φλόγα πυρὸς καὶ οἱ πόδες αὐτοῦ ὅμοιοι χαλκολιβάνῳ</reference>
-		<reference osisRef="REV.2.20!10-REV.2.20!13" type="Appositive" label="App" verse="REV 2:20" >ἡ λέγουσα ἑαυτὴν προφῆτιν</reference>
-		<reference osisRef="REV.3.7!13-REV.3.7!29" type="Appositive" label="App" verse="REV 3:7" >ὁ ἀληθινός ὁ ἔχων τὴν κλεῖν δαυίδ ὁ ἀνοίγων καὶ οὐδεὶς κλείσει καὶ κλείων καὶ οὐδεὶς ἀνοίγει</reference>
-		<reference osisRef="REV.3.9!8-REV.3.9!17" type="Appositive" label="App" verse="REV 3:9" >τῶν λεγόντων ἑαυτοὺς ἰουδαίους εἶναι καὶ οὐκ εἰσὶν ἀλλὰ ψεύδονται</reference>
-		<reference osisRef="REV.3.12!35-REV.3.12!46" type="Appositive" label="App" verse="REV 3:12" >τῆς καινῆς ἰερουσαλὴμ ἡ καταβαίνουσα ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ μου</reference>
-		<reference osisRef="REV.3.14!13-REV.3.14!24" type="Appositive" label="App" verse="REV 3:14" >ὁ μάρτυς ὁ πιστὸς καὶ ἀληθινός ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ</reference>
-		<reference osisRef="REV.4.8!32-REV.4.8!33" type="Appositive" label="App" verse="REV 4:8" >ὁ παντοκράτωρ</reference>
-		<reference osisRef="REV.4.8!34-REV.4.8!41" type="Appositive" label="App" verse="REV 4:8" >ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος</reference>
-		<reference osisRef="REV.4.9!16-REV.4.9!22" type="Appositive" label="App" verse="REV 4:9" >τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
-		<reference osisRef="REV.5.5!19-REV.5.5!21" type="Appositive" label="App" verse="REV 5:5" >ἡ ῥίζα δαυίδ</reference>
-		<reference osisRef="REV.7.4!7-REV.7.4!10" type="Appositive" label="App" verse="REV 7:4" >ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες</reference>
-		<reference osisRef="REV.7.10!11-REV.7.10!15" type="Appositive" label="App" verse="REV 7:10" >τῷ καθημένῳ ἐπὶ τῷ θρόνῳ</reference>
-		<reference osisRef="REV.9.11!5-REV.9.11!8" type="Appositive" label="App" verse="REV 9:11" >τὸν ἄγγελον τῆς ἀβύσσου</reference>
-		<reference osisRef="REV.9.14!5-REV.9.14!8" type="Appositive" label="App" verse="REV 9:14" >ὁ ἔχων τὴν σάλπιγγα</reference>
-		<reference osisRef="REV.10.6!11-REV.10.6!32" type="Appositive" label="App" verse="REV 10:6" >ὃς ἔκτισεν τὸν οὐρανὸν καὶ τὰ ἐν αὐτῷ καὶ τὴν γῆν καὶ τὰ ἐν αὐτῇ καὶ τὴν θάλασσαν καὶ τὰ ἐν αὐτῇ</reference>
-		<reference osisRef="REV.10.7!24-REV.10.7!25" type="Appositive" label="App" verse="REV 10:7" >τοὺς προφήτας</reference>
-		<reference osisRef="REV.11.17!4-REV.11.17!8" type="Appositive" label="App" verse="REV 11:17" >κύριε ὁ θεὸς ὁ παντοκράτωρ</reference>
-		<reference osisRef="REV.11.17!9-REV.11.17!13" type="Appositive" label="App" verse="REV 11:17" >ὁ ὢν καὶ ὁ ἦν</reference>
-		<reference osisRef="REV.11.18!23-REV.11.18!38" type="Appositive" label="App" verse="REV 11:18" >τοῖς προφήταις καὶ τοῖς ἁγίοις καὶ τοῖς φοβουμένοις τὸ ὄνομά σου τοὺς μικροὺς καὶ τοὺς μεγάλους</reference>
-		<reference osisRef="REV.12.9!11-REV.12.9!21" type="Appositive" label="App" verse="REV 12:9" >ὁ καλούμενος διάβολος καὶ ὁ σατανᾶς ὁ πλανῶν τὴν οἰκουμένην ὅλην</reference>
-		<reference osisRef="REV.12.10!35-REV.12.10!44" type="Appositive" label="App" verse="REV 12:10" >ὁ κατηγορῶν αὐτοὺς ἐνώπιον τοῦ θεοῦ ἡμῶν ἡμέρας καὶ νυκτός</reference>
-		<reference osisRef="REV.12.17!18-REV.12.17!28" type="Appositive" label="App" verse="REV 12:17" >τῶν τηρούντων τὰς ἐντολὰς τοῦ θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν ἰησοῦ</reference>
-		<reference osisRef="REV.13.6!19-REV.13.6!23" type="Appositive" label="App" verse="REV 13:6" >τοὺς ἐν τῷ οὐρανῷ σκηνοῦντας</reference>
-		<reference osisRef="REV.13.16!4-REV.13.16!20" type="Appositive" label="App" verse="REV 13:16" >τοὺς μικροὺς καὶ τοὺς μεγάλους καὶ τοὺς πλουσίους καὶ τοὺς πτωχούς καὶ τοὺς ἐλευθέρους καὶ τοὺς δούλους</reference>
-		<reference osisRef="REV.15.1!11-REV.15.1!17" type="Appositive" label="App" verse="REV 15:1" >ἀγγέλους ἑπτὰ ἔχοντας πληγὰς ἑπτὰ τὰς ἐσχάτας</reference>
-		<reference osisRef="REV.16.9!13-REV.16.9!20" type="Appositive" label="App" verse="REV 16:9" >τοῦ ἔχοντος τὴν ἐξουσίαν ἐπὶ τὰς πληγὰς ταύτας</reference>
-		<reference osisRef="REV.16.14!26-REV.16.14!27" type="Appositive" label="App" verse="REV 16:14" >τοῦ παντοκράτορος</reference>
-		<reference osisRef="REV.17.7!22-REV.17.7!30" type="Appositive" label="App" verse="REV 17:7" >τοῦ ἔχοντος τὰς ἑπτὰ κεφαλὰς καὶ τὰ δέκα κέρατα</reference>
-		<reference osisRef="REV.18.8!10-REV.18.8!14" type="Appositive" label="App" verse="REV 18:8" >θάνατος καὶ πένθος καὶ λιμός</reference>
-		<reference osisRef="REV.18.8!24-REV.18.8!26" type="Appositive" label="App" verse="REV 18:8" >ὁ κρίνας αὐτήν</reference>
-		<reference osisRef="REV.18.9!11-REV.18.9!16" type="Appositive" label="App" verse="REV 18:9" >οἱ μετ’ αὐτῆς πορνεύσαντες καὶ στρηνιάσαντες</reference>
-		<reference osisRef="REV.19.5!20-REV.19.5!24" type="Appositive" label="App" verse="REV 19:5" >οἱ μικροὶ καὶ οἱ μεγάλοι</reference>
-		<reference osisRef="REV.19.6!25-REV.19.6!26" type="Appositive" label="App" verse="REV 19:6" >ὁ παντοκράτωρ</reference>
-		<reference osisRef="REV.19.15!35-REV.19.15!36" type="Appositive" label="App" verse="REV 19:15" >τοῦ παντοκράτορος</reference>
-		<reference osisRef="REV.19.16!13-REV.19.16!17" type="Appositive" label="App" verse="REV 19:16" >βασιλεὺς βασιλέων καὶ κύριος κυρίων</reference>
-		<reference osisRef="REV.19.18!22-REV.19.18!29" type="Appositive" label="App" verse="REV 19:18" >ἐλευθέρων τε καὶ δούλων καὶ μικρῶν καὶ μεγάλων</reference>
-		<reference osisRef="REV.19.20!10-REV.19.20!30" type="Appositive" label="App" verse="REV 19:20" >ὁ ποιήσας τὰ σημεῖα ἐνώπιον αὐτοῦ ἐν οἷς ἐπλάνησεν τοὺς λαβόντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς προσκυνοῦντας τῇ εἰκόνι αὐτοῦ</reference>
-		<reference osisRef="REV.21.2!6-REV.21.2!7" type="Appositive" label="App" verse="REV 21:2" >ἰερουσαλὴμ καινὴν</reference>
-		<reference osisRef="REV.21.6!12-REV.21.6!16" type="Appositive" label="App" verse="REV 21:6" >ἡ ἀρχὴ καὶ τὸ τέλος</reference>
-		<reference osisRef="REV.21.9!30-REV.21.9!33" type="Appositive" label="App" verse="REV 21:9" >τὴν γυναῖκα τοῦ ἀρνίου</reference>
-		<reference osisRef="REV.21.10!18" type="Appositive" label="App" verse="REV 21:10" >ἰερουσαλὴμ</reference>
-		<reference osisRef="REV.22.13!7-REV.22.13!11" type="Appositive" label="App" verse="REV 22:13" >ὁ πρῶτος καὶ ὁ ἔσχατος</reference>
-		<reference osisRef="REV.22.13!12-REV.22.13!16" type="Appositive" label="App" verse="REV 22:13" >ἡ ἀρχὴ καὶ τὸ τέλος</reference>
+		<reference osisRef="Matt.2.11!26-Matt.2.11!30" type="Appositive" label="App" verse="Matt 2:11" >χρυσὸν καὶ λίβανον καὶ σμύρναν</reference>
+		<reference osisRef="Matt.4.18!11-Matt.4.18!19" type="Appositive" label="App" verse="Matt 4:18" >σίμωνα τὸν λεγόμενον πέτρον καὶ ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ</reference>
+		<reference osisRef="Matt.4.21!8-Matt.4.21!16" type="Appositive" label="App" verse="Matt 4:21" >ἰάκωβον τὸν τοῦ ζεβεδαίου καὶ ἰωάννην τὸν ἀδελφὸν αὐτοῦ</reference>
+		<reference osisRef="Matt.9.8!10-Matt.9.8!15" type="Appositive" label="App" verse="Matt 9:8" >τὸν δόντα ἐξουσίαν τοιαύτην τοῖς ἀνθρώποις</reference>
+		<reference osisRef="Matt.12.24!16-Matt.12.24!18" type="Appositive" label="App" verse="Matt 12:24" >ἄρχοντι τῶν δαιμονίων</reference>
+		<reference osisRef="Matt.14.20!12-Matt.14.20!14" type="Appositive" label="App" verse="Matt 14:20" >δώδεκα κοφίνους πλήρεις</reference>
+		<reference osisRef="Matt.17.4!20-Matt.17.4!27" type="Appositive" label="App" verse="Matt 17:4" >σοὶ μίαν καὶ μωϋσεῖ μίαν καὶ ἠλίᾳ μίαν</reference>
+		<reference osisRef="Matt.22.10!13-Matt.22.10!16" type="Appositive" label="App" verse="Matt 22:10" >πονηρούς τε καὶ ἀγαθούς</reference>
+		<reference osisRef="Matt.23.23!23-Matt.23.23!30" type="Appositive" label="App" verse="Matt 23:23" >τὴν κρίσιν καὶ τὸ ἔλεος καὶ τὴν πίστιν</reference>
+		<reference osisRef="Matt.27.38!7-Matt.27.38!13" type="Appositive" label="App" verse="Matt 27:38" >εἷς ἐκ δεξιῶν καὶ εἷς ἐξ εὐωνύμων</reference>
+		<reference osisRef="Mark.2.7!13-Mark.2.7!14" type="Appositive" label="App" verse="Mark 2:7" >ὁ θεός</reference>
+		<reference osisRef="Mark.5.15!14-Mark.5.15!17" type="Appositive" label="App" verse="Mark 5:15" >τὸν ἐσχηκότα τὸν λεγιῶνα</reference>
+		<reference osisRef="Mark.8.8!9-Mark.8.8!10" type="Appositive" label="App" verse="Mark 8:8" >ἑπτὰ σπυρίδας</reference>
+		<reference osisRef="Mark.9.43!27-Mark.9.43!31" type="Appositive" label="App" verse="Mark 9:43" >εἰς τὸ πῦρ τὸ ἄσβεστον</reference>
+		<reference osisRef="Mark.10.18!15-Mark.10.18!16" type="Appositive" label="App" verse="Mark 10:18" >ὁ θεός</reference>
+		<reference osisRef="Mark.14.43!8-Mark.14.43!10" type="Appositive" label="App" verse="Mark 14:43" >εἷς τῶν δώδεκα</reference>
+		<reference osisRef="Luke.1.19!10-Luke.1.19!14" type="Appositive" label="App" verse="Luke 1:19" >ὁ παρεστηκὼς ἐνώπιον τοῦ θεοῦ</reference>
+		<reference osisRef="Luke.1.36!20-Luke.1.36!22" type="Appositive" label="App" verse="Luke 1:36" >τῇ καλουμένῃ στείρᾳ</reference>
+		<reference osisRef="Luke.2.21!15-Luke.2.21!26" type="Appositive" label="App" verse="Luke 2:21" >τὸ κληθὲν ὑπὸ τοῦ ἀγγέλου πρὸ τοῦ συλλημφθῆναι αὐτὸν ἐν τῇ κοιλίᾳ</reference>
+		<reference osisRef="Luke.4.31!5-Luke.4.31!7" type="Appositive" label="App" verse="Luke 4:31" >πόλιν τῆς γαλιλαίας</reference>
+		<reference osisRef="Luke.8.28!16-Luke.8.28!21" type="Appositive" label="App" verse="Luke 8:28" >ἰησοῦ υἱὲ τοῦ θεοῦ τοῦ ὑψίστου</reference>
+		<reference osisRef="Luke.9.17!11-Luke.9.17!13" type="Appositive" label="App" verse="Luke 9:17" >κλασμάτων κόφινοι δώδεκα</reference>
+		<reference osisRef="Luke.12.33!13-Luke.12.33!17" type="Appositive" label="App" verse="Luke 12:33" >θησαυρὸν ἀνέκλειπτον ἐν τοῖς οὐρανοῖς</reference>
+		<reference osisRef="Luke.18.11!20-Luke.18.11!28" type="Appositive" label="App" verse="Luke 18:11" >ἅρπαγες ἄδικοι μοιχοί ἢ καὶ ὡς οὗτος ὁ τελώνης</reference>
+		<reference osisRef="Luke.18.13!25-Luke.18.13!26" type="Appositive" label="App" verse="Luke 18:13" >τῷ ἁμαρτωλῷ</reference>
+		<reference osisRef="Luke.18.19!15-Luke.18.19!16" type="Appositive" label="App" verse="Luke 18:19" >ὁ θεός</reference>
+		<reference osisRef="Luke.20.27!6-Luke.20.27!10" type="Appositive" label="App" verse="Luke 20:27" >οἱ [ἀντι]λέγοντες ἀνάστασιν μὴ εἶναι</reference>
+		<reference osisRef="Luke.20.46!5-Luke.20.46!25" type="Appositive" label="App" verse="Luke 20:46" >τῶν θελόντων περιπατεῖν ἐν στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς καὶ πρωτοκλισίας ἐν τοῖς δείπνοις</reference>
+		<reference osisRef="Luke.22.1!7-Luke.22.1!9" type="Appositive" label="App" verse="Luke 22:1" >ἡ λεγομένη πάσχα</reference>
+		<reference osisRef="Luke.22.66!10-Luke.22.66!13" type="Appositive" label="App" verse="Luke 22:66" >ἀρχιερεῖς τε καὶ γραμματεῖς</reference>
+		<reference osisRef="Luke.23.35!23-Luke.23.35!24" type="Appositive" label="App" verse="Luke 23:35" >ὁ ἐκλεκτός</reference>
+		<reference osisRef="Luke.24.24!13-Luke.24.24!17" type="Appositive" label="App" verse="Luke 24:24" >καθὼς καὶ αἱ γυναῖκες εἶπον</reference>
+		<reference osisRef="John.1.14!15-John.1.14!23" type="Appositive" label="App" verse="John 1:14" >δόξαν ὡς μονογενοῦς παρὰ πατρός πλήρης χάριτος καὶ ἀληθείας</reference>
+		<reference osisRef="John.1.29!16-John.1.29!21" type="Appositive" label="App" verse="John 1:29" >ὁ αἴρων τὴν ἁμαρτίαν τοῦ κόσμου</reference>
+		<reference osisRef="John.1.41!8" type="Appositive" label="App" verse="John 1:41" >σίμωνα</reference>
+		<reference osisRef="John.1.44!7-John.1.44!12" type="Appositive" label="App" verse="John 1:44" >ἐκ τῆς πόλεως ἀνδρέου καὶ πέτρου</reference>
+		<reference osisRef="John.3.13!14-John.3.13!17" type="Appositive" label="App" verse="John 3:13" >ὁ υἱὸς τοῦ ἀνθρώπου</reference>
+		<reference osisRef="John.5.23!19-John.5.23!21" type="Appositive" label="App" verse="John 5:23" >τὸν πέμψαντα αὐτόν</reference>
+		<reference osisRef="John.5.45!14" type="Appositive" label="App" verse="John 5:45" >μωϋσῆς</reference>
+		<reference osisRef="John.6.1!11-John.6.1!12" type="Appositive" label="App" verse="John 6:1" >τῆς τιβεριάδος</reference>
+		<reference osisRef="John.6.4!6-John.6.4!9" type="Appositive" label="App" verse="John 6:4" >ἡ ἑορτὴ τῶν ἰουδαίων</reference>
+		<reference osisRef="John.6.8!8-John.6.8!12" type="Appositive" label="App" verse="John 6:8" >ἀνδρέας ὁ ἀδελφὸς σίμωνος πέτρου</reference>
+		<reference osisRef="John.7.37!6-John.7.37!9" type="Appositive" label="App" verse="John 7:37" >τῇ μεγάλῃ τῆς ἑορτῆς</reference>
+		<reference osisRef="John.9.16!12-John.9.16!13" type="Appositive" label="App" verse="John 9:16" >ὁ ἄνθρωπος</reference>
+		<reference osisRef="John.9.18!19-John.9.18!20" type="Appositive" label="App" verse="John 9:18" >τοῦ ἀναβλέψαντος</reference>
+		<reference osisRef="John.11.1!5-John.11.1!7" type="Appositive" label="App" verse="John 11:1" >λάζαρος ἀπὸ βηθανίας</reference>
+		<reference osisRef="John.11.18!8-John.11.18!11" type="Appositive" label="App" verse="John 11:18" >ὡς ἀπὸ σταδίων δεκαπέντε</reference>
+		<reference osisRef="John.11.27!12-John.11.27!15" type="Appositive" label="App" verse="John 11:27" >ὁ υἱὸς τοῦ θεοῦ</reference>
+		<reference osisRef="John.11.27!16-John.11.27!20" type="Appositive" label="App" verse="John 11:27" >ὁ εἰς τὸν κόσμον ἐρχόμενος</reference>
+		<reference osisRef="John.11.37!9-John.11.37!14" type="Appositive" label="App" verse="John 11:37" >ὁ ἀνοίξας τοὺς ὀφθαλμοὺς τοῦ τυφλοῦ</reference>
+		<reference osisRef="John.11.39!13" type="Appositive" label="App" verse="John 11:39" >μάρθα</reference>
+		<reference osisRef="John.11.49!6" type="Appositive" label="App" verse="John 11:49" >καϊάφας</reference>
+		<reference osisRef="John.12.1!12-John.12.1!19" type="Appositive" label="App" verse="John 12:1" >ὅπου ἦν λάζαρος ὃν ἤγειρεν ἐκ νεκρῶν ἰησοῦς</reference>
+		<reference osisRef="John.12.4!6-John.12.4!14" type="Appositive" label="App" verse="John 12:4" >εἷς ἐκ τῶν μαθητῶν αὐτοῦ ὁ μέλλων αὐτὸν παραδιδόναι</reference>
+		<reference osisRef="John.12.13!20-John.12.13!24" type="Appositive" label="App" verse="John 12:13" >καὶ ὁ βασιλεὺς τοῦ ἰσραήλ</reference>
+		<reference osisRef="John.15.26!12-John.15.26!20" type="Appositive" label="App" verse="John 15:26" >τὸ πνεῦμα τῆς ἀληθείας ὃ παρὰ τοῦ πατρὸς ἐκπορεύεται</reference>
+		<reference osisRef="John.16.13!5-John.16.13!8" type="Appositive" label="App" verse="John 16:13" >τὸ πνεῦμα τῆς ἀληθείας</reference>
+		<reference osisRef="John.17.3!10-John.17.3!13" type="Appositive" label="App" verse="John 17:3" >τὸν μόνον ἀληθινὸν θεὸν</reference>
+		<reference osisRef="John.17.3!17-John.17.3!18" type="Appositive" label="App" verse="John 17:3" >ἰησοῦν χριστόν</reference>
+		<reference osisRef="John.19.23!16-John.19.23!18" type="Appositive" label="App" verse="John 19:23" >ἑκάστῳ στρατιώτῃ μέρος</reference>
+		<reference osisRef="John.19.39!5-John.19.39!11" type="Appositive" label="App" verse="John 19:39" >ὁ ἐλθὼν πρὸς αὐτὸν νυκτὸς τὸ πρῶτον</reference>
+		<reference osisRef="John.20.8!8-John.20.8!13" type="Appositive" label="App" verse="John 20:8" >ὁ ἐλθὼν πρῶτος εἰς τὸ μνημεῖον</reference>
+		<reference osisRef="John.21.11!15-John.21.11!17" type="Appositive" label="App" verse="John 21:11" >ἑκατὸν πεντήκοντα τριῶν</reference>
+		<reference osisRef="Acts.3.20!15-Acts.3.20!16" type="Appositive" label="App" verse="Acts 3:20" >χριστὸν ἰησοῦν</reference>
+		<reference osisRef="Acts.5.14!7-Acts.5.14!11" type="Appositive" label="App" verse="Acts 5:14" >πλήθη ἀνδρῶν τε καὶ γυναικῶν</reference>
+		<reference osisRef="Acts.6.5!12-Acts.6.5!17" type="Appositive" label="App" verse="Acts 6:5" >ἄνδρα πλήρης πίστεως καὶ πνεύματος ἁγίου</reference>
+		<reference osisRef="Acts.7.14!13-Acts.7.14!16" type="Appositive" label="App" verse="Acts 7:14" >ἐν ψυχαῖς ἑβδομήκοντα πέντε</reference>
+		<reference osisRef="Acts.7.32!7-Acts.7.32!13" type="Appositive" label="App" verse="Acts 7:32" >ὁ θεὸς ἀβραὰμ καὶ ἰσαὰκ καὶ ἰακώβ</reference>
+		<reference osisRef="Acts.7.43!14-Acts.7.43!19" type="Appositive" label="App" verse="Acts 7:43" >τοὺς τύπους οὓς ἐποιήσατε προσκυνεῖν αὐτοῖς</reference>
+		<reference osisRef="Acts.9.2!17-Acts.9.2!20" type="Appositive" label="App" verse="Acts 9:2" >ἄνδρας τε καὶ γυναῖκας</reference>
+		<reference osisRef="Acts.9.12!6-Acts.9.12!7" type="Appositive" label="App" verse="Acts 9:12" >ἁνανίαν ὀνόματι</reference>
+		<reference osisRef="Acts.9.17!22" type="Appositive" label="App" verse="Acts 9:17" >ἰησοῦς</reference>
+		<reference osisRef="Acts.9.17!23-Acts.9.17!30" type="Appositive" label="App" verse="Acts 9:17" >ὁ ὀφθείς σοι ἐν τῇ ὁδῷ ᾗ ἤρχου</reference>
+		<reference osisRef="Acts.10.41!12-Acts.10.41!23" type="Appositive" label="App" verse="Acts 10:41" >ἡμῖν οἵτινες συνεφάγομεν καὶ συνεπίομεν αὐτῷ μετὰ τὸ ἀναστῆναι αὐτὸν ἐκ νεκρῶν</reference>
+		<reference osisRef="Acts.13.1!12-Acts.13.1!31" type="Appositive" label="App" verse="Acts 13:1" >ὅ τε βαρναβᾶς καὶ συμεὼν ὁ καλούμενος νίγερ καὶ λούκιος ὁ κυρηναῖος μαναήν τε ἡρῴδου τοῦ τετραάρχου σύντροφος καὶ σαῦλος</reference>
+		<reference osisRef="Acts.13.6!12-Acts.13.6!16" type="Appositive" label="App" verse="Acts 13:6" >ψευδοπροφήτην ἰουδαῖον ᾧ ὄνομα βαριησοῦ</reference>
+		<reference osisRef="Acts.13.7!8-Acts.13.7!9" type="Appositive" label="App" verse="Acts 13:7" >ἀνδρὶ συνετῷ</reference>
+		<reference osisRef="Acts.13.9!3-Acts.13.9!5" type="Appositive" label="App" verse="Acts 13:9" >ὁ καὶ παῦλος</reference>
+		<reference osisRef="Acts.13.21!13-Acts.13.21!16" type="Appositive" label="App" verse="Acts 13:21" >ἄνδρα ἐκ φυλῆς βενιαμίν</reference>
+		<reference osisRef="Acts.13.23!13" type="Appositive" label="App" verse="Acts 13:23" >ἰησοῦν</reference>
+		<reference osisRef="Acts.13.33!9" type="Appositive" label="App" verse="Acts 13:33" >ἡμῖν</reference>
+		<reference osisRef="Acts.14.6!8-Acts.14.6!10" type="Appositive" label="App" verse="Acts 14:6" >λύστραν καὶ δέρβην</reference>
+		<reference osisRef="Acts.15.22!30-Acts.15.22!34" type="Appositive" label="App" verse="Acts 15:22" >ἄνδρας ἡγουμένους ἐν τοῖς ἀδελφοῖς</reference>
+		<reference osisRef="Acts.15.26!1-Acts.15.26!13" type="Appositive" label="App" verse="Acts 15:26" >ἀνθρώποις παραδεδωκόσι τὰς ψυχὰς αὐτῶν ὑπὲρ τοῦ ὀνόματος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ</reference>
+		<reference osisRef="Acts.16.12!11" type="Appositive" label="App" verse="Acts 16:12" >κολωνία</reference>
+		<reference osisRef="Acts.19.22!10-Acts.19.22!12" type="Appositive" label="App" verse="Acts 19:22" >τιμόθεον καὶ ἔραστον</reference>
+		<reference osisRef="Acts.19.29!17-Acts.19.29!19" type="Appositive" label="App" verse="Acts 19:29" >μακεδόνας συνεκδήμους παύλου</reference>
+		<reference osisRef="Rom.1.16!15-Rom.1.16!19" type="Appositive" label="App" verse="Rom 1:16" >ἰουδαίῳ τε πρῶτον καὶ ἕλληνι</reference>
+		<reference osisRef="Rom.2.1!6-Rom.2.1!8" type="Appositive" label="App" verse="Rom 2:1" >πᾶς ὁ κρίνων</reference>
+		<reference osisRef="Rom.2.3!6-Rom.2.3!14" type="Appositive" label="App" verse="Rom 2:3" >ὁ κρίνων τοὺς τὰ τοιαῦτα πράσσοντας καὶ ποιῶν αὐτά</reference>
+		<reference osisRef="Rom.2.27!11-Rom.2.27!17" type="Appositive" label="App" verse="Rom 2:27" >τὸν διὰ γράμματος καὶ περιτομῆς παραβάτην νόμου</reference>
+		<reference osisRef="Rom.3.5!15-Rom.3.5!18" type="Appositive" label="App" verse="Rom 3:5" >ὁ ἐπιφέρων τὴν ὀργήν</reference>
+		<reference osisRef="Rom.4.16!17-Rom.4.16!28" type="Appositive" label="App" verse="Rom 4:16" >οὐ τῷ ἐκ τοῦ νόμου μόνον ἀλλὰ καὶ τῷ ἐκ πίστεως ἀβραάμ</reference>
+		<reference osisRef="Rom.4.17!13-Rom.4.17!23" type="Appositive" label="App" verse="Rom 4:17" >τοῦ ζῳοποιοῦντος τοὺς νεκροὺς καὶ καλοῦντος τὰ μὴ ὄντα ὡς ὄντα</reference>
+		<reference osisRef="Rom.4.24!8-Rom.4.24!18" type="Appositive" label="App" verse="Rom 4:24" >τοῖς πιστεύουσιν ἐπὶ τὸν ἐγείραντα ἰησοῦν τὸν κύριον ἡμῶν ἐκ νεκρῶν</reference>
+		<reference osisRef="Rom.7.4!19-Rom.7.4!22" type="Appositive" label="App" verse="Rom 7:4" >τῷ ἐκ νεκρῶν ἐγερθέντι</reference>
+		<reference osisRef="Rom.7.18!8-Rom.7.18!13" type="Appositive" label="App" verse="Rom 7:18" >τοῦτ’ ἔστιν ἐν τῇ σαρκί μου</reference>
+		<reference osisRef="Rom.8.4!9-Rom.8.4!16" type="Appositive" label="App" verse="Rom 8:4" >τοῖς μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα</reference>
+		<reference osisRef="Rom.8.17!6-Rom.8.17!11" type="Appositive" label="App" verse="Rom 8:17" >κληρονόμοι μὲν θεοῦ συγκληρονόμοι δὲ χριστοῦ</reference>
+		<reference osisRef="Rom.9.30!12-Rom.9.30!16" type="Appositive" label="App" verse="Rom 9:30" >δικαιοσύνην δὲ τὴν ἐκ πίστεως</reference>
+		<reference osisRef="Rom.12.2!22-Rom.12.2!27" type="Appositive" label="App" verse="Rom 12:2" >τὸ ἀγαθὸν καὶ εὐάρεστον καὶ τέλειον</reference>
+		<reference osisRef="Rom.15.12!10-Rom.15.12!14" type="Appositive" label="App" verse="Rom 15:12" >καὶ ὁ ἀνιστάμενος ἄρχειν ἐθνῶν</reference>
+		<reference osisRef="Rom.16.3!5-Rom.16.3!10" type="Appositive" label="App" verse="Rom 16:3" >τοὺς συνεργούς μου ἐν χριστῷ ἰησοῦ</reference>
+		<reference osisRef="Rom.16.7!5-Rom.16.7!10" type="Appositive" label="App" verse="Rom 16:7" >τοὺς συγγενεῖς μου καὶ συναιχμαλώτους μου</reference>
+		<reference osisRef="Rom.16.22!5-Rom.16.22!8" type="Appositive" label="App" verse="Rom 16:22" >ὁ γράψας τὴν ἐπιστολὴν</reference>
+		<reference osisRef="1Cor.2.6!19-1Cor.2.6!20" type="Appositive" label="App" verse="1Cor 2:6" >τῶν καταργουμένων</reference>
+		<reference osisRef="1Cor.3.1!12-1Cor.3.1!15" type="Appositive" label="App" verse="1Cor 3:1" >ὡς νηπίοις ἐν χριστῷ</reference>
+		<reference osisRef="1Cor.5.1!6-1Cor.5.1!13" type="Appositive" label="App" verse="1Cor 5:1" >καὶ τοιαύτη πορνεία ἥτις οὐδὲ ἐν τοῖς ἔθνεσιν</reference>
+		<reference osisRef="1Cor.8.10!6-1Cor.8.10!8" type="Appositive" label="App" verse="1Cor 8:10" >τὸν ἔχοντα γνῶσιν</reference>
+		<reference osisRef="1Cor.12.18!8-1Cor.12.18!10" type="Appositive" label="App" verse="1Cor 12:18" >ἓν ἕκαστον αὐτῶν</reference>
+		<reference osisRef="1Cor.13.13!7-1Cor.13.13!9" type="Appositive" label="App" verse="1Cor 13:13" >τὰ τρία ταῦτα</reference>
+		<reference osisRef="1Cor.15.52!3-1Cor.15.52!9" type="Appositive" label="App" verse="1Cor 15:52" >ἐν ῥιπῇ ὀφθαλμοῦ ἐν τῇ ἐσχάτῃ σάλπιγγι</reference>
+		<reference osisRef="1Cor.16.21!6" type="Appositive" label="App" verse="1Cor 16:21" >παύλου</reference>
+		<reference osisRef="2Cor.5.10!22-2Cor.5.10!25" type="Appositive" label="App" verse="2Cor 5:10" >εἴτε ἀγαθὸν εἴτε φαῦλον</reference>
+		<reference osisRef="Gal.2.20!19-Gal.2.20!31" type="Appositive" label="App" verse="Gal 2:20" >τῇ τοῦ υἱοῦ τοῦ θεοῦ τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ</reference>
+		<reference osisRef="Gal.4.24!9-Gal.4.24!19" type="Appositive" label="App" verse="Gal 4:24" >μία μὲν ἀπὸ ὄρους σινᾶ εἰς δουλείαν γεννῶσα ἥτις ἐστὶν ἁγάρ</reference>
+		<reference osisRef="Eph.1.3!11-Eph.1.3!22" type="Appositive" label="App" verse="Eph 1:3" >ὁ εὐλογήσας ἡμᾶς ἐν πάσῃ εὐλογίᾳ πνευματικῇ ἐν τοῖς ἐπουρανίοις ἐν χριστῷ</reference>
+		<reference osisRef="Eph.1.7!10-Eph.1.7!13" type="Appositive" label="App" verse="Eph 1:7" >τὴν ἄφεσιν τῶν παραπτωμάτων</reference>
+		<reference osisRef="Eph.1.13!10-Eph.1.13!14" type="Appositive" label="App" verse="Eph 1:13" >τὸ εὐαγγέλιον τῆς σωτηρίας ὑμῶν</reference>
+		<reference osisRef="Eph.1.17!9-Eph.1.17!12" type="Appositive" label="App" verse="Eph 1:17" >ὁ πατὴρ τῆς δόξης</reference>
+		<reference osisRef="Eph.1.19!11-Eph.1.19!20" type="Appositive" label="App" verse="Eph 1:19" >τοὺς πιστεύοντας κατὰ τὴν ἐνέργειαν τοῦ κράτους τῆς ἰσχύος αὐτοῦ</reference>
+		<reference osisRef="Eph.1.23!6-Eph.1.23!13" type="Appositive" label="App" verse="Eph 1:23" >τὸ πλήρωμα τοῦ τὰ πάντα ἐν πᾶσιν πληρουμένου</reference>
+		<reference osisRef="Eph.2.11!10-Eph.2.11!19" type="Appositive" label="App" verse="Eph 2:11" >οἱ λεγόμενοι ἀκροβυστία ὑπὸ τῆς λεγομένης περιτομῆς ἐν σαρκὶ χειροποιήτου</reference>
+		<reference osisRef="Eph.3.1!5-Eph.3.1!13" type="Appositive" label="App" verse="Eph 3:1" >ὁ δέσμιος τοῦ χριστοῦ ἰησοῦ ὑπὲρ ὑμῶν τῶν ἐθνῶν</reference>
+		<reference osisRef="Eph.4.1!5-Eph.4.1!8" type="Appositive" label="App" verse="Eph 4:1" >ὁ δέσμιος ἐν κυρίῳ</reference>
+		<reference osisRef="Eph.4.6!6-Eph.4.6!14" type="Appositive" label="App" verse="Eph 4:6" >ὁ ἐπὶ πάντων καὶ διὰ πάντων καὶ ἐν πᾶσιν</reference>
+		<reference osisRef="Eph.4.15!14" type="Appositive" label="App" verse="Eph 4:15" >χριστός</reference>
+		<reference osisRef="Eph.6.21!9-Eph.6.21!10" type="Appositive" label="App" verse="Eph 6:21" >τί πράσσω</reference>
+		<reference osisRef="Eph.6.21!15-Eph.6.21!22" type="Appositive" label="App" verse="Eph 6:21" >ὁ ἀγαπητὸς ἀδελφὸς καὶ πιστὸς διάκονος ἐν κυρίῳ</reference>
+		<reference osisRef="Col.1.8!1-Col.1.8!9" type="Appositive" label="App" verse="Col 1:8" >ὁ καὶ δηλώσας ἡμῖν τὴν ὑμῶν ἀγάπην ἐν πνεύματι</reference>
+		<reference osisRef="Col.1.14!6-Col.1.14!9" type="Appositive" label="App" verse="Col 1:14" >τὴν ἄφεσιν τῶν ἁμαρτιῶν</reference>
+		<reference osisRef="Col.1.15!8-Col.1.15!10" type="Appositive" label="App" verse="Col 1:15" >πρωτότοκος πάσης κτίσεως</reference>
+		<reference osisRef="Col.1.16!14-Col.1.16!18" type="Appositive" label="App" verse="Col 1:16" >τὰ ὁρατὰ καὶ τὰ ἀόρατα</reference>
+		<reference osisRef="Col.1.18!13-Col.1.18!16" type="Appositive" label="App" verse="Col 1:18" >πρωτότοκος ἐκ τῶν νεκρῶν</reference>
+		<reference osisRef="Col.1.26!1-Col.1.26!11" type="Appositive" label="App" verse="Col 1:26" >τὸ μυστήριον τὸ ἀποκεκρυμμένον ἀπὸ τῶν αἰώνων καὶ ἀπὸ τῶν γενεῶν</reference>
+		<reference osisRef="Col.3.5!9-Col.3.5!19" type="Appositive" label="App" verse="Col 3:5" >πορνείαν ἀκαθαρσίαν πάθος ἐπιθυμίαν κακήν καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία</reference>
+		<reference osisRef="Col.3.8!8-Col.3.8!16" type="Appositive" label="App" verse="Col 3:8" >ὀργήν θυμόν κακίαν βλασφημίαν αἰσχρολογίαν ἐκ τοῦ στόματος ὑμῶν</reference>
+		<reference osisRef="Col.3.10!5-Col.3.10!13" type="Appositive" label="App" verse="Col 3:10" >τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ’ εἰκόνα τοῦ κτίσαντος αὐτόν</reference>
+		<reference osisRef="Col.4.7!8-Col.4.7!17" type="Appositive" label="App" verse="Col 4:7" >ὁ ἀγαπητὸς ἀδελφὸς καὶ πιστὸς διάκονος καὶ σύνδουλος ἐν κυρίῳ</reference>
+		<reference osisRef="Col.4.12!4-Col.4.12!9" type="Appositive" label="App" verse="Col 4:12" >ὁ ἐξ ὑμῶν δοῦλος χριστοῦ ἰησοῦ</reference>
+		<reference osisRef="1Thess.2.4!18-1Thess.2.4!22" type="Appositive" label="App" verse="1Thess 2:4" >τῷ δοκιμάζοντι τὰς καρδίας ἡμῶν</reference>
+		<reference osisRef="1Thess.2.12!14-1Thess.2.12!22" type="Appositive" label="App" verse="1Thess 2:12" >τοῦ καλοῦντος ὑμᾶς εἰς τὴν ἑαυτοῦ βασιλείαν καὶ δόξαν</reference>
+		<reference osisRef="1Thess.3.2!4-1Thess.3.2!15" type="Appositive" label="App" verse="1Thess 3:2" >τὸν ἀδελφὸν ἡμῶν καὶ συνεργὸν τοῦ θεοῦ ἐν τῷ εὐαγγελίῳ τοῦ χριστοῦ</reference>
+		<reference osisRef="1Thess.4.8!10-1Thess.4.8!19" type="Appositive" label="App" verse="1Thess 4:8" >τὸν καὶ διδόντα τὸ πνεῦμα αὐτοῦ τὸ ἅγιον εἰς ὑμᾶς</reference>
+		<reference osisRef="1Thess.5.10!1-1Thess.5.10!4" type="Appositive" label="App" verse="1Thess 5:10" >τοῦ ἀποθανόντος ὑπὲρ ἡμῶν</reference>
+		<reference osisRef="2Thess.2.3!21-2Thess.2.4!34" type="Appositive" label="App" verse="2Thess 2:3 - 4" >ὁ υἱὸς τῆς ἀπωλείας ὁ ἀντικείμενος καὶ ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεὸν ἢ σέβασμα</reference>
+		<reference osisRef="1Tim.1.12!6-1Tim.1.12!10" type="Appositive" label="App" verse="1Tim 1:12" >χριστῷ ἰησοῦ τῷ κυρίῳ ἡμῶν</reference>
+		<reference osisRef="1Tim.3.15!17-1Tim.3.15!21" type="Appositive" label="App" verse="1Tim 3:15" >στῦλος καὶ ἑδραίωμα τῆς ἀληθείας</reference>
+		<reference osisRef="1Tim.4.10!17-1Tim.4.10!18" type="Appositive" label="App" verse="1Tim 4:10" >μάλιστα πιστῶν</reference>
+		<reference osisRef="1Tim.6.15!10-1Tim.6.15!17" type="Appositive" label="App" verse="1Tim 6:15" >ὁ βασιλεὺς τῶν βασιλευόντων καὶ κύριος τῶν κυριευόντων</reference>
+		<reference osisRef="1Tim.6.16!1-1Tim.6.16!7" type="Appositive" label="App" verse="1Tim 6:16" >ὁ μόνος ἔχων ἀθανασίαν φῶς οἰκῶν ἀπρόσιτον</reference>
+		<reference osisRef="1Tim.6.17!18-1Tim.6.17!24" type="Appositive" label="App" verse="1Tim 6:17" >τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν</reference>
+		<reference osisRef="2Tim.1.8!11-2Tim.1.8!13" type="Appositive" label="App" verse="2Tim 1:8" >τὸν δέσμιον αὐτοῦ</reference>
+		<reference osisRef="2Tim.4.1!8-2Tim.4.1!21" type="Appositive" label="App" verse="2Tim 4:1" >τοῦ μέλλοντος κρίνειν ζῶντας καὶ νεκρούς καὶ τὴν ἐπιφάνειαν αὐτοῦ καὶ τὴν βασιλείαν αὐτοῦ</reference>
+		<reference osisRef="Titus.1.12!5-Titus.1.12!7" type="Appositive" label="App" verse="Titus 1:12" >ἴδιος αὐτῶν προφήτης</reference>
+		<reference osisRef="Heb.2.15!4-Heb.2.15!13" type="Appositive" label="App" verse="Heb 2:15" >ὅσοι φόβῳ θανάτου διὰ παντὸς τοῦ ζῆν ἔνοχοι ἦσαν δουλείας</reference>
+		<reference osisRef="Heb.3.1!15" type="Appositive" label="App" verse="Heb 3:1" >ἰησοῦν</reference>
+		<reference osisRef="Heb.4.7!5" type="Appositive" label="App" verse="Heb 4:7" >σήμερον</reference>
+		<reference osisRef="Heb.4.14!8-Heb.4.14!12" type="Appositive" label="App" verse="Heb 4:14" >ἰησοῦν τὸν υἱὸν τοῦ θεοῦ</reference>
+		<reference osisRef="Heb.7.26!7-Heb.7.26!18" type="Appositive" label="App" verse="Heb 7:26" >ὅσιος ἄκακος ἀμίαντος κεχωρισμένος ἀπὸ τῶν ἁμαρτωλῶν καὶ ὑψηλότερος τῶν οὐρανῶν γενόμενος</reference>
+		<reference osisRef="Heb.9.10!9-Heb.9.10!14" type="Appositive" label="App" verse="Heb 9:10" >δικαιώματα σαρκὸς μέχρι καιροῦ διορθώσεως ἐπικείμενα</reference>
+		<reference osisRef="Heb.12.2!9" type="Appositive" label="App" verse="Heb 12:2" >ἰησοῦν</reference>
+		<reference osisRef="Heb.12.24!5" type="Appositive" label="App" verse="Heb 12:24" >ἰησοῦ</reference>
+		<reference osisRef="Heb.13.20!20-Heb.13.20!23" type="Appositive" label="App" verse="Heb 13:20" >τὸν κύριον ἡμῶν ἰησοῦν</reference>
+		<reference osisRef="Jas.1.25!7-Jas.1.25!9" type="Appositive" label="App" verse="Jas 1:25" >τὸν τῆς ἐλευθερίας</reference>
+		<reference osisRef="1Pet.1.7!7-1Pet.1.7!14" type="Appositive" label="App" verse="1Pet 1:7" >πολυτιμότερον χρυσίου τοῦ ἀπολλυμένου διὰ πυρὸς δὲ δοκιμαζομένου</reference>
+		<reference osisRef="1Pet.1.9!7-1Pet.1.9!8" type="Appositive" label="App" verse="1Pet 1:9" >σωτηρίαν ψυχῶν</reference>
+		<reference osisRef="1Pet.1.19!9" type="Appositive" label="App" verse="1Pet 1:19" >χριστοῦ</reference>
+		<reference osisRef="1Pet.1.21!7-1Pet.1.21!15" type="Appositive" label="App" verse="1Pet 1:21" >τὸν ἐγείραντα αὐτὸν ἐκ νεκρῶν καὶ δόξαν αὐτῷ δόντα</reference>
+		<reference osisRef="1Pet.2.6!11-1Pet.2.6!12" type="Appositive" label="App" verse="1Pet 2:6" >ἐκλεκτὸν ἔντιμον</reference>
+		<reference osisRef="1Pet.5.12!3-1Pet.5.12!8" type="Appositive" label="App" verse="1Pet 5:12" >ὑμῖν τοῦ πιστοῦ ἀδελφοῦ ὡς λογίζομαι</reference>
+		<reference osisRef="1Pet.5.13!9-1Pet.5.13!11" type="Appositive" label="App" verse="1Pet 5:13" >ὁ υἱός μου</reference>
+		<reference osisRef="1John.2.16!7-1John.2.16!20" type="Appositive" label="App" verse="1John 2:16" >ἡ ἐπιθυμία τῆς σαρκὸς καὶ ἡ ἐπιθυμία τῶν ὀφθαλμῶν καὶ ἡ ἀλαζονεία τοῦ βίου</reference>
+		<reference osisRef="1John.5.20!22-1John.5.20!27" type="Appositive" label="App" verse="1John 5:20" >ἐν τῷ υἱῷ αὐτοῦ ἰησοῦ χριστῷ</reference>
+		<reference osisRef="Jude.1.4!5-Jude.1.4!12" type="Appositive" label="App" verse="Jude 1:4" >οἱ πάλαι προγεγραμμένοι εἰς τοῦτο τὸ κρίμα ἀσεβεῖς</reference>
+		<reference osisRef="Jude.1.14!8" type="Appositive" label="App" verse="Jude 1:14" >ἑνὼχ</reference>
+		<reference osisRef="Rev.1.5!5-Rev.1.5!19" type="Appositive" label="App" verse="Rev 1:5" >ὁ μάρτυς ὁ πιστός ὁ πρωτότοκος τῶν νεκρῶν καὶ ὁ ἄρχων τῶν βασιλέων τῆς γῆς</reference>
+		<reference osisRef="Rev.1.8!12-Rev.1.8!19" type="Appositive" label="App" verse="Rev 1:8" >ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος</reference>
+		<reference osisRef="Rev.1.8!20-Rev.1.8!21" type="Appositive" label="App" verse="Rev 1:8" >ὁ παντοκράτωρ</reference>
+		<reference osisRef="Rev.1.11!12-Rev.1.11!31" type="Appositive" label="App" verse="Rev 1:11" >εἰς ἔφεσον καὶ εἰς σμύρναν καὶ εἰς πέργαμον καὶ εἰς θυάτειρα καὶ εἰς σάρδεις καὶ εἰς φιλαδέλφειαν καὶ εἰς λαοδίκειαν</reference>
+		<reference osisRef="Rev.1.14!12-Rev.1.14!13" type="Appositive" label="App" verse="Rev 1:14" >ὡς χιὼν</reference>
+		<reference osisRef="Rev.2.1!19-Rev.2.1!27" type="Appositive" label="App" verse="Rev 2:1" >ὁ περιπατῶν ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν</reference>
+		<reference osisRef="Rev.2.13!4-Rev.2.13!8" type="Appositive" label="App" verse="Rev 2:13" >ὅπου ὁ θρόνος τοῦ σατανᾶ</reference>
+		<reference osisRef="Rev.2.14!6-Rev.2.14!26" type="Appositive" label="App" verse="Rev 2:14" >ὅτι ἔχεις ἐκεῖ κρατοῦντας τὴν διδαχὴν βαλαάμ ὃς ἐδίδασκεν τῷ βαλὰκ βαλεῖν σκάνδαλον ἐνώπιον τῶν υἱῶν ἰσραὴλ φαγεῖν εἰδωλόθυτα καὶ πορνεῦσαι</reference>
+		<reference osisRef="Rev.2.18!15-Rev.2.18!28" type="Appositive" label="App" verse="Rev 2:18" >ὁ ἔχων τοὺς ὀφθαλμοὺς αὐτοῦ ὡς φλόγα πυρὸς καὶ οἱ πόδες αὐτοῦ ὅμοιοι χαλκολιβάνῳ</reference>
+		<reference osisRef="Rev.2.20!10-Rev.2.20!13" type="Appositive" label="App" verse="Rev 2:20" >ἡ λέγουσα ἑαυτὴν προφῆτιν</reference>
+		<reference osisRef="Rev.3.7!13-Rev.3.7!29" type="Appositive" label="App" verse="Rev 3:7" >ὁ ἀληθινός ὁ ἔχων τὴν κλεῖν δαυίδ ὁ ἀνοίγων καὶ οὐδεὶς κλείσει καὶ κλείων καὶ οὐδεὶς ἀνοίγει</reference>
+		<reference osisRef="Rev.3.9!8-Rev.3.9!17" type="Appositive" label="App" verse="Rev 3:9" >τῶν λεγόντων ἑαυτοὺς ἰουδαίους εἶναι καὶ οὐκ εἰσὶν ἀλλὰ ψεύδονται</reference>
+		<reference osisRef="Rev.3.12!35-Rev.3.12!46" type="Appositive" label="App" verse="Rev 3:12" >τῆς καινῆς ἰερουσαλὴμ ἡ καταβαίνουσα ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ μου</reference>
+		<reference osisRef="Rev.3.14!13-Rev.3.14!24" type="Appositive" label="App" verse="Rev 3:14" >ὁ μάρτυς ὁ πιστὸς καὶ ἀληθινός ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ</reference>
+		<reference osisRef="Rev.4.8!32-Rev.4.8!33" type="Appositive" label="App" verse="Rev 4:8" >ὁ παντοκράτωρ</reference>
+		<reference osisRef="Rev.4.8!34-Rev.4.8!41" type="Appositive" label="App" verse="Rev 4:8" >ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος</reference>
+		<reference osisRef="Rev.4.9!16-Rev.4.9!22" type="Appositive" label="App" verse="Rev 4:9" >τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων</reference>
+		<reference osisRef="Rev.5.5!19-Rev.5.5!21" type="Appositive" label="App" verse="Rev 5:5" >ἡ ῥίζα δαυίδ</reference>
+		<reference osisRef="Rev.7.4!7-Rev.7.4!10" type="Appositive" label="App" verse="Rev 7:4" >ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες</reference>
+		<reference osisRef="Rev.7.10!11-Rev.7.10!15" type="Appositive" label="App" verse="Rev 7:10" >τῷ καθημένῳ ἐπὶ τῷ θρόνῳ</reference>
+		<reference osisRef="Rev.9.11!5-Rev.9.11!8" type="Appositive" label="App" verse="Rev 9:11" >τὸν ἄγγελον τῆς ἀβύσσου</reference>
+		<reference osisRef="Rev.9.14!5-Rev.9.14!8" type="Appositive" label="App" verse="Rev 9:14" >ὁ ἔχων τὴν σάλπιγγα</reference>
+		<reference osisRef="Rev.10.6!11-Rev.10.6!32" type="Appositive" label="App" verse="Rev 10:6" >ὃς ἔκτισεν τὸν οὐρανὸν καὶ τὰ ἐν αὐτῷ καὶ τὴν γῆν καὶ τὰ ἐν αὐτῇ καὶ τὴν θάλασσαν καὶ τὰ ἐν αὐτῇ</reference>
+		<reference osisRef="Rev.10.7!24-Rev.10.7!25" type="Appositive" label="App" verse="Rev 10:7" >τοὺς προφήτας</reference>
+		<reference osisRef="Rev.11.17!4-Rev.11.17!8" type="Appositive" label="App" verse="Rev 11:17" >κύριε ὁ θεὸς ὁ παντοκράτωρ</reference>
+		<reference osisRef="Rev.11.17!9-Rev.11.17!13" type="Appositive" label="App" verse="Rev 11:17" >ὁ ὢν καὶ ὁ ἦν</reference>
+		<reference osisRef="Rev.11.18!23-Rev.11.18!38" type="Appositive" label="App" verse="Rev 11:18" >τοῖς προφήταις καὶ τοῖς ἁγίοις καὶ τοῖς φοβουμένοις τὸ ὄνομά σου τοὺς μικροὺς καὶ τοὺς μεγάλους</reference>
+		<reference osisRef="Rev.12.9!11-Rev.12.9!21" type="Appositive" label="App" verse="Rev 12:9" >ὁ καλούμενος διάβολος καὶ ὁ σατανᾶς ὁ πλανῶν τὴν οἰκουμένην ὅλην</reference>
+		<reference osisRef="Rev.12.10!35-Rev.12.10!44" type="Appositive" label="App" verse="Rev 12:10" >ὁ κατηγορῶν αὐτοὺς ἐνώπιον τοῦ θεοῦ ἡμῶν ἡμέρας καὶ νυκτός</reference>
+		<reference osisRef="Rev.12.17!18-Rev.12.17!28" type="Appositive" label="App" verse="Rev 12:17" >τῶν τηρούντων τὰς ἐντολὰς τοῦ θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν ἰησοῦ</reference>
+		<reference osisRef="Rev.13.6!19-Rev.13.6!23" type="Appositive" label="App" verse="Rev 13:6" >τοὺς ἐν τῷ οὐρανῷ σκηνοῦντας</reference>
+		<reference osisRef="Rev.13.16!4-Rev.13.16!20" type="Appositive" label="App" verse="Rev 13:16" >τοὺς μικροὺς καὶ τοὺς μεγάλους καὶ τοὺς πλουσίους καὶ τοὺς πτωχούς καὶ τοὺς ἐλευθέρους καὶ τοὺς δούλους</reference>
+		<reference osisRef="Rev.15.1!11-Rev.15.1!17" type="Appositive" label="App" verse="Rev 15:1" >ἀγγέλους ἑπτὰ ἔχοντας πληγὰς ἑπτὰ τὰς ἐσχάτας</reference>
+		<reference osisRef="Rev.16.9!13-Rev.16.9!20" type="Appositive" label="App" verse="Rev 16:9" >τοῦ ἔχοντος τὴν ἐξουσίαν ἐπὶ τὰς πληγὰς ταύτας</reference>
+		<reference osisRef="Rev.16.14!26-Rev.16.14!27" type="Appositive" label="App" verse="Rev 16:14" >τοῦ παντοκράτορος</reference>
+		<reference osisRef="Rev.17.7!22-Rev.17.7!30" type="Appositive" label="App" verse="Rev 17:7" >τοῦ ἔχοντος τὰς ἑπτὰ κεφαλὰς καὶ τὰ δέκα κέρατα</reference>
+		<reference osisRef="Rev.18.8!10-Rev.18.8!14" type="Appositive" label="App" verse="Rev 18:8" >θάνατος καὶ πένθος καὶ λιμός</reference>
+		<reference osisRef="Rev.18.8!24-Rev.18.8!26" type="Appositive" label="App" verse="Rev 18:8" >ὁ κρίνας αὐτήν</reference>
+		<reference osisRef="Rev.18.9!11-Rev.18.9!16" type="Appositive" label="App" verse="Rev 18:9" >οἱ μετ’ αὐτῆς πορνεύσαντες καὶ στρηνιάσαντες</reference>
+		<reference osisRef="Rev.19.5!20-Rev.19.5!24" type="Appositive" label="App" verse="Rev 19:5" >οἱ μικροὶ καὶ οἱ μεγάλοι</reference>
+		<reference osisRef="Rev.19.6!25-Rev.19.6!26" type="Appositive" label="App" verse="Rev 19:6" >ὁ παντοκράτωρ</reference>
+		<reference osisRef="Rev.19.15!35-Rev.19.15!36" type="Appositive" label="App" verse="Rev 19:15" >τοῦ παντοκράτορος</reference>
+		<reference osisRef="Rev.19.16!13-Rev.19.16!17" type="Appositive" label="App" verse="Rev 19:16" >βασιλεὺς βασιλέων καὶ κύριος κυρίων</reference>
+		<reference osisRef="Rev.19.18!22-Rev.19.18!29" type="Appositive" label="App" verse="Rev 19:18" >ἐλευθέρων τε καὶ δούλων καὶ μικρῶν καὶ μεγάλων</reference>
+		<reference osisRef="Rev.19.20!10-Rev.19.20!30" type="Appositive" label="App" verse="Rev 19:20" >ὁ ποιήσας τὰ σημεῖα ἐνώπιον αὐτοῦ ἐν οἷς ἐπλάνησεν τοὺς λαβόντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς προσκυνοῦντας τῇ εἰκόνι αὐτοῦ</reference>
+		<reference osisRef="Rev.21.2!6-Rev.21.2!7" type="Appositive" label="App" verse="Rev 21:2" >ἰερουσαλὴμ καινὴν</reference>
+		<reference osisRef="Rev.21.6!12-Rev.21.6!16" type="Appositive" label="App" verse="Rev 21:6" >ἡ ἀρχὴ καὶ τὸ τέλος</reference>
+		<reference osisRef="Rev.21.9!30-Rev.21.9!33" type="Appositive" label="App" verse="Rev 21:9" >τὴν γυναῖκα τοῦ ἀρνίου</reference>
+		<reference osisRef="Rev.21.10!18" type="Appositive" label="App" verse="Rev 21:10" >ἰερουσαλὴμ</reference>
+		<reference osisRef="Rev.22.13!7-Rev.22.13!11" type="Appositive" label="App" verse="Rev 22:13" >ὁ πρῶτος καὶ ὁ ἔσχατος</reference>
+		<reference osisRef="Rev.22.13!12-Rev.22.13!16" type="Appositive" label="App" verse="Rev 22:13" >ἡ ἀρχὴ καὶ τὸ τέλος</reference>
 	</references>
-</markup>
+</feature>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<markup>
+<feature>
 	<header>
 		<copyright>©2016 SIL International</copyright>
 		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
@@ -10,645 +10,645 @@
 		<defaultstyle label="Split" bkcolor="" fontcolor="" brdrcolor="#FFFF0000" brdrline="Solid" brdrpos="A,U,B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
 	</header>
 	<references>
-		<reference osisRef="MAT.1.20!31" type="Split Focal" label="Split" verse="MAT 1:20" >ἁγίου</reference>
-		<reference osisRef="MAT.2.18!5-MAT.2.18!8" type="Split Focal" label="Split" verse="MAT 2:18" >κλαυθμὸς καὶ ὀδυρμὸς πολύς</reference>
-		<reference osisRef="MAT.4.3!10-MAT.4.3!11" type="Split Focal" label="Split" verse="MAT 4:3" >τοῦ θεοῦ</reference>
-		<reference osisRef="MAT.4.6!7-MAT.4.6!8" type="Split Focal" label="Split" verse="MAT 4:6" >τοῦ θεοῦ</reference>
-		<reference osisRef="MAT.4.9!6" type="Split Focal" label="Split" verse="MAT 4:9" >πάντα</reference>
-		<reference osisRef="MAT.4.16!9" type="Split Focal" label="Split" verse="MAT 4:16" >μέγα</reference>
-		<reference osisRef="MAT.5.34!15-MAT.5.34!16" type="Split Focal" label="Split" verse="MAT 5:34" >τοῦ θεοῦ</reference>
-		<reference osisRef="MAT.5.35!8-MAT.5.35!10" type="Split Focal" label="Split" verse="MAT 5:35" >τῶν ποδῶν αὐτοῦ</reference>
-		<reference osisRef="MAT.5.35!17-MAT.5.35!19" type="Split Focal" label="Split" verse="MAT 5:35" >τοῦ μεγάλου βασιλέως</reference>
-		<reference osisRef="MAT.5.36!14-MAT.5.36!15" type="Split Focal" label="Split" verse="MAT 5:36" >ἢ μέλαιναν</reference>
-		<reference osisRef="MAT.6.24!26-MAT.6.24!27" type="Split Focal" label="Split" verse="MAT 6:24" >καὶ μαμωνᾷ</reference>
-		<reference osisRef="MAT.6.26!28" type="Split Focal" label="Split" verse="MAT 6:26" >αὐτῶν</reference>
-		<reference osisRef="MAT.7.9!6" type="Split Focal" label="Split" verse="MAT 7:9" >ἄνθρωπος</reference>
-		<reference osisRef="MAT.8.9!6-MAT.8.9!7" type="Split Focal" label="Split" verse="MAT 8:9" >ὑπὸ ἐξουσίαν</reference>
-		<reference osisRef="MAT.8.10!17-MAT.8.10!19" type="Split Focal" label="Split" verse="MAT 8:10" >ἐν τῷ ἰσραὴλ</reference>
-		<reference osisRef="MAT.9.13!8-MAT.9.13!10" type="Split Focal" label="Split" verse="MAT 9:13" >καὶ οὐ θυσίαν</reference>
-		<reference osisRef="MAT.10.10!16-MAT.10.10!18" type="Split Focal" label="Split" verse="MAT 10:10" >τῆς τροφῆς αὐτοῦ</reference>
-		<reference osisRef="MAT.10.15!6-MAT.10.15!9" type="Split Focal" label="Split" verse="MAT 10:15" >γῇ σοδόμων καὶ γομόρρων</reference>
-		<reference osisRef="MAT.11.19!18-MAT.11.19!19" type="Split Focal" label="Split" verse="MAT 11:19" >καὶ ἁμαρτωλῶν</reference>
-		<reference osisRef="MAT.11.22!12-MAT.11.22!13" type="Split Focal" label="Split" verse="MAT 11:22" >ἢ ὑμῖν</reference>
-		<reference osisRef="MAT.11.24!12-MAT.11.24!13" type="Split Focal" label="Split" verse="MAT 11:24" >ἢ σοί</reference>
-		<reference osisRef="MAT.11.29!14-MAT.11.29!17" type="Split Focal" label="Split" verse="MAT 11:29" >καὶ ταπεινὸς τῇ καρδίᾳ</reference>
-		<reference osisRef="MAT.12.7!8-MAT.12.7!10" type="Split Focal" label="Split" verse="MAT 12:7" >καὶ οὐ θυσίαν</reference>
-		<reference osisRef="MAT.12.8!4-MAT.12.8!5" type="Split Focal" label="Split" verse="MAT 12:8" >τοῦ σαββάτου</reference>
-		<reference osisRef="MAT.12.10!6" type="Split Focal" label="Split" verse="MAT 12:10" >ξηράν</reference>
-		<reference osisRef="MAT.12.11!9" type="Split Focal" label="Split" verse="MAT 12:11" >ἄνθρωπος</reference>
-		<reference osisRef="MAT.12.27!20" type="Split Focal" label="Split" verse="MAT 12:27" >ὑμῶν</reference>
-		<reference osisRef="MAT.12.44!8-MAT.12.44!9" type="Split Focal" label="Split" verse="MAT 12:44" >ὅθεν ἐξῆλθον</reference>
-		<reference osisRef="MAT.13.32!5-MAT.13.32!7" type="Split Focal" label="Split" verse="MAT 13:32" >πάντων τῶν σπερμάτων</reference>
-		<reference osisRef="MAT.14.6!4-MAT.14.6!5" type="Split Focal" label="Split" verse="MAT 14:6" >τοῦ ἡρῴδου</reference>
-		<reference osisRef="MAT.15.14!5-MAT.15.14!6" type="Split Focal" label="Split" verse="MAT 15:14" >ὁδηγοὶ τυφλῶν</reference>
-		<reference osisRef="MAT.16.23!13" type="Split Focal" label="Split" verse="MAT 16:23" >ἐμοῦ</reference>
-		<reference osisRef="MAT.19.11!11-MAT.19.11!13" type="Split Focal" label="Split" verse="MAT 19:11" >ἀλλ’ οἷς δέδοται</reference>
-		<reference osisRef="MAT.19.30!4" type="Split Focal" label="Split" verse="MAT 19:30" >πρῶτοι</reference>
-		<reference osisRef="MAT.21.12!23-MAT.21.12!29" type="Split Focal" label="Split" verse="MAT 21:12" >καὶ τὰς καθέδρας τῶν πωλούντων τὰς περιστεράς</reference>
-		<reference osisRef="MAT.21.33!6" type="Split Focal" label="Split" verse="MAT 21:33" >οἰκοδεσπότης</reference>
-		<reference osisRef="MAT.22.40!10-MAT.22.40!12" type="Split Focal" label="Split" verse="MAT 22:40" >καὶ οἱ προφῆται</reference>
-		<reference osisRef="MAT.23.9!5" type="Split Focal" label="Split" verse="MAT 23:9" >ὑμῶν</reference>
-		<reference osisRef="MAT.23.31!7-MAT.23.31!10" type="Split Focal" label="Split" verse="MAT 23:31" >τῶν φονευσάντων τοὺς προφήτας</reference>
-		<reference osisRef="MAT.25.24!16" type="Split Focal" label="Split" verse="MAT 25:24" >ἄνθρωπος</reference>
-		<reference osisRef="MAT.25.34!20-MAT.25.34!22" type="Split Focal" label="Split" verse="MAT 25:34" >ἀπὸ καταβολῆς κόσμου</reference>
-		<reference osisRef="MAT.26.38!9-MAT.26.38!10" type="Split Focal" label="Split" verse="MAT 26:38" >ἕως θανάτου</reference>
-		<reference osisRef="MAT.27.15!11-MAT.27.15!13" type="Split Focal" label="Split" verse="MAT 27:15" >δέσμιον ὃν ἤθελον</reference>
-		<reference osisRef="MAT.27.21!9-MAT.27.21!11" type="Split Focal" label="Split" verse="MAT 27:21" >ἀπὸ τῶν δύο</reference>
-		<reference osisRef="MAT.27.24!23-MAT.27.24!26" type="Split Focal" label="Split" verse="MAT 27:24" >ἀπὸ τοῦ αἵματος τούτου</reference>
-		<reference osisRef="MAT.27.40!17-MAT.27.40!18" type="Split Focal" label="Split" verse="MAT 27:40" >τοῦ θεοῦ</reference>
-		<reference osisRef="MAT.27.43!15" type="Split Focal" label="Split" verse="MAT 27:43" >υἱός</reference>
-		<reference osisRef="MAT.28.2!5" type="Split Focal" label="Split" verse="MAT 28:2" >μέγας</reference>
-		<reference osisRef="MRK.2.28!8-MRK.2.28!10" type="Split Focal" label="Split" verse="MRK 2:28" >καὶ τοῦ σαββάτου</reference>
-		<reference osisRef="MRK.3.28!11-MRK.3.28!18" type="Split Focal" label="Split" verse="MRK 3:28" >τὰ ἁμαρτήματα καὶ αἱ βλασφημίαι ὅσα ἐὰν βλασφημήσωσιν</reference>
-		<reference osisRef="MRK.3.29!19-MRK.3.29!20" type="Split Focal" label="Split" verse="MRK 3:29" >αἰωνίου ἁμαρτήματος</reference>
-		<reference osisRef="MRK.4.11!8-MRK.4.11!11" type="Split Focal" label="Split" verse="MRK 4:11" >τῆς βασιλείας τοῦ θεοῦ</reference>
-		<reference osisRef="MRK.4.21!13-MRK.4.21!16" type="Split Focal" label="Split" verse="MRK 4:21" >ἢ ὑπὸ τὴν κλίνην</reference>
-		<reference osisRef="MRK.4.30!13" type="Split Focal" label="Split" verse="MRK 4:30" >παραβολῇ</reference>
-		<reference osisRef="MRK.4.31!12-MRK.4.31!18" type="Split Focal" label="Split" verse="MRK 4:31" >πάντων τῶν σπερμάτων τῶν ἐπὶ τῆς γῆς</reference>
-		<reference osisRef="MRK.7.4!13-MRK.7.4!15" type="Split Focal" label="Split" verse="MRK 7:4" >ἃ παρέλαβον κρατεῖν</reference>
-		<reference osisRef="MRK.7.15!3-MRK.7.15!8" type="Split Focal" label="Split" verse="MRK 7:15" >ἔξωθεν τοῦ ἀνθρώπου εἰσπορευόμενον εἰς αὐτὸν</reference>
-		<reference osisRef="MRK.8.4!15-MRK.8.4!16" type="Split Focal" label="Split" verse="MRK 8:4" >ἐπ’ ἐρημίας</reference>
-		<reference osisRef="MRK.8.5!6" type="Split Focal" label="Split" verse="MRK 8:5" >ἄρτους</reference>
-		<reference osisRef="MRK.9.8!7-MRK.9.8!10" type="Split Focal" label="Split" verse="MRK 9:8" >ἀλλὰ τὸν ἰησοῦν μόνον</reference>
-		<reference osisRef="MRK.9.22!8-MRK.9.22!10" type="Split Focal" label="Split" verse="MRK 9:22" >καὶ εἰς ὕδατα</reference>
-		<reference osisRef="MRK.9.37!22-MRK.9.37!25" type="Split Focal" label="Split" verse="MRK 9:37" >ἀλλὰ τὸν ἀποστείλαντά με</reference>
-		<reference osisRef="MRK.10.31!4" type="Split Focal" label="Split" verse="MRK 10:31" >πρῶτοι</reference>
-		<reference osisRef="MRK.11.2!23" type="Split Focal" label="Split" verse="MRK 11:2" >ἀνθρώπων</reference>
-		<reference osisRef="MRK.11.13!29" type="Split Focal" label="Split" verse="MRK 11:13" >σύκων</reference>
-		<reference osisRef="MRK.11.17!15-MRK.11.17!17" type="Split Focal" label="Split" verse="MRK 11:17" >πᾶσιν τοῖς ἔθνεσιν</reference>
-		<reference osisRef="MRK.11.30!8-MRK.11.30!10" type="Split Focal" label="Split" verse="MRK 11:30" >ἢ ἐξ ἀνθρώπων</reference>
-		<reference osisRef="MRK.12.6!4-MRK.12.6!5" type="Split Focal" label="Split" verse="MRK 12:6" >υἱὸν ἀγαπητόν</reference>
-		<reference osisRef="MRK.12.33!28-MRK.12.33!32" type="Split Focal" label="Split" verse="MRK 12:33" >πάντων τῶν ὁλοκαυτωμάτων καὶ θυσιῶν</reference>
-		<reference osisRef="MRK.12.34!14-MRK.12.34!18" type="Split Focal" label="Split" verse="MRK 12:34" >ἀπὸ τῆς βασιλείας τοῦ θεοῦ</reference>
-		<reference osisRef="MRK.12.37!10" type="Split Focal" label="Split" verse="MRK 12:37" >υἱός</reference>
-		<reference osisRef="MRK.12.43!20-MRK.12.43!24" type="Split Focal" label="Split" verse="MRK 12:43" >τῶν βαλλόντων εἰς τὸ γαζοφυλάκιον</reference>
-		<reference osisRef="MRK.14.34!9-MRK.14.34!10" type="Split Focal" label="Split" verse="MRK 14:34" >ἕως θανάτου</reference>
-		<reference osisRef="MRK.14.62!16-MRK.14.62!17" type="Split Focal" label="Split" verse="MRK 14:62" >τῆς δυνάμεως</reference>
-		<reference osisRef="MRK.14.64!14" type="Split Focal" label="Split" verse="MRK 14:64" >θανάτου</reference>
-		<reference osisRef="MRK.15.14!9" type="Split Focal" label="Split" verse="MRK 15:14" >κακόν</reference>
-		<reference osisRef="MRK.16.6!9-MRK.16.6!12" type="Split Focal" label="Split" verse="MRK 16:6" >τὸν ναζαρηνὸν τὸν ἐσταυρωμένον</reference>
-		<reference osisRef="MRK.16.17!5" type="Split Focal" label="Split" verse="MRK 16:17" >ταῦτα</reference>
-		<reference osisRef="MRK.16.17!15" type="Split Focal" label="Split" verse="MRK 16:17" >καιναῖς</reference>
-		<reference osisRef="LUK.1.2!11-LUK.1.2!12" type="Split Focal" label="Split" verse="LUK 1:2" >τοῦ λόγου</reference>
-		<reference osisRef="LUK.1.14!5-LUK.1.14!6" type="Split Focal" label="Split" verse="LUK 1:14" >καὶ ἀγαλλίασις</reference>
-		<reference osisRef="LUK.2.19!6-LUK.2.19!8" type="Split Focal" label="Split" verse="LUK 2:19" >τὰ ῥήματα ταῦτα</reference>
-		<reference osisRef="LUK.2.25!24" type="Split Focal" label="Split" verse="LUK 2:25" >ἅγιον</reference>
-		<reference osisRef="LUK.3.19!21" type="Split Focal" label="Split" verse="LUK 3:19" >πονηρῶν</reference>
-		<reference osisRef="LUK.3.23!13" type="Split Focal" label="Split" verse="LUK 3:23" >ἰωσὴφ</reference>
-		<reference osisRef="LUK.4.3!9-LUK.4.3!10" type="Split Focal" label="Split" verse="LUK 4:3" >τοῦ θεοῦ</reference>
-		<reference osisRef="LUK.4.9!19-LUK.4.9!20" type="Split Focal" label="Split" verse="LUK 4:9" >τοῦ θεοῦ</reference>
-		<reference osisRef="LUK.4.14!20-LUK.4.14!21" type="Split Focal" label="Split" verse="LUK 4:14" >περὶ αὐτοῦ</reference>
-		<reference osisRef="LUK.4.20!13-LUK.4.20!15" type="Split Focal" label="Split" verse="LUK 4:20" >ἐν τῇ συναγωγῇ</reference>
-		<reference osisRef="LUK.4.22!23" type="Split Focal" label="Split" verse="LUK 4:22" >ἰωσὴφ</reference>
-		<reference osisRef="LUK.4.28!5-LUK.4.28!7" type="Split Focal" label="Split" verse="LUK 4:28" >ἐν τῇ συναγωγῇ</reference>
-		<reference osisRef="LUK.6.3!11-LUK.6.3!21" type="Split Focal" label="Split" verse="LUK 6:3" >ὃ ἐποίησεν δαυὶδ ὅτε ἐπείνασεν αὐτὸς καὶ οἱ μετ’ αὐτοῦ ὄντες</reference>
-		<reference osisRef="LUK.6.5!6-LUK.6.5!7" type="Split Focal" label="Split" verse="LUK 6:5" >τοῦ σαββάτου</reference>
-		<reference osisRef="LUK.6.27!4-LUK.6.27!5" type="Split Focal" label="Split" verse="LUK 6:27" >τοῖς ἀκούουσιν</reference>
-		<reference osisRef="LUK.6.35!26-LUK.6.35!30" type="Split Focal" label="Split" verse="LUK 6:35" >ἐπὶ τοὺς ἀχαρίστους καὶ πονηρούς</reference>
-		<reference osisRef="LUK.7.6!13-LUK.7.6!15" type="Split Focal" label="Split" verse="LUK 7:6" >ἀπὸ τῆς οἰκίας</reference>
-		<reference osisRef="LUK.7.8!6-LUK.7.8!7" type="Split Focal" label="Split" verse="LUK 7:8" >ὑπὸ ἐξουσίαν</reference>
-		<reference osisRef="LUK.7.12!25" type="Split Focal" label="Split" verse="LUK 7:12" >ἱκανὸς</reference>
-		<reference osisRef="LUK.7.36!5-LUK.7.36!6" type="Split Focal" label="Split" verse="LUK 7:36" >τῶν φαρισαίων</reference>
-		<reference osisRef="LUK.8.25!23-LUK.8.25!25" type="Split Focal" label="Split" verse="LUK 8:25" >καὶ τῷ ὕδατι</reference>
-		<reference osisRef="LUK.8.27!26-LUK.8.27!29" type="Split Focal" label="Split" verse="LUK 8:27" >ἀλλ’ ἐν τοῖς μνήμασιν</reference>
-		<reference osisRef="LUK.8.30!8" type="Split Focal" label="Split" verse="LUK 8:30" >ὄνομά</reference>
-		<reference osisRef="LUK.8.42!6-LUK.8.42!8" type="Split Focal" label="Split" verse="LUK 8:42" >ὡς ἐτῶν δώδεκα</reference>
-		<reference osisRef="LUK.8.47!23-LUK.8.47!26" type="Split Focal" label="Split" verse="LUK 8:47" >καὶ ὡς ἰάθη παραχρῆμα</reference>
-		<reference osisRef="LUK.10.5!6" type="Split Focal" label="Split" verse="LUK 10:5" >οἰκίαν</reference>
-		<reference osisRef="LUK.10.7!17-LUK.10.7!19" type="Split Focal" label="Split" verse="LUK 10:7" >τοῦ μισθοῦ αὐτοῦ</reference>
-		<reference osisRef="LUK.10.12!11-LUK.10.12!14" type="Split Focal" label="Split" verse="LUK 10:12" >ἢ τῇ πόλει ἐκείνῃ</reference>
-		<reference osisRef="LUK.10.14!10-LUK.10.14!11" type="Split Focal" label="Split" verse="LUK 10:14" >ἢ ὑμῖν</reference>
-		<reference osisRef="LUK.11.27!11-LUK.11.27!14" type="Split Focal" label="Split" verse="LUK 11:27" >γυνὴ ἐκ τοῦ ὄχλου</reference>
-		<reference osisRef="LUK.11.33!7-LUK.11.33!10" type="Split Focal" label="Split" verse="LUK 11:33" >οὐδὲ ὑπὸ τὸν μόδιον</reference>
-		<reference osisRef="LUK.11.33!11-LUK.11.33!14" type="Split Focal" label="Split" verse="LUK 11:33" >ἀλλ’ ἐπὶ τὴν λυχνίαν</reference>
-		<reference osisRef="LUK.12.15!21-LUK.12.15!24" type="Split Focal" label="Split" verse="LUK 12:15" >ἐκ τῶν ὑπαρχόντων αὐτῷ</reference>
-		<reference osisRef="LUK.12.41!13-LUK.12.41!15" type="Split Focal" label="Split" verse="LUK 12:41" >καὶ πρὸς πάντας</reference>
-		<reference osisRef="LUK.12.51!6-LUK.12.51!8" type="Split Focal" label="Split" verse="LUK 12:51" >ἐν τῇ γῇ</reference>
-		<reference osisRef="LUK.13.4!21-LUK.13.4!27" type="Split Focal" label="Split" verse="LUK 13:4" >παρὰ πάντας τοὺς ἀνθρώπους τοὺς κατοικοῦντας ἰερουσαλήμ</reference>
-		<reference osisRef="LUK.13.6!9-LUK.13.6!13" type="Split Focal" label="Split" verse="LUK 13:6" >πεφυτευμένην ἐν τῷ ἀμπελῶνι αὐτοῦ</reference>
-		<reference osisRef="LUK.13.11!6" type="Split Focal" label="Split" verse="LUK 13:11" >ἀσθενείας</reference>
-		<reference osisRef="LUK.13.14!28-LUK.13.14!33" type="Split Focal" label="Split" verse="LUK 13:14" >καὶ μὴ τῇ ἡμέρᾳ τοῦ σαββάτου</reference>
-		<reference osisRef="LUK.14.19!7" type="Split Focal" label="Split" verse="LUK 14:19" >πέντε</reference>
-		<reference osisRef="LUK.15.8!6" type="Split Focal" label="Split" verse="LUK 15:8" >δέκα</reference>
-		<reference osisRef="LUK.16.13!27-LUK.16.13!28" type="Split Focal" label="Split" verse="LUK 16:13" >καὶ μαμωνᾷ</reference>
-		<reference osisRef="LUK.17.7!7-LUK.17.7!9" type="Split Focal" label="Split" verse="LUK 17:7" >ἀροτριῶντα ἢ ποιμαίνοντα</reference>
-		<reference osisRef="LUK.19.11!12" type="Split Focal" label="Split" verse="LUK 19:11" >ἰερουσαλὴμ</reference>
-		<reference osisRef="LUK.19.16!12" type="Split Focal" label="Split" verse="LUK 19:16" >μνᾶς</reference>
-		<reference osisRef="LUK.19.19!9-LUK.19.19!10" type="Split Focal" label="Split" verse="LUK 19:19" >πέντε πόλεων</reference>
-		<reference osisRef="LUK.19.30!17" type="Split Focal" label="Split" verse="LUK 19:30" >ἀνθρώπων</reference>
-		<reference osisRef="LUK.20.4!7-LUK.20.4!9" type="Split Focal" label="Split" verse="LUK 20:4" >ἢ ἐξ ἀνθρώπων</reference>
-		<reference osisRef="LUK.20.11!5" type="Split Focal" label="Split" verse="LUK 20:11" >δοῦλον</reference>
-		<reference osisRef="LUK.20.35!8-LUK.20.35!13" type="Split Focal" label="Split" verse="LUK 20:35" >καὶ τῆς ἀναστάσεως τῆς ἐκ νεκρῶν</reference>
-		<reference osisRef="LUK.20.36!12" type="Split Focal" label="Split" verse="LUK 20:36" >θεοῦ</reference>
-		<reference osisRef="LUK.20.38!5-LUK.20.38!7" type="Split Focal" label="Split" verse="LUK 20:38" >νεκρῶν ἀλλὰ ζώντων</reference>
-		<reference osisRef="LUK.22.23!11-LUK.22.23!12" type="Split Focal" label="Split" verse="LUK 22:23" >ἐξ αὐτῶν</reference>
-		<reference osisRef="LUK.22.30!21-LUK.22.30!22" type="Split Focal" label="Split" verse="LUK 22:30" >τοῦ ἰσραήλ</reference>
-		<reference osisRef="LUK.23.4!13" type="Split Focal" label="Split" verse="LUK 23:4" >αἴτιον</reference>
-		<reference osisRef="LUK.23.8!27-LUK.23.8!29" type="Split Focal" label="Split" verse="LUK 23:8" >ὑπ’ αὐτοῦ γινόμενον</reference>
-		<reference osisRef="LUK.23.14!25-LUK.23.14!29" type="Split Focal" label="Split" verse="LUK 23:14" >αἴτιον ὧν κατηγορεῖτε κατ’ αὐτοῦ</reference>
-		<reference osisRef="LUK.23.28!18-LUK.23.28!22" type="Split Focal" label="Split" verse="LUK 23:28" >καὶ ἐπὶ τὰ τέκνα ὑμῶν</reference>
-		<reference osisRef="LUK.23.54!4" type="Split Focal" label="Split" verse="LUK 23:54" >παρασκευῆς</reference>
-		<reference osisRef="JHN.1.49!14-JHN.1.49!15" type="Split Focal" label="Split" verse="JHN 1:49" >τοῦ ἰσραήλ</reference>
-		<reference osisRef="JHN.2.11!3-JHN.2.11!5" type="Split Focal" label="Split" verse="JHN 2:11" >ἀρχὴν τῶν σημείων</reference>
-		<reference osisRef="JHN.2.15!11-JHN.2.15!16" type="Split Focal" label="Split" verse="JHN 2:15" >τά τε πρόβατα καὶ τοὺς βόας</reference>
-		<reference osisRef="JHN.2.15!21-JHN.2.15!22" type="Split Focal" label="Split" verse="JHN 2:15" >τὸ κέρμα</reference>
-		<reference osisRef="JHN.3.2!15" type="Split Focal" label="Split" verse="JHN 3:2" >διδάσκαλος</reference>
-		<reference osisRef="JHN.3.2!23-JHN.3.2!25" type="Split Focal" label="Split" verse="JHN 3:2" >ἃ σὺ ποιεῖς</reference>
-		<reference osisRef="JHN.3.28!17-JHN.3.28!18" type="Split Focal" label="Split" verse="JHN 3:28" >ἔμπροσθεν ἐκείνου</reference>
-		<reference osisRef="JHN.4.1!17-JHN.4.1!18" type="Split Focal" label="Split" verse="JHN 4:1" >ἢ ἰωάννης</reference>
-		<reference osisRef="JHN.4.2!6-JHN.4.2!9" type="Split Focal" label="Split" verse="JHN 4:2" >ἀλλ’ οἱ μαθηταὶ αὐτοῦ</reference>
-		<reference osisRef="JHN.4.12!5-JHN.4.12!8" type="Split Focal" label="Split" verse="JHN 4:12" >τοῦ πατρὸς ἡμῶν ἰακώβ</reference>
-		<reference osisRef="JHN.4.12!19-JHN.4.12!26" type="Split Focal" label="Split" verse="JHN 4:12" >καὶ οἱ υἱοὶ αὐτοῦ καὶ τὰ θρέμματα αὐτοῦ</reference>
-		<reference osisRef="JHN.4.23!24-JHN.4.23!26" type="Split Focal" label="Split" verse="JHN 4:23" >τοὺς προσκυνοῦντας αὐτόν</reference>
-		<reference osisRef="JHN.4.32!9-JHN.4.32!12" type="Split Focal" label="Split" verse="JHN 4:32" >ἣν ὑμεῖς οὐκ οἴδατε</reference>
-		<reference osisRef="JHN.4.35!26-JHN.4.35!27" type="Split Focal" label="Split" verse="JHN 4:35" >πρὸς θερισμόν</reference>
-		<reference osisRef="JHN.4.39!10-JHN.4.39!11" type="Split Focal" label="Split" verse="JHN 4:39" >τῶν σαμαριτῶν</reference>
-		<reference osisRef="JHN.4.45!13-JHN.4.45!19" type="Split Focal" label="Split" verse="JHN 4:45" >ὅσα ἐποίησεν ἐν ἱεροσολύμοις ἐν τῇ ἑορτῇ</reference>
-		<reference osisRef="JHN.4.52!7-JHN.4.52!10" type="Split Focal" label="Split" verse="JHN 4:52" >ἐν ᾗ κομψότερον ἔσχεν</reference>
-		<reference osisRef="JHN.5.6!11" type="Split Focal" label="Split" verse="JHN 5:6" >χρόνον</reference>
-		<reference osisRef="JHN.5.14!22" type="Split Focal" label="Split" verse="JHN 5:14" >τι</reference>
-		<reference osisRef="JHN.5.18!26-JHN.5.18!27" type="Split Focal" label="Split" verse="JHN 5:18" >τῷ θεῷ</reference>
-		<reference osisRef="JHN.5.20!11-JHN.5.20!13" type="Split Focal" label="Split" verse="JHN 5:20" >ἃ αὐτὸς ποιεῖ</reference>
-		<reference osisRef="JHN.5.20!19" type="Split Focal" label="Split" verse="JHN 5:20" >ἔργα</reference>
-		<reference osisRef="JHN.5.38!7-JHN.5.38!9" type="Split Focal" label="Split" verse="JHN 5:38" >ἐν ὑμῖν μένοντα</reference>
-		<reference osisRef="JHN.6.23!3" type="Split Focal" label="Split" verse="JHN 6:23" >πλοιά[ρια]</reference>
-		<reference osisRef="JHN.6.24!11-JHN.6.24!14" type="Split Focal" label="Split" verse="JHN 6:24" >οὐδὲ οἱ μαθηταὶ αὐτοῦ</reference>
-		<reference osisRef="JHN.6.27!27-JHN.6.27!28" type="Split Focal" label="Split" verse="JHN 6:27" >ὁ θεός</reference>
-		<reference osisRef="JHN.6.30!8" type="Split Focal" label="Split" verse="JHN 6:30" >σημεῖον</reference>
-		<reference osisRef="JHN.6.55!7" type="Split Focal" label="Split" verse="JHN 6:55" >βρῶσις</reference>
-		<reference osisRef="JHN.6.55!14" type="Split Focal" label="Split" verse="JHN 6:55" >πόσις</reference>
-		<reference osisRef="JHN.7.12!6" type="Split Focal" label="Split" verse="JHN 7:12" >πολὺς</reference>
-		<reference osisRef="JHN.7.22!14-JHN.7.22!17" type="Split Focal" label="Split" verse="JHN 7:22" >ἀλλ’ ἐκ τῶν πατέρων</reference>
-		<reference osisRef="JHN.7.31!19-JHN.7.31!21" type="Split Focal" label="Split" verse="JHN 7:31" >ὧν οὗτος ἐποίησεν</reference>
-		<reference osisRef="JHN.7.38!15-JHN.7.38!16" type="Split Focal" label="Split" verse="JHN 7:38" >ὕδατος ζῶντος</reference>
-		<reference osisRef="JHN.7.44!4-JHN.7.44!5" type="Split Focal" label="Split" verse="JHN 7:44" >ἐξ αὐτῶν</reference>
-		<reference osisRef="JHN.7.48!9-JHN.7.48!12" type="Split Focal" label="Split" verse="JHN 7:48" >ἢ ἐκ τῶν φαρισαίων</reference>
-		<reference osisRef="JHN.7.50!13-JHN.7.50!14" type="Split Focal" label="Split" verse="JHN 7:50" >ἐξ αὐτῶν</reference>
-		<reference osisRef="JHN.8.19!14-JHN.8.19!17" type="Split Focal" label="Split" verse="JHN 8:19" >οὔτε τὸν πατέρα μου</reference>
-		<reference osisRef="JHN.8.26!3-JHN.8.26!7" type="Split Focal" label="Split" verse="JHN 8:26" >περὶ ὑμῶν λαλεῖν καὶ κρίνειν</reference>
-		<reference osisRef="JHN.8.34!17-JHN.8.34!18" type="Split Focal" label="Split" verse="JHN 8:34" >τῆς ἁμαρτίας</reference>
-		<reference osisRef="JHN.8.40!12-JHN.8.40!16" type="Split Focal" label="Split" verse="JHN 8:40" >ἣν ἤκουσα παρὰ τοῦ θεοῦ</reference>
-		<reference osisRef="JHN.8.44!44-JHN.8.44!47" type="Split Focal" label="Split" verse="JHN 8:44" >καὶ ὁ πατὴρ αὐτοῦ</reference>
-		<reference osisRef="JHN.8.52!13-JHN.8.52!15" type="Split Focal" label="Split" verse="JHN 8:52" >καὶ οἱ προφῆται</reference>
-		<reference osisRef="JHN.8.53!5-JHN.8.53!8" type="Split Focal" label="Split" verse="JHN 8:53" >τοῦ πατρὸς ἡμῶν ἀβραάμ</reference>
-		<reference osisRef="JHN.9.3!6-JHN.9.3!9" type="Split Focal" label="Split" verse="JHN 9:3" >οὔτε οἱ γονεῖς αὐτοῦ</reference>
-		<reference osisRef="JHN.9.5!8-JHN.9.5!9" type="Split Focal" label="Split" verse="JHN 9:5" >τοῦ κόσμου</reference>
-		<reference osisRef="JHN.9.28!9" type="Split Focal" label="Split" verse="JHN 9:28" >ἐκείνου</reference>
-		<reference osisRef="JHN.9.28!15" type="Split Focal" label="Split" verse="JHN 9:28" >μαθηταί</reference>
-		<reference osisRef="JHN.10.1!22-JHN.10.1!23" type="Split Focal" label="Split" verse="JHN 10:1" >καὶ λῃστής</reference>
-		<reference osisRef="JHN.10.2!9-JHN.10.2!10" type="Split Focal" label="Split" verse="JHN 10:2" >τῶν προβάτων</reference>
-		<reference osisRef="JHN.10.8!8-JHN.10.8!9" type="Split Focal" label="Split" verse="JHN 10:8" >καὶ λῃσταί</reference>
-		<reference osisRef="JHN.10.33!11-JHN.10.33!13" type="Split Focal" label="Split" verse="JHN 10:33" >ἀλλὰ περὶ βλασφημίας</reference>
-		<reference osisRef="JHN.10.41!13" type="Split Focal" label="Split" verse="JHN 10:41" >οὐδέν</reference>
-		<reference osisRef="JHN.11.9!7-JHN.11.9!8" type="Split Focal" label="Split" verse="JHN 11:9" >τῆς ἡμέρας</reference>
-		<reference osisRef="JHN.11.17!9" type="Split Focal" label="Split" verse="JHN 11:17" >ἡμέρας</reference>
-		<reference osisRef="JHN.11.47!19" type="Split Focal" label="Split" verse="JHN 11:47" >σημεῖα</reference>
-		<reference osisRef="JHN.12.2!15-JHN.12.2!19" type="Split Focal" label="Split" verse="JHN 12:2" >ἐκ τῶν ἀνακειμένων σὺν αὐτῷ</reference>
-		<reference osisRef="JHN.12.11!6-JHN.12.11!7" type="Split Focal" label="Split" verse="JHN 12:11" >τῶν ἰουδαίων</reference>
-		<reference osisRef="JHN.12.18!13-JHN.12.18!14" type="Split Focal" label="Split" verse="JHN 12:18" >τὸ σημεῖον</reference>
-		<reference osisRef="JHN.12.30!12-JHN.12.30!14" type="Split Focal" label="Split" verse="JHN 12:30" >ἀλλὰ δι’ ὑμᾶς</reference>
-		<reference osisRef="JHN.12.31!4-JHN.12.31!6" type="Split Focal" label="Split" verse="JHN 12:31" >τοῦ κόσμου τούτου</reference>
-		<reference osisRef="JHN.12.37!4" type="Split Focal" label="Split" verse="JHN 12:37" >σημεῖα</reference>
-		<reference osisRef="JHN.12.47!6-JHN.12.47!7" type="Split Focal" label="Split" verse="JHN 12:47" >τῶν ῥημάτων</reference>
-		<reference osisRef="JHN.13.2!14-JHN.13.2!16" type="Split Focal" label="Split" verse="JHN 13:2" >ἰούδας σίμωνος ἰσκαριώτου</reference>
-		<reference osisRef="JHN.13.6!12-JHN.13.6!13" type="Split Focal" label="Split" verse="JHN 13:6" >τοὺς πόδας</reference>
-		<reference osisRef="JHN.13.10!23-JHN.13.10!25" type="Split Focal" label="Split" verse="JHN 13:10" >ἀλλ’ οὐχὶ πάντες</reference>
-		<reference osisRef="JHN.13.14!18-JHN.13.14!19" type="Split Focal" label="Split" verse="JHN 13:14" >τοὺς πόδας</reference>
-		<reference osisRef="JHN.13.28!5-JHN.13.28!6" type="Split Focal" label="Split" verse="JHN 13:28" >τῶν ἀνακειμένων</reference>
-		<reference osisRef="JHN.13.35!12-JHN.13.35!13" type="Split Focal" label="Split" verse="JHN 13:35" >ἐν ἀλλήλοις</reference>
-		<reference osisRef="JHN.14.22!16-JHN.14.22!19" type="Split Focal" label="Split" verse="JHN 14:22" >καὶ οὐχὶ τῷ κόσμῳ</reference>
-		<reference osisRef="JHN.15.24!8-JHN.15.24!11" type="Split Focal" label="Split" verse="JHN 15:24" >ἃ οὐδεὶς ἄλλος ἐποίησεν</reference>
-		<reference osisRef="JHN.16.2!15-JHN.16.2!16" type="Split Focal" label="Split" verse="JHN 16:2" >τῷ θεῷ</reference>
-		<reference osisRef="JHN.17.4!10-JHN.17.4!14" type="Split Focal" label="Split" verse="JHN 17:4" >ὃ δέδωκάς μοι ἵνα ποιήσω</reference>
-		<reference osisRef="JHN.17.9!10-JHN.17.9!14" type="Split Focal" label="Split" verse="JHN 17:9" >ἀλλὰ περὶ ὧν δέδωκάς μοι</reference>
-		<reference osisRef="JHN.17.20!6" type="Split Focal" label="Split" verse="JHN 17:20" >μόνον</reference>
-		<reference osisRef="JHN.18.26!10-JHN.18.26!14" type="Split Focal" label="Split" verse="JHN 18:26" >οὗ ἀπέκοψεν πέτρος τὸ ὠτίον</reference>
-		<reference osisRef="JHN.18.38!24" type="Split Focal" label="Split" verse="JHN 18:38" >αἰτίαν</reference>
-		<reference osisRef="JHN.19.20!7-JHN.19.20!8" type="Split Focal" label="Split" verse="JHN 19:20" >τῶν ἰουδαίων</reference>
-		<reference osisRef="JHN.19.21!21-JHN.19.21!22" type="Split Focal" label="Split" verse="JHN 19:21" >τῶν ἰουδαίων</reference>
-		<reference osisRef="JHN.19.32!12-JHN.19.32!17" type="Split Focal" label="Split" verse="JHN 19:32" >καὶ τοῦ ἄλλου τοῦ συσταυρωθέντος αὐτῷ</reference>
-		<reference osisRef="JHN.19.36!11" type="Split Focal" label="Split" verse="JHN 19:36" >αὐτοῦ</reference>
-		<reference osisRef="JHN.19.40!17-JHN.19.40!18" type="Split Focal" label="Split" verse="JHN 19:40" >τοῖς ἰουδαίοις</reference>
-		<reference osisRef="JHN.20.7!15-JHN.20.7!16" type="Split Focal" label="Split" verse="JHN 20:7" >ἀλλὰ χωρὶς</reference>
-		<reference osisRef="JHN.21.12!10-JHN.21.12!11" type="Split Focal" label="Split" verse="JHN 21:12" >τῶν μαθητῶν</reference>
-		<reference osisRef="JHN.21.25!18-JHN.21.25!19" type="Split Focal" label="Split" verse="JHN 21:25" >τὸν κόσμον</reference>
-		<reference osisRef="ACT.1.2!10-ACT.1.2!11" type="Split Focal" label="Split" verse="ACT 1:2" >οὓς ἐξελέξατο</reference>
-		<reference osisRef="ACT.1.5!11" type="Split Focal" label="Split" verse="ACT 1:5" >ἁγίῳ</reference>
-		<reference osisRef="ACT.1.19!4-ACT.1.19!7" type="Split Focal" label="Split" verse="ACT 1:19" >πᾶσι τοῖς κατοικοῦσιν ἰερουσαλήμ</reference>
-		<reference osisRef="ACT.1.21!7-ACT.1.22!30" type="Split Focal" label="Split" verse="ACT 1:21 - 2" >ἐν παντὶ χρόνῳ ᾧ εἰσῆλθεν καὶ ἐξῆλθεν ἐφ’ ἡμᾶς ὁ κύριος ἰησοῦς ἀρξάμενος ἀπὸ τοῦ βαπτίσματος ἰωάννου ἕως τῆς ἡμέρας ἧς ἀνελήμφθη ἀφ’ ἡμῶν</reference>
-		<reference osisRef="ACT.1.24!15" type="Split Focal" label="Split" verse="ACT 1:24" >ἕνα</reference>
-		<reference osisRef="ACT.2.36!11-ACT.2.36!12" type="Split Focal" label="Split" verse="ACT 2:36" >καὶ χριστὸν</reference>
-		<reference osisRef="ACT.2.39!6-ACT.2.39!14" type="Split Focal" label="Split" verse="ACT 2:39" >καὶ τοῖς τέκνοις ὑμῶν καὶ πᾶσιν τοῖς εἰς μακράν</reference>
-		<reference osisRef="ACT.3.21!20-ACT.3.21!21" type="Split Focal" label="Split" verse="ACT 3:21" >αὐτοῦ προφητῶν</reference>
-		<reference osisRef="ACT.3.22!16-ACT.3.22!17" type="Split Focal" label="Split" verse="ACT 3:22" >ὡς ἐμέ</reference>
-		<reference osisRef="ACT.4.12!13-ACT.4.12!20" type="Split Focal" label="Split" verse="ACT 4:12" >ἕτερον ὑπὸ τὸν οὐρανὸν τὸ δεδομένον ἐν ἀνθρώποις</reference>
-		<reference osisRef="ACT.4.13!15-ACT.4.13!16" type="Split Focal" label="Split" verse="ACT 4:13" >καὶ ἰδιῶται</reference>
-		<reference osisRef="ACT.4.14!7-ACT.4.14!9" type="Split Focal" label="Split" verse="ACT 4:14" >ἑστῶτα τὸν τεθεραπευμένον</reference>
-		<reference osisRef="ACT.4.19!18-ACT.4.19!21" type="Split Focal" label="Split" verse="ACT 4:19" >μᾶλλον ἢ τοῦ θεοῦ</reference>
-		<reference osisRef="ACT.4.22!4-ACT.4.22!5" type="Split Focal" label="Split" verse="ACT 4:22" >πλειόνων τεσσεράκοντα</reference>
-		<reference osisRef="ACT.4.25!8-ACT.4.25!11" type="Split Focal" label="Split" verse="ACT 4:25" >στόματος δαυὶδ παιδός σου</reference>
-		<reference osisRef="ACT.4.33!9-ACT.4.33!13" type="Split Focal" label="Split" verse="ACT 4:33" >τῆς ἀναστάσεως τοῦ κυρίου ἰησοῦ</reference>
-		<reference osisRef="ACT.5.29!10-ACT.5.29!13" type="Split Focal" label="Split" verse="ACT 5:29" >θεῷ μᾶλλον ἢ ἀνθρώποις</reference>
-		<reference osisRef="ACT.5.31!16-ACT.5.31!18" type="Split Focal" label="Split" verse="ACT 5:31" >καὶ ἄφεσιν ἁμαρτιῶν</reference>
-		<reference osisRef="ACT.7.5!18-ACT.7.5!23" type="Split Focal" label="Split" verse="ACT 7:5" >καὶ τῷ σπέρματι αὐτοῦ μετ’ αὐτόν</reference>
-		<reference osisRef="ACT.7.11!10-ACT.7.11!12" type="Split Focal" label="Split" verse="ACT 7:11" >καὶ θλῖψις μεγάλη</reference>
-		<reference osisRef="ACT.7.13!13-ACT.7.13!14" type="Split Focal" label="Split" verse="ACT 7:13" >τῷ φαραὼ</reference>
-		<reference osisRef="ACT.7.19!15" type="Split Focal" label="Split" verse="ACT 7:19" >αὐτῶν</reference>
-		<reference osisRef="ACT.7.56!16-ACT.7.56!17" type="Split Focal" label="Split" verse="ACT 7:56" >τοῦ θεοῦ</reference>
-		<reference osisRef="ACT.8.9!21" type="Split Focal" label="Split" verse="ACT 8:9" >μέγαν</reference>
-		<reference osisRef="ACT.8.24!18-ACT.8.24!19" type="Split Focal" label="Split" verse="ACT 8:24" >ὧν εἰρήκατε</reference>
-		<reference osisRef="ACT.9.2!14-ACT.9.2!16" type="Split Focal" label="Split" verse="ACT 9:2" >τῆς ὁδοῦ ὄντας</reference>
-		<reference osisRef="ACT.9.36!6-ACT.9.36!8" type="Split Focal" label="Split" verse="ACT 9:36" >μαθήτρια ὀνόματι ταβιθά</reference>
-		<reference osisRef="ACT.9.38!5-ACT.9.38!6" type="Split Focal" label="Split" verse="ACT 9:38" >τῇ ἰόππῃ</reference>
-		<reference osisRef="ACT.10.28!25" type="Split Focal" label="Split" verse="ACT 10:28" >ἄνθρωπον</reference>
-		<reference osisRef="ACT.12.15!18" type="Split Focal" label="Split" verse="ACT 12:15" >αὐτοῦ</reference>
-		<reference osisRef="ACT.12.22!7-ACT.12.22!9" type="Split Focal" label="Split" verse="ACT 12:22" >καὶ οὐκ ἀνθρώπου</reference>
-		<reference osisRef="ACT.13.15!21-ACT.13.15!24" type="Split Focal" label="Split" verse="ACT 13:15" >ἐν ὑμῖν λόγος παρακλήσεως</reference>
-		<reference osisRef="ACT.13.33!18-ACT.13.33!19" type="Split Focal" label="Split" verse="ACT 13:33" >τῷ δευτέρῳ</reference>
-		<reference osisRef="ACT.13.46!26-ACT.13.46!28" type="Split Focal" label="Split" verse="ACT 13:46" >τῆς αἰωνίου ζωῆς</reference>
-		<reference osisRef="ACT.14.8!7-ACT.14.8!8" type="Split Focal" label="Split" verse="ACT 14:8" >τοῖς ποσὶν</reference>
-		<reference osisRef="ACT.14.15!11-ACT.14.15!12" type="Split Focal" label="Split" verse="ACT 14:15" >ὑμῖν ἄνθρωποι</reference>
-		<reference osisRef="ACT.14.17!11-ACT.14.17!13" type="Split Focal" label="Split" verse="ACT 14:17" >καὶ καιροὺς καρποφόρους</reference>
-		<reference osisRef="ACT.15.28!13-ACT.15.28!17" type="Split Focal" label="Split" verse="ACT 15:28" >βάρος πλὴν τούτων τῶν ἐπάναγκες</reference>
-		<reference osisRef="ACT.16.1!15-ACT.16.1!16" type="Split Focal" label="Split" verse="ACT 16:1" >ὀνόματι τιμόθεος</reference>
-		<reference osisRef="ACT.16.23!5" type="Split Focal" label="Split" verse="ACT 16:23" >πληγὰς</reference>
-		<reference osisRef="ACT.16.26!5" type="Split Focal" label="Split" verse="ACT 16:26" >μέγας</reference>
-		<reference osisRef="ACT.16.28!11" type="Split Focal" label="Split" verse="ACT 16:28" >κακόν</reference>
-		<reference osisRef="ACT.17.18!26" type="Split Focal" label="Split" verse="ACT 17:18" >καταγγελεὺς</reference>
-		<reference osisRef="ACT.17.24!17" type="Split Focal" label="Split" verse="ACT 17:24" >κύριος</reference>
-		<reference osisRef="ACT.17.29!4-ACT.17.29!5" type="Split Focal" label="Split" verse="ACT 17:29" >τοῦ θεοῦ</reference>
-		<reference osisRef="ACT.18.10!17" type="Split Focal" label="Split" verse="ACT 18:10" >πολὺς</reference>
-		<reference osisRef="ACT.18.12!5-ACT.18.12!6" type="Split Focal" label="Split" verse="ACT 18:12" >τῆς ἀχαΐας</reference>
-		<reference osisRef="ACT.18.15!5-ACT.18.15!13" type="Split Focal" label="Split" verse="ACT 18:15" >περὶ λόγου καὶ ὀνομάτων καὶ νόμου τοῦ καθ’ ὑμᾶς</reference>
-		<reference osisRef="ACT.18.15!18" type="Split Focal" label="Split" verse="ACT 18:15" >τούτων</reference>
-		<reference osisRef="ACT.18.24!16-ACT.18.24!18" type="Split Focal" label="Split" verse="ACT 18:24" >ἐν ταῖς γραφαῖς</reference>
-		<reference osisRef="ACT.19.34!8" type="Split Focal" label="Split" verse="ACT 19:34" >μία</reference>
-		<reference osisRef="ACT.19.35!13" type="Split Focal" label="Split" verse="ACT 19:35" >ἀνθρώπων</reference>
-		<reference osisRef="ACT.19.35!22-ACT.19.35!27" type="Split Focal" label="Split" verse="ACT 19:35" >τῆς μεγάλης ἀρτέμιδος καὶ τοῦ διοπετοῦς</reference>
-		<reference osisRef="ACT.20.20!4-ACT.20.20!5" type="Split Focal" label="Split" verse="ACT 20:20" >τῶν συμφερόντων</reference>
-		<reference osisRef="ACT.20.26!11-ACT.20.26!14" type="Split Focal" label="Split" verse="ACT 20:26" >ἀπὸ τοῦ αἵματος πάντων</reference>
-		<reference osisRef="ACT.20.37!5" type="Split Focal" label="Split" verse="ACT 20:37" >πάντων</reference>
-		<reference osisRef="ACT.21.10!10-ACT.21.10!12" type="Split Focal" label="Split" verse="ACT 21:10" >προφήτης ὀνόματι ἅγαβος</reference>
-		<reference osisRef="ACT.21.18!14-ACT.21.18!15" type="Split Focal" label="Split" verse="ACT 21:18" >οἱ πρεσβύτεροι</reference>
-		<reference osisRef="ACT.21.20!18-ACT.21.20!19" type="Split Focal" label="Split" verse="ACT 21:20" >τῶν πεπιστευκότων</reference>
-		<reference osisRef="ACT.21.21!8-ACT.21.21!9" type="Split Focal" label="Split" verse="ACT 21:21" >ἀπὸ μωϋσέως</reference>
-		<reference osisRef="ACT.21.23!4-ACT.21.23!6" type="Split Focal" label="Split" verse="ACT 21:23" >ὅ σοι λέγομεν</reference>
-		<reference osisRef="ACT.21.31!14" type="Split Focal" label="Split" verse="ACT 21:31" >ἰερουσαλήμ</reference>
-		<reference osisRef="ACT.21.39!9-ACT.21.39!12" type="Split Focal" label="Split" verse="ACT 21:39" >ἰουδαῖος ταρσεὺς τῆς κιλικίας</reference>
-		<reference osisRef="ACT.22.2!11" type="Split Focal" label="Split" verse="ACT 22:2" >ἡσυχίαν</reference>
-		<reference osisRef="ACT.22.3!28-ACT.22.3!29" type="Split Focal" label="Split" verse="ACT 22:3" >τοῦ θεοῦ</reference>
-		<reference osisRef="ACT.22.5!7-ACT.22.5!10" type="Split Focal" label="Split" verse="ACT 22:5" >καὶ πᾶν τὸ πρεσβυτέριον</reference>
-		<reference osisRef="ACT.22.9!15-ACT.22.9!17" type="Split Focal" label="Split" verse="ACT 22:9" >τοῦ λαλοῦντός μοι</reference>
-		<reference osisRef="ACT.22.15!8-ACT.22.15!11" type="Split Focal" label="Split" verse="ACT 22:15" >ὧν ἑώρακας καὶ ἤκουσας</reference>
-		<reference osisRef="ACT.23.9!28-ACT.23.9!29" type="Split Focal" label="Split" verse="ACT 23:9" >ἢ ἄγγελος</reference>
-		<reference osisRef="ACT.23.10!4" type="Split Focal" label="Split" verse="ACT 23:10" >στάσεως</reference>
-		<reference osisRef="ACT.23.29!16" type="Split Focal" label="Split" verse="ACT 23:29" >ἔγκλημα</reference>
-		<reference osisRef="ACT.24.11!9-ACT.24.11!10" type="Split Focal" label="Split" verse="ACT 24:11" >ἡμέραι δώδεκα</reference>
-		<reference osisRef="ACT.24.12!15-ACT.24.12!22" type="Split Focal" label="Split" verse="ACT 24:12" >οὔτε ἐν ταῖς συναγωγαῖς οὔτε κατὰ τὴν πόλιν</reference>
-		<reference osisRef="ACT.24.15!14-ACT.24.15!17" type="Split Focal" label="Split" verse="ACT 24:15" >δικαίων τε καὶ ἀδίκων</reference>
-		<reference osisRef="ACT.24.16!9-ACT.24.16!14" type="Split Focal" label="Split" verse="ACT 24:16" >πρὸς τὸν θεὸν καὶ τοὺς ἀνθρώπους</reference>
-		<reference osisRef="ACT.24.17!12-ACT.24.17!13" type="Split Focal" label="Split" verse="ACT 24:17" >καὶ προσφοράς</reference>
-		<reference osisRef="ACT.24.19!17-ACT.24.19!18" type="Split Focal" label="Split" verse="ACT 24:19" >πρὸς ἐμέ</reference>
-		<reference osisRef="ACT.24.20!7" type="Split Focal" label="Split" verse="ACT 24:20" >ἀδίκημα</reference>
-		<reference osisRef="ACT.24.23!12-ACT.24.23!14" type="Split Focal" label="Split" verse="ACT 24:23" >τῶν ἰδίων αὐτοῦ</reference>
-		<reference osisRef="ACT.25.5!14" type="Split Focal" label="Split" verse="ACT 25:5" >ἄτοπον</reference>
-		<reference osisRef="ACT.25.11!18-ACT.25.11!21" type="Split Focal" label="Split" verse="ACT 25:11" >ὧν οὗτοι κατηγοροῦσίν μου</reference>
-		<reference osisRef="ACT.25.13!4" type="Split Focal" label="Split" verse="ACT 25:13" >τινῶν</reference>
-		<reference osisRef="ACT.25.18!9-ACT.25.18!12" type="Split Focal" label="Split" verse="ACT 25:18" >ὧν ἐγὼ ὑπενόουν πονηρῶν</reference>
-		<reference osisRef="ACT.25.19!11-ACT.25.19!15" type="Split Focal" label="Split" verse="ACT 25:19" >καὶ περί τινος ἰησοῦ τεθνηκότος</reference>
-		<reference osisRef="ACT.25.25!7" type="Split Focal" label="Split" verse="ACT 25:25" >θανάτου</reference>
-		<reference osisRef="ACT.26.3!5-ACT.26.3!12" type="Split Focal" label="Split" verse="ACT 26:3" >πάντων τῶν κατὰ ἰουδαίους ἐθῶν τε καὶ ζητημάτων</reference>
-		<reference osisRef="ACT.26.9!13-ACT.26.9!14" type="Split Focal" label="Split" verse="ACT 26:9" >πολλὰ ἐναντία</reference>
-		<reference osisRef="ACT.26.13!16" type="Split Focal" label="Split" verse="ACT 26:13" >φῶς</reference>
-		<reference osisRef="ACT.26.22!4-ACT.26.22!7" type="Split Focal" label="Split" verse="ACT 26:22" >τῆς ἀπὸ τοῦ θεοῦ</reference>
-		<reference osisRef="ACT.26.22!21-ACT.26.22!29" type="Split Focal" label="Split" verse="ACT 26:22" >ὧν τε οἱ προφῆται ἐλάλησαν μελλόντων γίνεσθαι καὶ μωϋσῆς</reference>
-		<reference osisRef="ACT.26.24!16" type="Split Focal" label="Split" verse="ACT 26:24" >γράμματα</reference>
-		<reference osisRef="ACT.26.26!19" type="Split Focal" label="Split" verse="ACT 26:26" >οὐθέν</reference>
-		<reference osisRef="ACT.27.8!16" type="Split Focal" label="Split" verse="ACT 27:8" >λασαία</reference>
-		<reference osisRef="ACT.27.12!6-ACT.27.12!7" type="Split Focal" label="Split" verse="ACT 27:12" >πρὸς παραχειμασίαν</reference>
-		<reference osisRef="ACT.27.16!5-ACT.27.16!6" type="Split Focal" label="Split" verse="ACT 27:16" >καλούμενον καῦδα</reference>
-		<reference osisRef="ACT.27.22!12-ACT.27.22!16" type="Split Focal" label="Split" verse="ACT 27:22" >ἐξ ὑμῶν πλὴν τοῦ πλοίου</reference>
-		<reference osisRef="ACT.27.27!21" type="Split Focal" label="Split" verse="ACT 27:27" >χώραν</reference>
-		<reference osisRef="ACT.27.33!16" type="Split Focal" label="Split" verse="ACT 27:33" >ἡμέραν</reference>
-		<reference osisRef="ACT.28.4!9-ACT.28.4!12" type="Split Focal" label="Split" verse="ACT 28:4" >ἐκ τῆς χειρὸς αὐτοῦ</reference>
-		<reference osisRef="ROM.1.7!12-ROM.1.7!13" type="Split Focal" label="Split" verse="ROM 1:7" >καὶ εἰρήνη</reference>
-		<reference osisRef="ROM.1.11!8" type="Split Focal" label="Split" verse="ROM 1:11" >χάρισμα</reference>
-		<reference osisRef="ROM.1.11!10" type="Split Focal" label="Split" verse="ROM 1:11" >πνευματικὸν</reference>
-		<reference osisRef="ROM.2.19!6" type="Split Focal" label="Split" verse="ROM 2:19" >τυφλῶν</reference>
-		<reference osisRef="ROM.3.29!5" type="Split Focal" label="Split" verse="ROM 3:29" >μόνον</reference>
-		<reference osisRef="ROM.4.10!7-ROM.4.10!9" type="Split Focal" label="Split" verse="ROM 4:10" >ἢ ἐν ἀκροβυστίᾳ</reference>
-		<reference osisRef="ROM.4.11!4" type="Split Focal" label="Split" verse="ROM 4:11" >περιτομῆς</reference>
-		<reference osisRef="ROM.4.13!17" type="Split Focal" label="Split" verse="ROM 4:13" >κόσμου</reference>
-		<reference osisRef="ROM.4.13!18-ROM.4.13!21" type="Split Focal" label="Split" verse="ROM 4:13" >ἀλλὰ διὰ δικαιοσύνης πίστεως</reference>
-		<reference osisRef="ROM.5.1!7-ROM.5.1!9" type="Split Focal" label="Split" verse="ROM 5:1" >πρὸς τὸν θεὸν</reference>
-		<reference osisRef="ROM.6.16!12-ROM.6.16!13" type="Split Focal" label="Split" verse="ROM 6:16" >ᾧ ὑπακούετε</reference>
-		<reference osisRef="ROM.6.20!5-ROM.6.20!6" type="Split Focal" label="Split" verse="ROM 6:20" >τῆς ἁμαρτίας</reference>
-		<reference osisRef="ROM.6.20!9-ROM.6.20!10" type="Split Focal" label="Split" verse="ROM 6:20" >τῇ δικαιοσύνῃ</reference>
-		<reference osisRef="ROM.7.24!3" type="Split Focal" label="Split" verse="ROM 7:24" >ἄνθρωπος</reference>
-		<reference osisRef="ROM.8.1!4" type="Split Focal" label="Split" verse="ROM 8:1" >κατάκριμα</reference>
-		<reference osisRef="ROM.9.2!5-ROM.9.2!8" type="Split Focal" label="Split" verse="ROM 9:2" >μεγάλη καὶ ἀδιάλειπτος ὀδύνη</reference>
-		<reference osisRef="ROM.11.24!9" type="Split Focal" label="Split" verse="ROM 11:24" >ἀγριελαίου</reference>
-		<reference osisRef="ROM.12.4!17" type="Split Focal" label="Split" verse="ROM 12:4" >πρᾶξιν</reference>
-		<reference osisRef="ROM.14.19!7-ROM.14.19!13" type="Split Focal" label="Split" verse="ROM 14:19" >καὶ τὰ τῆς οἰκοδομῆς τῆς εἰς ἀλλήλους</reference>
-		<reference osisRef="ROM.15.8!6" type="Split Focal" label="Split" verse="ROM 15:8" >περιτομῆς</reference>
-		<reference osisRef="ROM.15.14!15" type="Split Focal" label="Split" verse="ROM 15:14" >ἀγαθωσύνης</reference>
-		<reference osisRef="ROM.15.27!6" type="Split Focal" label="Split" verse="ROM 15:27" >αὐτῶν</reference>
-		<reference osisRef="ROM.16.2!24-ROM.16.2!26" type="Split Focal" label="Split" verse="ROM 16:2" >καὶ ἐμοῦ αὐτοῦ</reference>
-		<reference osisRef="1CO.1.3!3-1CO.1.3!4" type="Split Focal" label="Split" verse="1CO 1:3" >καὶ εἰρήνη</reference>
-		<reference osisRef="1CO.1.30!13-1CO.1.30!14" type="Split Focal" label="Split" verse="1CO 1:30" >ἀπὸ θεοῦ</reference>
-		<reference osisRef="1CO.2.11!4" type="Split Focal" label="Split" verse="1CO 2:11" >ἀνθρώπων</reference>
-		<reference osisRef="1CO.2.12!9-1CO.2.12!15" type="Split Focal" label="Split" verse="1CO 2:12" >ἀλλὰ τὸ πνεῦμα τὸ ἐκ τοῦ θεοῦ</reference>
-		<reference osisRef="1CO.3.2!4-1CO.3.2!5" type="Split Focal" label="Split" verse="1CO 3:2" >οὐ βρῶμα</reference>
-		<reference osisRef="1CO.3.7!7-1CO.3.7!13" type="Split Focal" label="Split" verse="1CO 3:7" >οὔτε ὁ ποτίζων ἀλλ’ ὁ αὐξάνων θεός</reference>
-		<reference osisRef="1CO.3.9!4" type="Split Focal" label="Split" verse="1CO 3:9" >συνεργοί</reference>
-		<reference osisRef="1CO.3.11!7-1CO.3.11!9" type="Split Focal" label="Split" verse="1CO 3:11" >παρὰ τὸν κείμενον</reference>
-		<reference osisRef="1CO.4.3!10-1CO.4.3!13" type="Split Focal" label="Split" verse="1CO 4:3" >ἢ ὑπὸ ἀνθρωπίνης ἡμέρας</reference>
-		<reference osisRef="1CO.4.7!8-1CO.4.7!10" type="Split Focal" label="Split" verse="1CO 4:7" >ὃ οὐκ ἔλαβες</reference>
-		<reference osisRef="1CO.4.14!6-1CO.4.14!11" type="Split Focal" label="Split" verse="1CO 4:14" >ἀλλ’ ὡς τέκνα μου ἀγαπητὰ νουθετῶ[ν]</reference>
-		<reference osisRef="1CO.4.20!9-1CO.4.20!11" type="Split Focal" label="Split" verse="1CO 4:20" >ἀλλ’ ἐν δυνάμει</reference>
-		<reference osisRef="1CO.4.21!8-1CO.4.21!13" type="Split Focal" label="Split" verse="1CO 4:21" >ἢ ἐν ἀγάπῃ πνεύματί τε πραΰτητος</reference>
-		<reference osisRef="1CO.5.1!17-1CO.5.1!18" type="Split Focal" label="Split" verse="1CO 5:1" >τοῦ πατρὸς</reference>
-		<reference osisRef="1CO.6.2!19-1CO.6.2!20" type="Split Focal" label="Split" verse="1CO 6:2" >κριτηρίων ἐλαχίστων</reference>
-		<reference osisRef="1CO.7.4!8-1CO.7.4!10" type="Split Focal" label="Split" verse="1CO 7:4" >ἀλλὰ ὁ ἀνήρ</reference>
-		<reference osisRef="1CO.7.4!21-1CO.7.4!23" type="Split Focal" label="Split" verse="1CO 7:4" >ἀλλὰ ἡ γυνή</reference>
-		<reference osisRef="1CO.7.7!13-1CO.7.7!15" type="Split Focal" label="Split" verse="1CO 7:7" >χάρισμα ἐκ θεοῦ</reference>
-		<reference osisRef="1CO.7.9!9-1CO.7.9!11" type="Split Focal" label="Split" verse="1CO 7:9" >γαμῆσαι ἢ πυροῦσθαι</reference>
-		<reference osisRef="1CO.7.12!14" type="Split Focal" label="Split" verse="1CO 7:12" >ἄπιστον</reference>
-		<reference osisRef="1CO.7.22!16" type="Split Focal" label="Split" verse="1CO 7:22" >χριστοῦ</reference>
-		<reference osisRef="1CO.9.2!5" type="Split Focal" label="Split" verse="1CO 9:2" >ἀπόστολος</reference>
-		<reference osisRef="1CO.9.18!5-1CO.9.18!6" type="Split Focal" label="Split" verse="1CO 9:18" >ὁ μισθός</reference>
-		<reference osisRef="1CO.9.19!4-1CO.9.19!5" type="Split Focal" label="Split" verse="1CO 9:19" >ἐκ πάντων</reference>
-		<reference osisRef="1CO.10.4!7" type="Split Focal" label="Split" verse="1CO 10:4" >πόμα</reference>
-		<reference osisRef="1CO.10.16!10-1CO.10.16!13" type="Split Focal" label="Split" verse="1CO 10:16" >τοῦ αἵματος τοῦ χριστοῦ</reference>
-		<reference osisRef="1CO.10.21!6-1CO.10.21!8" type="Split Focal" label="Split" verse="1CO 10:21" >καὶ ποτήριον δαιμονίων</reference>
-		<reference osisRef="1CO.10.21!14-1CO.10.21!16" type="Split Focal" label="Split" verse="1CO 10:21" >καὶ τραπέζης δαιμονίων</reference>
-		<reference osisRef="1CO.10.32!5-1CO.10.32!11" type="Split Focal" label="Split" verse="1CO 10:32" >καὶ ἕλλησιν καὶ τῇ ἐκκλησίᾳ τοῦ θεοῦ</reference>
-		<reference osisRef="1CO.10.33!11-1CO.10.33!14" type="Split Focal" label="Split" verse="1CO 10:33" >ἀλλὰ τὸ τῶν πολλῶν</reference>
-		<reference osisRef="1CO.11.5!17-1CO.11.5!21" type="Split Focal" label="Split" verse="1CO 11:5" >καὶ τὸ αὐτὸ τῇ ἐξυρημένῃ</reference>
-		<reference osisRef="1CO.11.16!12-1CO.11.16!16" type="Split Focal" label="Split" verse="1CO 11:16" >οὐδὲ αἱ ἐκκλησίαι τοῦ θεοῦ</reference>
-		<reference osisRef="1CO.11.24!9-1CO.11.24!13" type="Split Focal" label="Split" verse="1CO 11:24" >τὸ σῶμα τὸ ὑπὲρ ὑμῶν</reference>
-		<reference osisRef="1CO.11.25!16-1CO.11.25!19" type="Split Focal" label="Split" verse="1CO 11:25" >ἐν τῷ ἐμῷ αἵματι</reference>
-		<reference osisRef="1CO.11.27!16-1CO.11.27!22" type="Split Focal" label="Split" verse="1CO 11:27" >τοῦ σώματος καὶ τοῦ αἵματος τοῦ κυρίου</reference>
-		<reference osisRef="1CO.12.12!21" type="Split Focal" label="Split" verse="1CO 12:12" >σῶμα</reference>
-		<reference osisRef="1CO.12.22!9-1CO.12.22!10" type="Split Focal" label="Split" verse="1CO 12:22" >ἀσθενέστερα ὑπάρχειν</reference>
-		<reference osisRef="1CO.12.24!18" type="Split Focal" label="Split" verse="1CO 12:24" >τιμήν</reference>
-		<reference osisRef="1CO.12.30!5" type="Split Focal" label="Split" verse="1CO 12:30" >ἰαμάτων</reference>
-		<reference osisRef="1CO.13.1!7-1CO.13.1!9" type="Split Focal" label="Split" verse="1CO 13:1" >καὶ τῶν ἀγγέλων</reference>
-		<reference osisRef="1CO.14.2!8-1CO.14.2!9" type="Split Focal" label="Split" verse="1CO 14:2" >ἀλλὰ θεῷ</reference>
-		<reference osisRef="1CO.14.2!16" type="Split Focal" label="Split" verse="1CO 14:2" >μυστήρια</reference>
-		<reference osisRef="1CO.14.8!6" type="Split Focal" label="Split" verse="1CO 14:8" >φωνὴν</reference>
-		<reference osisRef="1CO.14.12!7" type="Split Focal" label="Split" verse="1CO 14:12" >πνευμάτων</reference>
-		<reference osisRef="1CO.14.20!5-1CO.14.20!6" type="Split Focal" label="Split" verse="1CO 14:20" >ταῖς φρεσὶν</reference>
-		<reference osisRef="1CO.14.28!12-1CO.14.28!14" type="Split Focal" label="Split" verse="1CO 14:28" >καὶ τῷ θεῷ</reference>
-		<reference osisRef="1CO.14.30!5" type="Split Focal" label="Split" verse="1CO 14:30" >καθημένῳ</reference>
-		<reference osisRef="1CO.14.33!7-1CO.14.33!8" type="Split Focal" label="Split" verse="1CO 14:33" >ἀλλὰ εἰρήνης</reference>
-		<reference osisRef="1CO.14.37!6-1CO.14.37!7" type="Split Focal" label="Split" verse="1CO 14:37" >ἢ πνευματικός</reference>
-		<reference osisRef="1CO.14.37!15" type="Split Focal" label="Split" verse="1CO 14:37" >ἐντολή</reference>
-		<reference osisRef="1CO.14.39!12" type="Split Focal" label="Split" verse="1CO 14:39" >γλώσσαις</reference>
-		<reference osisRef="1CO.15.19!10" type="Split Focal" label="Split" verse="1CO 15:19" >μόνον</reference>
-		<reference osisRef="1CO.15.58!7" type="Split Focal" label="Split" verse="1CO 15:58" >ἀμετακίνητοι</reference>
-		<reference osisRef="1CO.16.9!5-1CO.16.9!7" type="Split Focal" label="Split" verse="1CO 16:9" >μεγάλη καὶ ἐνεργής</reference>
-		<reference osisRef="2CO.1.2!3-2CO.1.2!4" type="Split Focal" label="Split" verse="2CO 1:2" >καὶ εἰρήνη</reference>
-		<reference osisRef="2CO.1.7!13-2CO.1.7!14" type="Split Focal" label="Split" verse="2CO 1:7" >τῶν παθημάτων</reference>
-		<reference osisRef="2CO.1.9!14-2CO.1.9!15" type="Split Focal" label="Split" verse="2CO 1:9" >ἐφ’ ἑαυτοῖς</reference>
-		<reference osisRef="2CO.1.13!6-2CO.1.13!12" type="Split Focal" label="Split" verse="2CO 1:13" >ἀλλ’ ἢ ἃ ἀναγινώσκετε ἢ καὶ ἐπιγινώσκετε</reference>
-		<reference osisRef="2CO.1.24!10-2CO.1.24!12" type="Split Focal" label="Split" verse="2CO 1:24" >τῆς χαρᾶς ὑμῶν</reference>
-		<reference osisRef="2CO.2.4!21-2CO.2.4!25" type="Split Focal" label="Split" verse="2CO 2:4" >ἣν ἔχω περισσοτέρως εἰς ὑμᾶς</reference>
-		<reference osisRef="2CO.4.5!5-2CO.4.5!8" type="Split Focal" label="Split" verse="2CO 4:5" >ἀλλὰ ἰησοῦν χριστὸν κύριον</reference>
-		<reference osisRef="2CO.5.7!5-2CO.5.7!7" type="Split Focal" label="Split" verse="2CO 5:7" >οὐ διὰ εἴδους</reference>
-		<reference osisRef="2CO.5.12!10-2CO.5.12!12" type="Split Focal" label="Split" verse="2CO 5:12" >καυχήματος ὑπὲρ ἡμῶν</reference>
-		<reference osisRef="2CO.5.12!20-2CO.5.12!23" type="Split Focal" label="Split" verse="2CO 5:12" >καὶ μὴ ἐν καρδίᾳ</reference>
-		<reference osisRef="2CO.5.15!11-2CO.5.15!17" type="Split Focal" label="Split" verse="2CO 5:15" >ἀλλὰ τῷ ὑπὲρ αὐτῶν ἀποθανόντι καὶ ἐγερθέντι</reference>
-		<reference osisRef="2CO.6.16!13" type="Split Focal" label="Split" verse="2CO 6:16" >ζῶντος</reference>
-		<reference osisRef="2CO.7.1!4-2CO.7.1!5" type="Split Focal" label="Split" verse="2CO 7:1" >τὰς ἐπαγγελίας</reference>
-		<reference osisRef="2CO.7.4!3" type="Split Focal" label="Split" verse="2CO 7:4" >παρρησία</reference>
-		<reference osisRef="2CO.7.4!8" type="Split Focal" label="Split" verse="2CO 7:4" >καύχησις</reference>
-		<reference osisRef="2CO.7.5!9" type="Split Focal" label="Split" verse="2CO 7:5" >ἄνεσιν</reference>
-		<reference osisRef="2CO.7.11!12" type="Split Focal" label="Split" verse="2CO 7:11" >σπουδήν</reference>
-		<reference osisRef="2CO.8.3!5-2CO.8.3!7" type="Split Focal" label="Split" verse="2CO 8:3" >καὶ παρὰ δύναμιν</reference>
-		<reference osisRef="2CO.8.12!10-2CO.8.12!13" type="Split Focal" label="Split" verse="2CO 8:12" >οὐ καθὸ οὐκ ἔχει</reference>
-		<reference osisRef="2CO.10.5!2-2CO.10.5!9" type="Split Focal" label="Split" verse="2CO 10:5" >πᾶν ὕψωμα ἐπαιρόμενον κατὰ τῆς γνώσεως τοῦ θεοῦ</reference>
-		<reference osisRef="2CO.10.13!8-2CO.10.13!19" type="Split Focal" label="Split" verse="2CO 10:13" >ἀλλὰ κατὰ τὸ μέτρον τοῦ κανόνος οὗ ἐμέρισεν ἡμῖν ὁ θεὸς μέτρου</reference>
-		<reference osisRef="2CO.10.18!9-2CO.10.18!13" type="Split Focal" label="Split" verse="2CO 10:18" >ἀλλὰ ὃν ὁ κύριος συνίστησιν</reference>
-		<reference osisRef="2CO.11.4!9-2CO.11.4!11" type="Split Focal" label="Split" verse="2CO 11:4" >ὃν οὐκ ἐκηρύξαμεν</reference>
-		<reference osisRef="2CO.11.4!16-2CO.11.4!18" type="Split Focal" label="Split" verse="2CO 11:4" >ὃ οὐκ ἐλάβετε</reference>
-		<reference osisRef="GAL.1.3!3-GAL.1.3!4" type="Split Focal" label="Split" verse="GAL 1:3" >καὶ εἰρήνη</reference>
-		<reference osisRef="GAL.1.7!9-GAL.1.7!18" type="Split Focal" label="Split" verse="GAL 1:7" >οἱ ταράσσοντες ὑμᾶς καὶ θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ χριστοῦ</reference>
-		<reference osisRef="GAL.1.10!5-GAL.1.10!7" type="Split Focal" label="Split" verse="GAL 1:10" >ἢ τὸν θεόν</reference>
-		<reference osisRef="GAL.1.14!16-GAL.1.14!19" type="Split Focal" label="Split" verse="GAL 1:14" >τῶν πατρικῶν μου παραδόσεων</reference>
-		<reference osisRef="GAL.2.6!16" type="Split Focal" label="Split" verse="GAL 2:6" >ἀνθρώπου</reference>
-		<reference osisRef="GAL.2.9!22" type="Split Focal" label="Split" verse="GAL 2:9" >κοινωνίας</reference>
-		<reference osisRef="GAL.3.2!13-GAL.3.2!16" type="Split Focal" label="Split" verse="GAL 3:2" >ἢ ἐξ ἀκοῆς πίστεως</reference>
-		<reference osisRef="GAL.3.7!10" type="Split Focal" label="Split" verse="GAL 3:7" >ἀβραάμ</reference>
-		<reference osisRef="GAL.3.16!7-GAL.3.16!10" type="Split Focal" label="Split" verse="GAL 3:16" >καὶ τῷ σπέρματι αὐτοῦ</reference>
-		<reference osisRef="GAL.3.23!15" type="Split Focal" label="Split" verse="GAL 3:23" >ἀποκαλυφθῆναι</reference>
-		<reference osisRef="GAL.4.2!5-GAL.4.2!6" type="Split Focal" label="Split" verse="GAL 4:2" >καὶ οἰκονόμους</reference>
-		<reference osisRef="GAL.4.10!3-GAL.4.10!8" type="Split Focal" label="Split" verse="GAL 4:10" >καὶ μῆνας καὶ καιροὺς καὶ ἐνιαυτούς</reference>
-		<reference osisRef="GAL.4.31!8-GAL.4.31!9" type="Split Focal" label="Split" verse="GAL 4:31" >τῆς ἐλευθέρας</reference>
-		<reference osisRef="GAL.5.6!9-GAL.5.6!10" type="Split Focal" label="Split" verse="GAL 5:6" >οὔτε ἀκροβυστία</reference>
-		<reference osisRef="GAL.6.4!15-GAL.6.4!19" type="Split Focal" label="Split" verse="GAL 6:4" >καὶ οὐκ εἰς τὸν ἕτερον</reference>
-		<reference osisRef="GAL.6.11!4" type="Split Focal" label="Split" verse="GAL 6:11" >γράμμασιν</reference>
-		<reference osisRef="GAL.6.15!6-GAL.6.15!7" type="Split Focal" label="Split" verse="GAL 6:15" >οὔτε ἀκροβυστία</reference>
-		<reference osisRef="GAL.6.16!10-GAL.6.16!11" type="Split Focal" label="Split" verse="GAL 6:16" >καὶ ἔλεος</reference>
-		<reference osisRef="EPH.1.2!3-EPH.1.2!4" type="Split Focal" label="Split" verse="EPH 1:2" >καὶ εἰρήνη</reference>
-		<reference osisRef="EPH.2.4!6-EPH.2.4!7" type="Split Focal" label="Split" verse="EPH 2:4" >ἐν ἐλέει</reference>
-		<reference osisRef="EPH.2.10!4" type="Split Focal" label="Split" verse="EPH 2:10" >ποίημα</reference>
-		<reference osisRef="EPH.3.20!8-EPH.3.20!11" type="Split Focal" label="Split" verse="EPH 3:20" >ὧν αἰτούμεθα ἢ νοοῦμεν</reference>
-		<reference osisRef="EPH.4.1!11-EPH.4.1!14" type="Split Focal" label="Split" verse="EPH 4:1" >τῆς κλήσεως ἧς ἐκλήθητε</reference>
-		<reference osisRef="EPH.5.12!9-EPH.5.12!10" type="Split Focal" label="Split" verse="EPH 5:12" >καὶ λέγειν</reference>
-		<reference osisRef="EPH.5.30!4-EPH.5.30!6" type="Split Focal" label="Split" verse="EPH 5:30" >τοῦ σώματος αὐτοῦ</reference>
-		<reference osisRef="EPH.5.33!13-EPH.5.33!14" type="Split Focal" label="Split" verse="EPH 5:33" >ὡς ἑαυτόν</reference>
-		<reference osisRef="EPH.6.8!7" type="Split Focal" label="Split" verse="EPH 6:8" >ἀγαθόν</reference>
-		<reference osisRef="EPH.6.17!7-EPH.6.17!11" type="Split Focal" label="Split" verse="EPH 6:17" >καὶ τὴν μάχαιραν τοῦ πνεύματος</reference>
-		<reference osisRef="EPH.6.23!4-EPH.6.23!7" type="Split Focal" label="Split" verse="EPH 6:23" >καὶ ἀγάπη μετὰ πίστεως</reference>
-		<reference osisRef="PHP.1.2!3-PHP.1.2!4" type="Split Focal" label="Split" verse="PHP 1:2" >καὶ εἰρήνη</reference>
-		<reference osisRef="PHP.1.17!8-PHP.1.17!9" type="Split Focal" label="Split" verse="PHP 1:17" >οὐχ ἁγνῶς</reference>
-		<reference osisRef="PHP.1.30!5-PHP.1.30!13" type="Split Focal" label="Split" verse="PHP 1:30" >οἷον εἴδετε ἐν ἐμοὶ καὶ νῦν ἀκούετε ἐν ἐμοί</reference>
-		<reference osisRef="PHP.2.1!4" type="Split Focal" label="Split" verse="PHP 2:1" >παράκλησις</reference>
-		<reference osisRef="PHP.2.4!6-PHP.2.4!10" type="Split Focal" label="Split" verse="PHP 2:4" >ἀλλὰ καὶ τὰ ἑτέρων ἕκαστοι</reference>
-		<reference osisRef="PHP.2.7!14-PHP.2.7!15" type="Split Focal" label="Split" verse="PHP 2:7" >ὡς ἄνθρωπος</reference>
-		<reference osisRef="PHP.2.10!9-PHP.2.10!13" type="Split Focal" label="Split" verse="PHP 2:10" >ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων</reference>
-		<reference osisRef="PHP.2.21!7-PHP.2.21!10" type="Split Focal" label="Split" verse="PHP 2:21" >οὐ τὰ ἰησοῦ χριστοῦ</reference>
-		<reference osisRef="PHP.3.4!11" type="Split Focal" label="Split" verse="PHP 3:4" >ἄλλος</reference>
-		<reference osisRef="PHP.3.20!13-PHP.3.20!15" type="Split Focal" label="Split" verse="PHP 3:20" >κύριον ἰησοῦν χριστόν</reference>
-		<reference osisRef="PHP.4.15!17" type="Split Focal" label="Split" verse="PHP 4:15" >ἐκκλησία</reference>
-		<reference osisRef="COL.1.2!12-COL.1.2!13" type="Split Focal" label="Split" verse="COL 1:2" >καὶ εἰρήνη</reference>
-		<reference osisRef="COL.2.23!6" type="Split Focal" label="Split" verse="COL 2:23" >σοφίας</reference>
-		<reference osisRef="COL.3.2!4-COL.3.2!8" type="Split Focal" label="Split" verse="COL 3:2" >μὴ τὰ ἐπὶ τῆς γῆς</reference>
-		<reference osisRef="COL.4.9!15-COL.4.9!16" type="Split Focal" label="Split" verse="COL 4:9" >τὰ ὧδε</reference>
-		<reference osisRef="1TH.1.1!18-1TH.1.1!19" type="Split Focal" label="Split" verse="1TH 1:1" >καὶ εἰρήνη</reference>
-		<reference osisRef="1TH.1.6!6-1TH.1.6!8" type="Split Focal" label="Split" verse="1TH 1:6" >καὶ τοῦ κυρίου</reference>
-		<reference osisRef="1TH.2.14!6-1TH.2.14!17" type="Split Focal" label="Split" verse="1TH 2:14" >τῶν ἐκκλησιῶν τοῦ θεοῦ τῶν οὐσῶν ἐν τῇ ἰουδαίᾳ ἐν χριστῷ ἰησοῦ</reference>
-		<reference osisRef="1TH.2.15!6-1TH.2.15!9" type="Split Focal" label="Split" verse="1TH 2:15" >ἰησοῦν καὶ τοὺς προφήτας</reference>
-		<reference osisRef="1TH.3.6!23" type="Split Focal" label="Split" verse="1TH 3:6" >ἀγαθὴν</reference>
-		<reference osisRef="1TH.5.3!10" type="Split Focal" label="Split" verse="1TH 5:3" >ὄλεθρος</reference>
-		<reference osisRef="1TH.5.5!7-1TH.5.5!9" type="Split Focal" label="Split" verse="1TH 5:5" >καὶ υἱοὶ ἡμέρας</reference>
-		<reference osisRef="2TH.1.2!3-2TH.1.2!4" type="Split Focal" label="Split" verse="2TH 1:2" >καὶ εἰρήνη</reference>
-		<reference osisRef="1TI.1.15!4-1TI.1.15!7" type="Split Focal" label="Split" verse="1TI 1:15" >καὶ πάσης ἀποδοχῆς ἄξιος</reference>
-		<reference osisRef="1TI.2.12!6-1TI.2.12!8" type="Split Focal" label="Split" verse="1TI 2:12" >οὐδὲ αὐθεντεῖν ἀνδρός</reference>
-		<reference osisRef="1TI.3.6!9-1TI.3.6!10" type="Split Focal" label="Split" verse="1TI 3:6" >τοῦ διαβόλου</reference>
-		<reference osisRef="1TI.3.7!7-1TI.3.7!9" type="Split Focal" label="Split" verse="1TI 3:7" >ἀπὸ τῶν ἔξωθεν</reference>
-		<reference osisRef="1TI.3.7!15-1TI.3.7!18" type="Split Focal" label="Split" verse="1TI 3:7" >καὶ παγίδα τοῦ διαβόλου</reference>
-		<reference osisRef="1TI.3.12!9-1TI.3.12!12" type="Split Focal" label="Split" verse="1TI 3:12" >καὶ τῶν ἰδίων οἴκων</reference>
-		<reference osisRef="1TI.3.13!7" type="Split Focal" label="Split" verse="1TI 3:13" >καλὸν</reference>
-		<reference osisRef="1TI.3.13!9-1TI.3.13!17" type="Split Focal" label="Split" verse="1TI 3:13" >καὶ πολλὴν παρρησίαν ἐν πίστει τῇ ἐν χριστῷ ἰησοῦ</reference>
-		<reference osisRef="1TI.4.6!7-1TI.4.6!9" type="Split Focal" label="Split" verse="1TI 4:6" >διάκονος χριστοῦ ἰησοῦ</reference>
-		<reference osisRef="1TI.4.8!18-1TI.4.8!23" type="Split Focal" label="Split" verse="1TI 4:8" >ζωῆς τῆς νῦν καὶ τῆς μελλούσης</reference>
-		<reference osisRef="1TI.4.9!4-1TI.4.9!7" type="Split Focal" label="Split" verse="1TI 4:9" >καὶ πάσης ἀποδοχῆς ἄξιος</reference>
-		<reference osisRef="1TI.4.12!9-1TI.4.12!10" type="Split Focal" label="Split" verse="1TI 4:12" >τῶν πιστῶν</reference>
-		<reference osisRef="1TI.4.15!12" type="Split Focal" label="Split" verse="1TI 4:15" >πᾶσιν</reference>
-		<reference osisRef="1TI.4.16!14-1TI.4.16!17" type="Split Focal" label="Split" verse="1TI 4:16" >καὶ τοὺς ἀκούοντάς σου</reference>
-		<reference osisRef="1TI.5.18!13-1TI.5.18!15" type="Split Focal" label="Split" verse="1TI 5:18" >τοῦ μισθοῦ αὐτοῦ</reference>
-		<reference osisRef="1TI.6.2!17-1TI.6.2!18" type="Split Focal" label="Split" verse="1TI 6:2" >καὶ ἀγαπητοὶ</reference>
-		<reference osisRef="1TI.6.16!7" type="Split Focal" label="Split" verse="1TI 6:16" >ἀπρόσιτον</reference>
-		<reference osisRef="2TI.1.13!3-2TI.1.13!4" type="Split Focal" label="Split" verse="2TI 1:13" >ὑγιαινόντων λόγων</reference>
-		<reference osisRef="2TI.2.10!13-2TI.2.10!16" type="Split Focal" label="Split" verse="2TI 2:10" >τῆς ἐν χριστῷ ἰησοῦ</reference>
-		<reference osisRef="2TI.3.9!12" type="Split Focal" label="Split" verse="2TI 3:9" >πᾶσιν</reference>
-		<reference osisRef="2TI.4.5!9" type="Split Focal" label="Split" verse="2TI 4:5" >εὐαγγελιστοῦ</reference>
-		<reference osisRef="2TI.4.13!11-2TI.4.13!16" type="Split Focal" label="Split" verse="2TI 4:13" >καὶ τὰ βιβλία μάλιστα τὰς μεμβράνας</reference>
-		<reference osisRef="2TI.4.14!6" type="Split Focal" label="Split" verse="2TI 4:14" >κακὰ</reference>
-		<reference osisRef="TIT.1.6!10" type="Split Focal" label="Split" verse="TIT 1:6" >πιστά</reference>
-		<reference osisRef="TIT.1.16!10-TIT.1.16!11" type="Split Focal" label="Split" verse="TIT 1:16" >καὶ ἀπειθεῖς</reference>
-		<reference osisRef="TIT.2.8!14" type="Split Focal" label="Split" verse="TIT 2:8" >φαῦλον</reference>
-		<reference osisRef="TIT.2.10!7" type="Split Focal" label="Split" verse="TIT 2:10" >ἀγαθήν</reference>
-		<reference osisRef="TIT.3.2!8" type="Split Focal" label="Split" verse="TIT 3:2" >πραΰτητα</reference>
-		<reference osisRef="TIT.3.4!9-TIT.3.4!12" type="Split Focal" label="Split" verse="TIT 3:4" >τοῦ σωτῆρος ἡμῶν θεοῦ</reference>
-		<reference osisRef="TIT.3.12!6-TIT.3.12!7" type="Split Focal" label="Split" verse="TIT 3:12" >ἢ τύχικον</reference>
-		<reference osisRef="PHM.1.3!3-PHM.1.3!4" type="Split Focal" label="Split" verse="PHM 1:3" >καὶ εἰρήνη</reference>
-		<reference osisRef="PHM.1.7!5-PHM.1.7!6" type="Split Focal" label="Split" verse="PHM 1:7" >καὶ παράκλησιν</reference>
-		<reference osisRef="HEB.1.4!11" type="Split Focal" label="Split" verse="HEB 1:4" >ὄνομα</reference>
-		<reference osisRef="HEB.1.5!5-HEB.1.5!6" type="Split Focal" label="Split" verse="HEB 1:5" >τῶν ἀγγέλων</reference>
-		<reference osisRef="HEB.1.10!5" type="Split Focal" label="Split" verse="HEB 1:10" >κύριε</reference>
-		<reference osisRef="HEB.2.3!6" type="Split Focal" label="Split" verse="HEB 2:3" >σωτηρίας</reference>
-		<reference osisRef="HEB.2.14!24-HEB.2.14!25" type="Split Focal" label="Split" verse="HEB 2:14" >τοῦ θανάτου</reference>
-		<reference osisRef="HEB.2.15!13" type="Split Focal" label="Split" verse="HEB 2:15" >δουλείας</reference>
-		<reference osisRef="HEB.2.17!11-HEB.2.17!13" type="Split Focal" label="Split" verse="HEB 2:17" >καὶ πιστὸς ἀρχιερεὺς</reference>
-		<reference osisRef="HEB.3.2!3-HEB.3.2!5" type="Split Focal" label="Split" verse="HEB 3:2" >τῷ ποιήσαντι αὐτὸν</reference>
-		<reference osisRef="HEB.3.3!4-HEB.3.3!6" type="Split Focal" label="Split" verse="HEB 3:3" >δόξης παρὰ μωϋσῆν</reference>
-		<reference osisRef="HEB.4.7!4" type="Split Focal" label="Split" verse="HEB 4:7" >ἡμέραν</reference>
-		<reference osisRef="HEB.4.8!13" type="Split Focal" label="Split" verse="HEB 4:8" >ἡμέρας</reference>
-		<reference osisRef="HEB.4.11!14" type="Split Focal" label="Split" verse="HEB 4:11" >ὑποδείγματι</reference>
-		<reference osisRef="HEB.4.12!7-HEB.4.12!31" type="Split Focal" label="Split" verse="HEB 4:12" >καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος ἁρμῶν τε καὶ μυελῶν καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας</reference>
-		<reference osisRef="HEB.5.11!7-HEB.5.11!9" type="Split Focal" label="Split" verse="HEB 5:11" >καὶ δυσερμήνευτος λέγειν</reference>
-		<reference osisRef="HEB.5.11!13-HEB.5.11!14" type="Split Focal" label="Split" verse="HEB 5:11" >ταῖς ἀκοαῖς</reference>
-		<reference osisRef="HEB.6.1!17-HEB.6.2!35" type="Split Focal" label="Split" verse="HEB 6:1 - 2" >μετανοίας ἀπὸ νεκρῶν ἔργων καὶ πίστεως ἐπὶ θεόν βαπτισμῶν διδαχῆς ἐπιθέσεώς τε χειρῶν ἀναστάσεώς τε νεκρῶν καὶ κρίματος αἰωνίου</reference>
-		<reference osisRef="HEB.6.4!15-HEB.6.4!16" type="Split Focal" label="Split" verse="HEB 6:4" >πνεύματος ἁγίου</reference>
-		<reference osisRef="HEB.6.5!4-HEB.6.5!5" type="Split Focal" label="Split" verse="HEB 6:5" >θεοῦ ῥῆμα</reference>
-		<reference osisRef="HEB.6.11!8" type="Split Focal" label="Split" verse="HEB 6:11" >σπουδὴν</reference>
-		<reference osisRef="HEB.6.13!11" type="Split Focal" label="Split" verse="HEB 6:13" >μείζονος</reference>
-		<reference osisRef="HEB.6.16!10-HEB.6.16!11" type="Split Focal" label="Split" verse="HEB 6:16" >ἀντιλογίας πέρας</reference>
-		<reference osisRef="HEB.6.19!5-HEB.6.19!6" type="Split Focal" label="Split" verse="HEB 6:19" >τῆς ψυχῆς</reference>
-		<reference osisRef="HEB.7.4!13-HEB.7.4!14" type="Split Focal" label="Split" verse="HEB 7:4" >ὁ πατριάρχης</reference>
-		<reference osisRef="HEB.7.11!25" type="Split Focal" label="Split" verse="HEB 7:11" >ἱερέα</reference>
-		<reference osisRef="HEB.7.18!5-HEB.7.18!6" type="Split Focal" label="Split" verse="HEB 7:18" >προαγούσης ἐντολῆς</reference>
-		<reference osisRef="HEB.7.22!7" type="Split Focal" label="Split" verse="HEB 7:22" >ἔγγυος</reference>
-		<reference osisRef="HEB.7.23!7" type="Split Focal" label="Split" verse="HEB 7:23" >ἱερεῖς</reference>
-		<reference osisRef="HEB.7.24!12-HEB.7.24!13" type="Split Focal" label="Split" verse="HEB 7:24" >τὴν ἱερωσύνην</reference>
-		<reference osisRef="HEB.7.26!6" type="Split Focal" label="Split" verse="HEB 7:26" >ἀρχιερεύς</reference>
-		<reference osisRef="HEB.8.1!8" type="Split Focal" label="Split" verse="HEB 8:1" >ἀρχιερέα</reference>
-		<reference osisRef="HEB.8.2!4-HEB.8.2!8" type="Split Focal" label="Split" verse="HEB 8:2" >καὶ τῆς σκηνῆς τῆς ἀληθινῆς</reference>
-		<reference osisRef="HEB.8.5!6-HEB.8.5!7" type="Split Focal" label="Split" verse="HEB 8:5" >τῶν ἐπουρανίων</reference>
-		<reference osisRef="HEB.8.6!5" type="Split Focal" label="Split" verse="HEB 8:6" >λειτουργίας</reference>
-		<reference osisRef="HEB.8.6!10-HEB.8.6!11" type="Split Focal" label="Split" verse="HEB 8:6" >διαθήκης μεσίτης</reference>
-		<reference osisRef="HEB.9.4!3" type="Split Focal" label="Split" verse="HEB 9:4" >θυμιατήριον</reference>
-		<reference osisRef="HEB.9.9!15-HEB.9.9!21" type="Split Focal" label="Split" verse="HEB 9:9" >μὴ δυνάμεναι κατὰ συνείδησιν τελειῶσαι τὸν λατρεύοντα</reference>
-		<reference osisRef="HEB.9.16!7-HEB.9.16!8" type="Split Focal" label="Split" verse="HEB 9:16" >τοῦ διαθεμένου</reference>
-		<reference osisRef="HEB.9.22!5" type="Split Focal" label="Split" verse="HEB 9:22" >πάντα</reference>
-		<reference osisRef="HEB.9.24!6" type="Split Focal" label="Split" verse="HEB 9:24" >ἅγια</reference>
-		<reference osisRef="HEB.10.1!6-HEB.10.1!8" type="Split Focal" label="Split" verse="HEB 10:1" >τῶν μελλόντων ἀγαθῶν</reference>
-		<reference osisRef="HEB.10.2!11-HEB.10.2!12" type="Split Focal" label="Split" verse="HEB 10:2" >συνείδησιν ἁμαρτιῶν</reference>
-		<reference osisRef="HEB.10.11!14" type="Split Focal" label="Split" verse="HEB 10:11" >θυσίας</reference>
-		<reference osisRef="HEB.10.12!7" type="Split Focal" label="Split" verse="HEB 10:12" >θυσίαν</reference>
-		<reference osisRef="HEB.10.29!3" type="Split Focal" label="Split" verse="HEB 10:29" >χείρονος</reference>
-		<reference osisRef="HEB.10.32!12" type="Split Focal" label="Split" verse="HEB 10:32" >παθημάτων</reference>
-		<reference osisRef="HEB.10.34!20-HEB.10.34!21" type="Split Focal" label="Split" verse="HEB 10:34" >καὶ μένουσαν</reference>
-		<reference osisRef="HEB.11.1!8-HEB.11.1!9" type="Split Focal" label="Split" verse="HEB 11:1" >οὐ βλεπομένων</reference>
-		<reference osisRef="HEB.11.4!5-HEB.11.4!6" type="Split Focal" label="Split" verse="HEB 11:4" >παρὰ κάϊν</reference>
-		<reference osisRef="HEB.11.6!13-HEB.11.6!14" type="Split Focal" label="Split" verse="HEB 11:6" >ὅτι ἔστιν</reference>
-		<reference osisRef="HEB.11.7!27" type="Split Focal" label="Split" verse="HEB 11:7" >κληρονόμος</reference>
-		<reference osisRef="HEB.11.15!6-HEB.11.15!8" type="Split Focal" label="Split" verse="HEB 11:15" >ἀφ’ ἧς ἐξέβησαν</reference>
-		<reference osisRef="HEB.11.16!16" type="Split Focal" label="Split" verse="HEB 11:16" >αὐτῶν</reference>
-		<reference osisRef="HEB.11.25!11-HEB.11.25!12" type="Split Focal" label="Split" verse="HEB 11:25" >ἁμαρτίας ἀπόλαυσιν</reference>
-		<reference osisRef="HEB.11.34!16" type="Split Focal" label="Split" verse="HEB 11:34" >ἀλλοτρίων</reference>
-		<reference osisRef="HEB.11.38!10-HEB.11.38!18" type="Split Focal" label="Split" verse="HEB 11:38" >καὶ ὄρεσιν καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς</reference>
-		<reference osisRef="HEB.12.1!8-HEB.12.1!9" type="Split Focal" label="Split" verse="HEB 12:1" >νέφος μαρτύρων</reference>
-		<reference osisRef="HEB.12.1!12-HEB.12.1!16" type="Split Focal" label="Split" verse="HEB 12:1" >πάντα καὶ τὴν εὐπερίστατον ἁμαρτίαν</reference>
-		<reference osisRef="HEB.12.3!9-HEB.12.3!11" type="Split Focal" label="Split" verse="HEB 12:3" >εἰς ἑαυτὸν ἀντιλογίαν</reference>
-		<reference osisRef="HEB.12.8!5" type="Split Focal" label="Split" verse="HEB 12:8" >παιδείας</reference>
-		<reference osisRef="HEB.12.11!12-HEB.12.11!13" type="Split Focal" label="Split" verse="HEB 12:11" >ἀλλὰ λύπης</reference>
-		<reference osisRef="HEB.12.11!23" type="Split Focal" label="Split" verse="HEB 12:11" >δικαιοσύνης</reference>
-		<reference osisRef="HEB.12.14!5-HEB.12.14!13" type="Split Focal" label="Split" verse="HEB 12:14" >καὶ τὸν ἁγιασμόν οὗ χωρὶς οὐδεὶς ὄψεται τὸν κύριον</reference>
-		<reference osisRef="HEB.12.21!11-HEB.12.21!12" type="Split Focal" label="Split" verse="HEB 12:21" >καὶ ἔντρομος</reference>
-		<reference osisRef="HEB.12.24!11-HEB.12.24!13" type="Split Focal" label="Split" verse="HEB 12:24" >παρὰ τὸν ἅβελ</reference>
-		<reference osisRef="HEB.13.8!8-HEB.13.8!11" type="Split Focal" label="Split" verse="HEB 13:8" >καὶ εἰς τοὺς αἰῶνας</reference>
-		<reference osisRef="HEB.13.9!13-HEB.13.9!14" type="Split Focal" label="Split" verse="HEB 13:9" >οὐ βρώμασιν</reference>
-		<reference osisRef="HEB.13.17!22-HEB.13.17!24" type="Split Focal" label="Split" verse="HEB 13:17" >καὶ μὴ στενάζοντες</reference>
-		<reference osisRef="JAS.1.2!9" type="Split Focal" label="Split" verse="JAS 1:2" >ποικίλοις</reference>
-		<reference osisRef="JAS.1.5!12-JAS.1.5!16" type="Split Focal" label="Split" verse="JAS 1:5" >πᾶσιν ἁπλῶς καὶ μὴ ὀνειδίζοντος</reference>
-		<reference osisRef="JAS.1.13!13" type="Split Focal" label="Split" verse="JAS 1:13" >κακῶν</reference>
-		<reference osisRef="JAS.1.23!7-JAS.1.23!9" type="Split Focal" label="Split" verse="JAS 1:23" >καὶ οὐ ποιητής</reference>
-		<reference osisRef="JAS.2.8!5" type="Split Focal" label="Split" verse="JAS 2:8" >βασιλικὸν</reference>
-		<reference osisRef="JAS.2.15!7-JAS.2.15!11" type="Split Focal" label="Split" verse="JAS 2:15" >καὶ λειπόμενοι τῆς ἐφημέρου τροφῆς</reference>
-		<reference osisRef="JAS.2.24!7-JAS.2.24!11" type="Split Focal" label="Split" verse="JAS 2:24" >καὶ οὐκ ἐκ πίστεως μόνον</reference>
-		<reference osisRef="JAS.3.8!7" type="Split Focal" label="Split" verse="JAS 3:8" >ἀνθρώπων</reference>
-		<reference osisRef="JAS.3.14!6-JAS.3.14!7" type="Split Focal" label="Split" verse="JAS 3:14" >καὶ ἐριθείαν</reference>
-		<reference osisRef="JAS.4.4!19-JAS.4.4!20" type="Split Focal" label="Split" verse="JAS 4:4" >τοῦ κόσμου</reference>
-		<reference osisRef="JAS.4.6!4" type="Split Focal" label="Split" verse="JAS 4:6" >χάριν</reference>
-		<reference osisRef="JAS.5.10!4-JAS.5.10!8" type="Split Focal" label="Split" verse="JAS 5:10" >τῆς κακοπαθίας καὶ τῆς μακροθυμίας</reference>
-		<reference osisRef="JAS.5.11!19-JAS.5.11!20" type="Split Focal" label="Split" verse="JAS 5:11" >καὶ οἰκτίρμων</reference>
-		<reference osisRef="JAS.5.17!4-JAS.5.17!5" type="Split Focal" label="Split" verse="JAS 5:17" >ὁμοιοπαθὴς ἡμῖν</reference>
-		<reference osisRef="1PE.1.13!16-1PE.1.13!19" type="Split Focal" label="Split" verse="1PE 1:13" >ἐν ἀποκαλύψει ἰησοῦ χριστοῦ</reference>
-		<reference osisRef="1PE.1.18!14" type="Split Focal" label="Split" verse="1PE 1:18" >πατροπαραδότου</reference>
-		<reference osisRef="1PE.1.23!12-1PE.1.23!13" type="Split Focal" label="Split" verse="1PE 1:23" >καὶ μένοντος</reference>
-		<reference osisRef="1PE.2.7!5-1PE.2.7!6" type="Split Focal" label="Split" verse="1PE 2:7" >τοῖς πιστεύουσιν</reference>
-		<reference osisRef="1PE.2.9!16-1PE.2.9!25" type="Split Focal" label="Split" verse="1PE 2:9" >τοῦ ἐκ σκότους ὑμᾶς καλέσαντος εἰς τὸ θαυμαστὸν αὐτοῦ φῶς</reference>
-		<reference osisRef="1PE.2.16!8-1PE.2.16!9" type="Split Focal" label="Split" verse="1PE 2:16" >τῆς κακίας</reference>
-		<reference osisRef="1PE.3.16!8" type="Split Focal" label="Split" verse="1PE 3:16" >ἀγαθήν</reference>
-		<reference osisRef="1PE.3.17!11-1PE.3.17!12" type="Split Focal" label="Split" verse="1PE 3:17" >ἢ κακοποιοῦντας</reference>
-		<reference osisRef="1PE.4.2!14" type="Split Focal" label="Split" verse="1PE 4:2" >χρόνον</reference>
-		<reference osisRef="1PE.5.4!10" type="Split Focal" label="Split" verse="1PE 5:4" >στέφανον</reference>
-		<reference osisRef="2PE.1.1!12" type="Split Focal" label="Split" verse="2PE 1:1" >πίστιν</reference>
-		<reference osisRef="2PE.1.2!3-2PE.1.2!4" type="Split Focal" label="Split" verse="2PE 1:2" >καὶ εἰρήνη</reference>
-		<reference osisRef="2PE.1.3!8-2PE.1.3!12" type="Split Focal" label="Split" verse="2PE 1:3" >τὰ πρὸς ζωὴν καὶ εὐσέβειαν</reference>
-		<reference osisRef="2PE.1.4!8" type="Split Focal" label="Split" verse="2PE 1:4" >ἐπαγγέλματα</reference>
-		<reference osisRef="2PE.1.4!16" type="Split Focal" label="Split" verse="2PE 1:4" >φύσεως</reference>
-		<reference osisRef="2PE.1.9!11-2PE.1.9!16" type="Split Focal" label="Split" verse="2PE 1:9" >τοῦ καθαρισμοῦ τῶν πάλαι αὐτοῦ ἁμαρτιῶν</reference>
-		<reference osisRef="2PE.1.16!20-2PE.1.16!22" type="Split Focal" label="Split" verse="2PE 1:16" >τῆς ἐκείνου μεγαλειότητος</reference>
-		<reference osisRef="2PE.1.17!12" type="Split Focal" label="Split" verse="2PE 1:17" >τοιᾶσδε</reference>
-		<reference osisRef="2PE.2.14!3-2PE.2.14!4" type="Split Focal" label="Split" verse="2PE 2:14" >μεστοὺς μοιχαλίδος</reference>
-		<reference osisRef="2PE.2.16!4-2PE.2.16!5" type="Split Focal" label="Split" verse="2PE 2:16" >ἰδίας παρανομίας</reference>
-		<reference osisRef="2PE.2.19!7-2PE.2.19!8" type="Split Focal" label="Split" verse="2PE 2:19" >τῆς φθορᾶς</reference>
-		<reference osisRef="2PE.3.1!4" type="Split Focal" label="Split" verse="2PE 3:1" >δευτέραν</reference>
-		<reference osisRef="2PE.3.1!7" type="Split Focal" label="Split" verse="2PE 3:1" >ἐπιστολήν</reference>
-		<reference osisRef="2PE.3.5!10-2PE.3.5!11" type="Split Focal" label="Split" verse="2PE 3:5" >καὶ γῆ</reference>
-		<reference osisRef="1JN.1.5!24" type="Split Focal" label="Split" verse="1JN 1:5" >οὐδεμία</reference>
-		<reference osisRef="1JN.1.9!8-1JN.1.9!9" type="Split Focal" label="Split" verse="1JN 1:9" >καὶ δίκαιος</reference>
-		<reference osisRef="1JN.2.20!5-1JN.2.20!7" type="Split Focal" label="Split" verse="1JN 2:20" >ἀπὸ τοῦ ἁγίου</reference>
-		<reference osisRef="1JN.5.13!9" type="Split Focal" label="Split" verse="1JN 5:13" >αἰώνιον</reference>
-		<reference osisRef="3JN.1.4!5" type="Split Focal" label="Split" verse="3JN 1:4" >χαράν</reference>
-		<reference osisRef="JUD.1.2!3-JUD.1.2!6" type="Split Focal" label="Split" verse="JUD 1:2" >καὶ εἰρήνη καὶ ἀγάπη</reference>
-		<reference osisRef="JUD.1.9!19" type="Split Focal" label="Split" verse="JUD 1:9" >βλασφημίας</reference>
-		<reference osisRef="JUD.1.18!16-JUD.1.18!17" type="Split Focal" label="Split" verse="JUD 1:18" >τῶν ἀσεβειῶν</reference>
-		<reference osisRef="JUD.1.22!5" type="Split Focal" label="Split" verse="JUD 1:22" >διακρινομένους</reference>
-		<reference osisRef="REV.1.4!11-REV.1.4!12" type="Split Focal" label="Split" verse="REV 1:4" >καὶ εἰρήνη</reference>
-		<reference osisRef="REV.2.24!4-REV.2.24!23" type="Split Focal" label="Split" verse="REV 2:24" >τοῖς λοιποῖς τοῖς ἐν θυατείροις ὅσοι οὐκ ἔχουσιν τὴν διδαχὴν ταύτην οἵτινες οὐκ ἔγνωσαν τὰ βαθέα τοῦ σατανᾶ ὡς λέγουσιν</reference>
-		<reference osisRef="REV.3.8!19" type="Split Focal" label="Split" verse="REV 3:8" >δύναμιν</reference>
-		<reference osisRef="REV.3.15!9-REV.3.15!10" type="Split Focal" label="Split" verse="REV 3:15" >οὔτε ζεστός</reference>
-		<reference osisRef="REV.3.15!14-REV.3.15!15" type="Split Focal" label="Split" verse="REV 3:15" >ἢ ζεστός</reference>
-		<reference osisRef="REV.3.16!5-REV.3.16!9" type="Split Focal" label="Split" verse="REV 3:16" >καὶ οὔτε ζεστὸς οὔτε ψυχρός</reference>
-		<reference osisRef="REV.5.3!4-REV.5.3!14" type="Split Focal" label="Split" verse="REV 5:3" >ἐν τῷ οὐρανῷ οὐδὲ ἐπὶ τῆς γῆς οὐδὲ ὑποκάτω τῆς γῆς</reference>
-		<reference osisRef="REV.9.20!47-REV.9.20!50" type="Split Focal" label="Split" verse="REV 9:20" >οὔτε ἀκούειν οὔτε περιπατεῖν</reference>
-		<reference osisRef="REV.15.1!8-REV.15.1!10" type="Split Focal" label="Split" verse="REV 15:1" >μέγα καὶ θαυμαστόν</reference>
-		<reference osisRef="REV.16.3!21-REV.16.3!24" type="Split Focal" label="Split" verse="REV 16:3" >τὰ ἐν τῇ θαλάσσῃ</reference>
-		<reference osisRef="REV.16.18!11" type="Split Focal" label="Split" verse="REV 16:18" >μέγας</reference>
-		<reference osisRef="REV.17.14!15-REV.17.14!17" type="Split Focal" label="Split" verse="REV 17:14" >καὶ βασιλεὺς βασιλέων</reference>
-		<reference osisRef="REV.17.15!16-REV.17.15!19" type="Split Focal" label="Split" verse="REV 17:15" >καὶ ἔθνη καὶ γλῶσσαι</reference>
-		<reference osisRef="REV.17.16!18-REV.17.16!19" type="Split Focal" label="Split" verse="REV 17:16" >καὶ γυμνὴν</reference>
-		<reference osisRef="REV.18.7!9-REV.18.7!11" type="Split Focal" label="Split" verse="REV 18:7" >βασανισμὸν καὶ πένθος</reference>
-		<reference osisRef="REV.18.24!9-REV.18.24!15" type="Split Focal" label="Split" verse="REV 18:24" >καὶ πάντων τῶν ἐσφαγμένων ἐπὶ τῆς γῆς</reference>
-		<reference osisRef="REV.19.10!17-REV.19.10!25" type="Split Focal" label="Split" verse="REV 19:10" >καὶ τῶν ἀδελφῶν σου τῶν ἐχόντων τὴν μαρτυρίαν ἰησοῦ</reference>
-		<reference osisRef="REV.21.22!17-REV.21.22!19" type="Split Focal" label="Split" verse="REV 21:22" >καὶ τὸ ἀρνίον</reference>
-		<reference osisRef="REV.22.9!9-REV.22.9!22" type="Split Focal" label="Split" verse="REV 22:9" >καὶ τῶν ἀδελφῶν σου τῶν προφητῶν καὶ τῶν τηρούντων τοὺς λόγους τοῦ βιβλίου τούτου</reference>
-		<reference osisRef="REV.22.12!16" type="Split Focal" label="Split" verse="REV 22:12" >αὐτοῦ</reference>
+		<reference osisRef="Matt.1.20!31" type="Split Focal" label="Split" verse="Matt 1:20" >ἁγίου</reference>
+		<reference osisRef="Matt.2.18!5-Matt.2.18!8" type="Split Focal" label="Split" verse="Matt 2:18" >κλαυθμὸς καὶ ὀδυρμὸς πολύς</reference>
+		<reference osisRef="Matt.4.3!10-Matt.4.3!11" type="Split Focal" label="Split" verse="Matt 4:3" >τοῦ θεοῦ</reference>
+		<reference osisRef="Matt.4.6!7-Matt.4.6!8" type="Split Focal" label="Split" verse="Matt 4:6" >τοῦ θεοῦ</reference>
+		<reference osisRef="Matt.4.9!6" type="Split Focal" label="Split" verse="Matt 4:9" >πάντα</reference>
+		<reference osisRef="Matt.4.16!9" type="Split Focal" label="Split" verse="Matt 4:16" >μέγα</reference>
+		<reference osisRef="Matt.5.34!15-Matt.5.34!16" type="Split Focal" label="Split" verse="Matt 5:34" >τοῦ θεοῦ</reference>
+		<reference osisRef="Matt.5.35!8-Matt.5.35!10" type="Split Focal" label="Split" verse="Matt 5:35" >τῶν ποδῶν αὐτοῦ</reference>
+		<reference osisRef="Matt.5.35!17-Matt.5.35!19" type="Split Focal" label="Split" verse="Matt 5:35" >τοῦ μεγάλου βασιλέως</reference>
+		<reference osisRef="Matt.5.36!14-Matt.5.36!15" type="Split Focal" label="Split" verse="Matt 5:36" >ἢ μέλαιναν</reference>
+		<reference osisRef="Matt.6.24!26-Matt.6.24!27" type="Split Focal" label="Split" verse="Matt 6:24" >καὶ μαμωνᾷ</reference>
+		<reference osisRef="Matt.6.26!28" type="Split Focal" label="Split" verse="Matt 6:26" >αὐτῶν</reference>
+		<reference osisRef="Matt.7.9!6" type="Split Focal" label="Split" verse="Matt 7:9" >ἄνθρωπος</reference>
+		<reference osisRef="Matt.8.9!6-Matt.8.9!7" type="Split Focal" label="Split" verse="Matt 8:9" >ὑπὸ ἐξουσίαν</reference>
+		<reference osisRef="Matt.8.10!17-Matt.8.10!19" type="Split Focal" label="Split" verse="Matt 8:10" >ἐν τῷ ἰσραὴλ</reference>
+		<reference osisRef="Matt.9.13!8-Matt.9.13!10" type="Split Focal" label="Split" verse="Matt 9:13" >καὶ οὐ θυσίαν</reference>
+		<reference osisRef="Matt.10.10!16-Matt.10.10!18" type="Split Focal" label="Split" verse="Matt 10:10" >τῆς τροφῆς αὐτοῦ</reference>
+		<reference osisRef="Matt.10.15!6-Matt.10.15!9" type="Split Focal" label="Split" verse="Matt 10:15" >γῇ σοδόμων καὶ γομόρρων</reference>
+		<reference osisRef="Matt.11.19!18-Matt.11.19!19" type="Split Focal" label="Split" verse="Matt 11:19" >καὶ ἁμαρτωλῶν</reference>
+		<reference osisRef="Matt.11.22!12-Matt.11.22!13" type="Split Focal" label="Split" verse="Matt 11:22" >ἢ ὑμῖν</reference>
+		<reference osisRef="Matt.11.24!12-Matt.11.24!13" type="Split Focal" label="Split" verse="Matt 11:24" >ἢ σοί</reference>
+		<reference osisRef="Matt.11.29!14-Matt.11.29!17" type="Split Focal" label="Split" verse="Matt 11:29" >καὶ ταπεινὸς τῇ καρδίᾳ</reference>
+		<reference osisRef="Matt.12.7!8-Matt.12.7!10" type="Split Focal" label="Split" verse="Matt 12:7" >καὶ οὐ θυσίαν</reference>
+		<reference osisRef="Matt.12.8!4-Matt.12.8!5" type="Split Focal" label="Split" verse="Matt 12:8" >τοῦ σαββάτου</reference>
+		<reference osisRef="Matt.12.10!6" type="Split Focal" label="Split" verse="Matt 12:10" >ξηράν</reference>
+		<reference osisRef="Matt.12.11!9" type="Split Focal" label="Split" verse="Matt 12:11" >ἄνθρωπος</reference>
+		<reference osisRef="Matt.12.27!20" type="Split Focal" label="Split" verse="Matt 12:27" >ὑμῶν</reference>
+		<reference osisRef="Matt.12.44!8-Matt.12.44!9" type="Split Focal" label="Split" verse="Matt 12:44" >ὅθεν ἐξῆλθον</reference>
+		<reference osisRef="Matt.13.32!5-Matt.13.32!7" type="Split Focal" label="Split" verse="Matt 13:32" >πάντων τῶν σπερμάτων</reference>
+		<reference osisRef="Matt.14.6!4-Matt.14.6!5" type="Split Focal" label="Split" verse="Matt 14:6" >τοῦ ἡρῴδου</reference>
+		<reference osisRef="Matt.15.14!5-Matt.15.14!6" type="Split Focal" label="Split" verse="Matt 15:14" >ὁδηγοὶ τυφλῶν</reference>
+		<reference osisRef="Matt.16.23!13" type="Split Focal" label="Split" verse="Matt 16:23" >ἐμοῦ</reference>
+		<reference osisRef="Matt.19.11!11-Matt.19.11!13" type="Split Focal" label="Split" verse="Matt 19:11" >ἀλλ’ οἷς δέδοται</reference>
+		<reference osisRef="Matt.19.30!4" type="Split Focal" label="Split" verse="Matt 19:30" >πρῶτοι</reference>
+		<reference osisRef="Matt.21.12!23-Matt.21.12!29" type="Split Focal" label="Split" verse="Matt 21:12" >καὶ τὰς καθέδρας τῶν πωλούντων τὰς περιστεράς</reference>
+		<reference osisRef="Matt.21.33!6" type="Split Focal" label="Split" verse="Matt 21:33" >οἰκοδεσπότης</reference>
+		<reference osisRef="Matt.22.40!10-Matt.22.40!12" type="Split Focal" label="Split" verse="Matt 22:40" >καὶ οἱ προφῆται</reference>
+		<reference osisRef="Matt.23.9!5" type="Split Focal" label="Split" verse="Matt 23:9" >ὑμῶν</reference>
+		<reference osisRef="Matt.23.31!7-Matt.23.31!10" type="Split Focal" label="Split" verse="Matt 23:31" >τῶν φονευσάντων τοὺς προφήτας</reference>
+		<reference osisRef="Matt.25.24!16" type="Split Focal" label="Split" verse="Matt 25:24" >ἄνθρωπος</reference>
+		<reference osisRef="Matt.25.34!20-Matt.25.34!22" type="Split Focal" label="Split" verse="Matt 25:34" >ἀπὸ καταβολῆς κόσμου</reference>
+		<reference osisRef="Matt.26.38!9-Matt.26.38!10" type="Split Focal" label="Split" verse="Matt 26:38" >ἕως θανάτου</reference>
+		<reference osisRef="Matt.27.15!11-Matt.27.15!13" type="Split Focal" label="Split" verse="Matt 27:15" >δέσμιον ὃν ἤθελον</reference>
+		<reference osisRef="Matt.27.21!9-Matt.27.21!11" type="Split Focal" label="Split" verse="Matt 27:21" >ἀπὸ τῶν δύο</reference>
+		<reference osisRef="Matt.27.24!23-Matt.27.24!26" type="Split Focal" label="Split" verse="Matt 27:24" >ἀπὸ τοῦ αἵματος τούτου</reference>
+		<reference osisRef="Matt.27.40!17-Matt.27.40!18" type="Split Focal" label="Split" verse="Matt 27:40" >τοῦ θεοῦ</reference>
+		<reference osisRef="Matt.27.43!15" type="Split Focal" label="Split" verse="Matt 27:43" >υἱός</reference>
+		<reference osisRef="Matt.28.2!5" type="Split Focal" label="Split" verse="Matt 28:2" >μέγας</reference>
+		<reference osisRef="Mark.2.28!8-Mark.2.28!10" type="Split Focal" label="Split" verse="Mark 2:28" >καὶ τοῦ σαββάτου</reference>
+		<reference osisRef="Mark.3.28!11-Mark.3.28!18" type="Split Focal" label="Split" verse="Mark 3:28" >τὰ ἁμαρτήματα καὶ αἱ βλασφημίαι ὅσα ἐὰν βλασφημήσωσιν</reference>
+		<reference osisRef="Mark.3.29!19-Mark.3.29!20" type="Split Focal" label="Split" verse="Mark 3:29" >αἰωνίου ἁμαρτήματος</reference>
+		<reference osisRef="Mark.4.11!8-Mark.4.11!11" type="Split Focal" label="Split" verse="Mark 4:11" >τῆς βασιλείας τοῦ θεοῦ</reference>
+		<reference osisRef="Mark.4.21!13-Mark.4.21!16" type="Split Focal" label="Split" verse="Mark 4:21" >ἢ ὑπὸ τὴν κλίνην</reference>
+		<reference osisRef="Mark.4.30!13" type="Split Focal" label="Split" verse="Mark 4:30" >παραβολῇ</reference>
+		<reference osisRef="Mark.4.31!12-Mark.4.31!18" type="Split Focal" label="Split" verse="Mark 4:31" >πάντων τῶν σπερμάτων τῶν ἐπὶ τῆς γῆς</reference>
+		<reference osisRef="Mark.7.4!13-Mark.7.4!15" type="Split Focal" label="Split" verse="Mark 7:4" >ἃ παρέλαβον κρατεῖν</reference>
+		<reference osisRef="Mark.7.15!3-Mark.7.15!8" type="Split Focal" label="Split" verse="Mark 7:15" >ἔξωθεν τοῦ ἀνθρώπου εἰσπορευόμενον εἰς αὐτὸν</reference>
+		<reference osisRef="Mark.8.4!15-Mark.8.4!16" type="Split Focal" label="Split" verse="Mark 8:4" >ἐπ’ ἐρημίας</reference>
+		<reference osisRef="Mark.8.5!6" type="Split Focal" label="Split" verse="Mark 8:5" >ἄρτους</reference>
+		<reference osisRef="Mark.9.8!7-Mark.9.8!10" type="Split Focal" label="Split" verse="Mark 9:8" >ἀλλὰ τὸν ἰησοῦν μόνον</reference>
+		<reference osisRef="Mark.9.22!8-Mark.9.22!10" type="Split Focal" label="Split" verse="Mark 9:22" >καὶ εἰς ὕδατα</reference>
+		<reference osisRef="Mark.9.37!22-Mark.9.37!25" type="Split Focal" label="Split" verse="Mark 9:37" >ἀλλὰ τὸν ἀποστείλαντά με</reference>
+		<reference osisRef="Mark.10.31!4" type="Split Focal" label="Split" verse="Mark 10:31" >πρῶτοι</reference>
+		<reference osisRef="Mark.11.2!23" type="Split Focal" label="Split" verse="Mark 11:2" >ἀνθρώπων</reference>
+		<reference osisRef="Mark.11.13!29" type="Split Focal" label="Split" verse="Mark 11:13" >σύκων</reference>
+		<reference osisRef="Mark.11.17!15-Mark.11.17!17" type="Split Focal" label="Split" verse="Mark 11:17" >πᾶσιν τοῖς ἔθνεσιν</reference>
+		<reference osisRef="Mark.11.30!8-Mark.11.30!10" type="Split Focal" label="Split" verse="Mark 11:30" >ἢ ἐξ ἀνθρώπων</reference>
+		<reference osisRef="Mark.12.6!4-Mark.12.6!5" type="Split Focal" label="Split" verse="Mark 12:6" >υἱὸν ἀγαπητόν</reference>
+		<reference osisRef="Mark.12.33!28-Mark.12.33!32" type="Split Focal" label="Split" verse="Mark 12:33" >πάντων τῶν ὁλοκαυτωμάτων καὶ θυσιῶν</reference>
+		<reference osisRef="Mark.12.34!14-Mark.12.34!18" type="Split Focal" label="Split" verse="Mark 12:34" >ἀπὸ τῆς βασιλείας τοῦ θεοῦ</reference>
+		<reference osisRef="Mark.12.37!10" type="Split Focal" label="Split" verse="Mark 12:37" >υἱός</reference>
+		<reference osisRef="Mark.12.43!20-Mark.12.43!24" type="Split Focal" label="Split" verse="Mark 12:43" >τῶν βαλλόντων εἰς τὸ γαζοφυλάκιον</reference>
+		<reference osisRef="Mark.14.34!9-Mark.14.34!10" type="Split Focal" label="Split" verse="Mark 14:34" >ἕως θανάτου</reference>
+		<reference osisRef="Mark.14.62!16-Mark.14.62!17" type="Split Focal" label="Split" verse="Mark 14:62" >τῆς δυνάμεως</reference>
+		<reference osisRef="Mark.14.64!14" type="Split Focal" label="Split" verse="Mark 14:64" >θανάτου</reference>
+		<reference osisRef="Mark.15.14!9" type="Split Focal" label="Split" verse="Mark 15:14" >κακόν</reference>
+		<reference osisRef="Mark.16.6!9-Mark.16.6!12" type="Split Focal" label="Split" verse="Mark 16:6" >τὸν ναζαρηνὸν τὸν ἐσταυρωμένον</reference>
+		<reference osisRef="Mark.16.17!5" type="Split Focal" label="Split" verse="Mark 16:17" >ταῦτα</reference>
+		<reference osisRef="Mark.16.17!15" type="Split Focal" label="Split" verse="Mark 16:17" >καιναῖς</reference>
+		<reference osisRef="Luke.1.2!11-Luke.1.2!12" type="Split Focal" label="Split" verse="Luke 1:2" >τοῦ λόγου</reference>
+		<reference osisRef="Luke.1.14!5-Luke.1.14!6" type="Split Focal" label="Split" verse="Luke 1:14" >καὶ ἀγαλλίασις</reference>
+		<reference osisRef="Luke.2.19!6-Luke.2.19!8" type="Split Focal" label="Split" verse="Luke 2:19" >τὰ ῥήματα ταῦτα</reference>
+		<reference osisRef="Luke.2.25!24" type="Split Focal" label="Split" verse="Luke 2:25" >ἅγιον</reference>
+		<reference osisRef="Luke.3.19!21" type="Split Focal" label="Split" verse="Luke 3:19" >πονηρῶν</reference>
+		<reference osisRef="Luke.3.23!13" type="Split Focal" label="Split" verse="Luke 3:23" >ἰωσὴφ</reference>
+		<reference osisRef="Luke.4.3!9-Luke.4.3!10" type="Split Focal" label="Split" verse="Luke 4:3" >τοῦ θεοῦ</reference>
+		<reference osisRef="Luke.4.9!19-Luke.4.9!20" type="Split Focal" label="Split" verse="Luke 4:9" >τοῦ θεοῦ</reference>
+		<reference osisRef="Luke.4.14!20-Luke.4.14!21" type="Split Focal" label="Split" verse="Luke 4:14" >περὶ αὐτοῦ</reference>
+		<reference osisRef="Luke.4.20!13-Luke.4.20!15" type="Split Focal" label="Split" verse="Luke 4:20" >ἐν τῇ συναγωγῇ</reference>
+		<reference osisRef="Luke.4.22!23" type="Split Focal" label="Split" verse="Luke 4:22" >ἰωσὴφ</reference>
+		<reference osisRef="Luke.4.28!5-Luke.4.28!7" type="Split Focal" label="Split" verse="Luke 4:28" >ἐν τῇ συναγωγῇ</reference>
+		<reference osisRef="Luke.6.3!11-Luke.6.3!21" type="Split Focal" label="Split" verse="Luke 6:3" >ὃ ἐποίησεν δαυὶδ ὅτε ἐπείνασεν αὐτὸς καὶ οἱ μετ’ αὐτοῦ ὄντες</reference>
+		<reference osisRef="Luke.6.5!6-Luke.6.5!7" type="Split Focal" label="Split" verse="Luke 6:5" >τοῦ σαββάτου</reference>
+		<reference osisRef="Luke.6.27!4-Luke.6.27!5" type="Split Focal" label="Split" verse="Luke 6:27" >τοῖς ἀκούουσιν</reference>
+		<reference osisRef="Luke.6.35!26-Luke.6.35!30" type="Split Focal" label="Split" verse="Luke 6:35" >ἐπὶ τοὺς ἀχαρίστους καὶ πονηρούς</reference>
+		<reference osisRef="Luke.7.6!13-Luke.7.6!15" type="Split Focal" label="Split" verse="Luke 7:6" >ἀπὸ τῆς οἰκίας</reference>
+		<reference osisRef="Luke.7.8!6-Luke.7.8!7" type="Split Focal" label="Split" verse="Luke 7:8" >ὑπὸ ἐξουσίαν</reference>
+		<reference osisRef="Luke.7.12!25" type="Split Focal" label="Split" verse="Luke 7:12" >ἱκανὸς</reference>
+		<reference osisRef="Luke.7.36!5-Luke.7.36!6" type="Split Focal" label="Split" verse="Luke 7:36" >τῶν φαρισαίων</reference>
+		<reference osisRef="Luke.8.25!23-Luke.8.25!25" type="Split Focal" label="Split" verse="Luke 8:25" >καὶ τῷ ὕδατι</reference>
+		<reference osisRef="Luke.8.27!26-Luke.8.27!29" type="Split Focal" label="Split" verse="Luke 8:27" >ἀλλ’ ἐν τοῖς μνήμασιν</reference>
+		<reference osisRef="Luke.8.30!8" type="Split Focal" label="Split" verse="Luke 8:30" >ὄνομά</reference>
+		<reference osisRef="Luke.8.42!6-Luke.8.42!8" type="Split Focal" label="Split" verse="Luke 8:42" >ὡς ἐτῶν δώδεκα</reference>
+		<reference osisRef="Luke.8.47!23-Luke.8.47!26" type="Split Focal" label="Split" verse="Luke 8:47" >καὶ ὡς ἰάθη παραχρῆμα</reference>
+		<reference osisRef="Luke.10.5!6" type="Split Focal" label="Split" verse="Luke 10:5" >οἰκίαν</reference>
+		<reference osisRef="Luke.10.7!17-Luke.10.7!19" type="Split Focal" label="Split" verse="Luke 10:7" >τοῦ μισθοῦ αὐτοῦ</reference>
+		<reference osisRef="Luke.10.12!11-Luke.10.12!14" type="Split Focal" label="Split" verse="Luke 10:12" >ἢ τῇ πόλει ἐκείνῃ</reference>
+		<reference osisRef="Luke.10.14!10-Luke.10.14!11" type="Split Focal" label="Split" verse="Luke 10:14" >ἢ ὑμῖν</reference>
+		<reference osisRef="Luke.11.27!11-Luke.11.27!14" type="Split Focal" label="Split" verse="Luke 11:27" >γυνὴ ἐκ τοῦ ὄχλου</reference>
+		<reference osisRef="Luke.11.33!7-Luke.11.33!10" type="Split Focal" label="Split" verse="Luke 11:33" >οὐδὲ ὑπὸ τὸν μόδιον</reference>
+		<reference osisRef="Luke.11.33!11-Luke.11.33!14" type="Split Focal" label="Split" verse="Luke 11:33" >ἀλλ’ ἐπὶ τὴν λυχνίαν</reference>
+		<reference osisRef="Luke.12.15!21-Luke.12.15!24" type="Split Focal" label="Split" verse="Luke 12:15" >ἐκ τῶν ὑπαρχόντων αὐτῷ</reference>
+		<reference osisRef="Luke.12.41!13-Luke.12.41!15" type="Split Focal" label="Split" verse="Luke 12:41" >καὶ πρὸς πάντας</reference>
+		<reference osisRef="Luke.12.51!6-Luke.12.51!8" type="Split Focal" label="Split" verse="Luke 12:51" >ἐν τῇ γῇ</reference>
+		<reference osisRef="Luke.13.4!21-Luke.13.4!27" type="Split Focal" label="Split" verse="Luke 13:4" >παρὰ πάντας τοὺς ἀνθρώπους τοὺς κατοικοῦντας ἰερουσαλήμ</reference>
+		<reference osisRef="Luke.13.6!9-Luke.13.6!13" type="Split Focal" label="Split" verse="Luke 13:6" >πεφυτευμένην ἐν τῷ ἀμπελῶνι αὐτοῦ</reference>
+		<reference osisRef="Luke.13.11!6" type="Split Focal" label="Split" verse="Luke 13:11" >ἀσθενείας</reference>
+		<reference osisRef="Luke.13.14!28-Luke.13.14!33" type="Split Focal" label="Split" verse="Luke 13:14" >καὶ μὴ τῇ ἡμέρᾳ τοῦ σαββάτου</reference>
+		<reference osisRef="Luke.14.19!7" type="Split Focal" label="Split" verse="Luke 14:19" >πέντε</reference>
+		<reference osisRef="Luke.15.8!6" type="Split Focal" label="Split" verse="Luke 15:8" >δέκα</reference>
+		<reference osisRef="Luke.16.13!27-Luke.16.13!28" type="Split Focal" label="Split" verse="Luke 16:13" >καὶ μαμωνᾷ</reference>
+		<reference osisRef="Luke.17.7!7-Luke.17.7!9" type="Split Focal" label="Split" verse="Luke 17:7" >ἀροτριῶντα ἢ ποιμαίνοντα</reference>
+		<reference osisRef="Luke.19.11!12" type="Split Focal" label="Split" verse="Luke 19:11" >ἰερουσαλὴμ</reference>
+		<reference osisRef="Luke.19.16!12" type="Split Focal" label="Split" verse="Luke 19:16" >μνᾶς</reference>
+		<reference osisRef="Luke.19.19!9-Luke.19.19!10" type="Split Focal" label="Split" verse="Luke 19:19" >πέντε πόλεων</reference>
+		<reference osisRef="Luke.19.30!17" type="Split Focal" label="Split" verse="Luke 19:30" >ἀνθρώπων</reference>
+		<reference osisRef="Luke.20.4!7-Luke.20.4!9" type="Split Focal" label="Split" verse="Luke 20:4" >ἢ ἐξ ἀνθρώπων</reference>
+		<reference osisRef="Luke.20.11!5" type="Split Focal" label="Split" verse="Luke 20:11" >δοῦλον</reference>
+		<reference osisRef="Luke.20.35!8-Luke.20.35!13" type="Split Focal" label="Split" verse="Luke 20:35" >καὶ τῆς ἀναστάσεως τῆς ἐκ νεκρῶν</reference>
+		<reference osisRef="Luke.20.36!12" type="Split Focal" label="Split" verse="Luke 20:36" >θεοῦ</reference>
+		<reference osisRef="Luke.20.38!5-Luke.20.38!7" type="Split Focal" label="Split" verse="Luke 20:38" >νεκρῶν ἀλλὰ ζώντων</reference>
+		<reference osisRef="Luke.22.23!11-Luke.22.23!12" type="Split Focal" label="Split" verse="Luke 22:23" >ἐξ αὐτῶν</reference>
+		<reference osisRef="Luke.22.30!21-Luke.22.30!22" type="Split Focal" label="Split" verse="Luke 22:30" >τοῦ ἰσραήλ</reference>
+		<reference osisRef="Luke.23.4!13" type="Split Focal" label="Split" verse="Luke 23:4" >αἴτιον</reference>
+		<reference osisRef="Luke.23.8!27-Luke.23.8!29" type="Split Focal" label="Split" verse="Luke 23:8" >ὑπ’ αὐτοῦ γινόμενον</reference>
+		<reference osisRef="Luke.23.14!25-Luke.23.14!29" type="Split Focal" label="Split" verse="Luke 23:14" >αἴτιον ὧν κατηγορεῖτε κατ’ αὐτοῦ</reference>
+		<reference osisRef="Luke.23.28!18-Luke.23.28!22" type="Split Focal" label="Split" verse="Luke 23:28" >καὶ ἐπὶ τὰ τέκνα ὑμῶν</reference>
+		<reference osisRef="Luke.23.54!4" type="Split Focal" label="Split" verse="Luke 23:54" >παρασκευῆς</reference>
+		<reference osisRef="John.1.49!14-John.1.49!15" type="Split Focal" label="Split" verse="John 1:49" >τοῦ ἰσραήλ</reference>
+		<reference osisRef="John.2.11!3-John.2.11!5" type="Split Focal" label="Split" verse="John 2:11" >ἀρχὴν τῶν σημείων</reference>
+		<reference osisRef="John.2.15!11-John.2.15!16" type="Split Focal" label="Split" verse="John 2:15" >τά τε πρόβατα καὶ τοὺς βόας</reference>
+		<reference osisRef="John.2.15!21-John.2.15!22" type="Split Focal" label="Split" verse="John 2:15" >τὸ κέρμα</reference>
+		<reference osisRef="John.3.2!15" type="Split Focal" label="Split" verse="John 3:2" >διδάσκαλος</reference>
+		<reference osisRef="John.3.2!23-John.3.2!25" type="Split Focal" label="Split" verse="John 3:2" >ἃ σὺ ποιεῖς</reference>
+		<reference osisRef="John.3.28!17-John.3.28!18" type="Split Focal" label="Split" verse="John 3:28" >ἔμπροσθεν ἐκείνου</reference>
+		<reference osisRef="John.4.1!17-John.4.1!18" type="Split Focal" label="Split" verse="John 4:1" >ἢ ἰωάννης</reference>
+		<reference osisRef="John.4.2!6-John.4.2!9" type="Split Focal" label="Split" verse="John 4:2" >ἀλλ’ οἱ μαθηταὶ αὐτοῦ</reference>
+		<reference osisRef="John.4.12!5-John.4.12!8" type="Split Focal" label="Split" verse="John 4:12" >τοῦ πατρὸς ἡμῶν ἰακώβ</reference>
+		<reference osisRef="John.4.12!19-John.4.12!26" type="Split Focal" label="Split" verse="John 4:12" >καὶ οἱ υἱοὶ αὐτοῦ καὶ τὰ θρέμματα αὐτοῦ</reference>
+		<reference osisRef="John.4.23!24-John.4.23!26" type="Split Focal" label="Split" verse="John 4:23" >τοὺς προσκυνοῦντας αὐτόν</reference>
+		<reference osisRef="John.4.32!9-John.4.32!12" type="Split Focal" label="Split" verse="John 4:32" >ἣν ὑμεῖς οὐκ οἴδατε</reference>
+		<reference osisRef="John.4.35!26-John.4.35!27" type="Split Focal" label="Split" verse="John 4:35" >πρὸς θερισμόν</reference>
+		<reference osisRef="John.4.39!10-John.4.39!11" type="Split Focal" label="Split" verse="John 4:39" >τῶν σαμαριτῶν</reference>
+		<reference osisRef="John.4.45!13-John.4.45!19" type="Split Focal" label="Split" verse="John 4:45" >ὅσα ἐποίησεν ἐν ἱεροσολύμοις ἐν τῇ ἑορτῇ</reference>
+		<reference osisRef="John.4.52!7-John.4.52!10" type="Split Focal" label="Split" verse="John 4:52" >ἐν ᾗ κομψότερον ἔσχεν</reference>
+		<reference osisRef="John.5.6!11" type="Split Focal" label="Split" verse="John 5:6" >χρόνον</reference>
+		<reference osisRef="John.5.14!22" type="Split Focal" label="Split" verse="John 5:14" >τι</reference>
+		<reference osisRef="John.5.18!26-John.5.18!27" type="Split Focal" label="Split" verse="John 5:18" >τῷ θεῷ</reference>
+		<reference osisRef="John.5.20!11-John.5.20!13" type="Split Focal" label="Split" verse="John 5:20" >ἃ αὐτὸς ποιεῖ</reference>
+		<reference osisRef="John.5.20!19" type="Split Focal" label="Split" verse="John 5:20" >ἔργα</reference>
+		<reference osisRef="John.5.38!7-John.5.38!9" type="Split Focal" label="Split" verse="John 5:38" >ἐν ὑμῖν μένοντα</reference>
+		<reference osisRef="John.6.23!3" type="Split Focal" label="Split" verse="John 6:23" >πλοιά[ρια]</reference>
+		<reference osisRef="John.6.24!11-John.6.24!14" type="Split Focal" label="Split" verse="John 6:24" >οὐδὲ οἱ μαθηταὶ αὐτοῦ</reference>
+		<reference osisRef="John.6.27!27-John.6.27!28" type="Split Focal" label="Split" verse="John 6:27" >ὁ θεός</reference>
+		<reference osisRef="John.6.30!8" type="Split Focal" label="Split" verse="John 6:30" >σημεῖον</reference>
+		<reference osisRef="John.6.55!7" type="Split Focal" label="Split" verse="John 6:55" >βρῶσις</reference>
+		<reference osisRef="John.6.55!14" type="Split Focal" label="Split" verse="John 6:55" >πόσις</reference>
+		<reference osisRef="John.7.12!6" type="Split Focal" label="Split" verse="John 7:12" >πολὺς</reference>
+		<reference osisRef="John.7.22!14-John.7.22!17" type="Split Focal" label="Split" verse="John 7:22" >ἀλλ’ ἐκ τῶν πατέρων</reference>
+		<reference osisRef="John.7.31!19-John.7.31!21" type="Split Focal" label="Split" verse="John 7:31" >ὧν οὗτος ἐποίησεν</reference>
+		<reference osisRef="John.7.38!15-John.7.38!16" type="Split Focal" label="Split" verse="John 7:38" >ὕδατος ζῶντος</reference>
+		<reference osisRef="John.7.44!4-John.7.44!5" type="Split Focal" label="Split" verse="John 7:44" >ἐξ αὐτῶν</reference>
+		<reference osisRef="John.7.48!9-John.7.48!12" type="Split Focal" label="Split" verse="John 7:48" >ἢ ἐκ τῶν φαρισαίων</reference>
+		<reference osisRef="John.7.50!13-John.7.50!14" type="Split Focal" label="Split" verse="John 7:50" >ἐξ αὐτῶν</reference>
+		<reference osisRef="John.8.19!14-John.8.19!17" type="Split Focal" label="Split" verse="John 8:19" >οὔτε τὸν πατέρα μου</reference>
+		<reference osisRef="John.8.26!3-John.8.26!7" type="Split Focal" label="Split" verse="John 8:26" >περὶ ὑμῶν λαλεῖν καὶ κρίνειν</reference>
+		<reference osisRef="John.8.34!17-John.8.34!18" type="Split Focal" label="Split" verse="John 8:34" >τῆς ἁμαρτίας</reference>
+		<reference osisRef="John.8.40!12-John.8.40!16" type="Split Focal" label="Split" verse="John 8:40" >ἣν ἤκουσα παρὰ τοῦ θεοῦ</reference>
+		<reference osisRef="John.8.44!44-John.8.44!47" type="Split Focal" label="Split" verse="John 8:44" >καὶ ὁ πατὴρ αὐτοῦ</reference>
+		<reference osisRef="John.8.52!13-John.8.52!15" type="Split Focal" label="Split" verse="John 8:52" >καὶ οἱ προφῆται</reference>
+		<reference osisRef="John.8.53!5-John.8.53!8" type="Split Focal" label="Split" verse="John 8:53" >τοῦ πατρὸς ἡμῶν ἀβραάμ</reference>
+		<reference osisRef="John.9.3!6-John.9.3!9" type="Split Focal" label="Split" verse="John 9:3" >οὔτε οἱ γονεῖς αὐτοῦ</reference>
+		<reference osisRef="John.9.5!8-John.9.5!9" type="Split Focal" label="Split" verse="John 9:5" >τοῦ κόσμου</reference>
+		<reference osisRef="John.9.28!9" type="Split Focal" label="Split" verse="John 9:28" >ἐκείνου</reference>
+		<reference osisRef="John.9.28!15" type="Split Focal" label="Split" verse="John 9:28" >μαθηταί</reference>
+		<reference osisRef="John.10.1!22-John.10.1!23" type="Split Focal" label="Split" verse="John 10:1" >καὶ λῃστής</reference>
+		<reference osisRef="John.10.2!9-John.10.2!10" type="Split Focal" label="Split" verse="John 10:2" >τῶν προβάτων</reference>
+		<reference osisRef="John.10.8!8-John.10.8!9" type="Split Focal" label="Split" verse="John 10:8" >καὶ λῃσταί</reference>
+		<reference osisRef="John.10.33!11-John.10.33!13" type="Split Focal" label="Split" verse="John 10:33" >ἀλλὰ περὶ βλασφημίας</reference>
+		<reference osisRef="John.10.41!13" type="Split Focal" label="Split" verse="John 10:41" >οὐδέν</reference>
+		<reference osisRef="John.11.9!7-John.11.9!8" type="Split Focal" label="Split" verse="John 11:9" >τῆς ἡμέρας</reference>
+		<reference osisRef="John.11.17!9" type="Split Focal" label="Split" verse="John 11:17" >ἡμέρας</reference>
+		<reference osisRef="John.11.47!19" type="Split Focal" label="Split" verse="John 11:47" >σημεῖα</reference>
+		<reference osisRef="John.12.2!15-John.12.2!19" type="Split Focal" label="Split" verse="John 12:2" >ἐκ τῶν ἀνακειμένων σὺν αὐτῷ</reference>
+		<reference osisRef="John.12.11!6-John.12.11!7" type="Split Focal" label="Split" verse="John 12:11" >τῶν ἰουδαίων</reference>
+		<reference osisRef="John.12.18!13-John.12.18!14" type="Split Focal" label="Split" verse="John 12:18" >τὸ σημεῖον</reference>
+		<reference osisRef="John.12.30!12-John.12.30!14" type="Split Focal" label="Split" verse="John 12:30" >ἀλλὰ δι’ ὑμᾶς</reference>
+		<reference osisRef="John.12.31!4-John.12.31!6" type="Split Focal" label="Split" verse="John 12:31" >τοῦ κόσμου τούτου</reference>
+		<reference osisRef="John.12.37!4" type="Split Focal" label="Split" verse="John 12:37" >σημεῖα</reference>
+		<reference osisRef="John.12.47!6-John.12.47!7" type="Split Focal" label="Split" verse="John 12:47" >τῶν ῥημάτων</reference>
+		<reference osisRef="John.13.2!14-John.13.2!16" type="Split Focal" label="Split" verse="John 13:2" >ἰούδας σίμωνος ἰσκαριώτου</reference>
+		<reference osisRef="John.13.6!12-John.13.6!13" type="Split Focal" label="Split" verse="John 13:6" >τοὺς πόδας</reference>
+		<reference osisRef="John.13.10!23-John.13.10!25" type="Split Focal" label="Split" verse="John 13:10" >ἀλλ’ οὐχὶ πάντες</reference>
+		<reference osisRef="John.13.14!18-John.13.14!19" type="Split Focal" label="Split" verse="John 13:14" >τοὺς πόδας</reference>
+		<reference osisRef="John.13.28!5-John.13.28!6" type="Split Focal" label="Split" verse="John 13:28" >τῶν ἀνακειμένων</reference>
+		<reference osisRef="John.13.35!12-John.13.35!13" type="Split Focal" label="Split" verse="John 13:35" >ἐν ἀλλήλοις</reference>
+		<reference osisRef="John.14.22!16-John.14.22!19" type="Split Focal" label="Split" verse="John 14:22" >καὶ οὐχὶ τῷ κόσμῳ</reference>
+		<reference osisRef="John.15.24!8-John.15.24!11" type="Split Focal" label="Split" verse="John 15:24" >ἃ οὐδεὶς ἄλλος ἐποίησεν</reference>
+		<reference osisRef="John.16.2!15-John.16.2!16" type="Split Focal" label="Split" verse="John 16:2" >τῷ θεῷ</reference>
+		<reference osisRef="John.17.4!10-John.17.4!14" type="Split Focal" label="Split" verse="John 17:4" >ὃ δέδωκάς μοι ἵνα ποιήσω</reference>
+		<reference osisRef="John.17.9!10-John.17.9!14" type="Split Focal" label="Split" verse="John 17:9" >ἀλλὰ περὶ ὧν δέδωκάς μοι</reference>
+		<reference osisRef="John.17.20!6" type="Split Focal" label="Split" verse="John 17:20" >μόνον</reference>
+		<reference osisRef="John.18.26!10-John.18.26!14" type="Split Focal" label="Split" verse="John 18:26" >οὗ ἀπέκοψεν πέτρος τὸ ὠτίον</reference>
+		<reference osisRef="John.18.38!24" type="Split Focal" label="Split" verse="John 18:38" >αἰτίαν</reference>
+		<reference osisRef="John.19.20!7-John.19.20!8" type="Split Focal" label="Split" verse="John 19:20" >τῶν ἰουδαίων</reference>
+		<reference osisRef="John.19.21!21-John.19.21!22" type="Split Focal" label="Split" verse="John 19:21" >τῶν ἰουδαίων</reference>
+		<reference osisRef="John.19.32!12-John.19.32!17" type="Split Focal" label="Split" verse="John 19:32" >καὶ τοῦ ἄλλου τοῦ συσταυρωθέντος αὐτῷ</reference>
+		<reference osisRef="John.19.36!11" type="Split Focal" label="Split" verse="John 19:36" >αὐτοῦ</reference>
+		<reference osisRef="John.19.40!17-John.19.40!18" type="Split Focal" label="Split" verse="John 19:40" >τοῖς ἰουδαίοις</reference>
+		<reference osisRef="John.20.7!15-John.20.7!16" type="Split Focal" label="Split" verse="John 20:7" >ἀλλὰ χωρὶς</reference>
+		<reference osisRef="John.21.12!10-John.21.12!11" type="Split Focal" label="Split" verse="John 21:12" >τῶν μαθητῶν</reference>
+		<reference osisRef="John.21.25!18-John.21.25!19" type="Split Focal" label="Split" verse="John 21:25" >τὸν κόσμον</reference>
+		<reference osisRef="Acts.1.2!10-Acts.1.2!11" type="Split Focal" label="Split" verse="Acts 1:2" >οὓς ἐξελέξατο</reference>
+		<reference osisRef="Acts.1.5!11" type="Split Focal" label="Split" verse="Acts 1:5" >ἁγίῳ</reference>
+		<reference osisRef="Acts.1.19!4-Acts.1.19!7" type="Split Focal" label="Split" verse="Acts 1:19" >πᾶσι τοῖς κατοικοῦσιν ἰερουσαλήμ</reference>
+		<reference osisRef="Acts.1.21!7-Acts.1.22!30" type="Split Focal" label="Split" verse="Acts 1:21 - 2" >ἐν παντὶ χρόνῳ ᾧ εἰσῆλθεν καὶ ἐξῆλθεν ἐφ’ ἡμᾶς ὁ κύριος ἰησοῦς ἀρξάμενος ἀπὸ τοῦ βαπτίσματος ἰωάννου ἕως τῆς ἡμέρας ἧς ἀνελήμφθη ἀφ’ ἡμῶν</reference>
+		<reference osisRef="Acts.1.24!15" type="Split Focal" label="Split" verse="Acts 1:24" >ἕνα</reference>
+		<reference osisRef="Acts.2.36!11-Acts.2.36!12" type="Split Focal" label="Split" verse="Acts 2:36" >καὶ χριστὸν</reference>
+		<reference osisRef="Acts.2.39!6-Acts.2.39!14" type="Split Focal" label="Split" verse="Acts 2:39" >καὶ τοῖς τέκνοις ὑμῶν καὶ πᾶσιν τοῖς εἰς μακράν</reference>
+		<reference osisRef="Acts.3.21!20-Acts.3.21!21" type="Split Focal" label="Split" verse="Acts 3:21" >αὐτοῦ προφητῶν</reference>
+		<reference osisRef="Acts.3.22!16-Acts.3.22!17" type="Split Focal" label="Split" verse="Acts 3:22" >ὡς ἐμέ</reference>
+		<reference osisRef="Acts.4.12!13-Acts.4.12!20" type="Split Focal" label="Split" verse="Acts 4:12" >ἕτερον ὑπὸ τὸν οὐρανὸν τὸ δεδομένον ἐν ἀνθρώποις</reference>
+		<reference osisRef="Acts.4.13!15-Acts.4.13!16" type="Split Focal" label="Split" verse="Acts 4:13" >καὶ ἰδιῶται</reference>
+		<reference osisRef="Acts.4.14!7-Acts.4.14!9" type="Split Focal" label="Split" verse="Acts 4:14" >ἑστῶτα τὸν τεθεραπευμένον</reference>
+		<reference osisRef="Acts.4.19!18-Acts.4.19!21" type="Split Focal" label="Split" verse="Acts 4:19" >μᾶλλον ἢ τοῦ θεοῦ</reference>
+		<reference osisRef="Acts.4.22!4-Acts.4.22!5" type="Split Focal" label="Split" verse="Acts 4:22" >πλειόνων τεσσεράκοντα</reference>
+		<reference osisRef="Acts.4.25!8-Acts.4.25!11" type="Split Focal" label="Split" verse="Acts 4:25" >στόματος δαυὶδ παιδός σου</reference>
+		<reference osisRef="Acts.4.33!9-Acts.4.33!13" type="Split Focal" label="Split" verse="Acts 4:33" >τῆς ἀναστάσεως τοῦ κυρίου ἰησοῦ</reference>
+		<reference osisRef="Acts.5.29!10-Acts.5.29!13" type="Split Focal" label="Split" verse="Acts 5:29" >θεῷ μᾶλλον ἢ ἀνθρώποις</reference>
+		<reference osisRef="Acts.5.31!16-Acts.5.31!18" type="Split Focal" label="Split" verse="Acts 5:31" >καὶ ἄφεσιν ἁμαρτιῶν</reference>
+		<reference osisRef="Acts.7.5!18-Acts.7.5!23" type="Split Focal" label="Split" verse="Acts 7:5" >καὶ τῷ σπέρματι αὐτοῦ μετ’ αὐτόν</reference>
+		<reference osisRef="Acts.7.11!10-Acts.7.11!12" type="Split Focal" label="Split" verse="Acts 7:11" >καὶ θλῖψις μεγάλη</reference>
+		<reference osisRef="Acts.7.13!13-Acts.7.13!14" type="Split Focal" label="Split" verse="Acts 7:13" >τῷ φαραὼ</reference>
+		<reference osisRef="Acts.7.19!15" type="Split Focal" label="Split" verse="Acts 7:19" >αὐτῶν</reference>
+		<reference osisRef="Acts.7.56!16-Acts.7.56!17" type="Split Focal" label="Split" verse="Acts 7:56" >τοῦ θεοῦ</reference>
+		<reference osisRef="Acts.8.9!21" type="Split Focal" label="Split" verse="Acts 8:9" >μέγαν</reference>
+		<reference osisRef="Acts.8.24!18-Acts.8.24!19" type="Split Focal" label="Split" verse="Acts 8:24" >ὧν εἰρήκατε</reference>
+		<reference osisRef="Acts.9.2!14-Acts.9.2!16" type="Split Focal" label="Split" verse="Acts 9:2" >τῆς ὁδοῦ ὄντας</reference>
+		<reference osisRef="Acts.9.36!6-Acts.9.36!8" type="Split Focal" label="Split" verse="Acts 9:36" >μαθήτρια ὀνόματι ταβιθά</reference>
+		<reference osisRef="Acts.9.38!5-Acts.9.38!6" type="Split Focal" label="Split" verse="Acts 9:38" >τῇ ἰόππῃ</reference>
+		<reference osisRef="Acts.10.28!25" type="Split Focal" label="Split" verse="Acts 10:28" >ἄνθρωπον</reference>
+		<reference osisRef="Acts.12.15!18" type="Split Focal" label="Split" verse="Acts 12:15" >αὐτοῦ</reference>
+		<reference osisRef="Acts.12.22!7-Acts.12.22!9" type="Split Focal" label="Split" verse="Acts 12:22" >καὶ οὐκ ἀνθρώπου</reference>
+		<reference osisRef="Acts.13.15!21-Acts.13.15!24" type="Split Focal" label="Split" verse="Acts 13:15" >ἐν ὑμῖν λόγος παρακλήσεως</reference>
+		<reference osisRef="Acts.13.33!18-Acts.13.33!19" type="Split Focal" label="Split" verse="Acts 13:33" >τῷ δευτέρῳ</reference>
+		<reference osisRef="Acts.13.46!26-Acts.13.46!28" type="Split Focal" label="Split" verse="Acts 13:46" >τῆς αἰωνίου ζωῆς</reference>
+		<reference osisRef="Acts.14.8!7-Acts.14.8!8" type="Split Focal" label="Split" verse="Acts 14:8" >τοῖς ποσὶν</reference>
+		<reference osisRef="Acts.14.15!11-Acts.14.15!12" type="Split Focal" label="Split" verse="Acts 14:15" >ὑμῖν ἄνθρωποι</reference>
+		<reference osisRef="Acts.14.17!11-Acts.14.17!13" type="Split Focal" label="Split" verse="Acts 14:17" >καὶ καιροὺς καρποφόρους</reference>
+		<reference osisRef="Acts.15.28!13-Acts.15.28!17" type="Split Focal" label="Split" verse="Acts 15:28" >βάρος πλὴν τούτων τῶν ἐπάναγκες</reference>
+		<reference osisRef="Acts.16.1!15-Acts.16.1!16" type="Split Focal" label="Split" verse="Acts 16:1" >ὀνόματι τιμόθεος</reference>
+		<reference osisRef="Acts.16.23!5" type="Split Focal" label="Split" verse="Acts 16:23" >πληγὰς</reference>
+		<reference osisRef="Acts.16.26!5" type="Split Focal" label="Split" verse="Acts 16:26" >μέγας</reference>
+		<reference osisRef="Acts.16.28!11" type="Split Focal" label="Split" verse="Acts 16:28" >κακόν</reference>
+		<reference osisRef="Acts.17.18!26" type="Split Focal" label="Split" verse="Acts 17:18" >καταγγελεὺς</reference>
+		<reference osisRef="Acts.17.24!17" type="Split Focal" label="Split" verse="Acts 17:24" >κύριος</reference>
+		<reference osisRef="Acts.17.29!4-Acts.17.29!5" type="Split Focal" label="Split" verse="Acts 17:29" >τοῦ θεοῦ</reference>
+		<reference osisRef="Acts.18.10!17" type="Split Focal" label="Split" verse="Acts 18:10" >πολὺς</reference>
+		<reference osisRef="Acts.18.12!5-Acts.18.12!6" type="Split Focal" label="Split" verse="Acts 18:12" >τῆς ἀχαΐας</reference>
+		<reference osisRef="Acts.18.15!5-Acts.18.15!13" type="Split Focal" label="Split" verse="Acts 18:15" >περὶ λόγου καὶ ὀνομάτων καὶ νόμου τοῦ καθ’ ὑμᾶς</reference>
+		<reference osisRef="Acts.18.15!18" type="Split Focal" label="Split" verse="Acts 18:15" >τούτων</reference>
+		<reference osisRef="Acts.18.24!16-Acts.18.24!18" type="Split Focal" label="Split" verse="Acts 18:24" >ἐν ταῖς γραφαῖς</reference>
+		<reference osisRef="Acts.19.34!8" type="Split Focal" label="Split" verse="Acts 19:34" >μία</reference>
+		<reference osisRef="Acts.19.35!13" type="Split Focal" label="Split" verse="Acts 19:35" >ἀνθρώπων</reference>
+		<reference osisRef="Acts.19.35!22-Acts.19.35!27" type="Split Focal" label="Split" verse="Acts 19:35" >τῆς μεγάλης ἀρτέμιδος καὶ τοῦ διοπετοῦς</reference>
+		<reference osisRef="Acts.20.20!4-Acts.20.20!5" type="Split Focal" label="Split" verse="Acts 20:20" >τῶν συμφερόντων</reference>
+		<reference osisRef="Acts.20.26!11-Acts.20.26!14" type="Split Focal" label="Split" verse="Acts 20:26" >ἀπὸ τοῦ αἵματος πάντων</reference>
+		<reference osisRef="Acts.20.37!5" type="Split Focal" label="Split" verse="Acts 20:37" >πάντων</reference>
+		<reference osisRef="Acts.21.10!10-Acts.21.10!12" type="Split Focal" label="Split" verse="Acts 21:10" >προφήτης ὀνόματι ἅγαβος</reference>
+		<reference osisRef="Acts.21.18!14-Acts.21.18!15" type="Split Focal" label="Split" verse="Acts 21:18" >οἱ πρεσβύτεροι</reference>
+		<reference osisRef="Acts.21.20!18-Acts.21.20!19" type="Split Focal" label="Split" verse="Acts 21:20" >τῶν πεπιστευκότων</reference>
+		<reference osisRef="Acts.21.21!8-Acts.21.21!9" type="Split Focal" label="Split" verse="Acts 21:21" >ἀπὸ μωϋσέως</reference>
+		<reference osisRef="Acts.21.23!4-Acts.21.23!6" type="Split Focal" label="Split" verse="Acts 21:23" >ὅ σοι λέγομεν</reference>
+		<reference osisRef="Acts.21.31!14" type="Split Focal" label="Split" verse="Acts 21:31" >ἰερουσαλήμ</reference>
+		<reference osisRef="Acts.21.39!9-Acts.21.39!12" type="Split Focal" label="Split" verse="Acts 21:39" >ἰουδαῖος ταρσεὺς τῆς κιλικίας</reference>
+		<reference osisRef="Acts.22.2!11" type="Split Focal" label="Split" verse="Acts 22:2" >ἡσυχίαν</reference>
+		<reference osisRef="Acts.22.3!28-Acts.22.3!29" type="Split Focal" label="Split" verse="Acts 22:3" >τοῦ θεοῦ</reference>
+		<reference osisRef="Acts.22.5!7-Acts.22.5!10" type="Split Focal" label="Split" verse="Acts 22:5" >καὶ πᾶν τὸ πρεσβυτέριον</reference>
+		<reference osisRef="Acts.22.9!15-Acts.22.9!17" type="Split Focal" label="Split" verse="Acts 22:9" >τοῦ λαλοῦντός μοι</reference>
+		<reference osisRef="Acts.22.15!8-Acts.22.15!11" type="Split Focal" label="Split" verse="Acts 22:15" >ὧν ἑώρακας καὶ ἤκουσας</reference>
+		<reference osisRef="Acts.23.9!28-Acts.23.9!29" type="Split Focal" label="Split" verse="Acts 23:9" >ἢ ἄγγελος</reference>
+		<reference osisRef="Acts.23.10!4" type="Split Focal" label="Split" verse="Acts 23:10" >στάσεως</reference>
+		<reference osisRef="Acts.23.29!16" type="Split Focal" label="Split" verse="Acts 23:29" >ἔγκλημα</reference>
+		<reference osisRef="Acts.24.11!9-Acts.24.11!10" type="Split Focal" label="Split" verse="Acts 24:11" >ἡμέραι δώδεκα</reference>
+		<reference osisRef="Acts.24.12!15-Acts.24.12!22" type="Split Focal" label="Split" verse="Acts 24:12" >οὔτε ἐν ταῖς συναγωγαῖς οὔτε κατὰ τὴν πόλιν</reference>
+		<reference osisRef="Acts.24.15!14-Acts.24.15!17" type="Split Focal" label="Split" verse="Acts 24:15" >δικαίων τε καὶ ἀδίκων</reference>
+		<reference osisRef="Acts.24.16!9-Acts.24.16!14" type="Split Focal" label="Split" verse="Acts 24:16" >πρὸς τὸν θεὸν καὶ τοὺς ἀνθρώπους</reference>
+		<reference osisRef="Acts.24.17!12-Acts.24.17!13" type="Split Focal" label="Split" verse="Acts 24:17" >καὶ προσφοράς</reference>
+		<reference osisRef="Acts.24.19!17-Acts.24.19!18" type="Split Focal" label="Split" verse="Acts 24:19" >πρὸς ἐμέ</reference>
+		<reference osisRef="Acts.24.20!7" type="Split Focal" label="Split" verse="Acts 24:20" >ἀδίκημα</reference>
+		<reference osisRef="Acts.24.23!12-Acts.24.23!14" type="Split Focal" label="Split" verse="Acts 24:23" >τῶν ἰδίων αὐτοῦ</reference>
+		<reference osisRef="Acts.25.5!14" type="Split Focal" label="Split" verse="Acts 25:5" >ἄτοπον</reference>
+		<reference osisRef="Acts.25.11!18-Acts.25.11!21" type="Split Focal" label="Split" verse="Acts 25:11" >ὧν οὗτοι κατηγοροῦσίν μου</reference>
+		<reference osisRef="Acts.25.13!4" type="Split Focal" label="Split" verse="Acts 25:13" >τινῶν</reference>
+		<reference osisRef="Acts.25.18!9-Acts.25.18!12" type="Split Focal" label="Split" verse="Acts 25:18" >ὧν ἐγὼ ὑπενόουν πονηρῶν</reference>
+		<reference osisRef="Acts.25.19!11-Acts.25.19!15" type="Split Focal" label="Split" verse="Acts 25:19" >καὶ περί τινος ἰησοῦ τεθνηκότος</reference>
+		<reference osisRef="Acts.25.25!7" type="Split Focal" label="Split" verse="Acts 25:25" >θανάτου</reference>
+		<reference osisRef="Acts.26.3!5-Acts.26.3!12" type="Split Focal" label="Split" verse="Acts 26:3" >πάντων τῶν κατὰ ἰουδαίους ἐθῶν τε καὶ ζητημάτων</reference>
+		<reference osisRef="Acts.26.9!13-Acts.26.9!14" type="Split Focal" label="Split" verse="Acts 26:9" >πολλὰ ἐναντία</reference>
+		<reference osisRef="Acts.26.13!16" type="Split Focal" label="Split" verse="Acts 26:13" >φῶς</reference>
+		<reference osisRef="Acts.26.22!4-Acts.26.22!7" type="Split Focal" label="Split" verse="Acts 26:22" >τῆς ἀπὸ τοῦ θεοῦ</reference>
+		<reference osisRef="Acts.26.22!21-Acts.26.22!29" type="Split Focal" label="Split" verse="Acts 26:22" >ὧν τε οἱ προφῆται ἐλάλησαν μελλόντων γίνεσθαι καὶ μωϋσῆς</reference>
+		<reference osisRef="Acts.26.24!16" type="Split Focal" label="Split" verse="Acts 26:24" >γράμματα</reference>
+		<reference osisRef="Acts.26.26!19" type="Split Focal" label="Split" verse="Acts 26:26" >οὐθέν</reference>
+		<reference osisRef="Acts.27.8!16" type="Split Focal" label="Split" verse="Acts 27:8" >λασαία</reference>
+		<reference osisRef="Acts.27.12!6-Acts.27.12!7" type="Split Focal" label="Split" verse="Acts 27:12" >πρὸς παραχειμασίαν</reference>
+		<reference osisRef="Acts.27.16!5-Acts.27.16!6" type="Split Focal" label="Split" verse="Acts 27:16" >καλούμενον καῦδα</reference>
+		<reference osisRef="Acts.27.22!12-Acts.27.22!16" type="Split Focal" label="Split" verse="Acts 27:22" >ἐξ ὑμῶν πλὴν τοῦ πλοίου</reference>
+		<reference osisRef="Acts.27.27!21" type="Split Focal" label="Split" verse="Acts 27:27" >χώραν</reference>
+		<reference osisRef="Acts.27.33!16" type="Split Focal" label="Split" verse="Acts 27:33" >ἡμέραν</reference>
+		<reference osisRef="Acts.28.4!9-Acts.28.4!12" type="Split Focal" label="Split" verse="Acts 28:4" >ἐκ τῆς χειρὸς αὐτοῦ</reference>
+		<reference osisRef="Rom.1.7!12-Rom.1.7!13" type="Split Focal" label="Split" verse="Rom 1:7" >καὶ εἰρήνη</reference>
+		<reference osisRef="Rom.1.11!8" type="Split Focal" label="Split" verse="Rom 1:11" >χάρισμα</reference>
+		<reference osisRef="Rom.1.11!10" type="Split Focal" label="Split" verse="Rom 1:11" >πνευματικὸν</reference>
+		<reference osisRef="Rom.2.19!6" type="Split Focal" label="Split" verse="Rom 2:19" >τυφλῶν</reference>
+		<reference osisRef="Rom.3.29!5" type="Split Focal" label="Split" verse="Rom 3:29" >μόνον</reference>
+		<reference osisRef="Rom.4.10!7-Rom.4.10!9" type="Split Focal" label="Split" verse="Rom 4:10" >ἢ ἐν ἀκροβυστίᾳ</reference>
+		<reference osisRef="Rom.4.11!4" type="Split Focal" label="Split" verse="Rom 4:11" >περιτομῆς</reference>
+		<reference osisRef="Rom.4.13!17" type="Split Focal" label="Split" verse="Rom 4:13" >κόσμου</reference>
+		<reference osisRef="Rom.4.13!18-Rom.4.13!21" type="Split Focal" label="Split" verse="Rom 4:13" >ἀλλὰ διὰ δικαιοσύνης πίστεως</reference>
+		<reference osisRef="Rom.5.1!7-Rom.5.1!9" type="Split Focal" label="Split" verse="Rom 5:1" >πρὸς τὸν θεὸν</reference>
+		<reference osisRef="Rom.6.16!12-Rom.6.16!13" type="Split Focal" label="Split" verse="Rom 6:16" >ᾧ ὑπακούετε</reference>
+		<reference osisRef="Rom.6.20!5-Rom.6.20!6" type="Split Focal" label="Split" verse="Rom 6:20" >τῆς ἁμαρτίας</reference>
+		<reference osisRef="Rom.6.20!9-Rom.6.20!10" type="Split Focal" label="Split" verse="Rom 6:20" >τῇ δικαιοσύνῃ</reference>
+		<reference osisRef="Rom.7.24!3" type="Split Focal" label="Split" verse="Rom 7:24" >ἄνθρωπος</reference>
+		<reference osisRef="Rom.8.1!4" type="Split Focal" label="Split" verse="Rom 8:1" >κατάκριμα</reference>
+		<reference osisRef="Rom.9.2!5-Rom.9.2!8" type="Split Focal" label="Split" verse="Rom 9:2" >μεγάλη καὶ ἀδιάλειπτος ὀδύνη</reference>
+		<reference osisRef="Rom.11.24!9" type="Split Focal" label="Split" verse="Rom 11:24" >ἀγριελαίου</reference>
+		<reference osisRef="Rom.12.4!17" type="Split Focal" label="Split" verse="Rom 12:4" >πρᾶξιν</reference>
+		<reference osisRef="Rom.14.19!7-Rom.14.19!13" type="Split Focal" label="Split" verse="Rom 14:19" >καὶ τὰ τῆς οἰκοδομῆς τῆς εἰς ἀλλήλους</reference>
+		<reference osisRef="Rom.15.8!6" type="Split Focal" label="Split" verse="Rom 15:8" >περιτομῆς</reference>
+		<reference osisRef="Rom.15.14!15" type="Split Focal" label="Split" verse="Rom 15:14" >ἀγαθωσύνης</reference>
+		<reference osisRef="Rom.15.27!6" type="Split Focal" label="Split" verse="Rom 15:27" >αὐτῶν</reference>
+		<reference osisRef="Rom.16.2!24-Rom.16.2!26" type="Split Focal" label="Split" verse="Rom 16:2" >καὶ ἐμοῦ αὐτοῦ</reference>
+		<reference osisRef="1Cor.1.3!3-1Cor.1.3!4" type="Split Focal" label="Split" verse="1Cor 1:3" >καὶ εἰρήνη</reference>
+		<reference osisRef="1Cor.1.30!13-1Cor.1.30!14" type="Split Focal" label="Split" verse="1Cor 1:30" >ἀπὸ θεοῦ</reference>
+		<reference osisRef="1Cor.2.11!4" type="Split Focal" label="Split" verse="1Cor 2:11" >ἀνθρώπων</reference>
+		<reference osisRef="1Cor.2.12!9-1Cor.2.12!15" type="Split Focal" label="Split" verse="1Cor 2:12" >ἀλλὰ τὸ πνεῦμα τὸ ἐκ τοῦ θεοῦ</reference>
+		<reference osisRef="1Cor.3.2!4-1Cor.3.2!5" type="Split Focal" label="Split" verse="1Cor 3:2" >οὐ βρῶμα</reference>
+		<reference osisRef="1Cor.3.7!7-1Cor.3.7!13" type="Split Focal" label="Split" verse="1Cor 3:7" >οὔτε ὁ ποτίζων ἀλλ’ ὁ αὐξάνων θεός</reference>
+		<reference osisRef="1Cor.3.9!4" type="Split Focal" label="Split" verse="1Cor 3:9" >συνεργοί</reference>
+		<reference osisRef="1Cor.3.11!7-1Cor.3.11!9" type="Split Focal" label="Split" verse="1Cor 3:11" >παρὰ τὸν κείμενον</reference>
+		<reference osisRef="1Cor.4.3!10-1Cor.4.3!13" type="Split Focal" label="Split" verse="1Cor 4:3" >ἢ ὑπὸ ἀνθρωπίνης ἡμέρας</reference>
+		<reference osisRef="1Cor.4.7!8-1Cor.4.7!10" type="Split Focal" label="Split" verse="1Cor 4:7" >ὃ οὐκ ἔλαβες</reference>
+		<reference osisRef="1Cor.4.14!6-1Cor.4.14!11" type="Split Focal" label="Split" verse="1Cor 4:14" >ἀλλ’ ὡς τέκνα μου ἀγαπητὰ νουθετῶ[ν]</reference>
+		<reference osisRef="1Cor.4.20!9-1Cor.4.20!11" type="Split Focal" label="Split" verse="1Cor 4:20" >ἀλλ’ ἐν δυνάμει</reference>
+		<reference osisRef="1Cor.4.21!8-1Cor.4.21!13" type="Split Focal" label="Split" verse="1Cor 4:21" >ἢ ἐν ἀγάπῃ πνεύματί τε πραΰτητος</reference>
+		<reference osisRef="1Cor.5.1!17-1Cor.5.1!18" type="Split Focal" label="Split" verse="1Cor 5:1" >τοῦ πατρὸς</reference>
+		<reference osisRef="1Cor.6.2!19-1Cor.6.2!20" type="Split Focal" label="Split" verse="1Cor 6:2" >κριτηρίων ἐλαχίστων</reference>
+		<reference osisRef="1Cor.7.4!8-1Cor.7.4!10" type="Split Focal" label="Split" verse="1Cor 7:4" >ἀλλὰ ὁ ἀνήρ</reference>
+		<reference osisRef="1Cor.7.4!21-1Cor.7.4!23" type="Split Focal" label="Split" verse="1Cor 7:4" >ἀλλὰ ἡ γυνή</reference>
+		<reference osisRef="1Cor.7.7!13-1Cor.7.7!15" type="Split Focal" label="Split" verse="1Cor 7:7" >χάρισμα ἐκ θεοῦ</reference>
+		<reference osisRef="1Cor.7.9!9-1Cor.7.9!11" type="Split Focal" label="Split" verse="1Cor 7:9" >γαμῆσαι ἢ πυροῦσθαι</reference>
+		<reference osisRef="1Cor.7.12!14" type="Split Focal" label="Split" verse="1Cor 7:12" >ἄπιστον</reference>
+		<reference osisRef="1Cor.7.22!16" type="Split Focal" label="Split" verse="1Cor 7:22" >χριστοῦ</reference>
+		<reference osisRef="1Cor.9.2!5" type="Split Focal" label="Split" verse="1Cor 9:2" >ἀπόστολος</reference>
+		<reference osisRef="1Cor.9.18!5-1Cor.9.18!6" type="Split Focal" label="Split" verse="1Cor 9:18" >ὁ μισθός</reference>
+		<reference osisRef="1Cor.9.19!4-1Cor.9.19!5" type="Split Focal" label="Split" verse="1Cor 9:19" >ἐκ πάντων</reference>
+		<reference osisRef="1Cor.10.4!7" type="Split Focal" label="Split" verse="1Cor 10:4" >πόμα</reference>
+		<reference osisRef="1Cor.10.16!10-1Cor.10.16!13" type="Split Focal" label="Split" verse="1Cor 10:16" >τοῦ αἵματος τοῦ χριστοῦ</reference>
+		<reference osisRef="1Cor.10.21!6-1Cor.10.21!8" type="Split Focal" label="Split" verse="1Cor 10:21" >καὶ ποτήριον δαιμονίων</reference>
+		<reference osisRef="1Cor.10.21!14-1Cor.10.21!16" type="Split Focal" label="Split" verse="1Cor 10:21" >καὶ τραπέζης δαιμονίων</reference>
+		<reference osisRef="1Cor.10.32!5-1Cor.10.32!11" type="Split Focal" label="Split" verse="1Cor 10:32" >καὶ ἕλλησιν καὶ τῇ ἐκκλησίᾳ τοῦ θεοῦ</reference>
+		<reference osisRef="1Cor.10.33!11-1Cor.10.33!14" type="Split Focal" label="Split" verse="1Cor 10:33" >ἀλλὰ τὸ τῶν πολλῶν</reference>
+		<reference osisRef="1Cor.11.5!17-1Cor.11.5!21" type="Split Focal" label="Split" verse="1Cor 11:5" >καὶ τὸ αὐτὸ τῇ ἐξυρημένῃ</reference>
+		<reference osisRef="1Cor.11.16!12-1Cor.11.16!16" type="Split Focal" label="Split" verse="1Cor 11:16" >οὐδὲ αἱ ἐκκλησίαι τοῦ θεοῦ</reference>
+		<reference osisRef="1Cor.11.24!9-1Cor.11.24!13" type="Split Focal" label="Split" verse="1Cor 11:24" >τὸ σῶμα τὸ ὑπὲρ ὑμῶν</reference>
+		<reference osisRef="1Cor.11.25!16-1Cor.11.25!19" type="Split Focal" label="Split" verse="1Cor 11:25" >ἐν τῷ ἐμῷ αἵματι</reference>
+		<reference osisRef="1Cor.11.27!16-1Cor.11.27!22" type="Split Focal" label="Split" verse="1Cor 11:27" >τοῦ σώματος καὶ τοῦ αἵματος τοῦ κυρίου</reference>
+		<reference osisRef="1Cor.12.12!21" type="Split Focal" label="Split" verse="1Cor 12:12" >σῶμα</reference>
+		<reference osisRef="1Cor.12.22!9-1Cor.12.22!10" type="Split Focal" label="Split" verse="1Cor 12:22" >ἀσθενέστερα ὑπάρχειν</reference>
+		<reference osisRef="1Cor.12.24!18" type="Split Focal" label="Split" verse="1Cor 12:24" >τιμήν</reference>
+		<reference osisRef="1Cor.12.30!5" type="Split Focal" label="Split" verse="1Cor 12:30" >ἰαμάτων</reference>
+		<reference osisRef="1Cor.13.1!7-1Cor.13.1!9" type="Split Focal" label="Split" verse="1Cor 13:1" >καὶ τῶν ἀγγέλων</reference>
+		<reference osisRef="1Cor.14.2!8-1Cor.14.2!9" type="Split Focal" label="Split" verse="1Cor 14:2" >ἀλλὰ θεῷ</reference>
+		<reference osisRef="1Cor.14.2!16" type="Split Focal" label="Split" verse="1Cor 14:2" >μυστήρια</reference>
+		<reference osisRef="1Cor.14.8!6" type="Split Focal" label="Split" verse="1Cor 14:8" >φωνὴν</reference>
+		<reference osisRef="1Cor.14.12!7" type="Split Focal" label="Split" verse="1Cor 14:12" >πνευμάτων</reference>
+		<reference osisRef="1Cor.14.20!5-1Cor.14.20!6" type="Split Focal" label="Split" verse="1Cor 14:20" >ταῖς φρεσὶν</reference>
+		<reference osisRef="1Cor.14.28!12-1Cor.14.28!14" type="Split Focal" label="Split" verse="1Cor 14:28" >καὶ τῷ θεῷ</reference>
+		<reference osisRef="1Cor.14.30!5" type="Split Focal" label="Split" verse="1Cor 14:30" >καθημένῳ</reference>
+		<reference osisRef="1Cor.14.33!7-1Cor.14.33!8" type="Split Focal" label="Split" verse="1Cor 14:33" >ἀλλὰ εἰρήνης</reference>
+		<reference osisRef="1Cor.14.37!6-1Cor.14.37!7" type="Split Focal" label="Split" verse="1Cor 14:37" >ἢ πνευματικός</reference>
+		<reference osisRef="1Cor.14.37!15" type="Split Focal" label="Split" verse="1Cor 14:37" >ἐντολή</reference>
+		<reference osisRef="1Cor.14.39!12" type="Split Focal" label="Split" verse="1Cor 14:39" >γλώσσαις</reference>
+		<reference osisRef="1Cor.15.19!10" type="Split Focal" label="Split" verse="1Cor 15:19" >μόνον</reference>
+		<reference osisRef="1Cor.15.58!7" type="Split Focal" label="Split" verse="1Cor 15:58" >ἀμετακίνητοι</reference>
+		<reference osisRef="1Cor.16.9!5-1Cor.16.9!7" type="Split Focal" label="Split" verse="1Cor 16:9" >μεγάλη καὶ ἐνεργής</reference>
+		<reference osisRef="2Cor.1.2!3-2Cor.1.2!4" type="Split Focal" label="Split" verse="2Cor 1:2" >καὶ εἰρήνη</reference>
+		<reference osisRef="2Cor.1.7!13-2Cor.1.7!14" type="Split Focal" label="Split" verse="2Cor 1:7" >τῶν παθημάτων</reference>
+		<reference osisRef="2Cor.1.9!14-2Cor.1.9!15" type="Split Focal" label="Split" verse="2Cor 1:9" >ἐφ’ ἑαυτοῖς</reference>
+		<reference osisRef="2Cor.1.13!6-2Cor.1.13!12" type="Split Focal" label="Split" verse="2Cor 1:13" >ἀλλ’ ἢ ἃ ἀναγινώσκετε ἢ καὶ ἐπιγινώσκετε</reference>
+		<reference osisRef="2Cor.1.24!10-2Cor.1.24!12" type="Split Focal" label="Split" verse="2Cor 1:24" >τῆς χαρᾶς ὑμῶν</reference>
+		<reference osisRef="2Cor.2.4!21-2Cor.2.4!25" type="Split Focal" label="Split" verse="2Cor 2:4" >ἣν ἔχω περισσοτέρως εἰς ὑμᾶς</reference>
+		<reference osisRef="2Cor.4.5!5-2Cor.4.5!8" type="Split Focal" label="Split" verse="2Cor 4:5" >ἀλλὰ ἰησοῦν χριστὸν κύριον</reference>
+		<reference osisRef="2Cor.5.7!5-2Cor.5.7!7" type="Split Focal" label="Split" verse="2Cor 5:7" >οὐ διὰ εἴδους</reference>
+		<reference osisRef="2Cor.5.12!10-2Cor.5.12!12" type="Split Focal" label="Split" verse="2Cor 5:12" >καυχήματος ὑπὲρ ἡμῶν</reference>
+		<reference osisRef="2Cor.5.12!20-2Cor.5.12!23" type="Split Focal" label="Split" verse="2Cor 5:12" >καὶ μὴ ἐν καρδίᾳ</reference>
+		<reference osisRef="2Cor.5.15!11-2Cor.5.15!17" type="Split Focal" label="Split" verse="2Cor 5:15" >ἀλλὰ τῷ ὑπὲρ αὐτῶν ἀποθανόντι καὶ ἐγερθέντι</reference>
+		<reference osisRef="2Cor.6.16!13" type="Split Focal" label="Split" verse="2Cor 6:16" >ζῶντος</reference>
+		<reference osisRef="2Cor.7.1!4-2Cor.7.1!5" type="Split Focal" label="Split" verse="2Cor 7:1" >τὰς ἐπαγγελίας</reference>
+		<reference osisRef="2Cor.7.4!3" type="Split Focal" label="Split" verse="2Cor 7:4" >παρρησία</reference>
+		<reference osisRef="2Cor.7.4!8" type="Split Focal" label="Split" verse="2Cor 7:4" >καύχησις</reference>
+		<reference osisRef="2Cor.7.5!9" type="Split Focal" label="Split" verse="2Cor 7:5" >ἄνεσιν</reference>
+		<reference osisRef="2Cor.7.11!12" type="Split Focal" label="Split" verse="2Cor 7:11" >σπουδήν</reference>
+		<reference osisRef="2Cor.8.3!5-2Cor.8.3!7" type="Split Focal" label="Split" verse="2Cor 8:3" >καὶ παρὰ δύναμιν</reference>
+		<reference osisRef="2Cor.8.12!10-2Cor.8.12!13" type="Split Focal" label="Split" verse="2Cor 8:12" >οὐ καθὸ οὐκ ἔχει</reference>
+		<reference osisRef="2Cor.10.5!2-2Cor.10.5!9" type="Split Focal" label="Split" verse="2Cor 10:5" >πᾶν ὕψωμα ἐπαιρόμενον κατὰ τῆς γνώσεως τοῦ θεοῦ</reference>
+		<reference osisRef="2Cor.10.13!8-2Cor.10.13!19" type="Split Focal" label="Split" verse="2Cor 10:13" >ἀλλὰ κατὰ τὸ μέτρον τοῦ κανόνος οὗ ἐμέρισεν ἡμῖν ὁ θεὸς μέτρου</reference>
+		<reference osisRef="2Cor.10.18!9-2Cor.10.18!13" type="Split Focal" label="Split" verse="2Cor 10:18" >ἀλλὰ ὃν ὁ κύριος συνίστησιν</reference>
+		<reference osisRef="2Cor.11.4!9-2Cor.11.4!11" type="Split Focal" label="Split" verse="2Cor 11:4" >ὃν οὐκ ἐκηρύξαμεν</reference>
+		<reference osisRef="2Cor.11.4!16-2Cor.11.4!18" type="Split Focal" label="Split" verse="2Cor 11:4" >ὃ οὐκ ἐλάβετε</reference>
+		<reference osisRef="Gal.1.3!3-Gal.1.3!4" type="Split Focal" label="Split" verse="Gal 1:3" >καὶ εἰρήνη</reference>
+		<reference osisRef="Gal.1.7!9-Gal.1.7!18" type="Split Focal" label="Split" verse="Gal 1:7" >οἱ ταράσσοντες ὑμᾶς καὶ θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ χριστοῦ</reference>
+		<reference osisRef="Gal.1.10!5-Gal.1.10!7" type="Split Focal" label="Split" verse="Gal 1:10" >ἢ τὸν θεόν</reference>
+		<reference osisRef="Gal.1.14!16-Gal.1.14!19" type="Split Focal" label="Split" verse="Gal 1:14" >τῶν πατρικῶν μου παραδόσεων</reference>
+		<reference osisRef="Gal.2.6!16" type="Split Focal" label="Split" verse="Gal 2:6" >ἀνθρώπου</reference>
+		<reference osisRef="Gal.2.9!22" type="Split Focal" label="Split" verse="Gal 2:9" >κοινωνίας</reference>
+		<reference osisRef="Gal.3.2!13-Gal.3.2!16" type="Split Focal" label="Split" verse="Gal 3:2" >ἢ ἐξ ἀκοῆς πίστεως</reference>
+		<reference osisRef="Gal.3.7!10" type="Split Focal" label="Split" verse="Gal 3:7" >ἀβραάμ</reference>
+		<reference osisRef="Gal.3.16!7-Gal.3.16!10" type="Split Focal" label="Split" verse="Gal 3:16" >καὶ τῷ σπέρματι αὐτοῦ</reference>
+		<reference osisRef="Gal.3.23!15" type="Split Focal" label="Split" verse="Gal 3:23" >ἀποκαλυφθῆναι</reference>
+		<reference osisRef="Gal.4.2!5-Gal.4.2!6" type="Split Focal" label="Split" verse="Gal 4:2" >καὶ οἰκονόμους</reference>
+		<reference osisRef="Gal.4.10!3-Gal.4.10!8" type="Split Focal" label="Split" verse="Gal 4:10" >καὶ μῆνας καὶ καιροὺς καὶ ἐνιαυτούς</reference>
+		<reference osisRef="Gal.4.31!8-Gal.4.31!9" type="Split Focal" label="Split" verse="Gal 4:31" >τῆς ἐλευθέρας</reference>
+		<reference osisRef="Gal.5.6!9-Gal.5.6!10" type="Split Focal" label="Split" verse="Gal 5:6" >οὔτε ἀκροβυστία</reference>
+		<reference osisRef="Gal.6.4!15-Gal.6.4!19" type="Split Focal" label="Split" verse="Gal 6:4" >καὶ οὐκ εἰς τὸν ἕτερον</reference>
+		<reference osisRef="Gal.6.11!4" type="Split Focal" label="Split" verse="Gal 6:11" >γράμμασιν</reference>
+		<reference osisRef="Gal.6.15!6-Gal.6.15!7" type="Split Focal" label="Split" verse="Gal 6:15" >οὔτε ἀκροβυστία</reference>
+		<reference osisRef="Gal.6.16!10-Gal.6.16!11" type="Split Focal" label="Split" verse="Gal 6:16" >καὶ ἔλεος</reference>
+		<reference osisRef="Eph.1.2!3-Eph.1.2!4" type="Split Focal" label="Split" verse="Eph 1:2" >καὶ εἰρήνη</reference>
+		<reference osisRef="Eph.2.4!6-Eph.2.4!7" type="Split Focal" label="Split" verse="Eph 2:4" >ἐν ἐλέει</reference>
+		<reference osisRef="Eph.2.10!4" type="Split Focal" label="Split" verse="Eph 2:10" >ποίημα</reference>
+		<reference osisRef="Eph.3.20!8-Eph.3.20!11" type="Split Focal" label="Split" verse="Eph 3:20" >ὧν αἰτούμεθα ἢ νοοῦμεν</reference>
+		<reference osisRef="Eph.4.1!11-Eph.4.1!14" type="Split Focal" label="Split" verse="Eph 4:1" >τῆς κλήσεως ἧς ἐκλήθητε</reference>
+		<reference osisRef="Eph.5.12!9-Eph.5.12!10" type="Split Focal" label="Split" verse="Eph 5:12" >καὶ λέγειν</reference>
+		<reference osisRef="Eph.5.30!4-Eph.5.30!6" type="Split Focal" label="Split" verse="Eph 5:30" >τοῦ σώματος αὐτοῦ</reference>
+		<reference osisRef="Eph.5.33!13-Eph.5.33!14" type="Split Focal" label="Split" verse="Eph 5:33" >ὡς ἑαυτόν</reference>
+		<reference osisRef="Eph.6.8!7" type="Split Focal" label="Split" verse="Eph 6:8" >ἀγαθόν</reference>
+		<reference osisRef="Eph.6.17!7-Eph.6.17!11" type="Split Focal" label="Split" verse="Eph 6:17" >καὶ τὴν μάχαιραν τοῦ πνεύματος</reference>
+		<reference osisRef="Eph.6.23!4-Eph.6.23!7" type="Split Focal" label="Split" verse="Eph 6:23" >καὶ ἀγάπη μετὰ πίστεως</reference>
+		<reference osisRef="Phil.1.2!3-Phil.1.2!4" type="Split Focal" label="Split" verse="Phil 1:2" >καὶ εἰρήνη</reference>
+		<reference osisRef="Phil.1.17!8-Phil.1.17!9" type="Split Focal" label="Split" verse="Phil 1:17" >οὐχ ἁγνῶς</reference>
+		<reference osisRef="Phil.1.30!5-Phil.1.30!13" type="Split Focal" label="Split" verse="Phil 1:30" >οἷον εἴδετε ἐν ἐμοὶ καὶ νῦν ἀκούετε ἐν ἐμοί</reference>
+		<reference osisRef="Phil.2.1!4" type="Split Focal" label="Split" verse="Phil 2:1" >παράκλησις</reference>
+		<reference osisRef="Phil.2.4!6-Phil.2.4!10" type="Split Focal" label="Split" verse="Phil 2:4" >ἀλλὰ καὶ τὰ ἑτέρων ἕκαστοι</reference>
+		<reference osisRef="Phil.2.7!14-Phil.2.7!15" type="Split Focal" label="Split" verse="Phil 2:7" >ὡς ἄνθρωπος</reference>
+		<reference osisRef="Phil.2.10!9-Phil.2.10!13" type="Split Focal" label="Split" verse="Phil 2:10" >ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων</reference>
+		<reference osisRef="Phil.2.21!7-Phil.2.21!10" type="Split Focal" label="Split" verse="Phil 2:21" >οὐ τὰ ἰησοῦ χριστοῦ</reference>
+		<reference osisRef="Phil.3.4!11" type="Split Focal" label="Split" verse="Phil 3:4" >ἄλλος</reference>
+		<reference osisRef="Phil.3.20!13-Phil.3.20!15" type="Split Focal" label="Split" verse="Phil 3:20" >κύριον ἰησοῦν χριστόν</reference>
+		<reference osisRef="Phil.4.15!17" type="Split Focal" label="Split" verse="Phil 4:15" >ἐκκλησία</reference>
+		<reference osisRef="Col.1.2!12-Col.1.2!13" type="Split Focal" label="Split" verse="Col 1:2" >καὶ εἰρήνη</reference>
+		<reference osisRef="Col.2.23!6" type="Split Focal" label="Split" verse="Col 2:23" >σοφίας</reference>
+		<reference osisRef="Col.3.2!4-Col.3.2!8" type="Split Focal" label="Split" verse="Col 3:2" >μὴ τὰ ἐπὶ τῆς γῆς</reference>
+		<reference osisRef="Col.4.9!15-Col.4.9!16" type="Split Focal" label="Split" verse="Col 4:9" >τὰ ὧδε</reference>
+		<reference osisRef="1Thess.1.1!18-1Thess.1.1!19" type="Split Focal" label="Split" verse="1Thess 1:1" >καὶ εἰρήνη</reference>
+		<reference osisRef="1Thess.1.6!6-1Thess.1.6!8" type="Split Focal" label="Split" verse="1Thess 1:6" >καὶ τοῦ κυρίου</reference>
+		<reference osisRef="1Thess.2.14!6-1Thess.2.14!17" type="Split Focal" label="Split" verse="1Thess 2:14" >τῶν ἐκκλησιῶν τοῦ θεοῦ τῶν οὐσῶν ἐν τῇ ἰουδαίᾳ ἐν χριστῷ ἰησοῦ</reference>
+		<reference osisRef="1Thess.2.15!6-1Thess.2.15!9" type="Split Focal" label="Split" verse="1Thess 2:15" >ἰησοῦν καὶ τοὺς προφήτας</reference>
+		<reference osisRef="1Thess.3.6!23" type="Split Focal" label="Split" verse="1Thess 3:6" >ἀγαθὴν</reference>
+		<reference osisRef="1Thess.5.3!10" type="Split Focal" label="Split" verse="1Thess 5:3" >ὄλεθρος</reference>
+		<reference osisRef="1Thess.5.5!7-1Thess.5.5!9" type="Split Focal" label="Split" verse="1Thess 5:5" >καὶ υἱοὶ ἡμέρας</reference>
+		<reference osisRef="2Thess.1.2!3-2Thess.1.2!4" type="Split Focal" label="Split" verse="2Thess 1:2" >καὶ εἰρήνη</reference>
+		<reference osisRef="1Tim.1.15!4-1Tim.1.15!7" type="Split Focal" label="Split" verse="1Tim 1:15" >καὶ πάσης ἀποδοχῆς ἄξιος</reference>
+		<reference osisRef="1Tim.2.12!6-1Tim.2.12!8" type="Split Focal" label="Split" verse="1Tim 2:12" >οὐδὲ αὐθεντεῖν ἀνδρός</reference>
+		<reference osisRef="1Tim.3.6!9-1Tim.3.6!10" type="Split Focal" label="Split" verse="1Tim 3:6" >τοῦ διαβόλου</reference>
+		<reference osisRef="1Tim.3.7!7-1Tim.3.7!9" type="Split Focal" label="Split" verse="1Tim 3:7" >ἀπὸ τῶν ἔξωθεν</reference>
+		<reference osisRef="1Tim.3.7!15-1Tim.3.7!18" type="Split Focal" label="Split" verse="1Tim 3:7" >καὶ παγίδα τοῦ διαβόλου</reference>
+		<reference osisRef="1Tim.3.12!9-1Tim.3.12!12" type="Split Focal" label="Split" verse="1Tim 3:12" >καὶ τῶν ἰδίων οἴκων</reference>
+		<reference osisRef="1Tim.3.13!7" type="Split Focal" label="Split" verse="1Tim 3:13" >καλὸν</reference>
+		<reference osisRef="1Tim.3.13!9-1Tim.3.13!17" type="Split Focal" label="Split" verse="1Tim 3:13" >καὶ πολλὴν παρρησίαν ἐν πίστει τῇ ἐν χριστῷ ἰησοῦ</reference>
+		<reference osisRef="1Tim.4.6!7-1Tim.4.6!9" type="Split Focal" label="Split" verse="1Tim 4:6" >διάκονος χριστοῦ ἰησοῦ</reference>
+		<reference osisRef="1Tim.4.8!18-1Tim.4.8!23" type="Split Focal" label="Split" verse="1Tim 4:8" >ζωῆς τῆς νῦν καὶ τῆς μελλούσης</reference>
+		<reference osisRef="1Tim.4.9!4-1Tim.4.9!7" type="Split Focal" label="Split" verse="1Tim 4:9" >καὶ πάσης ἀποδοχῆς ἄξιος</reference>
+		<reference osisRef="1Tim.4.12!9-1Tim.4.12!10" type="Split Focal" label="Split" verse="1Tim 4:12" >τῶν πιστῶν</reference>
+		<reference osisRef="1Tim.4.15!12" type="Split Focal" label="Split" verse="1Tim 4:15" >πᾶσιν</reference>
+		<reference osisRef="1Tim.4.16!14-1Tim.4.16!17" type="Split Focal" label="Split" verse="1Tim 4:16" >καὶ τοὺς ἀκούοντάς σου</reference>
+		<reference osisRef="1Tim.5.18!13-1Tim.5.18!15" type="Split Focal" label="Split" verse="1Tim 5:18" >τοῦ μισθοῦ αὐτοῦ</reference>
+		<reference osisRef="1Tim.6.2!17-1Tim.6.2!18" type="Split Focal" label="Split" verse="1Tim 6:2" >καὶ ἀγαπητοὶ</reference>
+		<reference osisRef="1Tim.6.16!7" type="Split Focal" label="Split" verse="1Tim 6:16" >ἀπρόσιτον</reference>
+		<reference osisRef="2Tim.1.13!3-2Tim.1.13!4" type="Split Focal" label="Split" verse="2Tim 1:13" >ὑγιαινόντων λόγων</reference>
+		<reference osisRef="2Tim.2.10!13-2Tim.2.10!16" type="Split Focal" label="Split" verse="2Tim 2:10" >τῆς ἐν χριστῷ ἰησοῦ</reference>
+		<reference osisRef="2Tim.3.9!12" type="Split Focal" label="Split" verse="2Tim 3:9" >πᾶσιν</reference>
+		<reference osisRef="2Tim.4.5!9" type="Split Focal" label="Split" verse="2Tim 4:5" >εὐαγγελιστοῦ</reference>
+		<reference osisRef="2Tim.4.13!11-2Tim.4.13!16" type="Split Focal" label="Split" verse="2Tim 4:13" >καὶ τὰ βιβλία μάλιστα τὰς μεμβράνας</reference>
+		<reference osisRef="2Tim.4.14!6" type="Split Focal" label="Split" verse="2Tim 4:14" >κακὰ</reference>
+		<reference osisRef="Titus.1.6!10" type="Split Focal" label="Split" verse="Titus 1:6" >πιστά</reference>
+		<reference osisRef="Titus.1.16!10-Titus.1.16!11" type="Split Focal" label="Split" verse="Titus 1:16" >καὶ ἀπειθεῖς</reference>
+		<reference osisRef="Titus.2.8!14" type="Split Focal" label="Split" verse="Titus 2:8" >φαῦλον</reference>
+		<reference osisRef="Titus.2.10!7" type="Split Focal" label="Split" verse="Titus 2:10" >ἀγαθήν</reference>
+		<reference osisRef="Titus.3.2!8" type="Split Focal" label="Split" verse="Titus 3:2" >πραΰτητα</reference>
+		<reference osisRef="Titus.3.4!9-Titus.3.4!12" type="Split Focal" label="Split" verse="Titus 3:4" >τοῦ σωτῆρος ἡμῶν θεοῦ</reference>
+		<reference osisRef="Titus.3.12!6-Titus.3.12!7" type="Split Focal" label="Split" verse="Titus 3:12" >ἢ τύχικον</reference>
+		<reference osisRef="Phlm.1.3!3-Phlm.1.3!4" type="Split Focal" label="Split" verse="Phlm 1:3" >καὶ εἰρήνη</reference>
+		<reference osisRef="Phlm.1.7!5-Phlm.1.7!6" type="Split Focal" label="Split" verse="Phlm 1:7" >καὶ παράκλησιν</reference>
+		<reference osisRef="Heb.1.4!11" type="Split Focal" label="Split" verse="Heb 1:4" >ὄνομα</reference>
+		<reference osisRef="Heb.1.5!5-Heb.1.5!6" type="Split Focal" label="Split" verse="Heb 1:5" >τῶν ἀγγέλων</reference>
+		<reference osisRef="Heb.1.10!5" type="Split Focal" label="Split" verse="Heb 1:10" >κύριε</reference>
+		<reference osisRef="Heb.2.3!6" type="Split Focal" label="Split" verse="Heb 2:3" >σωτηρίας</reference>
+		<reference osisRef="Heb.2.14!24-Heb.2.14!25" type="Split Focal" label="Split" verse="Heb 2:14" >τοῦ θανάτου</reference>
+		<reference osisRef="Heb.2.15!13" type="Split Focal" label="Split" verse="Heb 2:15" >δουλείας</reference>
+		<reference osisRef="Heb.2.17!11-Heb.2.17!13" type="Split Focal" label="Split" verse="Heb 2:17" >καὶ πιστὸς ἀρχιερεὺς</reference>
+		<reference osisRef="Heb.3.2!3-Heb.3.2!5" type="Split Focal" label="Split" verse="Heb 3:2" >τῷ ποιήσαντι αὐτὸν</reference>
+		<reference osisRef="Heb.3.3!4-Heb.3.3!6" type="Split Focal" label="Split" verse="Heb 3:3" >δόξης παρὰ μωϋσῆν</reference>
+		<reference osisRef="Heb.4.7!4" type="Split Focal" label="Split" verse="Heb 4:7" >ἡμέραν</reference>
+		<reference osisRef="Heb.4.8!13" type="Split Focal" label="Split" verse="Heb 4:8" >ἡμέρας</reference>
+		<reference osisRef="Heb.4.11!14" type="Split Focal" label="Split" verse="Heb 4:11" >ὑποδείγματι</reference>
+		<reference osisRef="Heb.4.12!7-Heb.4.12!31" type="Split Focal" label="Split" verse="Heb 4:12" >καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος ἁρμῶν τε καὶ μυελῶν καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας</reference>
+		<reference osisRef="Heb.5.11!7-Heb.5.11!9" type="Split Focal" label="Split" verse="Heb 5:11" >καὶ δυσερμήνευτος λέγειν</reference>
+		<reference osisRef="Heb.5.11!13-Heb.5.11!14" type="Split Focal" label="Split" verse="Heb 5:11" >ταῖς ἀκοαῖς</reference>
+		<reference osisRef="Heb.6.1!17-Heb.6.2!35" type="Split Focal" label="Split" verse="Heb 6:1 - 2" >μετανοίας ἀπὸ νεκρῶν ἔργων καὶ πίστεως ἐπὶ θεόν βαπτισμῶν διδαχῆς ἐπιθέσεώς τε χειρῶν ἀναστάσεώς τε νεκρῶν καὶ κρίματος αἰωνίου</reference>
+		<reference osisRef="Heb.6.4!15-Heb.6.4!16" type="Split Focal" label="Split" verse="Heb 6:4" >πνεύματος ἁγίου</reference>
+		<reference osisRef="Heb.6.5!4-Heb.6.5!5" type="Split Focal" label="Split" verse="Heb 6:5" >θεοῦ ῥῆμα</reference>
+		<reference osisRef="Heb.6.11!8" type="Split Focal" label="Split" verse="Heb 6:11" >σπουδὴν</reference>
+		<reference osisRef="Heb.6.13!11" type="Split Focal" label="Split" verse="Heb 6:13" >μείζονος</reference>
+		<reference osisRef="Heb.6.16!10-Heb.6.16!11" type="Split Focal" label="Split" verse="Heb 6:16" >ἀντιλογίας πέρας</reference>
+		<reference osisRef="Heb.6.19!5-Heb.6.19!6" type="Split Focal" label="Split" verse="Heb 6:19" >τῆς ψυχῆς</reference>
+		<reference osisRef="Heb.7.4!13-Heb.7.4!14" type="Split Focal" label="Split" verse="Heb 7:4" >ὁ πατριάρχης</reference>
+		<reference osisRef="Heb.7.11!25" type="Split Focal" label="Split" verse="Heb 7:11" >ἱερέα</reference>
+		<reference osisRef="Heb.7.18!5-Heb.7.18!6" type="Split Focal" label="Split" verse="Heb 7:18" >προαγούσης ἐντολῆς</reference>
+		<reference osisRef="Heb.7.22!7" type="Split Focal" label="Split" verse="Heb 7:22" >ἔγγυος</reference>
+		<reference osisRef="Heb.7.23!7" type="Split Focal" label="Split" verse="Heb 7:23" >ἱερεῖς</reference>
+		<reference osisRef="Heb.7.24!12-Heb.7.24!13" type="Split Focal" label="Split" verse="Heb 7:24" >τὴν ἱερωσύνην</reference>
+		<reference osisRef="Heb.7.26!6" type="Split Focal" label="Split" verse="Heb 7:26" >ἀρχιερεύς</reference>
+		<reference osisRef="Heb.8.1!8" type="Split Focal" label="Split" verse="Heb 8:1" >ἀρχιερέα</reference>
+		<reference osisRef="Heb.8.2!4-Heb.8.2!8" type="Split Focal" label="Split" verse="Heb 8:2" >καὶ τῆς σκηνῆς τῆς ἀληθινῆς</reference>
+		<reference osisRef="Heb.8.5!6-Heb.8.5!7" type="Split Focal" label="Split" verse="Heb 8:5" >τῶν ἐπουρανίων</reference>
+		<reference osisRef="Heb.8.6!5" type="Split Focal" label="Split" verse="Heb 8:6" >λειτουργίας</reference>
+		<reference osisRef="Heb.8.6!10-Heb.8.6!11" type="Split Focal" label="Split" verse="Heb 8:6" >διαθήκης μεσίτης</reference>
+		<reference osisRef="Heb.9.4!3" type="Split Focal" label="Split" verse="Heb 9:4" >θυμιατήριον</reference>
+		<reference osisRef="Heb.9.9!15-Heb.9.9!21" type="Split Focal" label="Split" verse="Heb 9:9" >μὴ δυνάμεναι κατὰ συνείδησιν τελειῶσαι τὸν λατρεύοντα</reference>
+		<reference osisRef="Heb.9.16!7-Heb.9.16!8" type="Split Focal" label="Split" verse="Heb 9:16" >τοῦ διαθεμένου</reference>
+		<reference osisRef="Heb.9.22!5" type="Split Focal" label="Split" verse="Heb 9:22" >πάντα</reference>
+		<reference osisRef="Heb.9.24!6" type="Split Focal" label="Split" verse="Heb 9:24" >ἅγια</reference>
+		<reference osisRef="Heb.10.1!6-Heb.10.1!8" type="Split Focal" label="Split" verse="Heb 10:1" >τῶν μελλόντων ἀγαθῶν</reference>
+		<reference osisRef="Heb.10.2!11-Heb.10.2!12" type="Split Focal" label="Split" verse="Heb 10:2" >συνείδησιν ἁμαρτιῶν</reference>
+		<reference osisRef="Heb.10.11!14" type="Split Focal" label="Split" verse="Heb 10:11" >θυσίας</reference>
+		<reference osisRef="Heb.10.12!7" type="Split Focal" label="Split" verse="Heb 10:12" >θυσίαν</reference>
+		<reference osisRef="Heb.10.29!3" type="Split Focal" label="Split" verse="Heb 10:29" >χείρονος</reference>
+		<reference osisRef="Heb.10.32!12" type="Split Focal" label="Split" verse="Heb 10:32" >παθημάτων</reference>
+		<reference osisRef="Heb.10.34!20-Heb.10.34!21" type="Split Focal" label="Split" verse="Heb 10:34" >καὶ μένουσαν</reference>
+		<reference osisRef="Heb.11.1!8-Heb.11.1!9" type="Split Focal" label="Split" verse="Heb 11:1" >οὐ βλεπομένων</reference>
+		<reference osisRef="Heb.11.4!5-Heb.11.4!6" type="Split Focal" label="Split" verse="Heb 11:4" >παρὰ κάϊν</reference>
+		<reference osisRef="Heb.11.6!13-Heb.11.6!14" type="Split Focal" label="Split" verse="Heb 11:6" >ὅτι ἔστιν</reference>
+		<reference osisRef="Heb.11.7!27" type="Split Focal" label="Split" verse="Heb 11:7" >κληρονόμος</reference>
+		<reference osisRef="Heb.11.15!6-Heb.11.15!8" type="Split Focal" label="Split" verse="Heb 11:15" >ἀφ’ ἧς ἐξέβησαν</reference>
+		<reference osisRef="Heb.11.16!16" type="Split Focal" label="Split" verse="Heb 11:16" >αὐτῶν</reference>
+		<reference osisRef="Heb.11.25!11-Heb.11.25!12" type="Split Focal" label="Split" verse="Heb 11:25" >ἁμαρτίας ἀπόλαυσιν</reference>
+		<reference osisRef="Heb.11.34!16" type="Split Focal" label="Split" verse="Heb 11:34" >ἀλλοτρίων</reference>
+		<reference osisRef="Heb.11.38!10-Heb.11.38!18" type="Split Focal" label="Split" verse="Heb 11:38" >καὶ ὄρεσιν καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς</reference>
+		<reference osisRef="Heb.12.1!8-Heb.12.1!9" type="Split Focal" label="Split" verse="Heb 12:1" >νέφος μαρτύρων</reference>
+		<reference osisRef="Heb.12.1!12-Heb.12.1!16" type="Split Focal" label="Split" verse="Heb 12:1" >πάντα καὶ τὴν εὐπερίστατον ἁμαρτίαν</reference>
+		<reference osisRef="Heb.12.3!9-Heb.12.3!11" type="Split Focal" label="Split" verse="Heb 12:3" >εἰς ἑαυτὸν ἀντιλογίαν</reference>
+		<reference osisRef="Heb.12.8!5" type="Split Focal" label="Split" verse="Heb 12:8" >παιδείας</reference>
+		<reference osisRef="Heb.12.11!12-Heb.12.11!13" type="Split Focal" label="Split" verse="Heb 12:11" >ἀλλὰ λύπης</reference>
+		<reference osisRef="Heb.12.11!23" type="Split Focal" label="Split" verse="Heb 12:11" >δικαιοσύνης</reference>
+		<reference osisRef="Heb.12.14!5-Heb.12.14!13" type="Split Focal" label="Split" verse="Heb 12:14" >καὶ τὸν ἁγιασμόν οὗ χωρὶς οὐδεὶς ὄψεται τὸν κύριον</reference>
+		<reference osisRef="Heb.12.21!11-Heb.12.21!12" type="Split Focal" label="Split" verse="Heb 12:21" >καὶ ἔντρομος</reference>
+		<reference osisRef="Heb.12.24!11-Heb.12.24!13" type="Split Focal" label="Split" verse="Heb 12:24" >παρὰ τὸν ἅβελ</reference>
+		<reference osisRef="Heb.13.8!8-Heb.13.8!11" type="Split Focal" label="Split" verse="Heb 13:8" >καὶ εἰς τοὺς αἰῶνας</reference>
+		<reference osisRef="Heb.13.9!13-Heb.13.9!14" type="Split Focal" label="Split" verse="Heb 13:9" >οὐ βρώμασιν</reference>
+		<reference osisRef="Heb.13.17!22-Heb.13.17!24" type="Split Focal" label="Split" verse="Heb 13:17" >καὶ μὴ στενάζοντες</reference>
+		<reference osisRef="Jas.1.2!9" type="Split Focal" label="Split" verse="Jas 1:2" >ποικίλοις</reference>
+		<reference osisRef="Jas.1.5!12-Jas.1.5!16" type="Split Focal" label="Split" verse="Jas 1:5" >πᾶσιν ἁπλῶς καὶ μὴ ὀνειδίζοντος</reference>
+		<reference osisRef="Jas.1.13!13" type="Split Focal" label="Split" verse="Jas 1:13" >κακῶν</reference>
+		<reference osisRef="Jas.1.23!7-Jas.1.23!9" type="Split Focal" label="Split" verse="Jas 1:23" >καὶ οὐ ποιητής</reference>
+		<reference osisRef="Jas.2.8!5" type="Split Focal" label="Split" verse="Jas 2:8" >βασιλικὸν</reference>
+		<reference osisRef="Jas.2.15!7-Jas.2.15!11" type="Split Focal" label="Split" verse="Jas 2:15" >καὶ λειπόμενοι τῆς ἐφημέρου τροφῆς</reference>
+		<reference osisRef="Jas.2.24!7-Jas.2.24!11" type="Split Focal" label="Split" verse="Jas 2:24" >καὶ οὐκ ἐκ πίστεως μόνον</reference>
+		<reference osisRef="Jas.3.8!7" type="Split Focal" label="Split" verse="Jas 3:8" >ἀνθρώπων</reference>
+		<reference osisRef="Jas.3.14!6-Jas.3.14!7" type="Split Focal" label="Split" verse="Jas 3:14" >καὶ ἐριθείαν</reference>
+		<reference osisRef="Jas.4.4!19-Jas.4.4!20" type="Split Focal" label="Split" verse="Jas 4:4" >τοῦ κόσμου</reference>
+		<reference osisRef="Jas.4.6!4" type="Split Focal" label="Split" verse="Jas 4:6" >χάριν</reference>
+		<reference osisRef="Jas.5.10!4-Jas.5.10!8" type="Split Focal" label="Split" verse="Jas 5:10" >τῆς κακοπαθίας καὶ τῆς μακροθυμίας</reference>
+		<reference osisRef="Jas.5.11!19-Jas.5.11!20" type="Split Focal" label="Split" verse="Jas 5:11" >καὶ οἰκτίρμων</reference>
+		<reference osisRef="Jas.5.17!4-Jas.5.17!5" type="Split Focal" label="Split" verse="Jas 5:17" >ὁμοιοπαθὴς ἡμῖν</reference>
+		<reference osisRef="1Pet.1.13!16-1Pet.1.13!19" type="Split Focal" label="Split" verse="1Pet 1:13" >ἐν ἀποκαλύψει ἰησοῦ χριστοῦ</reference>
+		<reference osisRef="1Pet.1.18!14" type="Split Focal" label="Split" verse="1Pet 1:18" >πατροπαραδότου</reference>
+		<reference osisRef="1Pet.1.23!12-1Pet.1.23!13" type="Split Focal" label="Split" verse="1Pet 1:23" >καὶ μένοντος</reference>
+		<reference osisRef="1Pet.2.7!5-1Pet.2.7!6" type="Split Focal" label="Split" verse="1Pet 2:7" >τοῖς πιστεύουσιν</reference>
+		<reference osisRef="1Pet.2.9!16-1Pet.2.9!25" type="Split Focal" label="Split" verse="1Pet 2:9" >τοῦ ἐκ σκότους ὑμᾶς καλέσαντος εἰς τὸ θαυμαστὸν αὐτοῦ φῶς</reference>
+		<reference osisRef="1Pet.2.16!8-1Pet.2.16!9" type="Split Focal" label="Split" verse="1Pet 2:16" >τῆς κακίας</reference>
+		<reference osisRef="1Pet.3.16!8" type="Split Focal" label="Split" verse="1Pet 3:16" >ἀγαθήν</reference>
+		<reference osisRef="1Pet.3.17!11-1Pet.3.17!12" type="Split Focal" label="Split" verse="1Pet 3:17" >ἢ κακοποιοῦντας</reference>
+		<reference osisRef="1Pet.4.2!14" type="Split Focal" label="Split" verse="1Pet 4:2" >χρόνον</reference>
+		<reference osisRef="1Pet.5.4!10" type="Split Focal" label="Split" verse="1Pet 5:4" >στέφανον</reference>
+		<reference osisRef="2Pet.1.1!12" type="Split Focal" label="Split" verse="2Pet 1:1" >πίστιν</reference>
+		<reference osisRef="2Pet.1.2!3-2Pet.1.2!4" type="Split Focal" label="Split" verse="2Pet 1:2" >καὶ εἰρήνη</reference>
+		<reference osisRef="2Pet.1.3!8-2Pet.1.3!12" type="Split Focal" label="Split" verse="2Pet 1:3" >τὰ πρὸς ζωὴν καὶ εὐσέβειαν</reference>
+		<reference osisRef="2Pet.1.4!8" type="Split Focal" label="Split" verse="2Pet 1:4" >ἐπαγγέλματα</reference>
+		<reference osisRef="2Pet.1.4!16" type="Split Focal" label="Split" verse="2Pet 1:4" >φύσεως</reference>
+		<reference osisRef="2Pet.1.9!11-2Pet.1.9!16" type="Split Focal" label="Split" verse="2Pet 1:9" >τοῦ καθαρισμοῦ τῶν πάλαι αὐτοῦ ἁμαρτιῶν</reference>
+		<reference osisRef="2Pet.1.16!20-2Pet.1.16!22" type="Split Focal" label="Split" verse="2Pet 1:16" >τῆς ἐκείνου μεγαλειότητος</reference>
+		<reference osisRef="2Pet.1.17!12" type="Split Focal" label="Split" verse="2Pet 1:17" >τοιᾶσδε</reference>
+		<reference osisRef="2Pet.2.14!3-2Pet.2.14!4" type="Split Focal" label="Split" verse="2Pet 2:14" >μεστοὺς μοιχαλίδος</reference>
+		<reference osisRef="2Pet.2.16!4-2Pet.2.16!5" type="Split Focal" label="Split" verse="2Pet 2:16" >ἰδίας παρανομίας</reference>
+		<reference osisRef="2Pet.2.19!7-2Pet.2.19!8" type="Split Focal" label="Split" verse="2Pet 2:19" >τῆς φθορᾶς</reference>
+		<reference osisRef="2Pet.3.1!4" type="Split Focal" label="Split" verse="2Pet 3:1" >δευτέραν</reference>
+		<reference osisRef="2Pet.3.1!7" type="Split Focal" label="Split" verse="2Pet 3:1" >ἐπιστολήν</reference>
+		<reference osisRef="2Pet.3.5!10-2Pet.3.5!11" type="Split Focal" label="Split" verse="2Pet 3:5" >καὶ γῆ</reference>
+		<reference osisRef="1John.1.5!24" type="Split Focal" label="Split" verse="1John 1:5" >οὐδεμία</reference>
+		<reference osisRef="1John.1.9!8-1John.1.9!9" type="Split Focal" label="Split" verse="1John 1:9" >καὶ δίκαιος</reference>
+		<reference osisRef="1John.2.20!5-1John.2.20!7" type="Split Focal" label="Split" verse="1John 2:20" >ἀπὸ τοῦ ἁγίου</reference>
+		<reference osisRef="1John.5.13!9" type="Split Focal" label="Split" verse="1John 5:13" >αἰώνιον</reference>
+		<reference osisRef="3John.1.4!5" type="Split Focal" label="Split" verse="3John 1:4" >χαράν</reference>
+		<reference osisRef="Jude.1.2!3-Jude.1.2!6" type="Split Focal" label="Split" verse="Jude 1:2" >καὶ εἰρήνη καὶ ἀγάπη</reference>
+		<reference osisRef="Jude.1.9!19" type="Split Focal" label="Split" verse="Jude 1:9" >βλασφημίας</reference>
+		<reference osisRef="Jude.1.18!16-Jude.1.18!17" type="Split Focal" label="Split" verse="Jude 1:18" >τῶν ἀσεβειῶν</reference>
+		<reference osisRef="Jude.1.22!5" type="Split Focal" label="Split" verse="Jude 1:22" >διακρινομένους</reference>
+		<reference osisRef="Rev.1.4!11-Rev.1.4!12" type="Split Focal" label="Split" verse="Rev 1:4" >καὶ εἰρήνη</reference>
+		<reference osisRef="Rev.2.24!4-Rev.2.24!23" type="Split Focal" label="Split" verse="Rev 2:24" >τοῖς λοιποῖς τοῖς ἐν θυατείροις ὅσοι οὐκ ἔχουσιν τὴν διδαχὴν ταύτην οἵτινες οὐκ ἔγνωσαν τὰ βαθέα τοῦ σατανᾶ ὡς λέγουσιν</reference>
+		<reference osisRef="Rev.3.8!19" type="Split Focal" label="Split" verse="Rev 3:8" >δύναμιν</reference>
+		<reference osisRef="Rev.3.15!9-Rev.3.15!10" type="Split Focal" label="Split" verse="Rev 3:15" >οὔτε ζεστός</reference>
+		<reference osisRef="Rev.3.15!14-Rev.3.15!15" type="Split Focal" label="Split" verse="Rev 3:15" >ἢ ζεστός</reference>
+		<reference osisRef="Rev.3.16!5-Rev.3.16!9" type="Split Focal" label="Split" verse="Rev 3:16" >καὶ οὔτε ζεστὸς οὔτε ψυχρός</reference>
+		<reference osisRef="Rev.5.3!4-Rev.5.3!14" type="Split Focal" label="Split" verse="Rev 5:3" >ἐν τῷ οὐρανῷ οὐδὲ ἐπὶ τῆς γῆς οὐδὲ ὑποκάτω τῆς γῆς</reference>
+		<reference osisRef="Rev.9.20!47-Rev.9.20!50" type="Split Focal" label="Split" verse="Rev 9:20" >οὔτε ἀκούειν οὔτε περιπατεῖν</reference>
+		<reference osisRef="Rev.15.1!8-Rev.15.1!10" type="Split Focal" label="Split" verse="Rev 15:1" >μέγα καὶ θαυμαστόν</reference>
+		<reference osisRef="Rev.16.3!21-Rev.16.3!24" type="Split Focal" label="Split" verse="Rev 16:3" >τὰ ἐν τῇ θαλάσσῃ</reference>
+		<reference osisRef="Rev.16.18!11" type="Split Focal" label="Split" verse="Rev 16:18" >μέγας</reference>
+		<reference osisRef="Rev.17.14!15-Rev.17.14!17" type="Split Focal" label="Split" verse="Rev 17:14" >καὶ βασιλεὺς βασιλέων</reference>
+		<reference osisRef="Rev.17.15!16-Rev.17.15!19" type="Split Focal" label="Split" verse="Rev 17:15" >καὶ ἔθνη καὶ γλῶσσαι</reference>
+		<reference osisRef="Rev.17.16!18-Rev.17.16!19" type="Split Focal" label="Split" verse="Rev 17:16" >καὶ γυμνὴν</reference>
+		<reference osisRef="Rev.18.7!9-Rev.18.7!11" type="Split Focal" label="Split" verse="Rev 18:7" >βασανισμὸν καὶ πένθος</reference>
+		<reference osisRef="Rev.18.24!9-Rev.18.24!15" type="Split Focal" label="Split" verse="Rev 18:24" >καὶ πάντων τῶν ἐσφαγμένων ἐπὶ τῆς γῆς</reference>
+		<reference osisRef="Rev.19.10!17-Rev.19.10!25" type="Split Focal" label="Split" verse="Rev 19:10" >καὶ τῶν ἀδελφῶν σου τῶν ἐχόντων τὴν μαρτυρίαν ἰησοῦ</reference>
+		<reference osisRef="Rev.21.22!17-Rev.21.22!19" type="Split Focal" label="Split" verse="Rev 21:22" >καὶ τὸ ἀρνίον</reference>
+		<reference osisRef="Rev.22.9!9-Rev.22.9!22" type="Split Focal" label="Split" verse="Rev 22:9" >καὶ τῶν ἀδελφῶν σου τῶν προφητῶν καὶ τῶν τηρούντων τοὺς λόγους τοῦ βιβλίου τούτου</reference>
+		<reference osisRef="Rev.22.12!16" type="Split Focal" label="Split" verse="Rev 22:12" >αὐτοῦ</reference>
 	</references>
-</markup>
+</feature>

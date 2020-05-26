@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<markup>
+<feature>
 	<header>
 		<copyright>©2016 SIL International</copyright>
 		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
@@ -10,442 +10,442 @@
 		<defaultstyle label="" bkcolor="" fontcolor="#FFFF00FF" brdrcolor="" brdrline="Solid" brdrpos="None" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
 	</header>
 	<references>
-		<reference osisRef="MAT.2.6!1-MAT.2.6!24" type="EmbeddedRepSpeech" label="" verse="MAT 2:6" >καὶ σὺ βηθλέεμ γῆ ἰούδα οὐδαμῶς ἐλαχίστη εἶ ἐν τοῖς ἡγεμόσιν ἰούδα ἐκ σοῦ γὰρ ἐξελεύσεται ἡγούμενος ὅστις ποιμανεῖ τὸν λαόν μου τὸν ἰσραήλ</reference>
-		<reference osisRef="MAT.3.3!16-MAT.3.3!24" type="EmbeddedRepSpeech" label="" verse="MAT 3:3" >ἑτοιμάσατε τὴν ὁδὸν κυρίου εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ</reference>
-		<reference osisRef="MAT.3.9!7-MAT.3.9!10" type="EmbeddedRepSpeech" label="" verse="MAT 3:9" >πατέρα ἔχομεν τὸν ἀβραάμ</reference>
-		<reference osisRef="MAT.4.4!6-MAT.4.4!20" type="EmbeddedRepSpeech" label="" verse="MAT 4:4" >οὐκ ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ἀλλ’ ἐπὶ παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος θεοῦ</reference>
-		<reference osisRef="MAT.4.6!15-MAT.4.6!20" type="EmbeddedRepSpeech" label="" verse="MAT 4:6" >τοῖς ἀγγέλοις αὐτοῦ ἐντελεῖται περὶ σοῦ</reference>
-		<reference osisRef="MAT.4.6!22-MAT.4.6!32" type="EmbeddedRepSpeech" label="" verse="MAT 4:6" >ἐπὶ χειρῶν ἀροῦσίν σε μήποτε προσκόψῃς πρὸς λίθον τὸν πόδα σου</reference>
-		<reference osisRef="MAT.4.7!7-MAT.4.7!12" type="EmbeddedRepSpeech" label="" verse="MAT 4:7" >οὐκ ἐκπειράσεις κύριον τὸν θεόν σου</reference>
-		<reference osisRef="MAT.4.10!10-MAT.4.10!18" type="EmbeddedRepSpeech" label="" verse="MAT 4:10" >κύριον τὸν θεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις</reference>
-		<reference osisRef="MAT.5.21!6-MAT.5.21!7" type="EmbeddedRepSpeech" label="" verse="MAT 5:21" >οὐ φονεύσεις</reference>
-		<reference osisRef="MAT.5.21!8-MAT.5.21!15" type="EmbeddedRepSpeech" label="" verse="MAT 5:21" >ὃς δ’ ἂν φονεύσῃ ἔνοχος ἔσται τῇ κρίσει</reference>
-		<reference osisRef="MAT.5.22!23" type="EmbeddedRepSpeech" label="" verse="MAT 5:22" >ῥακά</reference>
-		<reference osisRef="MAT.5.22!32" type="EmbeddedRepSpeech" label="" verse="MAT 5:22" >μωρέ</reference>
-		<reference osisRef="MAT.5.27!4-MAT.5.27!5" type="EmbeddedRepSpeech" label="" verse="MAT 5:27" >οὐ μοιχεύσεις</reference>
-		<reference osisRef="MAT.5.31!3-MAT.5.31!11" type="EmbeddedRepSpeech" label="" verse="MAT 5:31" >ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὐτοῦ δότω αὐτῇ ἀποστάσιον</reference>
-		<reference osisRef="MAT.5.33!7-MAT.5.33!15" type="EmbeddedRepSpeech" label="" verse="MAT 5:33" >οὐκ ἐπιορκήσεις ἀποδώσεις δὲ τῷ κυρίῳ τοὺς ὅρκους σου</reference>
-		<reference osisRef="MAT.5.37!6-MAT.5.37!7" type="EmbeddedRepSpeech" label="" verse="MAT 5:37" >ναὶ ναί</reference>
-		<reference osisRef="MAT.5.37!8-MAT.5.37!9" type="EmbeddedRepSpeech" label="" verse="MAT 5:37" >οὒ οὔ</reference>
-		<reference osisRef="MAT.5.38!4-MAT.5.38!10" type="EmbeddedRepSpeech" label="" verse="MAT 5:38" >ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ καὶ ὀδόντα ἀντὶ ὀδόντος</reference>
-		<reference osisRef="MAT.5.43!4-MAT.5.43!7" type="EmbeddedRepSpeech" label="" verse="MAT 5:43" >ἀγαπήσεις τὸν πλησίον σου</reference>
-		<reference osisRef="MAT.5.43!8-MAT.5.43!12" type="EmbeddedRepSpeech" label="" verse="MAT 5:43" >καὶ μισήσεις τὸν ἐχθρόν σου</reference>
-		<reference osisRef="MAT.6.9!5-MAT.6.13!61" type="EmbeddedRepSpeech" label="" verse="MAT 6:9 - 13" >πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς ἁγιασθήτω τὸ ὄνομά σου ἐλθέτω ἡ βασιλεία σου γενηθήτω τὸ θέλημά σου ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν ὡς καὶ ἡμεῖς ἀφήκαμεν τοῖς ὀφειλέταις ἡμῶν καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ</reference>
-		<reference osisRef="MAT.6.31!5-MAT.6.31!6" type="EmbeddedRepSpeech" label="" verse="MAT 6:31" >τί φάγωμεν</reference>
-		<reference osisRef="MAT.6.31!8-MAT.6.31!9" type="EmbeddedRepSpeech" label="" verse="MAT 6:31" >τί πίωμεν</reference>
-		<reference osisRef="MAT.6.31!11-MAT.6.31!12" type="EmbeddedRepSpeech" label="" verse="MAT 6:31" >τί περιβαλώμεθα</reference>
-		<reference osisRef="MAT.7.4!7-MAT.7.4!14" type="EmbeddedRepSpeech" label="" verse="MAT 7:4" >ἄφες ἐκβάλω τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ σου</reference>
-		<reference osisRef="MAT.7.21!6-MAT.7.21!7" type="EmbeddedRepSpeech" label="" verse="MAT 7:21" >κύριε κύριε</reference>
-		<reference osisRef="MAT.7.22!8-MAT.7.22!27" type="EmbeddedRepSpeech" label="" verse="MAT 7:22" >κύριε κύριε οὐ τῷ σῷ ὀνόματι ἐπροφητεύσαμεν καὶ τῷ σῷ ὀνόματι δαιμόνια ἐξεβάλομεν καὶ τῷ σῷ ὀνόματι δυνάμεις πολλὰς ἐποιήσαμεν</reference>
-		<reference osisRef="MAT.7.23!6-MAT.7.23!15" type="EmbeddedRepSpeech" label="" verse="MAT 7:23" >οὐδέποτε ἔγνων ὑμᾶς ἀποχωρεῖτε ἀπ’ ἐμοῦ οἱ ἐργαζόμενοι τὴν ἀνομίαν</reference>
-		<reference osisRef="MAT.8.9!15" type="EmbeddedRepSpeech" label="" verse="MAT 8:9" >πορεύθητι</reference>
-		<reference osisRef="MAT.8.9!20" type="EmbeddedRepSpeech" label="" verse="MAT 8:9" >ἔρχου</reference>
-		<reference osisRef="MAT.8.9!27-MAT.8.9!28" type="EmbeddedRepSpeech" label="" verse="MAT 8:9" >ποίησον τοῦτο</reference>
-		<reference osisRef="MAT.9.5!6-MAT.9.5!9" type="EmbeddedRepSpeech" label="" verse="MAT 9:5" >ἀφίενταί σου αἱ ἁμαρτίαι</reference>
-		<reference osisRef="MAT.9.5!12-MAT.9.5!14" type="EmbeddedRepSpeech" label="" verse="MAT 9:5" >ἔγειρε καὶ περιπάτει</reference>
-		<reference osisRef="MAT.9.13!6-MAT.9.13!10" type="EmbeddedRepSpeech" label="" verse="MAT 9:13" >ἔλεος θέλω καὶ οὐ θυσίαν</reference>
-		<reference osisRef="MAT.10.7!6-MAT.10.7!10" type="EmbeddedRepSpeech" label="" verse="MAT 10:7" >ἤγγικεν ἡ βασιλεία τῶν οὐρανῶν</reference>
-		<reference osisRef="MAT.10.25!20" type="EmbeddedRepSpeech" label="" verse="MAT 10:25" >βεελζεβοὺλ</reference>
-		<reference osisRef="MAT.11.10!6-MAT.11.10!21" type="EmbeddedRepSpeech" label="" verse="MAT 11:10" >ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου</reference>
-		<reference osisRef="MAT.11.17!2-MAT.11.17!10" type="EmbeddedRepSpeech" label="" verse="MAT 11:17" >ηὐλήσαμεν ὑμῖν καὶ οὐκ ὠρχήσασθε ἐθρηνήσαμεν καὶ οὐκ ἐκόψασθε</reference>
-		<reference osisRef="MAT.11.18!10-MAT.11.18!11" type="EmbeddedRepSpeech" label="" verse="MAT 11:18" >δαιμόνιον ἔχει</reference>
-		<reference osisRef="MAT.11.19!12-MAT.11.19!19" type="EmbeddedRepSpeech" label="" verse="MAT 11:19" >ἄνθρωπος φάγος καὶ οἰνοπότης τελωνῶν φίλος καὶ ἁμαρτωλῶν</reference>
-		<reference osisRef="MAT.12.7!6-MAT.12.7!10" type="EmbeddedRepSpeech" label="" verse="MAT 12:7" >ἔλεος θέλω καὶ οὐ θυσίαν</reference>
-		<reference osisRef="MAT.12.44!3-MAT.12.44!9" type="EmbeddedRepSpeech" label="" verse="MAT 12:44" >εἰς τὸν οἶκόν μου ἐπιστρέψω ὅθεν ἐξῆλθον</reference>
-		<reference osisRef="MAT.13.14!9-MAT.13.15!55" type="EmbeddedRepSpeech" label="" verse="MAT 13:14 - 5" >ἀκοῇ ἀκούσετε καὶ οὐ μὴ συνῆτε καὶ βλέποντες βλέψετε καὶ οὐ μὴ ἴδητε ἐπαχύνθη γὰρ ἡ καρδία τοῦ λαοῦ τούτου καὶ τοῖς ὠσὶν βαρέως ἤκουσαν καὶ τοὺς ὀφθαλμοὺς αὐτῶν ἐκάμμυσαν μήποτε ἴδωσιν τοῖς ὀφθαλμοῖς καὶ τοῖς ὠσὶν ἀκούσωσιν καὶ τῇ καρδίᾳ συνῶσιν καὶ ἐπιστρέψωσιν καὶ ἰάσομαι αὐτούς</reference>
-		<reference osisRef="MAT.13.27!9-MAT.13.27!21" type="EmbeddedRepSpeech" label="" verse="MAT 13:27" >κύριε οὐχὶ καλὸν σπέρμα ἔσπειρας ἐν τῷ σῷ ἀγρῷ πόθεν οὖν ἔχει ζιζάνια</reference>
-		<reference osisRef="MAT.13.28!5-MAT.13.28!8" type="EmbeddedRepSpeech" label="" verse="MAT 13:28" >ἐχθρὸς ἄνθρωπος τοῦτο ἐποίησεν</reference>
-		<reference osisRef="MAT.13.28!14-MAT.13.28!18" type="EmbeddedRepSpeech" label="" verse="MAT 13:28" >θέλεις οὖν ἀπελθόντες συλλέξωμεν αὐτά</reference>
-		<reference osisRef="MAT.13.29!4-MAT.13.30!48" type="EmbeddedRepSpeech" label="" verse="MAT 13:29 - 30" >οὔ μήποτε συλλέγοντες τὰ ζιζάνια ἐκριζώσητε ἅμα αὐτοῖς τὸν σῖτον ἄφετε συναυξάνεσθαι ἀμφότερα ἕως τοῦ θερισμοῦ καὶ ἐν καιρῷ τοῦ θερισμοῦ ἐρῶ τοῖς θερισταῖς συλλέξατε πρῶτον τὰ ζιζάνια καὶ δήσατε αὐτὰ εἰς δέσμας πρὸς τὸ κατακαῦσαι αὐτά τὸν δὲ σῖτον συναγάγετε εἰς τὴν ἀποθήκην μου</reference>
-		<reference osisRef="MAT.15.4!5-MAT.15.4!10" type="EmbeddedRepSpeech" label="" verse="MAT 15:4" >τίμα τὸν πατέρα καὶ τὴν μητέρα</reference>
-		<reference osisRef="MAT.15.4!12-MAT.15.4!18" type="EmbeddedRepSpeech" label="" verse="MAT 15:4" >ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω</reference>
-		<reference osisRef="MAT.15.5!4-MAT.15.6!23" type="EmbeddedRepSpeech" label="" verse="MAT 15:5 - 6" >ὃς ἂν εἴπῃ τῷ πατρὶ ἢ τῇ μητρί δῶρον ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς οὐ μὴ τιμήσει τὸν πατέρα αὐτοῦ</reference>
-		<reference osisRef="MAT.15.8!1-MAT.15.9!23" type="EmbeddedRepSpeech" label="" verse="MAT 15:8 - 9" >ὁ λαὸς οὗτος τοῖς χείλεσίν με τιμᾷ ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ’ ἐμοῦ μάτην δὲ σέβονταί με διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων</reference>
-		<reference osisRef="MAT.16.2!9" type="EmbeddedRepSpeech" label="" verse="MAT 16:2" >εὐδία</reference>
-		<reference osisRef="MAT.16.2!10-MAT.16.2!13" type="EmbeddedRepSpeech" label="" verse="MAT 16:2" >πυρράζει γὰρ ὁ οὐρανός</reference>
-		<reference osisRef="MAT.16.3!3-MAT.16.3!9" type="EmbeddedRepSpeech" label="" verse="MAT 16:3" >σήμερον χειμών πυρράζει γὰρ στυγνάζων ὁ οὐρανός</reference>
-		<reference osisRef="MAT.17.20!23-MAT.17.20!25" type="EmbeddedRepSpeech" label="" verse="MAT 17:20" >μετάβα ἔνθεν ἐκεῖ</reference>
-		<reference osisRef="MAT.18.26!8-MAT.18.26!14" type="EmbeddedRepSpeech" label="" verse="MAT 18:26" >μακροθύμησον ἐπ’ ἐμοί καὶ πάντα ἀποδώσω σοι</reference>
-		<reference osisRef="MAT.18.28!21-MAT.18.28!24" type="EmbeddedRepSpeech" label="" verse="MAT 18:28" >ἀπόδος εἴ τι ὀφείλεις</reference>
-		<reference osisRef="MAT.18.29!9-MAT.18.29!14" type="EmbeddedRepSpeech" label="" verse="MAT 18:29" >μακροθύμησον ἐπ’ ἐμοί καὶ ἀποδώσω σοι</reference>
-		<reference osisRef="MAT.18.32!9-MAT.18.33!31" type="EmbeddedRepSpeech" label="" verse="MAT 18:32 - 3" >δοῦλε πονηρέ πᾶσαν τὴν ὀφειλὴν ἐκείνην ἀφῆκά σοι ἐπεὶ παρεκάλεσάς με οὐκ ἔδει καὶ σὲ ἐλεῆσαι τὸν σύνδουλόν σου ὡς κἀγὼ σὲ ἠλέησα</reference>
-		<reference osisRef="MAT.20.4!4-MAT.20.4!16" type="EmbeddedRepSpeech" label="" verse="MAT 20:4" >ὑπάγετε καὶ ὑμεῖς εἰς τὸν ἀμπελῶνα καὶ ὃ ἐὰν ᾖ δίκαιον δώσω ὑμῖν</reference>
-		<reference osisRef="MAT.20.6!12-MAT.20.6!18" type="EmbeddedRepSpeech" label="" verse="MAT 20:6" >τί ὧδε ἑστήκατε ὅλην τὴν ἡμέραν ἀργοί</reference>
-		<reference osisRef="MAT.20.7!3-MAT.20.7!6" type="EmbeddedRepSpeech" label="" verse="MAT 20:7" >ὅτι οὐδεὶς ἡμᾶς ἐμισθώσατο</reference>
-		<reference osisRef="MAT.20.7!9-MAT.20.7!14" type="EmbeddedRepSpeech" label="" verse="MAT 20:7" >ὑπάγετε καὶ ὑμεῖς εἰς τὸν ἀμπελῶνα</reference>
-		<reference osisRef="MAT.20.8!12-MAT.20.8!26" type="EmbeddedRepSpeech" label="" verse="MAT 20:8" >κάλεσον τοὺς ἐργάτας καὶ ἀπόδος αὐτοῖς τὸν μισθὸν ἀρξάμενος ἀπὸ τῶν ἐσχάτων ἕως τῶν πρώτων</reference>
-		<reference osisRef="MAT.20.12!2-MAT.20.12!21" type="EmbeddedRepSpeech" label="" verse="MAT 20:12" >οὗτοι οἱ ἔσχατοι μίαν ὥραν ἐποίησαν καὶ ἴσους ἡμῖν αὐτοὺς ἐποίησας τοῖς βαστάσασι τὸ βάρος τῆς ἡμέρας καὶ τὸν καύσωνα</reference>
-		<reference osisRef="MAT.20.13!7-MAT.20.15!48" type="EmbeddedRepSpeech" label="" verse="MAT 20:13 - 5" >ἑταῖρε οὐκ ἀδικῶ σε οὐχὶ δηναρίου συνεφώνησάς μοι ἆρον τὸ σὸν καὶ ὕπαγε θέλω δὲ τούτῳ τῷ ἐσχάτῳ δοῦναι ὡς καὶ σοί ἢ οὐκ ἔξεστίν μοι ὃ θέλω ποιῆσαι ἐν τοῖς ἐμοῖς ἢ ὁ ὀφθαλμός σου πονηρός ἐστιν ὅτι ἐγὼ ἀγαθός εἰμι</reference>
-		<reference osisRef="MAT.21.3!9-MAT.21.3!17" type="EmbeddedRepSpeech" label="" verse="MAT 21:3" >ὁ κύριος αὐτῶν χρείαν ἔχει εὐθὺς δὲ ἀποστελεῖ αὐτούς</reference>
-		<reference osisRef="MAT.21.5!5-MAT.21.5!20" type="EmbeddedRepSpeech" label="" verse="MAT 21:5" >ἰδοὺ ὁ βασιλεύς σου ἔρχεταί σοι πραῢς καὶ ἐπιβεβηκὼς ἐπὶ ὄνον καὶ ἐπὶ πῶλον υἱὸν ὑποζυγίου</reference>
-		<reference osisRef="MAT.21.13!5-MAT.21.13!10" type="EmbeddedRepSpeech" label="" verse="MAT 21:13" >ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται</reference>
-		<reference osisRef="MAT.21.16!17-MAT.21.16!23" type="EmbeddedRepSpeech" label="" verse="MAT 21:16" >ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον</reference>
-		<reference osisRef="MAT.21.21!28-MAT.21.21!33" type="EmbeddedRepSpeech" label="" verse="MAT 21:21" >ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν</reference>
-		<reference osisRef="MAT.21.25!20-MAT.21.25!21" type="EmbeddedRepSpeech" label="" verse="MAT 21:25" >ἐξ οὐρανοῦ</reference>
-		<reference osisRef="MAT.21.25!24-MAT.21.25!29" type="EmbeddedRepSpeech" label="" verse="MAT 21:25" >διὰ τί οὖν οὐκ ἐπιστεύσατε αὐτῷ</reference>
-		<reference osisRef="MAT.21.26!4-MAT.21.26!5" type="EmbeddedRepSpeech" label="" verse="MAT 21:26" >ἐξ ἀνθρώπων</reference>
-		<reference osisRef="MAT.21.28!14-MAT.21.28!20" type="EmbeddedRepSpeech" label="" verse="MAT 21:28" >τέκνον ὕπαγε σήμερον ἐργάζου ἐν τῷ ἀμπελῶνι</reference>
-		<reference osisRef="MAT.21.29!5-MAT.21.29!6" type="EmbeddedRepSpeech" label="" verse="MAT 21:29" >οὐ θέλω</reference>
-		<reference osisRef="MAT.21.30!11-MAT.21.30!12" type="EmbeddedRepSpeech" label="" verse="MAT 21:30" >ἐγώ κύριε</reference>
-		<reference osisRef="MAT.21.37!10-MAT.21.37!13" type="EmbeddedRepSpeech" label="" verse="MAT 21:37" >ἐντραπήσονται τὸν υἱόν μου</reference>
-		<reference osisRef="MAT.21.38!10-MAT.21.38!21" type="EmbeddedRepSpeech" label="" verse="MAT 21:38" >οὗτός ἐστιν ὁ κληρονόμος δεῦτε ἀποκτείνωμεν αὐτὸν καὶ σχῶμεν τὴν κληρονομίαν αὐτοῦ</reference>
-		<reference osisRef="MAT.21.42!10-MAT.21.42!29" type="EmbeddedRepSpeech" label="" verse="MAT 21:42" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας παρὰ κυρίου ἐγένετο αὕτη καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν</reference>
-		<reference osisRef="MAT.22.4!6-MAT.22.4!27" type="EmbeddedRepSpeech" label="" verse="MAT 22:4" >εἴπατε τοῖς κεκλημένοις ἰδοὺ τὸ ἄριστόν μου ἡτοίμακα οἱ ταῦροί μου καὶ τὰ σιτιστὰ τεθυμένα καὶ πάντα ἕτοιμα δεῦτε εἰς τοὺς γάμους</reference>
-		<reference osisRef="MAT.22.8!6-MAT.22.9!31" type="EmbeddedRepSpeech" label="" verse="MAT 22:8 - 9" >ὁ μὲν γάμος ἕτοιμός ἐστιν οἱ δὲ κεκλημένοι οὐκ ἦσαν ἄξιοι πορεύεσθε οὖν ἐπὶ τὰς διεξόδους τῶν ὁδῶν καὶ ὅσους ἐὰν εὕρητε καλέσατε εἰς τοὺς γάμους</reference>
-		<reference osisRef="MAT.22.12!4-MAT.22.12!11" type="EmbeddedRepSpeech" label="" verse="MAT 22:12" >ἑταῖρε πῶς εἰσῆλθες ὧδε μὴ ἔχων ἔνδυμα γάμου</reference>
-		<reference osisRef="MAT.22.13!7-MAT.22.13!18" type="EmbeddedRepSpeech" label="" verse="MAT 22:13" >δήσαντες αὐτοῦ πόδας καὶ χεῖρας ἐκβάλετε αὐτὸν εἰς τὸ σκότος τὸ ἐξώτερον</reference>
-		<reference osisRef="MAT.22.24!5-MAT.22.24!23" type="EmbeddedRepSpeech" label="" verse="MAT 22:24" >ἐάν τις ἀποθάνῃ μὴ ἔχων τέκνα ἐπιγαμβρεύσει ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα αὐτοῦ καὶ ἀναστήσει σπέρμα τῷ ἀδελφῷ αὐτοῦ</reference>
-		<reference osisRef="MAT.22.32!1-MAT.22.32!13" type="EmbeddedRepSpeech" label="" verse="MAT 22:32" >ἐγώ εἰμι ὁ θεὸς ἀβραὰμ καὶ ὁ θεὸς ἰσαὰκ καὶ ὁ θεὸς ἰακώβ</reference>
-		<reference osisRef="MAT.22.44!1-MAT.22.44!19" type="EmbeddedRepSpeech" label="" verse="MAT 22:44" >εἶπεν κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποκάτω τῶν ποδῶν σου</reference>
-		<reference osisRef="MAT.23.7!12" type="EmbeddedRepSpeech" label="" verse="MAT 23:7" >ῥαββί</reference>
-		<reference osisRef="MAT.23.8!5" type="EmbeddedRepSpeech" label="" verse="MAT 23:8" >ῥαββί</reference>
-		<reference osisRef="MAT.23.16!7-MAT.23.16!24" type="EmbeddedRepSpeech" label="" verse="MAT 23:16" >ὃς ἂν ὀμόσῃ ἐν τῷ ναῷ οὐδέν ἐστιν ὃς δ’ ἂν ὀμόσῃ ἐν τῷ χρυσῷ τοῦ ναοῦ ὀφείλει</reference>
-		<reference osisRef="MAT.23.18!2-MAT.23.18!20" type="EmbeddedRepSpeech" label="" verse="MAT 23:18" >ὃς ἂν ὀμόσῃ ἐν τῷ θυσιαστηρίῳ οὐδέν ἐστιν ὃς δ’ ἂν ὀμόσῃ ἐν τῷ δώρῳ τῷ ἐπάνω αὐτοῦ ὀφείλει</reference>
-		<reference osisRef="MAT.23.30!3-MAT.23.30!20" type="EmbeddedRepSpeech" label="" verse="MAT 23:30" >εἰ ἤμεθα ἐν ταῖς ἡμέραις τῶν πατέρων ἡμῶν οὐκ ἂν ἤμεθα αὐτῶν κοινωνοὶ ἐν τῷ αἵματι τῶν προφητῶν</reference>
-		<reference osisRef="MAT.23.39!13-MAT.23.39!18" type="EmbeddedRepSpeech" label="" verse="MAT 23:39" >εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου</reference>
-		<reference osisRef="MAT.24.5!9-MAT.24.5!12" type="EmbeddedRepSpeech" label="" verse="MAT 24:5" >ἐγώ εἰμι ὁ χριστός</reference>
-		<reference osisRef="MAT.24.23!7-MAT.24.23!9" type="EmbeddedRepSpeech" label="" verse="MAT 24:23" >ὧδε ὁ χριστός</reference>
-		<reference osisRef="MAT.24.23!11" type="EmbeddedRepSpeech" label="" verse="MAT 24:23" >ὧδε</reference>
-		<reference osisRef="MAT.24.26!6-MAT.24.26!9" type="EmbeddedRepSpeech" label="" verse="MAT 24:26" >ἐν τῇ ἐρήμῳ ἐστίν</reference>
-		<reference osisRef="MAT.24.26!13-MAT.24.26!15" type="EmbeddedRepSpeech" label="" verse="MAT 24:26" >ἐν τοῖς ταμείοις</reference>
-		<reference osisRef="MAT.24.48!12-MAT.24.48!15" type="EmbeddedRepSpeech" label="" verse="MAT 24:48" >χρονίζει μου ὁ κύριος</reference>
-		<reference osisRef="MAT.25.6!6-MAT.25.6!12" type="EmbeddedRepSpeech" label="" verse="MAT 25:6" >ἰδοὺ ὁ νυμφίος ἐξέρχεσθε εἰς ἀπάντησιν αὐτοῦ</reference>
-		<reference osisRef="MAT.25.8!7-MAT.25.8!17" type="EmbeddedRepSpeech" label="" verse="MAT 25:8" >δότε ἡμῖν ἐκ τοῦ ἐλαίου ὑμῶν ὅτι αἱ λαμπάδες ἡμῶν σβέννυνται</reference>
-		<reference osisRef="MAT.25.9!6-MAT.25.9!20" type="EmbeddedRepSpeech" label="" verse="MAT 25:9" >μήποτε οὐ μὴ ἀρκέσῃ ἡμῖν καὶ ὑμῖν πορεύεσθε μᾶλλον πρὸς τοὺς πωλοῦντας καὶ ἀγοράσατε ἑαυταῖς</reference>
-		<reference osisRef="MAT.25.11!9-MAT.25.11!12" type="EmbeddedRepSpeech" label="" verse="MAT 25:11" >κύριε κύριε ἄνοιξον ἡμῖν</reference>
-		<reference osisRef="MAT.25.12!5-MAT.25.12!10" type="EmbeddedRepSpeech" label="" verse="MAT 25:12" >ἀμὴν λέγω ὑμῖν οὐκ οἶδα ὑμᾶς</reference>
-		<reference osisRef="MAT.25.20!13-MAT.25.20!22" type="EmbeddedRepSpeech" label="" verse="MAT 25:20" >κύριε πέντε τάλαντά μοι παρέδωκας ἴδε ἄλλα πέντε τάλαντα ἐκέρδησα</reference>
-		<reference osisRef="MAT.25.21!6-MAT.25.21!25" type="EmbeddedRepSpeech" label="" verse="MAT 25:21" >εὖ δοῦλε ἀγαθὲ καὶ πιστέ ἐπὶ ὀλίγα ἦς πιστός ἐπὶ πολλῶν σε καταστήσω εἴσελθε εἰς τὴν χαρὰν τοῦ κυρίου σου</reference>
-		<reference osisRef="MAT.25.22!9-MAT.25.22!18" type="EmbeddedRepSpeech" label="" verse="MAT 25:22" >κύριε δύο τάλαντά μοι παρέδωκας ἴδε ἄλλα δύο τάλαντα ἐκέρδησα</reference>
-		<reference osisRef="MAT.25.23!6-MAT.25.23!25" type="EmbeddedRepSpeech" label="" verse="MAT 25:23" >εὖ δοῦλε ἀγαθὲ καὶ πιστέ ἐπὶ ὀλίγα ἦς πιστός ἐπὶ πολλῶν σε καταστήσω εἴσελθε εἰς τὴν χαρὰν τοῦ κυρίου σου</reference>
-		<reference osisRef="MAT.25.24!10-MAT.25.25!39" type="EmbeddedRepSpeech" label="" verse="MAT 25:24 - 5" >κύριε ἔγνων σε ὅτι σκληρὸς εἶ ἄνθρωπος θερίζων ὅπου οὐκ ἔσπειρας καὶ συνάγων ὅθεν οὐ διεσκόρπισας καὶ φοβηθεὶς ἀπελθὼν ἔκρυψα τὸ τάλαντόν σου ἐν τῇ γῇ ἴδε ἔχεις τὸ σόν</reference>
-		<reference osisRef="MAT.25.26!8-MAT.25.28!53" type="EmbeddedRepSpeech" label="" verse="MAT 25:26 - 8" >πονηρὲ δοῦλε καὶ ὀκνηρέ ᾔδεις ὅτι θερίζω ὅπου οὐκ ἔσπειρα καὶ συνάγω ὅθεν οὐ διεσκόρπισα ἔδει σε οὖν βαλεῖν τὰ ἀργύριά μου τοῖς τραπεζίταις καὶ ἐλθὼν ἐγὼ ἐκομισάμην ἂν τὸ ἐμὸν σὺν τόκῳ ἄρατε οὖν ἀπ’ αὐτοῦ τὸ τάλαντον καὶ δότε τῷ ἔχοντι τὰ δέκα τάλαντα</reference>
-		<reference osisRef="MAT.25.29!1-MAT.25.30!36" type="EmbeddedRepSpeech" label="" verse="MAT 25:29 - 30" >τῷ γὰρ ἔχοντι παντὶ δοθήσεται καὶ περισσευθήσεται τοῦ δὲ μὴ ἔχοντος καὶ ὃ ἔχει ἀρθήσεται ἀπ’ αὐτοῦ καὶ τὸν ἀχρεῖον δοῦλον ἐκβάλετε εἰς τὸ σκότος τὸ ἐξώτερον ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων</reference>
-		<reference osisRef="MAT.25.34!9-MAT.25.36!52" type="EmbeddedRepSpeech" label="" verse="MAT 25:34 - 6" >δεῦτε οἱ εὐλογημένοι τοῦ πατρός μου κληρονομήσατε τὴν ἡτοιμασμένην ὑμῖν βασιλείαν ἀπὸ καταβολῆς κόσμου ἐπείνασα γὰρ καὶ ἐδώκατέ μοι φαγεῖν ἐδίψησα καὶ ἐποτίσατέ με ξένος ἤμην καὶ συνηγάγετέ με γυμνὸς καὶ περιεβάλετέ με ἠσθένησα καὶ ἐπεσκέψασθέ με ἐν φυλακῇ ἤμην καὶ ἤλθατε πρός με</reference>
-		<reference osisRef="MAT.25.37!7-MAT.25.39!40" type="EmbeddedRepSpeech" label="" verse="MAT 25:37 - 9" >κύριε πότε σε εἴδομεν πεινῶντα καὶ ἐθρέψαμεν ἢ διψῶντα καὶ ἐποτίσαμεν πότε δέ σε εἴδομεν ξένον καὶ συνηγάγομεν ἢ γυμνὸν καὶ περιεβάλομεν πότε δέ σε εἴδομεν ἀσθενοῦντα ἢ ἐν φυλακῇ καὶ ἤλθομεν πρός σε</reference>
-		<reference osisRef="MAT.25.40!7-MAT.25.40!21" type="EmbeddedRepSpeech" label="" verse="MAT 25:40" >ἀμὴν λέγω ὑμῖν ἐφ’ ὅσον ἐποιήσατε ἑνὶ τούτων τῶν ἀδελφῶν μου τῶν ἐλαχίστων ἐμοὶ ἐποιήσατε</reference>
-		<reference osisRef="MAT.25.41!7-MAT.25.43!55" type="EmbeddedRepSpeech" label="" verse="MAT 25:41 - 3" >πορεύεσθε ἀπ’ ἐμοῦ οἱ κατηραμένοι εἰς τὸ πῦρ τὸ αἰώνιον τὸ ἡτοιμασμένον τῷ διαβόλῳ καὶ τοῖς ἀγγέλοις αὐτοῦ ἐπείνασα γὰρ καὶ οὐκ ἐδώκατέ μοι φαγεῖν ἐδίψησα καὶ οὐκ ἐποτίσατέ με ξένος ἤμην καὶ οὐ συνηγάγετέ με γυμνὸς καὶ οὐ περιεβάλετέ με ἀσθενὴς καὶ ἐν φυλακῇ καὶ οὐκ ἐπεσκέψασθέ με</reference>
-		<reference osisRef="MAT.25.44!6-MAT.25.44!25" type="EmbeddedRepSpeech" label="" verse="MAT 25:44" >κύριε πότε σε εἴδομεν πεινῶντα ἢ διψῶντα ἢ ξένον ἢ γυμνὸν ἢ ἀσθενῆ ἢ ἐν φυλακῇ καὶ οὐ διηκονήσαμέν σοι</reference>
-		<reference osisRef="MAT.25.45!5-MAT.25.45!18" type="EmbeddedRepSpeech" label="" verse="MAT 25:45" >ἀμὴν λέγω ὑμῖν ἐφ’ ὅσον οὐκ ἐποιήσατε ἑνὶ τούτων τῶν ἐλαχίστων οὐδὲ ἐμοὶ ἐποιήσατε</reference>
-		<reference osisRef="MAT.26.18!14-MAT.26.18!30" type="EmbeddedRepSpeech" label="" verse="MAT 26:18" >ὁ διδάσκαλος λέγει ὁ καιρός μου ἐγγύς ἐστιν πρὸς σὲ ποιῶ τὸ πάσχα μετὰ τῶν μαθητῶν μου</reference>
-		<reference osisRef="MAT.26.61!4-MAT.26.61!14" type="EmbeddedRepSpeech" label="" verse="MAT 26:61" >δύναμαι καταλῦσαι τὸν ναὸν τοῦ θεοῦ καὶ διὰ τριῶν ἡμερῶν οἰκοδομῆσαι</reference>
-		<reference osisRef="MAT.27.43!13-MAT.27.43!15" type="EmbeddedRepSpeech" label="" verse="MAT 27:43" >θεοῦ εἰμι υἱός</reference>
-		<reference osisRef="MAT.27.63!11-MAT.27.63!14" type="EmbeddedRepSpeech" label="" verse="MAT 27:63" >μετὰ τρεῖς ἡμέρας ἐγείρομαι</reference>
-		<reference osisRef="MAT.27.64!21-MAT.27.64!24" type="EmbeddedRepSpeech" label="" verse="MAT 27:64" >ἠγέρθη ἀπὸ τῶν νεκρῶν</reference>
-		<reference osisRef="MAT.28.7!9-MAT.28.7!22" type="EmbeddedRepSpeech" label="" verse="MAT 28:7" >ἠγέρθη ἀπὸ τῶν νεκρῶν καὶ ἰδοὺ προάγει ὑμᾶς εἰς τὴν γαλιλαίαν ἐκεῖ αὐτὸν ὄψεσθε</reference>
-		<reference osisRef="MAT.28.13!4-MAT.28.13!12" type="EmbeddedRepSpeech" label="" verse="MAT 28:13" >οἱ μαθηταὶ αὐτοῦ νυκτὸς ἐλθόντες ἔκλεψαν αὐτὸν ἡμῶν κοιμωμένων</reference>
-		<reference osisRef="MRK.1.3!6-MRK.1.3!14" type="EmbeddedRepSpeech" label="" verse="MRK 1:3" >ἑτοιμάσατε τὴν ὁδὸν κυρίου εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ</reference>
-		<reference osisRef="MRK.2.9!7-MRK.2.9!10" type="EmbeddedRepSpeech" label="" verse="MRK 2:9" >ἀφίενταί σου αἱ ἁμαρτίαι</reference>
-		<reference osisRef="MRK.2.9!13-MRK.2.9!20" type="EmbeddedRepSpeech" label="" verse="MRK 2:9" >ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ περιπάτει</reference>
-		<reference osisRef="MRK.5.31!14-MRK.5.31!16" type="EmbeddedRepSpeech" label="" verse="MRK 5:31" >τίς μου ἥψατο</reference>
-		<reference osisRef="MRK.7.6!15-MRK.7.7!37" type="EmbeddedRepSpeech" label="" verse="MRK 7:6 - 7" >οὗτος ὁ λαὸς τοῖς χείλεσίν με τιμᾷ ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ’ ἐμοῦ μάτην δὲ σέβονταί με διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων</reference>
-		<reference osisRef="MRK.7.10!4-MRK.7.10!11" type="EmbeddedRepSpeech" label="" verse="MRK 7:10" >τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου</reference>
-		<reference osisRef="MRK.7.10!13-MRK.7.10!19" type="EmbeddedRepSpeech" label="" verse="MRK 7:10" >ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω</reference>
-		<reference osisRef="MRK.7.11!4-MRK.7.11!20" type="EmbeddedRepSpeech" label="" verse="MRK 7:11" >ἐὰν εἴπῃ ἄνθρωπος τῷ πατρὶ ἢ τῇ μητρί κορβᾶν ὅ ἐστιν δῶρον ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς</reference>
-		<reference osisRef="MRK.8.28!7-MRK.8.28!9" type="EmbeddedRepSpeech" label="" verse="MRK 8:28" >ἰωάννην τὸν βαπτιστήν</reference>
-		<reference osisRef="MRK.8.28!12" type="EmbeddedRepSpeech" label="" verse="MRK 8:28" >ἠλίαν</reference>
-		<reference osisRef="MRK.8.28!16-MRK.8.28!18" type="EmbeddedRepSpeech" label="" verse="MRK 8:28" >εἷς τῶν προφητῶν</reference>
-		<reference osisRef="MRK.10.19!4-MRK.10.19!20" type="EmbeddedRepSpeech" label="" verse="MRK 10:19" >μὴ φονεύσῃς μὴ μοιχεύσῃς μὴ κλέψῃς μὴ ψευδομαρτυρήσῃς μὴ ἀποστερήσῃς τίμα τὸν πατέρα σου καὶ τὴν μητέρα</reference>
-		<reference osisRef="MRK.11.3!6-MRK.11.3!8" type="EmbeddedRepSpeech" label="" verse="MRK 11:3" >τί ποιεῖτε τοῦτο</reference>
-		<reference osisRef="MRK.11.3!10-MRK.11.3!20" type="EmbeddedRepSpeech" label="" verse="MRK 11:3" >ὁ κύριος αὐτοῦ χρείαν ἔχει καὶ εὐθὺς αὐτὸν ἀποστέλλει πάλιν ὧδε</reference>
-		<reference osisRef="MRK.11.17!9-MRK.11.17!17" type="EmbeddedRepSpeech" label="" verse="MRK 11:17" >ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται πᾶσιν τοῖς ἔθνεσιν</reference>
-		<reference osisRef="MRK.11.23!11-MRK.11.23!16" type="EmbeddedRepSpeech" label="" verse="MRK 11:23" >ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν</reference>
-		<reference osisRef="MRK.11.31!8-MRK.11.31!9" type="EmbeddedRepSpeech" label="" verse="MRK 11:31" >ἐξ οὐρανοῦ</reference>
-		<reference osisRef="MRK.11.31!11-MRK.11.31!16" type="EmbeddedRepSpeech" label="" verse="MRK 11:31" >διὰ τί οὖν οὐκ ἐπιστεύσατε αὐτῷ</reference>
-		<reference osisRef="MRK.11.32!3-MRK.11.32!4" type="EmbeddedRepSpeech" label="" verse="MRK 11:32" >ἐξ ἀνθρώπων</reference>
-		<reference osisRef="MRK.12.6!13-MRK.12.6!16" type="EmbeddedRepSpeech" label="" verse="MRK 12:6" >ἐντραπήσονται τὸν υἱόν μου</reference>
-		<reference osisRef="MRK.12.7!9-MRK.12.7!20" type="EmbeddedRepSpeech" label="" verse="MRK 12:7" >οὗτός ἐστιν ὁ κληρονόμος δεῦτε ἀποκτείνωμεν αὐτόν καὶ ἡμῶν ἔσται ἡ κληρονομία</reference>
-		<reference osisRef="MRK.12.10!6-MRK.12.11!25" type="EmbeddedRepSpeech" label="" verse="MRK 12:10 - 1" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας παρὰ κυρίου ἐγένετο αὕτη καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν</reference>
-		<reference osisRef="MRK.12.26!22-MRK.12.26!33" type="EmbeddedRepSpeech" label="" verse="MRK 12:26" >ἐγὼ ὁ θεὸς ἀβραὰμ καὶ ὁ θεὸς ἰσαὰκ καὶ ὁ θεὸς ἰακώβ</reference>
-		<reference osisRef="MRK.12.29!7-MRK.12.30!44" type="EmbeddedRepSpeech" label="" verse="MRK 12:29 - 30" >ἄκουε ἰσραήλ κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστιν καὶ ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐξ ὅλης τῆς ψυχῆς σου καὶ ἐξ ὅλης τῆς διανοίας σου καὶ ἐξ ὅλης τῆς ἰσχύος σου</reference>
-		<reference osisRef="MRK.12.31!3-MRK.12.31!8" type="EmbeddedRepSpeech" label="" verse="MRK 12:31" >ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν</reference>
-		<reference osisRef="MRK.12.32!12-MRK.12.32!19" type="EmbeddedRepSpeech" label="" verse="MRK 12:32" >εἷς ἐστιν καὶ οὐκ ἔστιν ἄλλος πλὴν αὐτοῦ</reference>
-		<reference osisRef="MRK.12.33!3-MRK.12.33!18" type="EmbeddedRepSpeech" label="" verse="MRK 12:33" >ἀγαπᾶν αὐτὸν ἐξ ὅλης τῆς καρδίας καὶ ἐξ ὅλης τῆς συνέσεως καὶ ἐξ ὅλης τῆς ἰσχύος</reference>
-		<reference osisRef="MRK.12.33!21-MRK.12.33!25" type="EmbeddedRepSpeech" label="" verse="MRK 12:33" >ἀγαπᾶν τὸν πλησίον ὡς ἑαυτὸν</reference>
-		<reference osisRef="MRK.12.35!15-MRK.12.35!19" type="EmbeddedRepSpeech" label="" verse="MRK 12:35" >ὁ χριστὸς υἱὸς δαυίδ ἐστιν</reference>
-		<reference osisRef="MRK.12.36!9-MRK.12.36!27" type="EmbeddedRepSpeech" label="" verse="MRK 12:36" >εἶπεν κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποκάτω τῶν ποδῶν σου</reference>
-		<reference osisRef="MRK.13.6!9-MRK.13.6!10" type="EmbeddedRepSpeech" label="" verse="MRK 13:6" >ἐγώ εἰμι</reference>
-		<reference osisRef="MRK.13.21!7-MRK.13.21!10" type="EmbeddedRepSpeech" label="" verse="MRK 13:21" >ἴδε ὧδε ὁ χριστός</reference>
-		<reference osisRef="MRK.13.21!11-MRK.13.21!12" type="EmbeddedRepSpeech" label="" verse="MRK 13:21" >ἴδε ἐκεῖ</reference>
-		<reference osisRef="MRK.14.14!9-MRK.14.14!24" type="EmbeddedRepSpeech" label="" verse="MRK 14:14" >ὁ διδάσκαλος λέγει ποῦ ἐστιν τὸ κατάλυμά μου ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω</reference>
-		<reference osisRef="MRK.14.27!11-MRK.14.27!17" type="EmbeddedRepSpeech" label="" verse="MRK 14:27" >πατάξω τὸν ποιμένα καὶ τὰ πρόβατα διασκορπισθήσονται</reference>
-		<reference osisRef="MRK.14.58!7-MRK.14.58!20" type="EmbeddedRepSpeech" label="" verse="MRK 14:58" >ἐγὼ καταλύσω τὸν ναὸν τοῦτον τὸν χειροποίητον καὶ διὰ τριῶν ἡμερῶν ἄλλον ἀχειροποίητον οἰκοδομήσω</reference>
-		<reference osisRef="MRK.16.7!11-MRK.16.7!15" type="EmbeddedRepSpeech" label="" verse="MRK 16:7" >προάγει ὑμᾶς εἰς τὴν γαλιλαίαν</reference>
-		<reference osisRef="LUK.3.4!14-LUK.3.4!22" type="EmbeddedRepSpeech" label="" verse="LUK 3:4" >ἑτοιμάσατε τὴν ὁδὸν κυρίου εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ</reference>
-		<reference osisRef="LUK.3.8!13-LUK.3.8!16" type="EmbeddedRepSpeech" label="" verse="LUK 3:8" >πατέρα ἔχομεν τὸν ἀβραάμ</reference>
-		<reference osisRef="LUK.4.4!9-LUK.4.4!15" type="EmbeddedRepSpeech" label="" verse="LUK 4:4" >οὐκ ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος</reference>
-		<reference osisRef="LUK.4.8!8-LUK.4.8!16" type="EmbeddedRepSpeech" label="" verse="LUK 4:8" >κύριον τὸν θεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις</reference>
-		<reference osisRef="LUK.4.10!4-LUK.4.10!12" type="EmbeddedRepSpeech" label="" verse="LUK 4:10" >τοῖς ἀγγέλοις αὐτοῦ ἐντελεῖται περὶ σοῦ τοῦ διαφυλάξαι σε</reference>
-		<reference osisRef="LUK.4.11!3-LUK.4.11!13" type="EmbeddedRepSpeech" label="" verse="LUK 4:11" >ἐπὶ χειρῶν ἀροῦσίν σε μήποτε προσκόψῃς πρὸς λίθον τὸν πόδα σου</reference>
-		<reference osisRef="LUK.4.12!9-LUK.4.12!14" type="EmbeddedRepSpeech" label="" verse="LUK 4:12" >οὐκ ἐκπειράσεις κύριον τὸν θεόν σου</reference>
-		<reference osisRef="LUK.4.23!11-LUK.4.23!26" type="EmbeddedRepSpeech" label="" verse="LUK 4:23" >ἰατρέ θεράπευσον σεαυτόν ὅσα ἠκούσαμεν γενόμενα εἰς τὴν καφαρναοὺμ ποίησον καὶ ὧδε ἐν τῇ πατρίδι σου</reference>
-		<reference osisRef="LUK.5.23!5-LUK.5.23!9" type="EmbeddedRepSpeech" label="" verse="LUK 5:23" >ἀφέωνταί σοι αἱ ἁμαρτίαι σου</reference>
-		<reference osisRef="LUK.5.23!12-LUK.5.23!14" type="EmbeddedRepSpeech" label="" verse="LUK 5:23" >ἔγειρε καὶ περιπάτει</reference>
-		<reference osisRef="LUK.5.39!9-LUK.5.39!12" type="EmbeddedRepSpeech" label="" verse="LUK 5:39" >ὁ παλαιὸς χρηστός ἐστιν</reference>
-		<reference osisRef="LUK.6.42!7-LUK.6.42!16" type="EmbeddedRepSpeech" label="" verse="LUK 6:42" >ἀδελφέ ἄφες ἐκβάλω τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ σου</reference>
-		<reference osisRef="LUK.7.8!16" type="EmbeddedRepSpeech" label="" verse="LUK 7:8" >πορεύθητι</reference>
-		<reference osisRef="LUK.7.8!21" type="EmbeddedRepSpeech" label="" verse="LUK 7:8" >ἔρχου</reference>
-		<reference osisRef="LUK.7.8!28-LUK.7.8!29" type="EmbeddedRepSpeech" label="" verse="LUK 7:8" >ποίησον τοῦτο</reference>
-		<reference osisRef="LUK.7.20!16-LUK.7.20!22" type="EmbeddedRepSpeech" label="" verse="LUK 7:20" >σὺ εἶ ὁ ἐρχόμενος ἢ ἄλλον προσδοκῶμεν</reference>
-		<reference osisRef="LUK.7.27!6-LUK.7.27!20" type="EmbeddedRepSpeech" label="" verse="LUK 7:27" >ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου</reference>
-		<reference osisRef="LUK.7.32!13-LUK.7.32!21" type="EmbeddedRepSpeech" label="" verse="LUK 7:32" >ηὐλήσαμεν ὑμῖν καὶ οὐκ ὠρχήσασθε ἐθρηνήσαμεν καὶ οὐκ ἐκλαύσατε</reference>
-		<reference osisRef="LUK.7.33!14-LUK.7.33!15" type="EmbeddedRepSpeech" label="" verse="LUK 7:33" >δαιμόνιον ἔχει</reference>
-		<reference osisRef="LUK.7.34!11-LUK.7.34!19" type="EmbeddedRepSpeech" label="" verse="LUK 7:34" >ἰδοὺ ἄνθρωπος φάγος καὶ οἰνοπότης φίλος τελωνῶν καὶ ἁμαρτωλῶν</reference>
-		<reference osisRef="LUK.9.19!5-LUK.9.19!7" type="EmbeddedRepSpeech" label="" verse="LUK 9:19" >ἰωάννην τὸν βαπτιστήν</reference>
-		<reference osisRef="LUK.9.19!10" type="EmbeddedRepSpeech" label="" verse="LUK 9:19" >ἠλίαν</reference>
-		<reference osisRef="LUK.9.19!14-LUK.9.19!18" type="EmbeddedRepSpeech" label="" verse="LUK 9:19" >προφήτης τις τῶν ἀρχαίων ἀνέστη</reference>
-		<reference osisRef="LUK.10.5!9-LUK.10.5!12" type="EmbeddedRepSpeech" label="" verse="LUK 10:5" >εἰρήνη τῷ οἴκῳ τούτῳ</reference>
-		<reference osisRef="LUK.10.9!10-LUK.10.9!16" type="EmbeddedRepSpeech" label="" verse="LUK 10:9" >ἤγγικεν ἐφ’ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ</reference>
-		<reference osisRef="LUK.10.11!1-LUK.10.11!24" type="EmbeddedRepSpeech" label="" verse="LUK 10:11" >καὶ τὸν κονιορτὸν τὸν κολληθέντα ἡμῖν ἐκ τῆς πόλεως ὑμῶν εἰς τοὺς πόδας ἀπομασσόμεθα ὑμῖν πλὴν τοῦτο γινώσκετε ὅτι ἤγγικεν ἡ βασιλεία τοῦ θεοῦ</reference>
-		<reference osisRef="LUK.10.27!5-LUK.10.27!38" type="EmbeddedRepSpeech" label="" verse="LUK 10:27" >ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ ἰσχύϊ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου καὶ τὸν πλησίον σου ὡς σεαυτόν</reference>
-		<reference osisRef="LUK.10.35!13-LUK.10.35!26" type="EmbeddedRepSpeech" label="" verse="LUK 10:35" >ἐπιμελήθητι αὐτοῦ καὶ ὅ τι ἂν προσδαπανήσῃς ἐγὼ ἐν τῷ ἐπανέρχεσθαί με ἀποδώσω σοι</reference>
-		<reference osisRef="LUK.11.2!7-LUK.11.4!44" type="EmbeddedRepSpeech" label="" verse="LUK 11:2 - 4" >πάτερ ἁγιασθήτω τὸ ὄνομά σου ἐλθέτω ἡ βασιλεία σου τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ’ ἡμέραν καὶ ἄφες ἡμῖν τὰς ἁμαρτίας ἡμῶν καὶ γὰρ αὐτοὶ ἀφίομεν παντὶ ὀφείλοντι ἡμῖν καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν</reference>
-		<reference osisRef="LUK.11.5!18-LUK.11.6!36" type="EmbeddedRepSpeech" label="" verse="LUK 11:5 - 6" >φίλε χρῆσόν μοι τρεῖς ἄρτους ἐπειδὴ φίλος μου παρεγένετο ἐξ ὁδοῦ πρός με καὶ οὐκ ἔχω ὃ παραθήσω αὐτῷ</reference>
-		<reference osisRef="LUK.11.7!5-LUK.11.7!27" type="EmbeddedRepSpeech" label="" verse="LUK 11:7" >μή μοι κόπους πάρεχε ἤδη ἡ θύρα κέκλεισται καὶ τὰ παιδία μου μετ’ ἐμοῦ εἰς τὴν κοίτην εἰσίν οὐ δύναμαι ἀναστὰς δοῦναί σοι</reference>
-		<reference osisRef="LUK.11.18!16-LUK.11.18!21" type="EmbeddedRepSpeech" label="" verse="LUK 11:18" >ἐν βεελζεβοὺλ ἐκβάλλειν με τὰ δαιμόνια</reference>
-		<reference osisRef="LUK.11.24!20-LUK.11.24!26" type="EmbeddedRepSpeech" label="" verse="LUK 11:24" >ὑποστρέψω εἰς τὸν οἶκόν μου ὅθεν ἐξῆλθον</reference>
-		<reference osisRef="LUK.11.49!9-LUK.11.49!20" type="EmbeddedRepSpeech" label="" verse="LUK 11:49" >ἀποστελῶ εἰς αὐτοὺς προφήτας καὶ ἀποστόλους καὶ ἐξ αὐτῶν ἀποκτενοῦσιν καὶ διώξουσιν</reference>
-		<reference osisRef="LUK.12.17!6-LUK.12.17!15" type="EmbeddedRepSpeech" label="" verse="LUK 12:17" >τί ποιήσω ὅτι οὐκ ἔχω ποῦ συνάξω τοὺς καρπούς μου</reference>
-		<reference osisRef="LUK.12.18!3-LUK.12.19!38" type="EmbeddedRepSpeech" label="" verse="LUK 12:18 - 9" >τοῦτο ποιήσω καθελῶ μου τὰς ἀποθήκας καὶ μείζονας οἰκοδομήσω καὶ συνάξω ἐκεῖ πάντα τὸν σῖτον καὶ τὰ ἀγαθά μου καὶ ἐρῶ τῇ ψυχῇ μου ψυχή ἔχεις πολλὰ ἀγαθὰ κείμενα εἰς ἔτη πολλά ἀναπαύου φάγε πίε εὐφραίνου</reference>
-		<reference osisRef="LUK.12.20!6-LUK.12.20!20" type="EmbeddedRepSpeech" label="" verse="LUK 12:20" >ἄφρων ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ ἃ δὲ ἡτοίμασας τίνι ἔσται</reference>
-		<reference osisRef="LUK.12.45!11-LUK.12.45!15" type="EmbeddedRepSpeech" label="" verse="LUK 12:45" >χρονίζει ὁ κύριός μου ἔρχεσθαι</reference>
-		<reference osisRef="LUK.12.54!16-LUK.12.54!17" type="EmbeddedRepSpeech" label="" verse="LUK 12:54" >ὄμβρος ἔρχεται</reference>
-		<reference osisRef="LUK.12.55!7-LUK.12.55!8" type="EmbeddedRepSpeech" label="" verse="LUK 12:55" >καύσων ἔσται</reference>
-		<reference osisRef="LUK.13.7!7-LUK.13.7!28" type="EmbeddedRepSpeech" label="" verse="LUK 13:7" >τρία ἔτη ἀφ’ οὗ ἔρχομαι ζητῶν καρπὸν ἐν τῇ συκῇ ταύτῃ καὶ οὐχ εὑρίσκω ἔκκοψον οὖν αὐτήν ἱνατί καὶ τὴν γῆν καταργεῖ</reference>
-		<reference osisRef="LUK.13.8!6-LUK.13.9!33" type="EmbeddedRepSpeech" label="" verse="LUK 13:8 - 9" >κύριε ἄφες αὐτὴν καὶ τοῦτο τὸ ἔτος ἕως ὅτου σκάψω περὶ αὐτὴν καὶ βάλω κόπρια κἂν μὲν ποιήσῃ καρπὸν εἰς τὸ μέλλον εἰ δὲ μή γε ἐκκόψεις αὐτήν</reference>
-		<reference osisRef="LUK.13.25!20-LUK.13.25!22" type="EmbeddedRepSpeech" label="" verse="LUK 13:25" >κύριε ἄνοιξον ἡμῖν</reference>
-		<reference osisRef="LUK.13.25!27-LUK.13.25!31" type="EmbeddedRepSpeech" label="" verse="LUK 13:25" >οὐκ οἶδα ὑμᾶς πόθεν ἐστέ</reference>
-		<reference osisRef="LUK.13.26!4-LUK.13.26!14" type="EmbeddedRepSpeech" label="" verse="LUK 13:26" >ἐφάγομεν ἐνώπιόν σου καὶ ἐπίομεν καὶ ἐν ταῖς πλατείαις ἡμῶν ἐδίδαξας</reference>
-		<reference osisRef="LUK.13.27!5-LUK.13.27!15" type="EmbeddedRepSpeech" label="" verse="LUK 13:27" >οὐκ οἶδα ὑμᾶς πόθεν ἐστέ ἀπόστητε ἀπ’ ἐμοῦ πάντες ἐργάται ἀδικίας</reference>
-		<reference osisRef="LUK.13.32!9-LUK.13.32!21" type="EmbeddedRepSpeech" label="" verse="LUK 13:32" >ἰδοὺ ἐκβάλλω δαιμόνια καὶ ἰάσεις ἀποτελῶ σήμερον καὶ αὔριον καὶ τῇ τρίτῃ τελειοῦμαι</reference>
-		<reference osisRef="LUK.13.35!18-LUK.13.35!23" type="EmbeddedRepSpeech" label="" verse="LUK 13:35" >εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου</reference>
-		<reference osisRef="LUK.14.9!10-LUK.14.9!12" type="EmbeddedRepSpeech" label="" verse="LUK 14:9" >δὸς τούτῳ τόπον</reference>
-		<reference osisRef="LUK.14.10!18-LUK.14.10!20" type="EmbeddedRepSpeech" label="" verse="LUK 14:10" >φίλε προσανάβηθι ἀνώτερον</reference>
-		<reference osisRef="LUK.14.17!13-LUK.14.17!17" type="EmbeddedRepSpeech" label="" verse="LUK 14:17" >ἔρχεσθε ὅτι ἤδη ἕτοιμά ἐστιν</reference>
-		<reference osisRef="LUK.14.18!11-LUK.14.18!23" type="EmbeddedRepSpeech" label="" verse="LUK 14:18" >ἀγρὸν ἠγόρασα καὶ ἔχω ἀνάγκην ἐξελθὼν ἰδεῖν αὐτόν ἐρωτῶ σε ἔχε με παρῃτημένον</reference>
-		<reference osisRef="LUK.14.19!4-LUK.14.19!16" type="EmbeddedRepSpeech" label="" verse="LUK 14:19" >ζεύγη βοῶν ἠγόρασα πέντε καὶ πορεύομαι δοκιμάσαι αὐτά ἐρωτῶ σε ἔχε με παρῃτημένον</reference>
-		<reference osisRef="LUK.14.20!4-LUK.14.20!11" type="EmbeddedRepSpeech" label="" verse="LUK 14:20" >γυναῖκα ἔγημα καὶ διὰ τοῦτο οὐ δύναμαι ἐλθεῖν</reference>
-		<reference osisRef="LUK.14.21!18-LUK.14.21!37" type="EmbeddedRepSpeech" label="" verse="LUK 14:21" >ἔξελθε ταχέως εἰς τὰς πλατείας καὶ ῥύμας τῆς πόλεως καὶ τοὺς πτωχοὺς καὶ ἀναπείρους καὶ τυφλοὺς καὶ χωλοὺς εἰσάγαγε ὧδε</reference>
-		<reference osisRef="LUK.14.22!5-LUK.14.22!12" type="EmbeddedRepSpeech" label="" verse="LUK 14:22" >κύριε γέγονεν ὃ ἐπέταξας καὶ ἔτι τόπος ἐστίν</reference>
-		<reference osisRef="LUK.14.23!8-LUK.14.24!35" type="EmbeddedRepSpeech" label="" verse="LUK 14:23 - 4" >ἔξελθε εἰς τὰς ὁδοὺς καὶ φραγμοὺς καὶ ἀνάγκασον εἰσελθεῖν ἵνα γεμισθῇ μου ὁ οἶκος λέγω γὰρ ὑμῖν ὅτι οὐδεὶς τῶν ἀνδρῶν ἐκείνων τῶν κεκλημένων γεύσεταί μου τοῦ δείπνου</reference>
-		<reference osisRef="LUK.14.30!3-LUK.14.30!11" type="EmbeddedRepSpeech" label="" verse="LUK 14:30" >οὗτος ὁ ἄνθρωπος ἤρξατο οἰκοδομεῖν καὶ οὐκ ἴσχυσεν ἐκτελέσαι</reference>
-		<reference osisRef="LUK.15.6!14-LUK.15.6!22" type="EmbeddedRepSpeech" label="" verse="LUK 15:6" >συγχάρητέ μοι ὅτι εὗρον τὸ πρόβατόν μου τὸ ἀπολωλός</reference>
-		<reference osisRef="LUK.15.9!9-LUK.15.9!16" type="EmbeddedRepSpeech" label="" verse="LUK 15:9" >συγχάρητέ μοι ὅτι εὗρον τὴν δραχμὴν ἣν ἀπώλεσα</reference>
-		<reference osisRef="LUK.15.12!8-LUK.15.12!15" type="EmbeddedRepSpeech" label="" verse="LUK 15:12" >πάτερ δός μοι τὸ ἐπιβάλλον μέρος τῆς οὐσίας</reference>
-		<reference osisRef="LUK.15.17!6-LUK.15.19!47" type="EmbeddedRepSpeech" label="" verse="LUK 15:17 - 9" >πόσοι μίσθιοι τοῦ πατρός μου περισσεύονται ἄρτων ἐγὼ δὲ λιμῷ ὧδε ἀπόλλυμαι ἀναστὰς πορεύσομαι πρὸς τὸν πατέρα μου καὶ ἐρῶ αὐτῷ πάτερ ἥμαρτον εἰς τὸν οὐρανὸν καὶ ἐνώπιόν σου οὐκέτι εἰμὶ ἄξιος κληθῆναι υἱός σου ποίησόν με ὡς ἕνα τῶν μισθίων σου</reference>
-		<reference osisRef="LUK.15.21!6-LUK.15.21!19" type="EmbeddedRepSpeech" label="" verse="LUK 15:21" >πάτερ ἥμαρτον εἰς τὸν οὐρανὸν καὶ ἐνώπιόν σου οὐκέτι εἰμὶ ἄξιος κληθῆναι υἱός σου</reference>
-		<reference osisRef="LUK.15.22!9-LUK.15.24!51" type="EmbeddedRepSpeech" label="" verse="LUK 15:22 - 4" >ταχὺ ἐξενέγκατε στολὴν τὴν πρώτην καὶ ἐνδύσατε αὐτόν καὶ δότε δακτύλιον εἰς τὴν χεῖρα αὐτοῦ καὶ ὑποδήματα εἰς τοὺς πόδας καὶ φέρετε τὸν μόσχον τὸν σιτευτόν θύσατε καὶ φαγόντες εὐφρανθῶμεν ὅτι οὗτος ὁ υἱός μου νεκρὸς ἦν καὶ ἀνέζησεν ἦν ἀπολωλὼς καὶ εὑρέθη</reference>
-		<reference osisRef="LUK.15.27!6-LUK.15.27!22" type="EmbeddedRepSpeech" label="" verse="LUK 15:27" >ὁ ἀδελφός σου ἥκει καὶ ἔθυσεν ὁ πατήρ σου τὸν μόσχον τὸν σιτευτόν ὅτι ὑγιαίνοντα αὐτὸν ἀπέλαβεν</reference>
-		<reference osisRef="LUK.15.29!9-LUK.15.30!47" type="EmbeddedRepSpeech" label="" verse="LUK 15:29 - 30" >τοσαῦτα ἔτη δουλεύω σοι καὶ οὐδέποτε ἐντολήν σου παρῆλθον καὶ ἐμοὶ οὐδέποτε ἔδωκας ἔριφον ἵνα μετὰ τῶν φίλων μου εὐφρανθῶ ὅτε δὲ ὁ υἱός σου οὗτος ὁ καταφαγών σου τὸν βίον μετὰ πορνῶν ἦλθεν ἔθυσας αὐτῷ τὸν σιτευτὸν μόσχον</reference>
-		<reference osisRef="LUK.15.31!5-LUK.15.32!34" type="EmbeddedRepSpeech" label="" verse="LUK 15:31 - 2" >τέκνον σὺ πάντοτε μετ’ ἐμοῦ εἶ καὶ πάντα τὰ ἐμὰ σά ἐστιν εὐφρανθῆναι δὲ καὶ χαρῆναι ἔδει ὅτι ὁ ἀδελφός σου οὗτος νεκρὸς ἦν καὶ ἔζησεν καὶ ἀπολωλὼς καὶ εὑρέθη</reference>
-		<reference osisRef="LUK.16.2!6-LUK.16.2!21" type="EmbeddedRepSpeech" label="" verse="LUK 16:2" >τί τοῦτο ἀκούω περὶ σοῦ ἀπόδος τὸν λόγον τῆς οἰκονομίας σου οὐ γὰρ δύνῃ ἔτι οἰκονομεῖν</reference>
-		<reference osisRef="LUK.16.3!7-LUK.16.4!37" type="EmbeddedRepSpeech" label="" verse="LUK 16:3 - 4" >τί ποιήσω ὅτι ὁ κύριός μου ἀφαιρεῖται τὴν οἰκονομίαν ἀπ’ ἐμοῦ σκάπτειν οὐκ ἰσχύω ἐπαιτεῖν αἰσχύνομαι ἔγνων τί ποιήσω ἵνα ὅταν μετασταθῶ ἐκ τῆς οἰκονομίας δέξωνταί με εἰς τοὺς οἴκους αὐτῶν</reference>
-		<reference osisRef="LUK.16.5!13-LUK.16.5!17" type="EmbeddedRepSpeech" label="" verse="LUK 16:5" >πόσον ὀφείλεις τῷ κυρίῳ μου</reference>
-		<reference osisRef="LUK.16.6!4-LUK.16.6!6" type="EmbeddedRepSpeech" label="" verse="LUK 16:6" >ἑκατὸν βάτους ἐλαίου</reference>
-		<reference osisRef="LUK.16.6!11-LUK.16.6!19" type="EmbeddedRepSpeech" label="" verse="LUK 16:6" >δέξαι σου τὰ γράμματα καὶ καθίσας ταχέως γράψον πεντήκοντα</reference>
-		<reference osisRef="LUK.16.7!4-LUK.16.7!7" type="EmbeddedRepSpeech" label="" verse="LUK 16:7" >σὺ δὲ πόσον ὀφείλεις</reference>
-		<reference osisRef="LUK.16.7!11-LUK.16.7!13" type="EmbeddedRepSpeech" label="" verse="LUK 16:7" >ἑκατὸν κόρους σίτου</reference>
-		<reference osisRef="LUK.16.7!16-LUK.16.7!22" type="EmbeddedRepSpeech" label="" verse="LUK 16:7" >δέξαι σου τὰ γράμματα καὶ γράψον ὀγδοήκοντα</reference>
-		<reference osisRef="LUK.16.24!5-LUK.16.24!30" type="EmbeddedRepSpeech" label="" verse="LUK 16:24" >πάτερ ἀβραάμ ἐλέησόν με καὶ πέμψον λάζαρον ἵνα βάψῃ τὸ ἄκρον τοῦ δακτύλου αὐτοῦ ὕδατος καὶ καταψύξῃ τὴν γλῶσσάν μου ὅτι ὀδυνῶμαι ἐν τῇ φλογὶ ταύτῃ</reference>
-		<reference osisRef="LUK.16.25!4-LUK.16.26!51" type="EmbeddedRepSpeech" label="" verse="LUK 16:25 - 6" >τέκνον μνήσθητι ὅτι ἀπέλαβες τὰ ἀγαθά σου ἐν τῇ ζωῇ σου καὶ λάζαρος ὁμοίως τὰ κακά νῦν δὲ ὧδε παρακαλεῖται σὺ δὲ ὀδυνᾶσαι καὶ ἐν πᾶσι τούτοις μεταξὺ ἡμῶν καὶ ὑμῶν χάσμα μέγα ἐστήρικται ὅπως οἱ θέλοντες διαβῆναι ἔνθεν πρὸς ὑμᾶς μὴ δύνωνται μηδὲ ἐκεῖθεν πρὸς ἡμᾶς διαπερῶσιν</reference>
-		<reference osisRef="LUK.16.27!3-LUK.16.28!33" type="EmbeddedRepSpeech" label="" verse="LUK 16:27 - 8" >ἐρωτῶ σε οὖν πάτερ ἵνα πέμψῃς αὐτὸν εἰς τὸν οἶκον τοῦ πατρός μου ἔχω γὰρ πέντε ἀδελφούς ὅπως διαμαρτύρηται αὐτοῖς ἵνα μὴ καὶ αὐτοὶ ἔλθωσιν εἰς τὸν τόπον τοῦτον τῆς βασάνου</reference>
-		<reference osisRef="LUK.16.29!4-LUK.16.29!10" type="EmbeddedRepSpeech" label="" verse="LUK 16:29" >ἔχουσι μωϋσέα καὶ τοὺς προφήτας ἀκουσάτωσαν αὐτῶν</reference>
-		<reference osisRef="LUK.16.30!4-LUK.16.30!15" type="EmbeddedRepSpeech" label="" verse="LUK 16:30" >οὐχί πάτερ ἀβραάμ ἀλλ’ ἐάν τις ἀπὸ νεκρῶν πορευθῇ πρὸς αὐτοὺς μετανοήσουσιν</reference>
-		<reference osisRef="LUK.16.31!4-LUK.16.31!17" type="EmbeddedRepSpeech" label="" verse="LUK 16:31" >εἰ μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν οὐδ’ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται</reference>
-		<reference osisRef="LUK.17.4!15" type="EmbeddedRepSpeech" label="" verse="LUK 17:4" >μετανοῶ</reference>
-		<reference osisRef="LUK.17.6!16-LUK.17.6!21" type="EmbeddedRepSpeech" label="" verse="LUK 17:6" >ἐκριζώθητι καὶ φυτεύθητι ἐν τῇ θαλάσσῃ</reference>
-		<reference osisRef="LUK.17.7!17-LUK.17.7!19" type="EmbeddedRepSpeech" label="" verse="LUK 17:7" >εὐθέως παρελθὼν ἀνάπεσε</reference>
-		<reference osisRef="LUK.17.8!5-LUK.17.8!22" type="EmbeddedRepSpeech" label="" verse="LUK 17:8" >ἑτοίμασον τί δειπνήσω καὶ περιζωσάμενος διακόνει μοι ἕως φάγω καὶ πίω καὶ μετὰ ταῦτα φάγεσαι καὶ πίεσαι σύ</reference>
-		<reference osisRef="LUK.17.10!12-LUK.17.10!18" type="EmbeddedRepSpeech" label="" verse="LUK 17:10" >δοῦλοι ἀχρεῖοί ἐσμεν ὃ ὠφείλομεν ποιῆσαι πεποιήκαμεν</reference>
-		<reference osisRef="LUK.17.21!4" type="EmbeddedRepSpeech" label="" verse="LUK 17:21" >ὧδε</reference>
-		<reference osisRef="LUK.17.21!6" type="EmbeddedRepSpeech" label="" verse="LUK 17:21" >ἐκεῖ</reference>
-		<reference osisRef="LUK.17.23!5-LUK.17.23!6" type="EmbeddedRepSpeech" label="" verse="LUK 17:23" >ἐκεῖ ἤ</reference>
-		<reference osisRef="LUK.17.23!8" type="EmbeddedRepSpeech" label="" verse="LUK 17:23" >ὧδε</reference>
-		<reference osisRef="LUK.18.3!13-LUK.18.3!18" type="EmbeddedRepSpeech" label="" verse="LUK 18:3" >ἐκδίκησόν με ἀπὸ τοῦ ἀντιδίκου μου</reference>
-		<reference osisRef="LUK.18.4!12-LUK.18.5!38" type="EmbeddedRepSpeech" label="" verse="LUK 18:4 - 5" >εἰ καὶ τὸν θεὸν οὐ φοβοῦμαι οὐδὲ ἄνθρωπον ἐντρέπομαι διά γε τὸ παρέχειν μοι κόπον τὴν χήραν ταύτην ἐκδικήσω αὐτήν ἵνα μὴ εἰς τέλος ἐρχομένη ὑπωπιάζῃ με</reference>
-		<reference osisRef="LUK.18.11!8-LUK.18.12!36" type="EmbeddedRepSpeech" label="" verse="LUK 18:11 - 2" >ὁ θεός εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων ἅρπαγες ἄδικοι μοιχοί ἢ καὶ ὡς οὗτος ὁ τελώνης νηστεύω δὶς τοῦ σαββάτου ἀποδεκατῶ πάντα ὅσα κτῶμαι</reference>
-		<reference osisRef="LUK.18.13!21-LUK.18.13!26" type="EmbeddedRepSpeech" label="" verse="LUK 18:13" >ὁ θεός ἱλάσθητί μοι τῷ ἁμαρτωλῷ</reference>
-		<reference osisRef="LUK.19.13!14-LUK.19.13!17" type="EmbeddedRepSpeech" label="" verse="LUK 19:13" >πραγματεύσασθε ἐν ᾧ ἔρχομαι</reference>
-		<reference osisRef="LUK.19.14!13-LUK.19.14!18" type="EmbeddedRepSpeech" label="" verse="LUK 19:14" >οὐ θέλομεν τοῦτον βασιλεῦσαι ἐφ’ ἡμᾶς</reference>
-		<reference osisRef="LUK.19.16!6-LUK.19.16!12" type="EmbeddedRepSpeech" label="" verse="LUK 19:16" >κύριε ἡ μνᾶ σου δέκα προσηργάσατο μνᾶς</reference>
-		<reference osisRef="LUK.19.17!4-LUK.19.17!17" type="EmbeddedRepSpeech" label="" verse="LUK 19:17" >εὖγε ἀγαθὲ δοῦλε ὅτι ἐν ἐλαχίστῳ πιστὸς ἐγένου ἴσθι ἐξουσίαν ἔχων ἐπάνω δέκα πόλεων</reference>
-		<reference osisRef="LUK.19.18!6-LUK.19.18!12" type="EmbeddedRepSpeech" label="" verse="LUK 19:18" >ἡ μνᾶ σου κύριε ἐποίησεν πέντε μνᾶς</reference>
-		<reference osisRef="LUK.19.19!5-LUK.19.19!10" type="EmbeddedRepSpeech" label="" verse="LUK 19:19" >καὶ σὺ ἐπάνω γίνου πέντε πόλεων</reference>
-		<reference osisRef="LUK.19.20!6-LUK.19.21!31" type="EmbeddedRepSpeech" label="" verse="LUK 19:20 - 1" >κύριε ἰδοὺ ἡ μνᾶ σου ἣν εἶχον ἀποκειμένην ἐν σουδαρίῳ ἐφοβούμην γάρ σε ὅτι ἄνθρωπος αὐστηρὸς εἶ αἴρεις ὃ οὐκ ἔθηκας καὶ θερίζεις ὃ οὐκ ἔσπειρας</reference>
-		<reference osisRef="LUK.19.22!3-LUK.19.23!42" type="EmbeddedRepSpeech" label="" verse="LUK 19:22 - 3" >ἐκ τοῦ στόματός σου κρινῶ σε πονηρὲ δοῦλε ᾔδεις ὅτι ἐγὼ ἄνθρωπος αὐστηρός εἰμι αἴρων ὃ οὐκ ἔθηκα καὶ θερίζων ὃ οὐκ ἔσπειρα καὶ διὰ τί οὐκ ἔδωκάς μου τὸ ἀργύριον ἐπὶ τράπεζαν κἀγὼ ἐλθὼν σὺν τόκῳ ἂν αὐτὸ ἔπραξα</reference>
-		<reference osisRef="LUK.19.24!5-LUK.19.24!16" type="EmbeddedRepSpeech" label="" verse="LUK 19:24" >ἄρατε ἀπ’ αὐτοῦ τὴν μνᾶν καὶ δότε τῷ τὰς δέκα μνᾶς ἔχοντι</reference>
-		<reference osisRef="LUK.19.25!4-LUK.19.25!7" type="EmbeddedRepSpeech" label="" verse="LUK 19:25" >κύριε ἔχει δέκα μνᾶς</reference>
-		<reference osisRef="LUK.19.26!1-LUK.19.27!35" type="EmbeddedRepSpeech" label="" verse="LUK 19:26 - 7" >λέγω ὑμῖν ὅτι παντὶ τῷ ἔχοντι δοθήσεται ἀπὸ δὲ τοῦ μὴ ἔχοντος καὶ ὃ ἔχει ἀρθήσεται πλὴν τοὺς ἐχθρούς μου τούτους τοὺς μὴ θελήσαντάς με βασιλεῦσαι ἐπ’ αὐτοὺς ἀγάγετε ὧδε καὶ κατασφάξατε αὐτοὺς ἔμπροσθέν μου</reference>
-		<reference osisRef="LUK.19.31!6-LUK.19.31!8" type="EmbeddedRepSpeech" label="" verse="LUK 19:31" >διὰ τί λύετε</reference>
-		<reference osisRef="LUK.19.31!12-LUK.19.31!16" type="EmbeddedRepSpeech" label="" verse="LUK 19:31" >ὁ κύριος αὐτοῦ χρείαν ἔχει</reference>
-		<reference osisRef="LUK.19.46!4-LUK.19.46!10" type="EmbeddedRepSpeech" label="" verse="LUK 19:46" >καὶ ἔσται ὁ οἶκός μου οἶκος προσευχῆς</reference>
-		<reference osisRef="LUK.20.5!10-LUK.20.5!11" type="EmbeddedRepSpeech" label="" verse="LUK 20:5" >ἐξ οὐρανοῦ</reference>
-		<reference osisRef="LUK.20.5!13-LUK.20.5!17" type="EmbeddedRepSpeech" label="" verse="LUK 20:5" >διὰ τί οὐκ ἐπιστεύσατε αὐτῷ</reference>
-		<reference osisRef="LUK.20.6!4-LUK.20.6!5" type="EmbeddedRepSpeech" label="" verse="LUK 20:6" >ἐξ ἀνθρώπων</reference>
-		<reference osisRef="LUK.20.13!7-LUK.20.13!17" type="EmbeddedRepSpeech" label="" verse="LUK 20:13" >τί ποιήσω πέμψω τὸν υἱόν μου τὸν ἀγαπητόν ἴσως τοῦτον ἐντραπήσονται</reference>
-		<reference osisRef="LUK.20.14!10-LUK.20.14!20" type="EmbeddedRepSpeech" label="" verse="LUK 20:14" >οὗτός ἐστιν ὁ κληρονόμος ἀποκτείνωμεν αὐτόν ἵνα ἡμῶν γένηται ἡ κληρονομία</reference>
-		<reference osisRef="LUK.20.42!8-LUK.20.43!26" type="EmbeddedRepSpeech" label="" verse="LUK 20:42 - 3" >εἶπεν κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου</reference>
-		<reference osisRef="LUK.21.8!15-LUK.21.8!16" type="EmbeddedRepSpeech" label="" verse="LUK 21:8" >ἐγώ εἰμι</reference>
-		<reference osisRef="LUK.21.8!18-LUK.21.8!20" type="EmbeddedRepSpeech" label="" verse="LUK 21:8" >ὁ καιρὸς ἤγγικεν</reference>
-		<reference osisRef="LUK.22.11!7-LUK.22.11!22" type="EmbeddedRepSpeech" label="" verse="LUK 22:11" >λέγει σοι ὁ διδάσκαλος ποῦ ἐστιν τὸ κατάλυμα ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω</reference>
-		<reference osisRef="LUK.23.29!8-LUK.23.29!21" type="EmbeddedRepSpeech" label="" verse="LUK 23:29" >μακάριαι αἱ στεῖραι καὶ αἱ κοιλίαι αἳ οὐκ ἐγέννησαν καὶ μαστοὶ οἳ οὐκ ἔθρεψαν</reference>
-		<reference osisRef="LUK.23.30!6-LUK.23.30!8" type="EmbeddedRepSpeech" label="" verse="LUK 23:30" >πέσετε ἐφ’ ἡμᾶς</reference>
-		<reference osisRef="LUK.23.30!12-LUK.23.30!13" type="EmbeddedRepSpeech" label="" verse="LUK 23:30" >καλύψατε ἡμᾶς</reference>
-		<reference osisRef="LUK.24.7!2-LUK.24.7!19" type="EmbeddedRepSpeech" label="" verse="LUK 24:7" >τὸν υἱὸν τοῦ ἀνθρώπου ὅτι δεῖ παραδοθῆναι εἰς χεῖρας ἀνθρώπων ἁμαρτωλῶν καὶ σταυρωθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι</reference>
-		<reference osisRef="JHN.1.15!12-JHN.1.15!22" type="EmbeddedRepSpeech" label="" verse="JHN 1:15" >ὁ ὀπίσω μου ἐρχόμενος ἔμπροσθέν μου γέγονεν ὅτι πρῶτός μου ἦν</reference>
-		<reference osisRef="JHN.1.23!8-JHN.1.23!11" type="EmbeddedRepSpeech" label="" verse="JHN 1:23" >εὐθύνατε τὴν ὁδὸν κυρίου</reference>
-		<reference osisRef="JHN.1.30!7-JHN.1.30!18" type="EmbeddedRepSpeech" label="" verse="JHN 1:30" >ὀπίσω μου ἔρχεται ἀνὴρ ὃς ἔμπροσθέν μου γέγονεν ὅτι πρῶτός μου ἦν</reference>
-		<reference osisRef="JHN.1.33!15-JHN.1.33!32" type="EmbeddedRepSpeech" label="" verse="JHN 1:33" >ἐφ’ ὃν ἂν ἴδῃς τὸ πνεῦμα καταβαῖνον καὶ μένον ἐπ’ αὐτόν οὗτός ἐστιν ὁ βαπτίζων ἐν πνεύματι ἁγίῳ</reference>
-		<reference osisRef="JHN.1.50!10-JHN.1.50!14" type="EmbeddedRepSpeech" label="" verse="JHN 1:50" >εἶδόν σε ὑποκάτω τῆς συκῆς</reference>
-		<reference osisRef="JHN.3.7!6-JHN.3.7!9" type="EmbeddedRepSpeech" label="" verse="JHN 3:7" >δεῖ ὑμᾶς γεννηθῆναι ἄνωθεν</reference>
-		<reference osisRef="JHN.3.28!8-JHN.3.28!13" type="EmbeddedRepSpeech" label="" verse="JHN 3:28" >οὐκ εἰμὶ ἐγὼ ὁ χριστός ἀλλ’</reference>
-		<reference osisRef="JHN.3.28!15-JHN.3.28!18" type="EmbeddedRepSpeech" label="" verse="JHN 3:28" >ἀπεσταλμένος εἰμὶ ἔμπροσθεν ἐκείνου</reference>
-		<reference osisRef="JHN.4.10!18-JHN.4.10!20" type="EmbeddedRepSpeech" label="" verse="JHN 4:10" >δός μοι πεῖν</reference>
-		<reference osisRef="JHN.4.35!5-JHN.4.35!11" type="EmbeddedRepSpeech" label="" verse="JHN 4:35" >ἔτι τετράμηνός ἐστιν καὶ ὁ θερισμὸς ἔρχεται</reference>
-		<reference osisRef="JHN.5.11!12-JHN.5.11!17" type="EmbeddedRepSpeech" label="" verse="JHN 5:11" >ἆρον τὸν κράβαττόν σου καὶ περιπάτει</reference>
-		<reference osisRef="JHN.5.12!10-JHN.5.12!12" type="EmbeddedRepSpeech" label="" verse="JHN 5:12" >ἆρον καὶ περιπάτει</reference>
-		<reference osisRef="JHN.6.31!13-JHN.6.31!19" type="EmbeddedRepSpeech" label="" verse="JHN 6:31" >ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν αὐτοῖς φαγεῖν</reference>
-		<reference osisRef="JHN.6.36!5-JHN.6.36!10" type="EmbeddedRepSpeech" label="" verse="JHN 6:36" >καὶ ἑωράκατέ με καὶ οὐ πιστεύετε</reference>
-		<reference osisRef="JHN.6.42!22-JHN.6.42!25" type="EmbeddedRepSpeech" label="" verse="JHN 6:42" >ἐκ τοῦ οὐρανοῦ καταβέβηκα</reference>
-		<reference osisRef="JHN.6.45!6-JHN.6.45!10" type="EmbeddedRepSpeech" label="" verse="JHN 6:45" >καὶ ἔσονται πάντες διδακτοὶ θεοῦ</reference>
-		<reference osisRef="JHN.7.36!8-JHN.7.36!21" type="EmbeddedRepSpeech" label="" verse="JHN 7:36" >ζητήσετέ με καὶ οὐχ εὑρήσετέ με καὶ ὅπου εἰμὶ ἐγὼ ὑμεῖς οὐ δύνασθε ἐλθεῖν</reference>
-		<reference osisRef="JHN.7.42!6-JHN.7.42!20" type="EmbeddedRepSpeech" label="" verse="JHN 7:42" >ἐκ τοῦ σπέρματος δαυὶδ καὶ ἀπὸ βηθλέεμ τῆς κώμης ὅπου ἦν δαυὶδ ἔρχεται ὁ χριστός</reference>
-		<reference osisRef="JHN.8.22!10-JHN.8.22!16" type="EmbeddedRepSpeech" label="" verse="JHN 8:22" >ὅπου ἐγὼ ὑπάγω ὑμεῖς οὐ δύνασθε ἐλθεῖν</reference>
-		<reference osisRef="JHN.8.24!5-JHN.8.24!9" type="EmbeddedRepSpeech" label="" verse="JHN 8:24" >ἀποθανεῖσθε ἐν ταῖς ἁμαρτίαις ὑμῶν</reference>
-		<reference osisRef="JHN.8.33!15-JHN.8.33!16" type="EmbeddedRepSpeech" label="" verse="JHN 8:33" >ἐλεύθεροι γενήσεσθε</reference>
-		<reference osisRef="JHN.8.52!19-JHN.8.52!31" type="EmbeddedRepSpeech" label="" verse="JHN 8:52" >ἐάν τις τὸν λόγον μου τηρήσῃ οὐ μὴ γεύσηται θανάτου εἰς τὸν αἰῶνα</reference>
-		<reference osisRef="JHN.8.54!23-JHN.8.54!25" type="EmbeddedRepSpeech" label="" verse="JHN 8:54" >θεὸς ἡμῶν ἐστιν</reference>
-		<reference osisRef="JHN.9.11!19-JHN.9.11!24" type="EmbeddedRepSpeech" label="" verse="JHN 9:11" >ὕπαγε εἰς τὸν σιλωὰμ καὶ νίψαι</reference>
-		<reference osisRef="JHN.9.41!16" type="EmbeddedRepSpeech" label="" verse="JHN 9:41" >βλέπομεν</reference>
-		<reference osisRef="JHN.10.34!13-JHN.10.34!16" type="EmbeddedRepSpeech" label="" verse="JHN 10:34" >ἐγὼ εἶπα θεοί ἐστε</reference>
-		<reference osisRef="JHN.10.36!13" type="EmbeddedRepSpeech" label="" verse="JHN 10:36" >βλασφημεῖς</reference>
-		<reference osisRef="JHN.10.36!16-JHN.10.36!19" type="EmbeddedRepSpeech" label="" verse="JHN 10:36" >υἱὸς τοῦ θεοῦ εἰμι</reference>
-		<reference osisRef="JHN.12.34!23-JHN.12.34!28" type="EmbeddedRepSpeech" label="" verse="JHN 12:34" >δεῖ ὑψωθῆναι τὸν υἱὸν τοῦ ἀνθρώπου</reference>
-		<reference osisRef="JHN.13.13!4-JHN.13.13!5" type="EmbeddedRepSpeech" label="" verse="JHN 13:13" >ὁ διδάσκαλος</reference>
-		<reference osisRef="JHN.13.13!7-JHN.13.13!8" type="EmbeddedRepSpeech" label="" verse="JHN 13:13" >ὁ κύριος</reference>
-		<reference osisRef="JHN.13.18!15-JHN.13.18!25" type="EmbeddedRepSpeech" label="" verse="JHN 13:18" >ὁ τρώγων μου τὸν ἄρτον ἐπῆρεν ἐπ’ ἐμὲ τὴν πτέρναν αὐτοῦ</reference>
-		<reference osisRef="JHN.13.33!15-JHN.13.33!21" type="EmbeddedRepSpeech" label="" verse="JHN 13:33" >ὅπου ἐγὼ ὑπάγω ὑμεῖς οὐ δύνασθε ἐλθεῖν</reference>
-		<reference osisRef="JHN.14.9!24-JHN.14.9!27" type="EmbeddedRepSpeech" label="" verse="JHN 14:9" >δεῖξον ἡμῖν τὸν πατέρα</reference>
-		<reference osisRef="JHN.14.28!6-JHN.14.28!10" type="EmbeddedRepSpeech" label="" verse="JHN 14:28" >ὑπάγω καὶ ἔρχομαι πρὸς ὑμᾶς</reference>
-		<reference osisRef="JHN.15.20!8-JHN.15.20!14" type="EmbeddedRepSpeech" label="" verse="JHN 15:20" >οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ</reference>
-		<reference osisRef="JHN.15.25!13-JHN.15.25!15" type="EmbeddedRepSpeech" label="" verse="JHN 15:25" >ἐμίσησάν με δωρεάν</reference>
-		<reference osisRef="JHN.16.5!14-JHN.16.5!15" type="EmbeddedRepSpeech" label="" verse="JHN 16:5" >ποῦ ὑπάγεις</reference>
-		<reference osisRef="JHN.16.17!15-JHN.16.17!19" type="EmbeddedRepSpeech" label="" verse="JHN 16:17" >μικρὸν καὶ οὐ θεωρεῖτέ με</reference>
-		<reference osisRef="JHN.16.17!20" type="EmbeddedRepSpeech" label="" verse="JHN 16:17" >καὶ</reference>
-		<reference osisRef="JHN.16.17!21-JHN.16.17!25" type="EmbeddedRepSpeech" label="" verse="JHN 16:17" >πάλιν μικρὸν καὶ ὄψεσθέ με</reference>
-		<reference osisRef="JHN.16.17!27-JHN.16.17!31" type="EmbeddedRepSpeech" label="" verse="JHN 16:17" >ὅτι ὑπάγω πρὸς τὸν πατέρα</reference>
-		<reference osisRef="JHN.16.19!18-JHN.16.19!28" type="EmbeddedRepSpeech" label="" verse="JHN 16:19" >μικρὸν καὶ οὐ θεωρεῖτέ με καὶ πάλιν μικρὸν καὶ ὄψεσθέ με</reference>
-		<reference osisRef="JHN.19.21!11-JHN.19.21!14" type="EmbeddedRepSpeech" label="" verse="JHN 19:21" >ὁ βασιλεὺς τῶν ἰουδαίων</reference>
-		<reference osisRef="JHN.19.21!19-JHN.19.21!22" type="EmbeddedRepSpeech" label="" verse="JHN 19:21" >βασιλεύς εἰμι τῶν ἰουδαίων</reference>
-		<reference osisRef="JHN.19.24!20-JHN.19.24!31" type="EmbeddedRepSpeech" label="" verse="JHN 19:24" >διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον</reference>
-		<reference osisRef="JHN.20.17!22-JHN.20.17!35" type="EmbeddedRepSpeech" label="" verse="JHN 20:17" >ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν</reference>
-		<reference osisRef="ACT.1.20!6-ACT.1.20!17" type="EmbeddedRepSpeech" label="" verse="ACT 1:20" >γενηθήτω ἡ ἔπαυλις αὐτοῦ ἔρημος καὶ μὴ ἔστω ὁ κατοικῶν ἐν αὐτῇ</reference>
-		<reference osisRef="ACT.1.20!19-ACT.1.20!23" type="EmbeddedRepSpeech" label="" verse="ACT 1:20" >τὴν ἐπισκοπὴν αὐτοῦ λαβέτω ἕτερος</reference>
-		<reference osisRef="ACT.2.17!1-ACT.2.21!107" type="EmbeddedRepSpeech" label="" verse="ACT 2:17 - 21" >καὶ ἔσται ἐν ταῖς ἐσχάταις ἡμέραις λέγει ὁ θεός ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα καὶ προφητεύσουσιν οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν καὶ οἱ νεανίσκοι ὑμῶν ὁράσεις ὄψονται καὶ οἱ πρεσβύτεροι ὑμῶν ἐνυπνίοις ἐνυπνιασθήσονται καί γε ἐπὶ τοὺς δούλους μου καὶ ἐπὶ τὰς δούλας μου ἐν ταῖς ἡμέραις ἐκείναις ἐκχεῶ ἀπὸ τοῦ πνεύματός μου καὶ προφητεύσουσιν καὶ δώσω τέρατα ἐν τῷ οὐρανῷ ἄνω καὶ σημεῖα ἐπὶ τῆς γῆς κάτω αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ ὁ ἥλιος μεταστραφήσεται εἰς σκότος καὶ ἡ σελήνη εἰς αἷμα πρὶν ἐλθεῖν ἡμέραν κυρίου τὴν μεγάλην καὶ ἐπιφανῆ καὶ ἔσται πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται</reference>
-		<reference osisRef="ACT.2.25!6-ACT.2.28!66" type="EmbeddedRepSpeech" label="" verse="ACT 2:25 - 8" >προορώμην τὸν κύριον ἐνώπιόν μου διὰ παντός ὅτι ἐκ δεξιῶν μού ἐστιν ἵνα μὴ σαλευθῶ διὰ τοῦτο ηὐφράνθη ἡ καρδία μου καὶ ἠγαλλιάσατο ἡ γλῶσσά μου ἔτι δὲ καὶ ἡ σάρξ μου κατασκηνώσει ἐπ’ ἐλπίδι ὅτι οὐκ ἐγκαταλείψεις τὴν ψυχήν μου εἰς ᾅδην οὐδὲ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν ἐγνώρισάς μοι ὁδοὺς ζωῆς πληρώσεις με εὐφροσύνης μετὰ τοῦ προσώπου σου</reference>
-		<reference osisRef="ACT.2.34!11-ACT.2.35!30" type="EmbeddedRepSpeech" label="" verse="ACT 2:34 - 5" >εἶπεν ὁ κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου</reference>
-		<reference osisRef="ACT.3.22!5-ACT.3.23!41" type="EmbeddedRepSpeech" label="" verse="ACT 3:22 - 3" >προφήτην ὑμῖν ἀναστήσει κύριος ὁ θεὸς ὑμῶν ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ αὐτοῦ ἀκούσεσθε κατὰ πάντα ὅσα ἂν λαλήσῃ πρὸς ὑμᾶς ἔσται δὲ πᾶσα ψυχὴ ἥτις ἐὰν μὴ ἀκούσῃ τοῦ προφήτου ἐκείνου ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ</reference>
-		<reference osisRef="ACT.3.25!21-ACT.3.25!31" type="EmbeddedRepSpeech" label="" verse="ACT 3:25" >καὶ ἐν τῷ σπέρματί σου [ἐν]ευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς</reference>
-		<reference osisRef="ACT.4.25!13-ACT.4.26!39" type="EmbeddedRepSpeech" label="" verse="ACT 4:25 - 6" >ἱνατί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου καὶ κατὰ τοῦ χριστοῦ αὐτοῦ</reference>
-		<reference osisRef="ACT.6.14!6-ACT.6.14!21" type="EmbeddedRepSpeech" label="" verse="ACT 6:14" >ἰησοῦς ὁ ναζωραῖος οὗτος καταλύσει τὸν τόπον τοῦτον καὶ ἀλλάξει τὰ ἔθη ἃ παρέδωκεν ἡμῖν μωϋσῆς</reference>
-		<reference osisRef="ACT.7.3!5-ACT.7.3!23" type="EmbeddedRepSpeech" label="" verse="ACT 7:3" >ἔξελθε ἐκ τῆς γῆς σου καὶ ἐκ τῆς συγγενείας σου καὶ δεῦρο εἰς τὴν γῆν ἣν ἄν σοι δείξω</reference>
-		<reference osisRef="ACT.7.6!7-ACT.7.7!29" type="EmbeddedRepSpeech" label="" verse="ACT 7:6 - 7" >ἔσται τὸ σπέρμα αὐτοῦ πάροικον ἐν γῇ ἀλλοτρίᾳ καὶ δουλώσουσιν αὐτὸ καὶ κακώσουσιν ἔτη τετρακόσια καὶ τὸ ἔθνος ᾧ ἐὰν δουλεύσουσιν κρινῶ ἐγώ</reference>
-		<reference osisRef="ACT.7.7!12-ACT.7.7!22" type="EmbeddedRepSpeech" label="" verse="ACT 7:7" >καὶ μετὰ ταῦτα ἐξελεύσονται καὶ λατρεύσουσίν μοι ἐν τῷ τόπῳ τούτῳ</reference>
-		<reference osisRef="ACT.7.26!14-ACT.7.26!19" type="EmbeddedRepSpeech" label="" verse="ACT 7:26" >ἄνδρες ἀδελφοί ἐστε ἱνατί ἀδικεῖτε ἀλλήλους</reference>
-		<reference osisRef="ACT.7.27!9-ACT.7.28!27" type="EmbeddedRepSpeech" label="" verse="ACT 7:27 - 8" >τίς σε κατέστησεν ἄρχοντα καὶ δικαστὴν ἐφ’ ἡμῶν μὴ ἀνελεῖν με σὺ θέλεις ὃν τρόπον ἀνεῖλες ἐχθὲς τὸν αἰγύπτιον</reference>
-		<reference osisRef="ACT.7.32!1-ACT.7.32!13" type="EmbeddedRepSpeech" label="" verse="ACT 7:32" >ἐγὼ ὁ θεὸς τῶν πατέρων σου ὁ θεὸς ἀβραὰμ καὶ ἰσαὰκ καὶ ἰακώβ</reference>
-		<reference osisRef="ACT.7.33!6-ACT.7.34!46" type="EmbeddedRepSpeech" label="" verse="ACT 7:33 - 4" >λῦσον τὸ ὑπόδημα τῶν ποδῶν σου ὁ γὰρ τόπος ἐφ’ ᾧ ἕστηκας γῆ ἁγία ἐστίν ἰδὼν εἶδον τὴν κάκωσιν τοῦ λαοῦ μου τοῦ ἐν αἰγύπτῳ καὶ τοῦ στεναγμοῦ αὐτῶν ἤκουσα καὶ κατέβην ἐξελέσθαι αὐτούς καὶ νῦν δεῦρο ἀποστείλω σε εἰς αἴγυπτον</reference>
-		<reference osisRef="ACT.7.35!7-ACT.7.35!12" type="EmbeddedRepSpeech" label="" verse="ACT 7:35" >τίς σε κατέστησεν ἄρχοντα καὶ δικαστήν</reference>
-		<reference osisRef="ACT.7.37!10-ACT.7.37!20" type="EmbeddedRepSpeech" label="" verse="ACT 7:37" >προφήτην ὑμῖν ἀναστήσει ὁ θεὸς ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ</reference>
-		<reference osisRef="ACT.7.40!4-ACT.7.40!24" type="EmbeddedRepSpeech" label="" verse="ACT 7:40" >ποίησον ἡμῖν θεοὺς οἳ προπορεύσονται ἡμῶν ὁ γὰρ μωϋσῆς οὗτος ὃς ἐξήγαγεν ἡμᾶς ἐκ γῆς αἰγύπτου οὐκ οἴδαμεν τί ἐγένετο αὐτῷ</reference>
-		<reference osisRef="ACT.7.42!19-ACT.7.43!55" type="EmbeddedRepSpeech" label="" verse="ACT 7:42 - 3" >μὴ σφάγια καὶ θυσίας προσηνέγκατέ μοι ἔτη τεσσεράκοντα ἐν τῇ ἐρήμῳ οἶκος ἰσραήλ καὶ ἀνελάβετε τὴν σκηνὴν τοῦ μόλοχ καὶ τὸ ἄστρον τοῦ θεοῦ ὑμῶν ῥαιφάν τοὺς τύπους οὓς ἐποιήσατε προσκυνεῖν αὐτοῖς καὶ μετοικιῶ ὑμᾶς ἐπέκεινα βαβυλῶνος</reference>
-		<reference osisRef="ACT.7.49!1-ACT.7.50!30" type="EmbeddedRepSpeech" label="" verse="ACT 7:49 - 50" >ὁ οὐρανός μοι θρόνος ἡ δὲ γῆ ὑποπόδιον τῶν ποδῶν μου ποῖον οἶκον οἰκοδομήσετέ μοι λέγει κύριος ἢ τίς τόπος τῆς καταπαύσεώς μου οὐχὶ ἡ χείρ μου ἐποίησεν ταῦτα πάντα</reference>
-		<reference osisRef="ACT.10.31!3-ACT.10.32!33" type="EmbeddedRepSpeech" label="" verse="ACT 10:31 - 2" >κορνήλιε εἰσηκούσθη σου ἡ προσευχὴ καὶ αἱ ἐλεημοσύναι σου ἐμνήσθησαν ἐνώπιον τοῦ θεοῦ πέμψον οὖν εἰς ἰόππην καὶ μετακάλεσαι σίμωνα ὃς ἐπικαλεῖται πέτρος οὗτος ξενίζεται ἐν οἰκίᾳ σίμωνος βυρσέως παρὰ θάλασσαν</reference>
-		<reference osisRef="ACT.11.7!7-ACT.11.7!11" type="EmbeddedRepSpeech" label="" verse="ACT 11:7" >ἀναστάς πέτρε θῦσον καὶ φάγε</reference>
-		<reference osisRef="ACT.11.8!3-ACT.11.8!14" type="EmbeddedRepSpeech" label="" verse="ACT 11:8" >μηδαμῶς κύριε ὅτι κοινὸν ἢ ἀκάθαρτον οὐδέποτε εἰσῆλθεν εἰς τὸ στόμα μου</reference>
-		<reference osisRef="ACT.11.9!9-ACT.11.9!15" type="EmbeddedRepSpeech" label="" verse="ACT 11:9" >ἃ ὁ θεὸς ἐκαθάρισεν σὺ μὴ κοίνου</reference>
-		<reference osisRef="ACT.11.13!15-ACT.11.14!37" type="EmbeddedRepSpeech" label="" verse="ACT 11:13 - 4" >ἀπόστειλον εἰς ἰόππην καὶ μετάπεμψαι σίμωνα τὸν ἐπικαλούμενον πέτρον ὃς λαλήσει ῥήματα πρὸς σὲ ἐν οἷς σωθήσῃ σὺ καὶ πᾶς ὁ οἶκός σου</reference>
-		<reference osisRef="ACT.11.16!9-ACT.11.16!18" type="EmbeddedRepSpeech" label="" verse="ACT 11:16" >ἰωάννης μὲν ἐβάπτισεν ὕδατι ὑμεῖς δὲ βαπτισθήσεσθε ἐν πνεύματι ἁγίῳ</reference>
-		<reference osisRef="ACT.13.22!16-ACT.13.22!18" type="EmbeddedRepSpeech" label="" verse="ACT 13:22" >τὸν τοῦ ἰεσσαί</reference>
-		<reference osisRef="ACT.13.22!24-ACT.13.22!29" type="EmbeddedRepSpeech" label="" verse="ACT 13:22" >ὃς ποιήσει πάντα τὰ θελήματά μου</reference>
-		<reference osisRef="ACT.13.25!8-ACT.13.25!15" type="EmbeddedRepSpeech" label="" verse="ACT 13:25" >τί ἐμὲ ὑπονοεῖτε εἶναι οὐκ εἰμὶ ἐγώ ἀλλ’</reference>
-		<reference osisRef="ACT.13.25!17-ACT.13.25!28" type="EmbeddedRepSpeech" label="" verse="ACT 13:25" >ἔρχεται μετ’ ἐμὲ οὗ οὐκ εἰμὶ ἄξιος τὸ ὑπόδημα τῶν ποδῶν λῦσαι</reference>
-		<reference osisRef="ACT.13.33!20-ACT.13.33!27" type="EmbeddedRepSpeech" label="" verse="ACT 13:33" >υἱός μου εἶ σύ ἐγὼ σήμερον γεγέννηκά σε</reference>
-		<reference osisRef="ACT.13.34!15-ACT.13.34!21" type="EmbeddedRepSpeech" label="" verse="ACT 13:34" >δώσω ὑμῖν τὰ ὅσια δαυὶδ τὰ πιστά</reference>
-		<reference osisRef="ACT.13.35!6-ACT.13.35!12" type="EmbeddedRepSpeech" label="" verse="ACT 13:35" >οὐ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν</reference>
-		<reference osisRef="ACT.13.41!1" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἴδετε</reference>
-		<reference osisRef="ACT.13.41!2" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >οἱ</reference>
-		<reference osisRef="ACT.13.41!3" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >καταφρονηταί</reference>
-		<reference osisRef="ACT.13.41!4" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >καὶ</reference>
-		<reference osisRef="ACT.13.41!5" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >θαυμάσατε</reference>
-		<reference osisRef="ACT.13.41!6" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >καὶ</reference>
-		<reference osisRef="ACT.13.41!7" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἀφανίσθητε</reference>
-		<reference osisRef="ACT.13.41!8" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ὅτι</reference>
-		<reference osisRef="ACT.13.41!9" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἔργον</reference>
-		<reference osisRef="ACT.13.41!10" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἐργάζομαι</reference>
-		<reference osisRef="ACT.13.41!11" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἐγὼ</reference>
-		<reference osisRef="ACT.13.41!12" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἐν</reference>
-		<reference osisRef="ACT.13.41!13" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ταῖς</reference>
-		<reference osisRef="ACT.13.41!14" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἡμέραις</reference>
-		<reference osisRef="ACT.13.41!15" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ὑμῶν</reference>
-		<reference osisRef="ACT.13.41!16" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἔργον</reference>
-		<reference osisRef="ACT.13.41!17" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ὃ</reference>
-		<reference osisRef="ACT.13.41!18" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >οὐ</reference>
-		<reference osisRef="ACT.13.41!19" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >μὴ</reference>
-		<reference osisRef="ACT.13.41!20" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >πιστεύσητε</reference>
-		<reference osisRef="ACT.13.41!21" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἐάν</reference>
-		<reference osisRef="ACT.13.41!22" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >τις</reference>
-		<reference osisRef="ACT.13.41!23" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ἐκδιηγῆται</reference>
-		<reference osisRef="ACT.13.41!24" type="EmbeddedRepSpeech" label="" verse="ACT 13:41" >ὑμῖν</reference>
-		<reference osisRef="ACT.13.47!7-ACT.13.47!20" type="EmbeddedRepSpeech" label="" verse="ACT 13:47" >τέθεικά σε εἰς φῶς ἐθνῶν τοῦ εἶναί σε εἰς σωτηρίαν ἕως ἐσχάτου τῆς γῆς</reference>
-		<reference osisRef="ACT.15.16!1-ACT.15.18!46" type="EmbeddedRepSpeech" label="" verse="ACT 15:16 - 8" >μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν δαυὶδ τὴν πεπτωκυῖαν καὶ τὰ κατεσκαμμένα αὐτῆς ἀνοικοδομήσω καὶ ἀνορθώσω αὐτήν ὅπως ἂν ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον καὶ πάντα τὰ ἔθνη ἐφ’ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ’ αὐτούς λέγει κύριος ποιῶν ταῦτα γνωστὰ ἀπ’ αἰῶνος</reference>
-		<reference osisRef="ACT.17.23!14-ACT.17.23!15" type="EmbeddedRepSpeech" label="" verse="ACT 17:23" >ἀγνώστῳ θεῷ</reference>
-		<reference osisRef="ACT.17.28!17-ACT.17.28!21" type="EmbeddedRepSpeech" label="" verse="ACT 17:28" >τοῦ γὰρ καὶ γένος ἐσμέν</reference>
-		<reference osisRef="ACT.19.26!23-ACT.19.26!29" type="EmbeddedRepSpeech" label="" verse="ACT 19:26" >οὐκ εἰσὶν θεοὶ οἱ διὰ χειρῶν γινόμενοι</reference>
-		<reference osisRef="ACT.20.23!13-ACT.20.23!17" type="EmbeddedRepSpeech" label="" verse="ACT 20:23" >δεσμὰ καὶ θλίψεις με μένουσιν</reference>
-		<reference osisRef="ACT.20.35!21-ACT.20.35!26" type="EmbeddedRepSpeech" label="" verse="ACT 20:35" >μακάριόν ἐστιν μᾶλλον διδόναι ἢ λαμβάνειν</reference>
-		<reference osisRef="ACT.21.11!25-ACT.21.11!42" type="EmbeddedRepSpeech" label="" verse="ACT 21:11" >τὸν ἄνδρα οὗ ἐστιν ἡ ζώνη αὕτη οὕτως δήσουσιν ἐν ἰερουσαλὴμ οἱ ἰουδαῖοι καὶ παραδώσουσιν εἰς χεῖρας ἐθνῶν</reference>
-		<reference osisRef="ACT.22.7!11-ACT.22.7!15" type="EmbeddedRepSpeech" label="" verse="ACT 22:7" >σαοὺλ σαούλ τί με διώκεις</reference>
-		<reference osisRef="ACT.22.8!4-ACT.22.8!6" type="EmbeddedRepSpeech" label="" verse="ACT 22:8" >τίς εἶ κύριε</reference>
-		<reference osisRef="ACT.22.8!11-ACT.22.8!18" type="EmbeddedRepSpeech" label="" verse="ACT 22:8" >ἐγώ εἰμι ἰησοῦς ὁ ναζωραῖος ὃν σὺ διώκεις</reference>
-		<reference osisRef="ACT.22.10!3-ACT.22.10!5" type="EmbeddedRepSpeech" label="" verse="ACT 22:10" >τί ποιήσω κύριε</reference>
-		<reference osisRef="ACT.22.10!12-ACT.22.10!24" type="EmbeddedRepSpeech" label="" verse="ACT 22:10" >ἀναστὰς πορεύου εἰς δαμασκὸν κἀκεῖ σοι λαληθήσεται περὶ πάντων ὧν τέτακταί σοι ποιῆσαι</reference>
-		<reference osisRef="ACT.22.13!8-ACT.22.13!10" type="EmbeddedRepSpeech" label="" verse="ACT 22:13" >σαοὺλ ἀδελφέ ἀνάβλεψον</reference>
-		<reference osisRef="ACT.22.14!4-ACT.22.16!51" type="EmbeddedRepSpeech" label="" verse="ACT 22:14 - 6" >ὁ θεὸς τῶν πατέρων ἡμῶν προεχειρίσατό σε γνῶναι τὸ θέλημα αὐτοῦ καὶ ἰδεῖν τὸν δίκαιον καὶ ἀκοῦσαι φωνὴν ἐκ τοῦ στόματος αὐτοῦ ὅτι ἔσῃ μάρτυς αὐτῷ πρὸς πάντας ἀνθρώπους ὧν ἑώρακας καὶ ἤκουσας καὶ νῦν τί μέλλεις ἀναστὰς βάπτισαι καὶ ἀπόλουσαι τὰς ἁμαρτίας σου ἐπικαλεσάμενος τὸ ὄνομα αὐτοῦ</reference>
-		<reference osisRef="ACT.22.18!6-ACT.22.18!19" type="EmbeddedRepSpeech" label="" verse="ACT 22:18" >σπεῦσον καὶ ἔξελθε ἐν τάχει ἐξ ἰερουσαλήμ διότι οὐ παραδέξονταί σου μαρτυρίαν περὶ ἐμοῦ</reference>
-		<reference osisRef="ACT.22.19!3-ACT.22.20!40" type="EmbeddedRepSpeech" label="" verse="ACT 22:19 - 20" >κύριε αὐτοὶ ἐπίστανται ὅτι ἐγὼ ἤμην φυλακίζων καὶ δέρων κατὰ τὰς συναγωγὰς τοὺς πιστεύοντας ἐπὶ σέ καὶ ὅτε ἐξεχύννετο τὸ αἷμα στεφάνου τοῦ μάρτυρός σου καὶ αὐτὸς ἤμην ἐφεστὼς καὶ συνευδοκῶν καὶ φυλάσσων τὰ ἱμάτια τῶν ἀναιρούντων αὐτόν</reference>
-		<reference osisRef="ACT.22.21!5-ACT.22.21!12" type="EmbeddedRepSpeech" label="" verse="ACT 22:21" >πορεύου ὅτι ἐγὼ εἰς ἔθνη μακρὰν ἐξαποστελῶ σε</reference>
-		<reference osisRef="ACT.23.5!14-ACT.23.5!20" type="EmbeddedRepSpeech" label="" verse="ACT 23:5" >ἄρχοντα τοῦ λαοῦ σου οὐκ ἐρεῖς κακῶς</reference>
-		<reference osisRef="ACT.24.21!12-ACT.24.21!19" type="EmbeddedRepSpeech" label="" verse="ACT 24:21" >περὶ ἀναστάσεως νεκρῶν ἐγὼ κρίνομαι σήμερον ἐφ’ ὑμῶν</reference>
-		<reference osisRef="ACT.25.16!5-ACT.25.16!27" type="EmbeddedRepSpeech" label="" verse="ACT 25:16" >οὐκ ἔστιν ἔθος ῥωμαίοις χαρίζεσθαί τινα ἄνθρωπον πρὶν ἢ ὁ κατηγορούμενος κατὰ πρόσωπον ἔχοι τοὺς κατηγόρους τόπον τε ἀπολογίας λάβοι περὶ τοῦ ἐγκλήματος</reference>
-		<reference osisRef="ACT.26.14!16-ACT.26.14!25" type="EmbeddedRepSpeech" label="" verse="ACT 26:14" >σαοὺλ σαούλ τί με διώκεις σκληρόν σοι πρὸς κέντρα λακτίζειν</reference>
-		<reference osisRef="ACT.26.15!4-ACT.26.15!6" type="EmbeddedRepSpeech" label="" verse="ACT 26:15" >τίς εἶ κύριε</reference>
-		<reference osisRef="ACT.26.15!11-ACT.26.18!87" type="EmbeddedRepSpeech" label="" verse="ACT 26:15 - 8" >ἐγώ εἰμι ἰησοῦς ὃν σὺ διώκεις ἀλλὰ ἀνάστηθι καὶ στῆθι ἐπὶ τοὺς πόδας σου εἰς τοῦτο γὰρ ὤφθην σοι προχειρίσασθαί σε ὑπηρέτην καὶ μάρτυρα ὧν τε εἶδές με ὧν τε ὀφθήσομαί σοι ἐξαιρούμενός σε ἐκ τοῦ λαοῦ καὶ ἐκ τῶν ἐθνῶν εἰς οὓς ἐγὼ ἀποστέλλω σε ἀνοῖξαι ὀφθαλμοὺς αὐτῶν τοῦ ἐπιστρέψαι ἀπὸ σκότους εἰς φῶς καὶ τῆς ἐξουσίας τοῦ σατανᾶ ἐπὶ τὸν θεόν τοῦ λαβεῖν αὐτοὺς ἄφεσιν ἁμαρτιῶν καὶ κλῆρον ἐν τοῖς ἡγιασμένοις πίστει τῇ εἰς ἐμέ</reference>
-		<reference osisRef="ACT.27.24!2-ACT.27.24!9" type="EmbeddedRepSpeech" label="" verse="ACT 27:24" >μὴ φοβοῦ παῦλε καίσαρί σε δεῖ παραστῆναι καὶ</reference>
-		<reference osisRef="ACT.27.24!11-ACT.27.24!19" type="EmbeddedRepSpeech" label="" verse="ACT 27:24" >κεχάρισταί σοι ὁ θεὸς πάντας τοὺς πλέοντας μετὰ σοῦ</reference>
-		<reference osisRef="ACT.28.26!2-ACT.28.27!55" type="EmbeddedRepSpeech" label="" verse="ACT 28:26 - 7" >πορεύθητι πρὸς τὸν λαὸν τοῦτον καὶ εἰπόν ἀκοῇ ἀκούσετε καὶ οὐ μὴ συνῆτε καὶ βλέποντες βλέψετε καὶ οὐ μὴ ἴδητε ἐπαχύνθη γὰρ ἡ καρδία τοῦ λαοῦ τούτου καὶ τοῖς ὠσὶν βαρέως ἤκουσαν καὶ τοὺς ὀφθαλμοὺς αὐτῶν ἐκάμμυσαν μήποτε ἴδωσιν τοῖς ὀφθαλμοῖς καὶ τοῖς ὠσὶν ἀκούσωσιν καὶ τῇ καρδίᾳ συνῶσιν καὶ ἐπιστρέψωσιν καὶ ἰάσομαι αὐτούς</reference>
-		<reference osisRef="ROM.9.26!9-ROM.9.26!12" type="EmbeddedRepSpeech" label="" verse="ROM 9:26" >οὐ λαός μου ὑμεῖς</reference>
-		<reference osisRef="ROM.10.6!14-ROM.10.6!18" type="EmbeddedRepSpeech" label="" verse="ROM 10:6" >τίς ἀναβήσεται εἰς τὸν οὐρανόν</reference>
-		<reference osisRef="ROM.10.7!2-ROM.10.7!6" type="EmbeddedRepSpeech" label="" verse="ROM 10:7" >τίς καταβήσεται εἰς τὴν ἄβυσσον</reference>
-		<reference osisRef="ROM.12.19!12-ROM.12.19!15" type="EmbeddedRepSpeech" label="" verse="ROM 12:19" >ἐμοὶ ἐκδίκησις ἐγὼ ἀνταποδώσω</reference>
-		<reference osisRef="ROM.14.11!3-ROM.14.11!4" type="EmbeddedRepSpeech" label="" verse="ROM 14:11" >ζῶ ἐγώ</reference>
-		<reference osisRef="ROM.14.11!7-ROM.14.11!17" type="EmbeddedRepSpeech" label="" verse="ROM 14:11" >ὅτι ἐμοὶ κάμψει πᾶν γόνυ καὶ πᾶσα γλῶσσα ἐξομολογήσεται τῷ θεῷ</reference>
-		<reference osisRef="1CO.14.21!6-1CO.14.21!20" type="EmbeddedRepSpeech" label="" verse="1CO 14:21" >ἐν ἑτερογλώσσοις καὶ ἐν χείλεσιν ἑτέρων λαλήσω τῷ λαῷ τούτῳ καὶ οὐδ’ οὕτως εἰσακούσονταί μου</reference>
-		<reference osisRef="HEB.3.10!10-HEB.3.10!20" type="EmbeddedRepSpeech" label="" verse="HEB 3:10" >ἀεὶ πλανῶνται τῇ καρδίᾳ αὐτοὶ δὲ οὐκ ἔγνωσαν τὰς ὁδούς μου</reference>
-		<reference osisRef="HEB.3.11!7-HEB.3.11!12" type="EmbeddedRepSpeech" label="" verse="HEB 3:11" >εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου</reference>
-		<reference osisRef="HEB.4.3!16-HEB.4.3!21" type="EmbeddedRepSpeech" label="" verse="HEB 4:3" >εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου</reference>
-		<reference osisRef="HEB.7.21!15-HEB.7.21!19" type="EmbeddedRepSpeech" label="" verse="HEB 7:21" >σὺ ἱερεὺς εἰς τὸν αἰῶνα</reference>
-		<reference osisRef="HEB.8.8!5-HEB.8.8!7" type="EmbeddedRepSpeech" label="" verse="HEB 8:8" >ἰδοὺ ἡμέραι ἔρχονται</reference>
-		<reference osisRef="HEB.8.8!10-HEB.8.9!54" type="EmbeddedRepSpeech" label="" verse="HEB 8:8 - 9" >καὶ συντελέσω ἐπὶ τὸν οἶκον ἰσραὴλ καὶ ἐπὶ τὸν οἶκον ἰούδα διαθήκην καινήν οὐ κατὰ τὴν διαθήκην ἣν ἐποίησα τοῖς πατράσιν αὐτῶν ἐν ἡμέρᾳ ἐπιλαβομένου μου τῆς χειρὸς αὐτῶν ἐξαγαγεῖν αὐτοὺς ἐκ γῆς αἰγύπτου ὅτι αὐτοὶ οὐκ ἐνέμειναν ἐν τῇ διαθήκῃ μου κἀγὼ ἠμέλησα αὐτῶν</reference>
-		<reference osisRef="HEB.8.10!1-HEB.8.10!13" type="EmbeddedRepSpeech" label="" verse="HEB 8:10" >ὅτι αὕτη ἡ διαθήκη ἣν διαθήσομαι τῷ οἴκῳ ἰσραὴλ μετὰ τὰς ἡμέρας ἐκείνας</reference>
-		<reference osisRef="HEB.8.10!16-HEB.8.12!79" type="EmbeddedRepSpeech" label="" verse="HEB 8:10 - 2" >διδοὺς νόμους μου εἰς τὴν διάνοιαν αὐτῶν καὶ ἐπὶ καρδίας αὐτῶν ἐπιγράψω αὐτούς καὶ ἔσομαι αὐτοῖς εἰς θεόν καὶ αὐτοὶ ἔσονταί μοι εἰς λαόν καὶ οὐ μὴ διδάξωσιν ἕκαστος τὸν πολίτην αὐτοῦ καὶ ἕκαστος τὸν ἀδελφὸν αὐτοῦ λέγων γνῶθι τὸν κύριον ὅτι πάντες εἰδήσουσίν με ἀπὸ μικροῦ ἕως μεγάλου αὐτῶν ὅτι ἵλεως ἔσομαι ταῖς ἀδικίαις αὐτῶν καὶ τῶν ἁμαρτιῶν αὐτῶν οὐ μὴ μνησθῶ ἔτι</reference>
-		<reference osisRef="HEB.10.7!3-HEB.10.7!17" type="EmbeddedRepSpeech" label="" verse="HEB 10:7" >ἰδοὺ ἥκω ἐν κεφαλίδι βιβλίου γέγραπται περὶ ἐμοῦ τοῦ ποιῆσαι ὁ θεὸς τὸ θέλημά σου</reference>
-		<reference osisRef="HEB.10.16!1-HEB.10.16!11" type="EmbeddedRepSpeech" label="" verse="HEB 10:16" >αὕτη ἡ διαθήκη ἣν διαθήσομαι πρὸς αὐτοὺς μετὰ τὰς ἡμέρας ἐκείνας</reference>
-		<reference osisRef="HEB.10.16!14-HEB.10.17!38" type="EmbeddedRepSpeech" label="" verse="HEB 10:16 - 7" >διδοὺς νόμους μου ἐπὶ καρδίας αὐτῶν καὶ ἐπὶ τὴν διάνοιαν αὐτῶν ἐπιγράψω αὐτούς καὶ τῶν ἁμαρτιῶν αὐτῶν καὶ τῶν ἀνομιῶν αὐτῶν οὐ μὴ μνησθήσομαι ἔτι</reference>
-		<reference osisRef="REV.3.17!4-REV.3.17!5" type="EmbeddedRepSpeech" label="" verse="REV 3:17" >πλούσιός εἰμι</reference>
-		<reference osisRef="REV.14.13!9-REV.14.13!17" type="EmbeddedRepSpeech" label="" verse="REV 14:13" >μακάριοι οἱ νεκροὶ οἱ ἐν κυρίῳ ἀποθνῄσκοντες ἀπ’ ἄρτι</reference>
-		<reference osisRef="REV.14.13!18" type="EmbeddedRepSpeech" label="" verse="REV 14:13" >ναί</reference>
-		<reference osisRef="REV.18.7!19-REV.18.7!29" type="EmbeddedRepSpeech" label="" verse="REV 18:7" >κάθημαι βασίλισσα καὶ χήρα οὐκ εἰμὶ καὶ πένθος οὐ μὴ ἴδω</reference>
-		<reference osisRef="REV.19.9!5-REV.19.9!14" type="EmbeddedRepSpeech" label="" verse="REV 19:9" >μακάριοι οἱ εἰς τὸ δεῖπνον τοῦ γάμου τοῦ ἀρνίου κεκλημένοι</reference>
+		<reference osisRef="Matt.2.6!1-Matt.2.6!24" type="EmbeddedRepSpeech" label="" verse="Matt 2:6" >καὶ σὺ βηθλέεμ γῆ ἰούδα οὐδαμῶς ἐλαχίστη εἶ ἐν τοῖς ἡγεμόσιν ἰούδα ἐκ σοῦ γὰρ ἐξελεύσεται ἡγούμενος ὅστις ποιμανεῖ τὸν λαόν μου τὸν ἰσραήλ</reference>
+		<reference osisRef="Matt.3.3!16-Matt.3.3!24" type="EmbeddedRepSpeech" label="" verse="Matt 3:3" >ἑτοιμάσατε τὴν ὁδὸν κυρίου εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ</reference>
+		<reference osisRef="Matt.3.9!7-Matt.3.9!10" type="EmbeddedRepSpeech" label="" verse="Matt 3:9" >πατέρα ἔχομεν τὸν ἀβραάμ</reference>
+		<reference osisRef="Matt.4.4!6-Matt.4.4!20" type="EmbeddedRepSpeech" label="" verse="Matt 4:4" >οὐκ ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ἀλλ’ ἐπὶ παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος θεοῦ</reference>
+		<reference osisRef="Matt.4.6!15-Matt.4.6!20" type="EmbeddedRepSpeech" label="" verse="Matt 4:6" >τοῖς ἀγγέλοις αὐτοῦ ἐντελεῖται περὶ σοῦ</reference>
+		<reference osisRef="Matt.4.6!22-Matt.4.6!32" type="EmbeddedRepSpeech" label="" verse="Matt 4:6" >ἐπὶ χειρῶν ἀροῦσίν σε μήποτε προσκόψῃς πρὸς λίθον τὸν πόδα σου</reference>
+		<reference osisRef="Matt.4.7!7-Matt.4.7!12" type="EmbeddedRepSpeech" label="" verse="Matt 4:7" >οὐκ ἐκπειράσεις κύριον τὸν θεόν σου</reference>
+		<reference osisRef="Matt.4.10!10-Matt.4.10!18" type="EmbeddedRepSpeech" label="" verse="Matt 4:10" >κύριον τὸν θεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις</reference>
+		<reference osisRef="Matt.5.21!6-Matt.5.21!7" type="EmbeddedRepSpeech" label="" verse="Matt 5:21" >οὐ φονεύσεις</reference>
+		<reference osisRef="Matt.5.21!8-Matt.5.21!15" type="EmbeddedRepSpeech" label="" verse="Matt 5:21" >ὃς δ’ ἂν φονεύσῃ ἔνοχος ἔσται τῇ κρίσει</reference>
+		<reference osisRef="Matt.5.22!23" type="EmbeddedRepSpeech" label="" verse="Matt 5:22" >ῥακά</reference>
+		<reference osisRef="Matt.5.22!32" type="EmbeddedRepSpeech" label="" verse="Matt 5:22" >μωρέ</reference>
+		<reference osisRef="Matt.5.27!4-Matt.5.27!5" type="EmbeddedRepSpeech" label="" verse="Matt 5:27" >οὐ μοιχεύσεις</reference>
+		<reference osisRef="Matt.5.31!3-Matt.5.31!11" type="EmbeddedRepSpeech" label="" verse="Matt 5:31" >ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὐτοῦ δότω αὐτῇ ἀποστάσιον</reference>
+		<reference osisRef="Matt.5.33!7-Matt.5.33!15" type="EmbeddedRepSpeech" label="" verse="Matt 5:33" >οὐκ ἐπιορκήσεις ἀποδώσεις δὲ τῷ κυρίῳ τοὺς ὅρκους σου</reference>
+		<reference osisRef="Matt.5.37!6-Matt.5.37!7" type="EmbeddedRepSpeech" label="" verse="Matt 5:37" >ναὶ ναί</reference>
+		<reference osisRef="Matt.5.37!8-Matt.5.37!9" type="EmbeddedRepSpeech" label="" verse="Matt 5:37" >οὒ οὔ</reference>
+		<reference osisRef="Matt.5.38!4-Matt.5.38!10" type="EmbeddedRepSpeech" label="" verse="Matt 5:38" >ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ καὶ ὀδόντα ἀντὶ ὀδόντος</reference>
+		<reference osisRef="Matt.5.43!4-Matt.5.43!7" type="EmbeddedRepSpeech" label="" verse="Matt 5:43" >ἀγαπήσεις τὸν πλησίον σου</reference>
+		<reference osisRef="Matt.5.43!8-Matt.5.43!12" type="EmbeddedRepSpeech" label="" verse="Matt 5:43" >καὶ μισήσεις τὸν ἐχθρόν σου</reference>
+		<reference osisRef="Matt.6.9!5-Matt.6.13!61" type="EmbeddedRepSpeech" label="" verse="Matt 6:9 - 13" >πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς ἁγιασθήτω τὸ ὄνομά σου ἐλθέτω ἡ βασιλεία σου γενηθήτω τὸ θέλημά σου ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν ὡς καὶ ἡμεῖς ἀφήκαμεν τοῖς ὀφειλέταις ἡμῶν καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ</reference>
+		<reference osisRef="Matt.6.31!5-Matt.6.31!6" type="EmbeddedRepSpeech" label="" verse="Matt 6:31" >τί φάγωμεν</reference>
+		<reference osisRef="Matt.6.31!8-Matt.6.31!9" type="EmbeddedRepSpeech" label="" verse="Matt 6:31" >τί πίωμεν</reference>
+		<reference osisRef="Matt.6.31!11-Matt.6.31!12" type="EmbeddedRepSpeech" label="" verse="Matt 6:31" >τί περιβαλώμεθα</reference>
+		<reference osisRef="Matt.7.4!7-Matt.7.4!14" type="EmbeddedRepSpeech" label="" verse="Matt 7:4" >ἄφες ἐκβάλω τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ σου</reference>
+		<reference osisRef="Matt.7.21!6-Matt.7.21!7" type="EmbeddedRepSpeech" label="" verse="Matt 7:21" >κύριε κύριε</reference>
+		<reference osisRef="Matt.7.22!8-Matt.7.22!27" type="EmbeddedRepSpeech" label="" verse="Matt 7:22" >κύριε κύριε οὐ τῷ σῷ ὀνόματι ἐπροφητεύσαμεν καὶ τῷ σῷ ὀνόματι δαιμόνια ἐξεβάλομεν καὶ τῷ σῷ ὀνόματι δυνάμεις πολλὰς ἐποιήσαμεν</reference>
+		<reference osisRef="Matt.7.23!6-Matt.7.23!15" type="EmbeddedRepSpeech" label="" verse="Matt 7:23" >οὐδέποτε ἔγνων ὑμᾶς ἀποχωρεῖτε ἀπ’ ἐμοῦ οἱ ἐργαζόμενοι τὴν ἀνομίαν</reference>
+		<reference osisRef="Matt.8.9!15" type="EmbeddedRepSpeech" label="" verse="Matt 8:9" >πορεύθητι</reference>
+		<reference osisRef="Matt.8.9!20" type="EmbeddedRepSpeech" label="" verse="Matt 8:9" >ἔρχου</reference>
+		<reference osisRef="Matt.8.9!27-Matt.8.9!28" type="EmbeddedRepSpeech" label="" verse="Matt 8:9" >ποίησον τοῦτο</reference>
+		<reference osisRef="Matt.9.5!6-Matt.9.5!9" type="EmbeddedRepSpeech" label="" verse="Matt 9:5" >ἀφίενταί σου αἱ ἁμαρτίαι</reference>
+		<reference osisRef="Matt.9.5!12-Matt.9.5!14" type="EmbeddedRepSpeech" label="" verse="Matt 9:5" >ἔγειρε καὶ περιπάτει</reference>
+		<reference osisRef="Matt.9.13!6-Matt.9.13!10" type="EmbeddedRepSpeech" label="" verse="Matt 9:13" >ἔλεος θέλω καὶ οὐ θυσίαν</reference>
+		<reference osisRef="Matt.10.7!6-Matt.10.7!10" type="EmbeddedRepSpeech" label="" verse="Matt 10:7" >ἤγγικεν ἡ βασιλεία τῶν οὐρανῶν</reference>
+		<reference osisRef="Matt.10.25!20" type="EmbeddedRepSpeech" label="" verse="Matt 10:25" >βεελζεβοὺλ</reference>
+		<reference osisRef="Matt.11.10!6-Matt.11.10!21" type="EmbeddedRepSpeech" label="" verse="Matt 11:10" >ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου</reference>
+		<reference osisRef="Matt.11.17!2-Matt.11.17!10" type="EmbeddedRepSpeech" label="" verse="Matt 11:17" >ηὐλήσαμεν ὑμῖν καὶ οὐκ ὠρχήσασθε ἐθρηνήσαμεν καὶ οὐκ ἐκόψασθε</reference>
+		<reference osisRef="Matt.11.18!10-Matt.11.18!11" type="EmbeddedRepSpeech" label="" verse="Matt 11:18" >δαιμόνιον ἔχει</reference>
+		<reference osisRef="Matt.11.19!12-Matt.11.19!19" type="EmbeddedRepSpeech" label="" verse="Matt 11:19" >ἄνθρωπος φάγος καὶ οἰνοπότης τελωνῶν φίλος καὶ ἁμαρτωλῶν</reference>
+		<reference osisRef="Matt.12.7!6-Matt.12.7!10" type="EmbeddedRepSpeech" label="" verse="Matt 12:7" >ἔλεος θέλω καὶ οὐ θυσίαν</reference>
+		<reference osisRef="Matt.12.44!3-Matt.12.44!9" type="EmbeddedRepSpeech" label="" verse="Matt 12:44" >εἰς τὸν οἶκόν μου ἐπιστρέψω ὅθεν ἐξῆλθον</reference>
+		<reference osisRef="Matt.13.14!9-Matt.13.15!55" type="EmbeddedRepSpeech" label="" verse="Matt 13:14 - 5" >ἀκοῇ ἀκούσετε καὶ οὐ μὴ συνῆτε καὶ βλέποντες βλέψετε καὶ οὐ μὴ ἴδητε ἐπαχύνθη γὰρ ἡ καρδία τοῦ λαοῦ τούτου καὶ τοῖς ὠσὶν βαρέως ἤκουσαν καὶ τοὺς ὀφθαλμοὺς αὐτῶν ἐκάμμυσαν μήποτε ἴδωσιν τοῖς ὀφθαλμοῖς καὶ τοῖς ὠσὶν ἀκούσωσιν καὶ τῇ καρδίᾳ συνῶσιν καὶ ἐπιστρέψωσιν καὶ ἰάσομαι αὐτούς</reference>
+		<reference osisRef="Matt.13.27!9-Matt.13.27!21" type="EmbeddedRepSpeech" label="" verse="Matt 13:27" >κύριε οὐχὶ καλὸν σπέρμα ἔσπειρας ἐν τῷ σῷ ἀγρῷ πόθεν οὖν ἔχει ζιζάνια</reference>
+		<reference osisRef="Matt.13.28!5-Matt.13.28!8" type="EmbeddedRepSpeech" label="" verse="Matt 13:28" >ἐχθρὸς ἄνθρωπος τοῦτο ἐποίησεν</reference>
+		<reference osisRef="Matt.13.28!14-Matt.13.28!18" type="EmbeddedRepSpeech" label="" verse="Matt 13:28" >θέλεις οὖν ἀπελθόντες συλλέξωμεν αὐτά</reference>
+		<reference osisRef="Matt.13.29!4-Matt.13.30!48" type="EmbeddedRepSpeech" label="" verse="Matt 13:29 - 30" >οὔ μήποτε συλλέγοντες τὰ ζιζάνια ἐκριζώσητε ἅμα αὐτοῖς τὸν σῖτον ἄφετε συναυξάνεσθαι ἀμφότερα ἕως τοῦ θερισμοῦ καὶ ἐν καιρῷ τοῦ θερισμοῦ ἐρῶ τοῖς θερισταῖς συλλέξατε πρῶτον τὰ ζιζάνια καὶ δήσατε αὐτὰ εἰς δέσμας πρὸς τὸ κατακαῦσαι αὐτά τὸν δὲ σῖτον συναγάγετε εἰς τὴν ἀποθήκην μου</reference>
+		<reference osisRef="Matt.15.4!5-Matt.15.4!10" type="EmbeddedRepSpeech" label="" verse="Matt 15:4" >τίμα τὸν πατέρα καὶ τὴν μητέρα</reference>
+		<reference osisRef="Matt.15.4!12-Matt.15.4!18" type="EmbeddedRepSpeech" label="" verse="Matt 15:4" >ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω</reference>
+		<reference osisRef="Matt.15.5!4-Matt.15.6!23" type="EmbeddedRepSpeech" label="" verse="Matt 15:5 - 6" >ὃς ἂν εἴπῃ τῷ πατρὶ ἢ τῇ μητρί δῶρον ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς οὐ μὴ τιμήσει τὸν πατέρα αὐτοῦ</reference>
+		<reference osisRef="Matt.15.8!1-Matt.15.9!23" type="EmbeddedRepSpeech" label="" verse="Matt 15:8 - 9" >ὁ λαὸς οὗτος τοῖς χείλεσίν με τιμᾷ ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ’ ἐμοῦ μάτην δὲ σέβονταί με διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων</reference>
+		<reference osisRef="Matt.16.2!9" type="EmbeddedRepSpeech" label="" verse="Matt 16:2" >εὐδία</reference>
+		<reference osisRef="Matt.16.2!10-Matt.16.2!13" type="EmbeddedRepSpeech" label="" verse="Matt 16:2" >πυρράζει γὰρ ὁ οὐρανός</reference>
+		<reference osisRef="Matt.16.3!3-Matt.16.3!9" type="EmbeddedRepSpeech" label="" verse="Matt 16:3" >σήμερον χειμών πυρράζει γὰρ στυγνάζων ὁ οὐρανός</reference>
+		<reference osisRef="Matt.17.20!23-Matt.17.20!25" type="EmbeddedRepSpeech" label="" verse="Matt 17:20" >μετάβα ἔνθεν ἐκεῖ</reference>
+		<reference osisRef="Matt.18.26!8-Matt.18.26!14" type="EmbeddedRepSpeech" label="" verse="Matt 18:26" >μακροθύμησον ἐπ’ ἐμοί καὶ πάντα ἀποδώσω σοι</reference>
+		<reference osisRef="Matt.18.28!21-Matt.18.28!24" type="EmbeddedRepSpeech" label="" verse="Matt 18:28" >ἀπόδος εἴ τι ὀφείλεις</reference>
+		<reference osisRef="Matt.18.29!9-Matt.18.29!14" type="EmbeddedRepSpeech" label="" verse="Matt 18:29" >μακροθύμησον ἐπ’ ἐμοί καὶ ἀποδώσω σοι</reference>
+		<reference osisRef="Matt.18.32!9-Matt.18.33!31" type="EmbeddedRepSpeech" label="" verse="Matt 18:32 - 3" >δοῦλε πονηρέ πᾶσαν τὴν ὀφειλὴν ἐκείνην ἀφῆκά σοι ἐπεὶ παρεκάλεσάς με οὐκ ἔδει καὶ σὲ ἐλεῆσαι τὸν σύνδουλόν σου ὡς κἀγὼ σὲ ἠλέησα</reference>
+		<reference osisRef="Matt.20.4!4-Matt.20.4!16" type="EmbeddedRepSpeech" label="" verse="Matt 20:4" >ὑπάγετε καὶ ὑμεῖς εἰς τὸν ἀμπελῶνα καὶ ὃ ἐὰν ᾖ δίκαιον δώσω ὑμῖν</reference>
+		<reference osisRef="Matt.20.6!12-Matt.20.6!18" type="EmbeddedRepSpeech" label="" verse="Matt 20:6" >τί ὧδε ἑστήκατε ὅλην τὴν ἡμέραν ἀργοί</reference>
+		<reference osisRef="Matt.20.7!3-Matt.20.7!6" type="EmbeddedRepSpeech" label="" verse="Matt 20:7" >ὅτι οὐδεὶς ἡμᾶς ἐμισθώσατο</reference>
+		<reference osisRef="Matt.20.7!9-Matt.20.7!14" type="EmbeddedRepSpeech" label="" verse="Matt 20:7" >ὑπάγετε καὶ ὑμεῖς εἰς τὸν ἀμπελῶνα</reference>
+		<reference osisRef="Matt.20.8!12-Matt.20.8!26" type="EmbeddedRepSpeech" label="" verse="Matt 20:8" >κάλεσον τοὺς ἐργάτας καὶ ἀπόδος αὐτοῖς τὸν μισθὸν ἀρξάμενος ἀπὸ τῶν ἐσχάτων ἕως τῶν πρώτων</reference>
+		<reference osisRef="Matt.20.12!2-Matt.20.12!21" type="EmbeddedRepSpeech" label="" verse="Matt 20:12" >οὗτοι οἱ ἔσχατοι μίαν ὥραν ἐποίησαν καὶ ἴσους ἡμῖν αὐτοὺς ἐποίησας τοῖς βαστάσασι τὸ βάρος τῆς ἡμέρας καὶ τὸν καύσωνα</reference>
+		<reference osisRef="Matt.20.13!7-Matt.20.15!48" type="EmbeddedRepSpeech" label="" verse="Matt 20:13 - 5" >ἑταῖρε οὐκ ἀδικῶ σε οὐχὶ δηναρίου συνεφώνησάς μοι ἆρον τὸ σὸν καὶ ὕπαγε θέλω δὲ τούτῳ τῷ ἐσχάτῳ δοῦναι ὡς καὶ σοί ἢ οὐκ ἔξεστίν μοι ὃ θέλω ποιῆσαι ἐν τοῖς ἐμοῖς ἢ ὁ ὀφθαλμός σου πονηρός ἐστιν ὅτι ἐγὼ ἀγαθός εἰμι</reference>
+		<reference osisRef="Matt.21.3!9-Matt.21.3!17" type="EmbeddedRepSpeech" label="" verse="Matt 21:3" >ὁ κύριος αὐτῶν χρείαν ἔχει εὐθὺς δὲ ἀποστελεῖ αὐτούς</reference>
+		<reference osisRef="Matt.21.5!5-Matt.21.5!20" type="EmbeddedRepSpeech" label="" verse="Matt 21:5" >ἰδοὺ ὁ βασιλεύς σου ἔρχεταί σοι πραῢς καὶ ἐπιβεβηκὼς ἐπὶ ὄνον καὶ ἐπὶ πῶλον υἱὸν ὑποζυγίου</reference>
+		<reference osisRef="Matt.21.13!5-Matt.21.13!10" type="EmbeddedRepSpeech" label="" verse="Matt 21:13" >ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται</reference>
+		<reference osisRef="Matt.21.16!17-Matt.21.16!23" type="EmbeddedRepSpeech" label="" verse="Matt 21:16" >ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον</reference>
+		<reference osisRef="Matt.21.21!28-Matt.21.21!33" type="EmbeddedRepSpeech" label="" verse="Matt 21:21" >ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν</reference>
+		<reference osisRef="Matt.21.25!20-Matt.21.25!21" type="EmbeddedRepSpeech" label="" verse="Matt 21:25" >ἐξ οὐρανοῦ</reference>
+		<reference osisRef="Matt.21.25!24-Matt.21.25!29" type="EmbeddedRepSpeech" label="" verse="Matt 21:25" >διὰ τί οὖν οὐκ ἐπιστεύσατε αὐτῷ</reference>
+		<reference osisRef="Matt.21.26!4-Matt.21.26!5" type="EmbeddedRepSpeech" label="" verse="Matt 21:26" >ἐξ ἀνθρώπων</reference>
+		<reference osisRef="Matt.21.28!14-Matt.21.28!20" type="EmbeddedRepSpeech" label="" verse="Matt 21:28" >τέκνον ὕπαγε σήμερον ἐργάζου ἐν τῷ ἀμπελῶνι</reference>
+		<reference osisRef="Matt.21.29!5-Matt.21.29!6" type="EmbeddedRepSpeech" label="" verse="Matt 21:29" >οὐ θέλω</reference>
+		<reference osisRef="Matt.21.30!11-Matt.21.30!12" type="EmbeddedRepSpeech" label="" verse="Matt 21:30" >ἐγώ κύριε</reference>
+		<reference osisRef="Matt.21.37!10-Matt.21.37!13" type="EmbeddedRepSpeech" label="" verse="Matt 21:37" >ἐντραπήσονται τὸν υἱόν μου</reference>
+		<reference osisRef="Matt.21.38!10-Matt.21.38!21" type="EmbeddedRepSpeech" label="" verse="Matt 21:38" >οὗτός ἐστιν ὁ κληρονόμος δεῦτε ἀποκτείνωμεν αὐτὸν καὶ σχῶμεν τὴν κληρονομίαν αὐτοῦ</reference>
+		<reference osisRef="Matt.21.42!10-Matt.21.42!29" type="EmbeddedRepSpeech" label="" verse="Matt 21:42" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας παρὰ κυρίου ἐγένετο αὕτη καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν</reference>
+		<reference osisRef="Matt.22.4!6-Matt.22.4!27" type="EmbeddedRepSpeech" label="" verse="Matt 22:4" >εἴπατε τοῖς κεκλημένοις ἰδοὺ τὸ ἄριστόν μου ἡτοίμακα οἱ ταῦροί μου καὶ τὰ σιτιστὰ τεθυμένα καὶ πάντα ἕτοιμα δεῦτε εἰς τοὺς γάμους</reference>
+		<reference osisRef="Matt.22.8!6-Matt.22.9!31" type="EmbeddedRepSpeech" label="" verse="Matt 22:8 - 9" >ὁ μὲν γάμος ἕτοιμός ἐστιν οἱ δὲ κεκλημένοι οὐκ ἦσαν ἄξιοι πορεύεσθε οὖν ἐπὶ τὰς διεξόδους τῶν ὁδῶν καὶ ὅσους ἐὰν εὕρητε καλέσατε εἰς τοὺς γάμους</reference>
+		<reference osisRef="Matt.22.12!4-Matt.22.12!11" type="EmbeddedRepSpeech" label="" verse="Matt 22:12" >ἑταῖρε πῶς εἰσῆλθες ὧδε μὴ ἔχων ἔνδυμα γάμου</reference>
+		<reference osisRef="Matt.22.13!7-Matt.22.13!18" type="EmbeddedRepSpeech" label="" verse="Matt 22:13" >δήσαντες αὐτοῦ πόδας καὶ χεῖρας ἐκβάλετε αὐτὸν εἰς τὸ σκότος τὸ ἐξώτερον</reference>
+		<reference osisRef="Matt.22.24!5-Matt.22.24!23" type="EmbeddedRepSpeech" label="" verse="Matt 22:24" >ἐάν τις ἀποθάνῃ μὴ ἔχων τέκνα ἐπιγαμβρεύσει ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα αὐτοῦ καὶ ἀναστήσει σπέρμα τῷ ἀδελφῷ αὐτοῦ</reference>
+		<reference osisRef="Matt.22.32!1-Matt.22.32!13" type="EmbeddedRepSpeech" label="" verse="Matt 22:32" >ἐγώ εἰμι ὁ θεὸς ἀβραὰμ καὶ ὁ θεὸς ἰσαὰκ καὶ ὁ θεὸς ἰακώβ</reference>
+		<reference osisRef="Matt.22.44!1-Matt.22.44!19" type="EmbeddedRepSpeech" label="" verse="Matt 22:44" >εἶπεν κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποκάτω τῶν ποδῶν σου</reference>
+		<reference osisRef="Matt.23.7!12" type="EmbeddedRepSpeech" label="" verse="Matt 23:7" >ῥαββί</reference>
+		<reference osisRef="Matt.23.8!5" type="EmbeddedRepSpeech" label="" verse="Matt 23:8" >ῥαββί</reference>
+		<reference osisRef="Matt.23.16!7-Matt.23.16!24" type="EmbeddedRepSpeech" label="" verse="Matt 23:16" >ὃς ἂν ὀμόσῃ ἐν τῷ ναῷ οὐδέν ἐστιν ὃς δ’ ἂν ὀμόσῃ ἐν τῷ χρυσῷ τοῦ ναοῦ ὀφείλει</reference>
+		<reference osisRef="Matt.23.18!2-Matt.23.18!20" type="EmbeddedRepSpeech" label="" verse="Matt 23:18" >ὃς ἂν ὀμόσῃ ἐν τῷ θυσιαστηρίῳ οὐδέν ἐστιν ὃς δ’ ἂν ὀμόσῃ ἐν τῷ δώρῳ τῷ ἐπάνω αὐτοῦ ὀφείλει</reference>
+		<reference osisRef="Matt.23.30!3-Matt.23.30!20" type="EmbeddedRepSpeech" label="" verse="Matt 23:30" >εἰ ἤμεθα ἐν ταῖς ἡμέραις τῶν πατέρων ἡμῶν οὐκ ἂν ἤμεθα αὐτῶν κοινωνοὶ ἐν τῷ αἵματι τῶν προφητῶν</reference>
+		<reference osisRef="Matt.23.39!13-Matt.23.39!18" type="EmbeddedRepSpeech" label="" verse="Matt 23:39" >εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου</reference>
+		<reference osisRef="Matt.24.5!9-Matt.24.5!12" type="EmbeddedRepSpeech" label="" verse="Matt 24:5" >ἐγώ εἰμι ὁ χριστός</reference>
+		<reference osisRef="Matt.24.23!7-Matt.24.23!9" type="EmbeddedRepSpeech" label="" verse="Matt 24:23" >ὧδε ὁ χριστός</reference>
+		<reference osisRef="Matt.24.23!11" type="EmbeddedRepSpeech" label="" verse="Matt 24:23" >ὧδε</reference>
+		<reference osisRef="Matt.24.26!6-Matt.24.26!9" type="EmbeddedRepSpeech" label="" verse="Matt 24:26" >ἐν τῇ ἐρήμῳ ἐστίν</reference>
+		<reference osisRef="Matt.24.26!13-Matt.24.26!15" type="EmbeddedRepSpeech" label="" verse="Matt 24:26" >ἐν τοῖς ταμείοις</reference>
+		<reference osisRef="Matt.24.48!12-Matt.24.48!15" type="EmbeddedRepSpeech" label="" verse="Matt 24:48" >χρονίζει μου ὁ κύριος</reference>
+		<reference osisRef="Matt.25.6!6-Matt.25.6!12" type="EmbeddedRepSpeech" label="" verse="Matt 25:6" >ἰδοὺ ὁ νυμφίος ἐξέρχεσθε εἰς ἀπάντησιν αὐτοῦ</reference>
+		<reference osisRef="Matt.25.8!7-Matt.25.8!17" type="EmbeddedRepSpeech" label="" verse="Matt 25:8" >δότε ἡμῖν ἐκ τοῦ ἐλαίου ὑμῶν ὅτι αἱ λαμπάδες ἡμῶν σβέννυνται</reference>
+		<reference osisRef="Matt.25.9!6-Matt.25.9!20" type="EmbeddedRepSpeech" label="" verse="Matt 25:9" >μήποτε οὐ μὴ ἀρκέσῃ ἡμῖν καὶ ὑμῖν πορεύεσθε μᾶλλον πρὸς τοὺς πωλοῦντας καὶ ἀγοράσατε ἑαυταῖς</reference>
+		<reference osisRef="Matt.25.11!9-Matt.25.11!12" type="EmbeddedRepSpeech" label="" verse="Matt 25:11" >κύριε κύριε ἄνοιξον ἡμῖν</reference>
+		<reference osisRef="Matt.25.12!5-Matt.25.12!10" type="EmbeddedRepSpeech" label="" verse="Matt 25:12" >ἀμὴν λέγω ὑμῖν οὐκ οἶδα ὑμᾶς</reference>
+		<reference osisRef="Matt.25.20!13-Matt.25.20!22" type="EmbeddedRepSpeech" label="" verse="Matt 25:20" >κύριε πέντε τάλαντά μοι παρέδωκας ἴδε ἄλλα πέντε τάλαντα ἐκέρδησα</reference>
+		<reference osisRef="Matt.25.21!6-Matt.25.21!25" type="EmbeddedRepSpeech" label="" verse="Matt 25:21" >εὖ δοῦλε ἀγαθὲ καὶ πιστέ ἐπὶ ὀλίγα ἦς πιστός ἐπὶ πολλῶν σε καταστήσω εἴσελθε εἰς τὴν χαρὰν τοῦ κυρίου σου</reference>
+		<reference osisRef="Matt.25.22!9-Matt.25.22!18" type="EmbeddedRepSpeech" label="" verse="Matt 25:22" >κύριε δύο τάλαντά μοι παρέδωκας ἴδε ἄλλα δύο τάλαντα ἐκέρδησα</reference>
+		<reference osisRef="Matt.25.23!6-Matt.25.23!25" type="EmbeddedRepSpeech" label="" verse="Matt 25:23" >εὖ δοῦλε ἀγαθὲ καὶ πιστέ ἐπὶ ὀλίγα ἦς πιστός ἐπὶ πολλῶν σε καταστήσω εἴσελθε εἰς τὴν χαρὰν τοῦ κυρίου σου</reference>
+		<reference osisRef="Matt.25.24!10-Matt.25.25!39" type="EmbeddedRepSpeech" label="" verse="Matt 25:24 - 5" >κύριε ἔγνων σε ὅτι σκληρὸς εἶ ἄνθρωπος θερίζων ὅπου οὐκ ἔσπειρας καὶ συνάγων ὅθεν οὐ διεσκόρπισας καὶ φοβηθεὶς ἀπελθὼν ἔκρυψα τὸ τάλαντόν σου ἐν τῇ γῇ ἴδε ἔχεις τὸ σόν</reference>
+		<reference osisRef="Matt.25.26!8-Matt.25.28!53" type="EmbeddedRepSpeech" label="" verse="Matt 25:26 - 8" >πονηρὲ δοῦλε καὶ ὀκνηρέ ᾔδεις ὅτι θερίζω ὅπου οὐκ ἔσπειρα καὶ συνάγω ὅθεν οὐ διεσκόρπισα ἔδει σε οὖν βαλεῖν τὰ ἀργύριά μου τοῖς τραπεζίταις καὶ ἐλθὼν ἐγὼ ἐκομισάμην ἂν τὸ ἐμὸν σὺν τόκῳ ἄρατε οὖν ἀπ’ αὐτοῦ τὸ τάλαντον καὶ δότε τῷ ἔχοντι τὰ δέκα τάλαντα</reference>
+		<reference osisRef="Matt.25.29!1-Matt.25.30!36" type="EmbeddedRepSpeech" label="" verse="Matt 25:29 - 30" >τῷ γὰρ ἔχοντι παντὶ δοθήσεται καὶ περισσευθήσεται τοῦ δὲ μὴ ἔχοντος καὶ ὃ ἔχει ἀρθήσεται ἀπ’ αὐτοῦ καὶ τὸν ἀχρεῖον δοῦλον ἐκβάλετε εἰς τὸ σκότος τὸ ἐξώτερον ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων</reference>
+		<reference osisRef="Matt.25.34!9-Matt.25.36!52" type="EmbeddedRepSpeech" label="" verse="Matt 25:34 - 6" >δεῦτε οἱ εὐλογημένοι τοῦ πατρός μου κληρονομήσατε τὴν ἡτοιμασμένην ὑμῖν βασιλείαν ἀπὸ καταβολῆς κόσμου ἐπείνασα γὰρ καὶ ἐδώκατέ μοι φαγεῖν ἐδίψησα καὶ ἐποτίσατέ με ξένος ἤμην καὶ συνηγάγετέ με γυμνὸς καὶ περιεβάλετέ με ἠσθένησα καὶ ἐπεσκέψασθέ με ἐν φυλακῇ ἤμην καὶ ἤλθατε πρός με</reference>
+		<reference osisRef="Matt.25.37!7-Matt.25.39!40" type="EmbeddedRepSpeech" label="" verse="Matt 25:37 - 9" >κύριε πότε σε εἴδομεν πεινῶντα καὶ ἐθρέψαμεν ἢ διψῶντα καὶ ἐποτίσαμεν πότε δέ σε εἴδομεν ξένον καὶ συνηγάγομεν ἢ γυμνὸν καὶ περιεβάλομεν πότε δέ σε εἴδομεν ἀσθενοῦντα ἢ ἐν φυλακῇ καὶ ἤλθομεν πρός σε</reference>
+		<reference osisRef="Matt.25.40!7-Matt.25.40!21" type="EmbeddedRepSpeech" label="" verse="Matt 25:40" >ἀμὴν λέγω ὑμῖν ἐφ’ ὅσον ἐποιήσατε ἑνὶ τούτων τῶν ἀδελφῶν μου τῶν ἐλαχίστων ἐμοὶ ἐποιήσατε</reference>
+		<reference osisRef="Matt.25.41!7-Matt.25.43!55" type="EmbeddedRepSpeech" label="" verse="Matt 25:41 - 3" >πορεύεσθε ἀπ’ ἐμοῦ οἱ κατηραμένοι εἰς τὸ πῦρ τὸ αἰώνιον τὸ ἡτοιμασμένον τῷ διαβόλῳ καὶ τοῖς ἀγγέλοις αὐτοῦ ἐπείνασα γὰρ καὶ οὐκ ἐδώκατέ μοι φαγεῖν ἐδίψησα καὶ οὐκ ἐποτίσατέ με ξένος ἤμην καὶ οὐ συνηγάγετέ με γυμνὸς καὶ οὐ περιεβάλετέ με ἀσθενὴς καὶ ἐν φυλακῇ καὶ οὐκ ἐπεσκέψασθέ με</reference>
+		<reference osisRef="Matt.25.44!6-Matt.25.44!25" type="EmbeddedRepSpeech" label="" verse="Matt 25:44" >κύριε πότε σε εἴδομεν πεινῶντα ἢ διψῶντα ἢ ξένον ἢ γυμνὸν ἢ ἀσθενῆ ἢ ἐν φυλακῇ καὶ οὐ διηκονήσαμέν σοι</reference>
+		<reference osisRef="Matt.25.45!5-Matt.25.45!18" type="EmbeddedRepSpeech" label="" verse="Matt 25:45" >ἀμὴν λέγω ὑμῖν ἐφ’ ὅσον οὐκ ἐποιήσατε ἑνὶ τούτων τῶν ἐλαχίστων οὐδὲ ἐμοὶ ἐποιήσατε</reference>
+		<reference osisRef="Matt.26.18!14-Matt.26.18!30" type="EmbeddedRepSpeech" label="" verse="Matt 26:18" >ὁ διδάσκαλος λέγει ὁ καιρός μου ἐγγύς ἐστιν πρὸς σὲ ποιῶ τὸ πάσχα μετὰ τῶν μαθητῶν μου</reference>
+		<reference osisRef="Matt.26.61!4-Matt.26.61!14" type="EmbeddedRepSpeech" label="" verse="Matt 26:61" >δύναμαι καταλῦσαι τὸν ναὸν τοῦ θεοῦ καὶ διὰ τριῶν ἡμερῶν οἰκοδομῆσαι</reference>
+		<reference osisRef="Matt.27.43!13-Matt.27.43!15" type="EmbeddedRepSpeech" label="" verse="Matt 27:43" >θεοῦ εἰμι υἱός</reference>
+		<reference osisRef="Matt.27.63!11-Matt.27.63!14" type="EmbeddedRepSpeech" label="" verse="Matt 27:63" >μετὰ τρεῖς ἡμέρας ἐγείρομαι</reference>
+		<reference osisRef="Matt.27.64!21-Matt.27.64!24" type="EmbeddedRepSpeech" label="" verse="Matt 27:64" >ἠγέρθη ἀπὸ τῶν νεκρῶν</reference>
+		<reference osisRef="Matt.28.7!9-Matt.28.7!22" type="EmbeddedRepSpeech" label="" verse="Matt 28:7" >ἠγέρθη ἀπὸ τῶν νεκρῶν καὶ ἰδοὺ προάγει ὑμᾶς εἰς τὴν γαλιλαίαν ἐκεῖ αὐτὸν ὄψεσθε</reference>
+		<reference osisRef="Matt.28.13!4-Matt.28.13!12" type="EmbeddedRepSpeech" label="" verse="Matt 28:13" >οἱ μαθηταὶ αὐτοῦ νυκτὸς ἐλθόντες ἔκλεψαν αὐτὸν ἡμῶν κοιμωμένων</reference>
+		<reference osisRef="Mark.1.3!6-Mark.1.3!14" type="EmbeddedRepSpeech" label="" verse="Mark 1:3" >ἑτοιμάσατε τὴν ὁδὸν κυρίου εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ</reference>
+		<reference osisRef="Mark.2.9!7-Mark.2.9!10" type="EmbeddedRepSpeech" label="" verse="Mark 2:9" >ἀφίενταί σου αἱ ἁμαρτίαι</reference>
+		<reference osisRef="Mark.2.9!13-Mark.2.9!20" type="EmbeddedRepSpeech" label="" verse="Mark 2:9" >ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ περιπάτει</reference>
+		<reference osisRef="Mark.5.31!14-Mark.5.31!16" type="EmbeddedRepSpeech" label="" verse="Mark 5:31" >τίς μου ἥψατο</reference>
+		<reference osisRef="Mark.7.6!15-Mark.7.7!37" type="EmbeddedRepSpeech" label="" verse="Mark 7:6 - 7" >οὗτος ὁ λαὸς τοῖς χείλεσίν με τιμᾷ ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ’ ἐμοῦ μάτην δὲ σέβονταί με διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων</reference>
+		<reference osisRef="Mark.7.10!4-Mark.7.10!11" type="EmbeddedRepSpeech" label="" verse="Mark 7:10" >τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου</reference>
+		<reference osisRef="Mark.7.10!13-Mark.7.10!19" type="EmbeddedRepSpeech" label="" verse="Mark 7:10" >ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω</reference>
+		<reference osisRef="Mark.7.11!4-Mark.7.11!20" type="EmbeddedRepSpeech" label="" verse="Mark 7:11" >ἐὰν εἴπῃ ἄνθρωπος τῷ πατρὶ ἢ τῇ μητρί κορβᾶν ὅ ἐστιν δῶρον ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς</reference>
+		<reference osisRef="Mark.8.28!7-Mark.8.28!9" type="EmbeddedRepSpeech" label="" verse="Mark 8:28" >ἰωάννην τὸν βαπτιστήν</reference>
+		<reference osisRef="Mark.8.28!12" type="EmbeddedRepSpeech" label="" verse="Mark 8:28" >ἠλίαν</reference>
+		<reference osisRef="Mark.8.28!16-Mark.8.28!18" type="EmbeddedRepSpeech" label="" verse="Mark 8:28" >εἷς τῶν προφητῶν</reference>
+		<reference osisRef="Mark.10.19!4-Mark.10.19!20" type="EmbeddedRepSpeech" label="" verse="Mark 10:19" >μὴ φονεύσῃς μὴ μοιχεύσῃς μὴ κλέψῃς μὴ ψευδομαρτυρήσῃς μὴ ἀποστερήσῃς τίμα τὸν πατέρα σου καὶ τὴν μητέρα</reference>
+		<reference osisRef="Mark.11.3!6-Mark.11.3!8" type="EmbeddedRepSpeech" label="" verse="Mark 11:3" >τί ποιεῖτε τοῦτο</reference>
+		<reference osisRef="Mark.11.3!10-Mark.11.3!20" type="EmbeddedRepSpeech" label="" verse="Mark 11:3" >ὁ κύριος αὐτοῦ χρείαν ἔχει καὶ εὐθὺς αὐτὸν ἀποστέλλει πάλιν ὧδε</reference>
+		<reference osisRef="Mark.11.17!9-Mark.11.17!17" type="EmbeddedRepSpeech" label="" verse="Mark 11:17" >ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται πᾶσιν τοῖς ἔθνεσιν</reference>
+		<reference osisRef="Mark.11.23!11-Mark.11.23!16" type="EmbeddedRepSpeech" label="" verse="Mark 11:23" >ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν</reference>
+		<reference osisRef="Mark.11.31!8-Mark.11.31!9" type="EmbeddedRepSpeech" label="" verse="Mark 11:31" >ἐξ οὐρανοῦ</reference>
+		<reference osisRef="Mark.11.31!11-Mark.11.31!16" type="EmbeddedRepSpeech" label="" verse="Mark 11:31" >διὰ τί οὖν οὐκ ἐπιστεύσατε αὐτῷ</reference>
+		<reference osisRef="Mark.11.32!3-Mark.11.32!4" type="EmbeddedRepSpeech" label="" verse="Mark 11:32" >ἐξ ἀνθρώπων</reference>
+		<reference osisRef="Mark.12.6!13-Mark.12.6!16" type="EmbeddedRepSpeech" label="" verse="Mark 12:6" >ἐντραπήσονται τὸν υἱόν μου</reference>
+		<reference osisRef="Mark.12.7!9-Mark.12.7!20" type="EmbeddedRepSpeech" label="" verse="Mark 12:7" >οὗτός ἐστιν ὁ κληρονόμος δεῦτε ἀποκτείνωμεν αὐτόν καὶ ἡμῶν ἔσται ἡ κληρονομία</reference>
+		<reference osisRef="Mark.12.10!6-Mark.12.11!25" type="EmbeddedRepSpeech" label="" verse="Mark 12:10 - 1" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας παρὰ κυρίου ἐγένετο αὕτη καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν</reference>
+		<reference osisRef="Mark.12.26!22-Mark.12.26!33" type="EmbeddedRepSpeech" label="" verse="Mark 12:26" >ἐγὼ ὁ θεὸς ἀβραὰμ καὶ ὁ θεὸς ἰσαὰκ καὶ ὁ θεὸς ἰακώβ</reference>
+		<reference osisRef="Mark.12.29!7-Mark.12.30!44" type="EmbeddedRepSpeech" label="" verse="Mark 12:29 - 30" >ἄκουε ἰσραήλ κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστιν καὶ ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐξ ὅλης τῆς ψυχῆς σου καὶ ἐξ ὅλης τῆς διανοίας σου καὶ ἐξ ὅλης τῆς ἰσχύος σου</reference>
+		<reference osisRef="Mark.12.31!3-Mark.12.31!8" type="EmbeddedRepSpeech" label="" verse="Mark 12:31" >ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν</reference>
+		<reference osisRef="Mark.12.32!12-Mark.12.32!19" type="EmbeddedRepSpeech" label="" verse="Mark 12:32" >εἷς ἐστιν καὶ οὐκ ἔστιν ἄλλος πλὴν αὐτοῦ</reference>
+		<reference osisRef="Mark.12.33!3-Mark.12.33!18" type="EmbeddedRepSpeech" label="" verse="Mark 12:33" >ἀγαπᾶν αὐτὸν ἐξ ὅλης τῆς καρδίας καὶ ἐξ ὅλης τῆς συνέσεως καὶ ἐξ ὅλης τῆς ἰσχύος</reference>
+		<reference osisRef="Mark.12.33!21-Mark.12.33!25" type="EmbeddedRepSpeech" label="" verse="Mark 12:33" >ἀγαπᾶν τὸν πλησίον ὡς ἑαυτὸν</reference>
+		<reference osisRef="Mark.12.35!15-Mark.12.35!19" type="EmbeddedRepSpeech" label="" verse="Mark 12:35" >ὁ χριστὸς υἱὸς δαυίδ ἐστιν</reference>
+		<reference osisRef="Mark.12.36!9-Mark.12.36!27" type="EmbeddedRepSpeech" label="" verse="Mark 12:36" >εἶπεν κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποκάτω τῶν ποδῶν σου</reference>
+		<reference osisRef="Mark.13.6!9-Mark.13.6!10" type="EmbeddedRepSpeech" label="" verse="Mark 13:6" >ἐγώ εἰμι</reference>
+		<reference osisRef="Mark.13.21!7-Mark.13.21!10" type="EmbeddedRepSpeech" label="" verse="Mark 13:21" >ἴδε ὧδε ὁ χριστός</reference>
+		<reference osisRef="Mark.13.21!11-Mark.13.21!12" type="EmbeddedRepSpeech" label="" verse="Mark 13:21" >ἴδε ἐκεῖ</reference>
+		<reference osisRef="Mark.14.14!9-Mark.14.14!24" type="EmbeddedRepSpeech" label="" verse="Mark 14:14" >ὁ διδάσκαλος λέγει ποῦ ἐστιν τὸ κατάλυμά μου ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω</reference>
+		<reference osisRef="Mark.14.27!11-Mark.14.27!17" type="EmbeddedRepSpeech" label="" verse="Mark 14:27" >πατάξω τὸν ποιμένα καὶ τὰ πρόβατα διασκορπισθήσονται</reference>
+		<reference osisRef="Mark.14.58!7-Mark.14.58!20" type="EmbeddedRepSpeech" label="" verse="Mark 14:58" >ἐγὼ καταλύσω τὸν ναὸν τοῦτον τὸν χειροποίητον καὶ διὰ τριῶν ἡμερῶν ἄλλον ἀχειροποίητον οἰκοδομήσω</reference>
+		<reference osisRef="Mark.16.7!11-Mark.16.7!15" type="EmbeddedRepSpeech" label="" verse="Mark 16:7" >προάγει ὑμᾶς εἰς τὴν γαλιλαίαν</reference>
+		<reference osisRef="Luke.3.4!14-Luke.3.4!22" type="EmbeddedRepSpeech" label="" verse="Luke 3:4" >ἑτοιμάσατε τὴν ὁδὸν κυρίου εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ</reference>
+		<reference osisRef="Luke.3.8!13-Luke.3.8!16" type="EmbeddedRepSpeech" label="" verse="Luke 3:8" >πατέρα ἔχομεν τὸν ἀβραάμ</reference>
+		<reference osisRef="Luke.4.4!9-Luke.4.4!15" type="EmbeddedRepSpeech" label="" verse="Luke 4:4" >οὐκ ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος</reference>
+		<reference osisRef="Luke.4.8!8-Luke.4.8!16" type="EmbeddedRepSpeech" label="" verse="Luke 4:8" >κύριον τὸν θεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις</reference>
+		<reference osisRef="Luke.4.10!4-Luke.4.10!12" type="EmbeddedRepSpeech" label="" verse="Luke 4:10" >τοῖς ἀγγέλοις αὐτοῦ ἐντελεῖται περὶ σοῦ τοῦ διαφυλάξαι σε</reference>
+		<reference osisRef="Luke.4.11!3-Luke.4.11!13" type="EmbeddedRepSpeech" label="" verse="Luke 4:11" >ἐπὶ χειρῶν ἀροῦσίν σε μήποτε προσκόψῃς πρὸς λίθον τὸν πόδα σου</reference>
+		<reference osisRef="Luke.4.12!9-Luke.4.12!14" type="EmbeddedRepSpeech" label="" verse="Luke 4:12" >οὐκ ἐκπειράσεις κύριον τὸν θεόν σου</reference>
+		<reference osisRef="Luke.4.23!11-Luke.4.23!26" type="EmbeddedRepSpeech" label="" verse="Luke 4:23" >ἰατρέ θεράπευσον σεαυτόν ὅσα ἠκούσαμεν γενόμενα εἰς τὴν καφαρναοὺμ ποίησον καὶ ὧδε ἐν τῇ πατρίδι σου</reference>
+		<reference osisRef="Luke.5.23!5-Luke.5.23!9" type="EmbeddedRepSpeech" label="" verse="Luke 5:23" >ἀφέωνταί σοι αἱ ἁμαρτίαι σου</reference>
+		<reference osisRef="Luke.5.23!12-Luke.5.23!14" type="EmbeddedRepSpeech" label="" verse="Luke 5:23" >ἔγειρε καὶ περιπάτει</reference>
+		<reference osisRef="Luke.5.39!9-Luke.5.39!12" type="EmbeddedRepSpeech" label="" verse="Luke 5:39" >ὁ παλαιὸς χρηστός ἐστιν</reference>
+		<reference osisRef="Luke.6.42!7-Luke.6.42!16" type="EmbeddedRepSpeech" label="" verse="Luke 6:42" >ἀδελφέ ἄφες ἐκβάλω τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ σου</reference>
+		<reference osisRef="Luke.7.8!16" type="EmbeddedRepSpeech" label="" verse="Luke 7:8" >πορεύθητι</reference>
+		<reference osisRef="Luke.7.8!21" type="EmbeddedRepSpeech" label="" verse="Luke 7:8" >ἔρχου</reference>
+		<reference osisRef="Luke.7.8!28-Luke.7.8!29" type="EmbeddedRepSpeech" label="" verse="Luke 7:8" >ποίησον τοῦτο</reference>
+		<reference osisRef="Luke.7.20!16-Luke.7.20!22" type="EmbeddedRepSpeech" label="" verse="Luke 7:20" >σὺ εἶ ὁ ἐρχόμενος ἢ ἄλλον προσδοκῶμεν</reference>
+		<reference osisRef="Luke.7.27!6-Luke.7.27!20" type="EmbeddedRepSpeech" label="" verse="Luke 7:27" >ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου</reference>
+		<reference osisRef="Luke.7.32!13-Luke.7.32!21" type="EmbeddedRepSpeech" label="" verse="Luke 7:32" >ηὐλήσαμεν ὑμῖν καὶ οὐκ ὠρχήσασθε ἐθρηνήσαμεν καὶ οὐκ ἐκλαύσατε</reference>
+		<reference osisRef="Luke.7.33!14-Luke.7.33!15" type="EmbeddedRepSpeech" label="" verse="Luke 7:33" >δαιμόνιον ἔχει</reference>
+		<reference osisRef="Luke.7.34!11-Luke.7.34!19" type="EmbeddedRepSpeech" label="" verse="Luke 7:34" >ἰδοὺ ἄνθρωπος φάγος καὶ οἰνοπότης φίλος τελωνῶν καὶ ἁμαρτωλῶν</reference>
+		<reference osisRef="Luke.9.19!5-Luke.9.19!7" type="EmbeddedRepSpeech" label="" verse="Luke 9:19" >ἰωάννην τὸν βαπτιστήν</reference>
+		<reference osisRef="Luke.9.19!10" type="EmbeddedRepSpeech" label="" verse="Luke 9:19" >ἠλίαν</reference>
+		<reference osisRef="Luke.9.19!14-Luke.9.19!18" type="EmbeddedRepSpeech" label="" verse="Luke 9:19" >προφήτης τις τῶν ἀρχαίων ἀνέστη</reference>
+		<reference osisRef="Luke.10.5!9-Luke.10.5!12" type="EmbeddedRepSpeech" label="" verse="Luke 10:5" >εἰρήνη τῷ οἴκῳ τούτῳ</reference>
+		<reference osisRef="Luke.10.9!10-Luke.10.9!16" type="EmbeddedRepSpeech" label="" verse="Luke 10:9" >ἤγγικεν ἐφ’ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ</reference>
+		<reference osisRef="Luke.10.11!1-Luke.10.11!24" type="EmbeddedRepSpeech" label="" verse="Luke 10:11" >καὶ τὸν κονιορτὸν τὸν κολληθέντα ἡμῖν ἐκ τῆς πόλεως ὑμῶν εἰς τοὺς πόδας ἀπομασσόμεθα ὑμῖν πλὴν τοῦτο γινώσκετε ὅτι ἤγγικεν ἡ βασιλεία τοῦ θεοῦ</reference>
+		<reference osisRef="Luke.10.27!5-Luke.10.27!38" type="EmbeddedRepSpeech" label="" verse="Luke 10:27" >ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ ἰσχύϊ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου καὶ τὸν πλησίον σου ὡς σεαυτόν</reference>
+		<reference osisRef="Luke.10.35!13-Luke.10.35!26" type="EmbeddedRepSpeech" label="" verse="Luke 10:35" >ἐπιμελήθητι αὐτοῦ καὶ ὅ τι ἂν προσδαπανήσῃς ἐγὼ ἐν τῷ ἐπανέρχεσθαί με ἀποδώσω σοι</reference>
+		<reference osisRef="Luke.11.2!7-Luke.11.4!44" type="EmbeddedRepSpeech" label="" verse="Luke 11:2 - 4" >πάτερ ἁγιασθήτω τὸ ὄνομά σου ἐλθέτω ἡ βασιλεία σου τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ’ ἡμέραν καὶ ἄφες ἡμῖν τὰς ἁμαρτίας ἡμῶν καὶ γὰρ αὐτοὶ ἀφίομεν παντὶ ὀφείλοντι ἡμῖν καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν</reference>
+		<reference osisRef="Luke.11.5!18-Luke.11.6!36" type="EmbeddedRepSpeech" label="" verse="Luke 11:5 - 6" >φίλε χρῆσόν μοι τρεῖς ἄρτους ἐπειδὴ φίλος μου παρεγένετο ἐξ ὁδοῦ πρός με καὶ οὐκ ἔχω ὃ παραθήσω αὐτῷ</reference>
+		<reference osisRef="Luke.11.7!5-Luke.11.7!27" type="EmbeddedRepSpeech" label="" verse="Luke 11:7" >μή μοι κόπους πάρεχε ἤδη ἡ θύρα κέκλεισται καὶ τὰ παιδία μου μετ’ ἐμοῦ εἰς τὴν κοίτην εἰσίν οὐ δύναμαι ἀναστὰς δοῦναί σοι</reference>
+		<reference osisRef="Luke.11.18!16-Luke.11.18!21" type="EmbeddedRepSpeech" label="" verse="Luke 11:18" >ἐν βεελζεβοὺλ ἐκβάλλειν με τὰ δαιμόνια</reference>
+		<reference osisRef="Luke.11.24!20-Luke.11.24!26" type="EmbeddedRepSpeech" label="" verse="Luke 11:24" >ὑποστρέψω εἰς τὸν οἶκόν μου ὅθεν ἐξῆλθον</reference>
+		<reference osisRef="Luke.11.49!9-Luke.11.49!20" type="EmbeddedRepSpeech" label="" verse="Luke 11:49" >ἀποστελῶ εἰς αὐτοὺς προφήτας καὶ ἀποστόλους καὶ ἐξ αὐτῶν ἀποκτενοῦσιν καὶ διώξουσιν</reference>
+		<reference osisRef="Luke.12.17!6-Luke.12.17!15" type="EmbeddedRepSpeech" label="" verse="Luke 12:17" >τί ποιήσω ὅτι οὐκ ἔχω ποῦ συνάξω τοὺς καρπούς μου</reference>
+		<reference osisRef="Luke.12.18!3-Luke.12.19!38" type="EmbeddedRepSpeech" label="" verse="Luke 12:18 - 9" >τοῦτο ποιήσω καθελῶ μου τὰς ἀποθήκας καὶ μείζονας οἰκοδομήσω καὶ συνάξω ἐκεῖ πάντα τὸν σῖτον καὶ τὰ ἀγαθά μου καὶ ἐρῶ τῇ ψυχῇ μου ψυχή ἔχεις πολλὰ ἀγαθὰ κείμενα εἰς ἔτη πολλά ἀναπαύου φάγε πίε εὐφραίνου</reference>
+		<reference osisRef="Luke.12.20!6-Luke.12.20!20" type="EmbeddedRepSpeech" label="" verse="Luke 12:20" >ἄφρων ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ ἃ δὲ ἡτοίμασας τίνι ἔσται</reference>
+		<reference osisRef="Luke.12.45!11-Luke.12.45!15" type="EmbeddedRepSpeech" label="" verse="Luke 12:45" >χρονίζει ὁ κύριός μου ἔρχεσθαι</reference>
+		<reference osisRef="Luke.12.54!16-Luke.12.54!17" type="EmbeddedRepSpeech" label="" verse="Luke 12:54" >ὄμβρος ἔρχεται</reference>
+		<reference osisRef="Luke.12.55!7-Luke.12.55!8" type="EmbeddedRepSpeech" label="" verse="Luke 12:55" >καύσων ἔσται</reference>
+		<reference osisRef="Luke.13.7!7-Luke.13.7!28" type="EmbeddedRepSpeech" label="" verse="Luke 13:7" >τρία ἔτη ἀφ’ οὗ ἔρχομαι ζητῶν καρπὸν ἐν τῇ συκῇ ταύτῃ καὶ οὐχ εὑρίσκω ἔκκοψον οὖν αὐτήν ἱνατί καὶ τὴν γῆν καταργεῖ</reference>
+		<reference osisRef="Luke.13.8!6-Luke.13.9!33" type="EmbeddedRepSpeech" label="" verse="Luke 13:8 - 9" >κύριε ἄφες αὐτὴν καὶ τοῦτο τὸ ἔτος ἕως ὅτου σκάψω περὶ αὐτὴν καὶ βάλω κόπρια κἂν μὲν ποιήσῃ καρπὸν εἰς τὸ μέλλον εἰ δὲ μή γε ἐκκόψεις αὐτήν</reference>
+		<reference osisRef="Luke.13.25!20-Luke.13.25!22" type="EmbeddedRepSpeech" label="" verse="Luke 13:25" >κύριε ἄνοιξον ἡμῖν</reference>
+		<reference osisRef="Luke.13.25!27-Luke.13.25!31" type="EmbeddedRepSpeech" label="" verse="Luke 13:25" >οὐκ οἶδα ὑμᾶς πόθεν ἐστέ</reference>
+		<reference osisRef="Luke.13.26!4-Luke.13.26!14" type="EmbeddedRepSpeech" label="" verse="Luke 13:26" >ἐφάγομεν ἐνώπιόν σου καὶ ἐπίομεν καὶ ἐν ταῖς πλατείαις ἡμῶν ἐδίδαξας</reference>
+		<reference osisRef="Luke.13.27!5-Luke.13.27!15" type="EmbeddedRepSpeech" label="" verse="Luke 13:27" >οὐκ οἶδα ὑμᾶς πόθεν ἐστέ ἀπόστητε ἀπ’ ἐμοῦ πάντες ἐργάται ἀδικίας</reference>
+		<reference osisRef="Luke.13.32!9-Luke.13.32!21" type="EmbeddedRepSpeech" label="" verse="Luke 13:32" >ἰδοὺ ἐκβάλλω δαιμόνια καὶ ἰάσεις ἀποτελῶ σήμερον καὶ αὔριον καὶ τῇ τρίτῃ τελειοῦμαι</reference>
+		<reference osisRef="Luke.13.35!18-Luke.13.35!23" type="EmbeddedRepSpeech" label="" verse="Luke 13:35" >εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου</reference>
+		<reference osisRef="Luke.14.9!10-Luke.14.9!12" type="EmbeddedRepSpeech" label="" verse="Luke 14:9" >δὸς τούτῳ τόπον</reference>
+		<reference osisRef="Luke.14.10!18-Luke.14.10!20" type="EmbeddedRepSpeech" label="" verse="Luke 14:10" >φίλε προσανάβηθι ἀνώτερον</reference>
+		<reference osisRef="Luke.14.17!13-Luke.14.17!17" type="EmbeddedRepSpeech" label="" verse="Luke 14:17" >ἔρχεσθε ὅτι ἤδη ἕτοιμά ἐστιν</reference>
+		<reference osisRef="Luke.14.18!11-Luke.14.18!23" type="EmbeddedRepSpeech" label="" verse="Luke 14:18" >ἀγρὸν ἠγόρασα καὶ ἔχω ἀνάγκην ἐξελθὼν ἰδεῖν αὐτόν ἐρωτῶ σε ἔχε με παρῃτημένον</reference>
+		<reference osisRef="Luke.14.19!4-Luke.14.19!16" type="EmbeddedRepSpeech" label="" verse="Luke 14:19" >ζεύγη βοῶν ἠγόρασα πέντε καὶ πορεύομαι δοκιμάσαι αὐτά ἐρωτῶ σε ἔχε με παρῃτημένον</reference>
+		<reference osisRef="Luke.14.20!4-Luke.14.20!11" type="EmbeddedRepSpeech" label="" verse="Luke 14:20" >γυναῖκα ἔγημα καὶ διὰ τοῦτο οὐ δύναμαι ἐλθεῖν</reference>
+		<reference osisRef="Luke.14.21!18-Luke.14.21!37" type="EmbeddedRepSpeech" label="" verse="Luke 14:21" >ἔξελθε ταχέως εἰς τὰς πλατείας καὶ ῥύμας τῆς πόλεως καὶ τοὺς πτωχοὺς καὶ ἀναπείρους καὶ τυφλοὺς καὶ χωλοὺς εἰσάγαγε ὧδε</reference>
+		<reference osisRef="Luke.14.22!5-Luke.14.22!12" type="EmbeddedRepSpeech" label="" verse="Luke 14:22" >κύριε γέγονεν ὃ ἐπέταξας καὶ ἔτι τόπος ἐστίν</reference>
+		<reference osisRef="Luke.14.23!8-Luke.14.24!35" type="EmbeddedRepSpeech" label="" verse="Luke 14:23 - 4" >ἔξελθε εἰς τὰς ὁδοὺς καὶ φραγμοὺς καὶ ἀνάγκασον εἰσελθεῖν ἵνα γεμισθῇ μου ὁ οἶκος λέγω γὰρ ὑμῖν ὅτι οὐδεὶς τῶν ἀνδρῶν ἐκείνων τῶν κεκλημένων γεύσεταί μου τοῦ δείπνου</reference>
+		<reference osisRef="Luke.14.30!3-Luke.14.30!11" type="EmbeddedRepSpeech" label="" verse="Luke 14:30" >οὗτος ὁ ἄνθρωπος ἤρξατο οἰκοδομεῖν καὶ οὐκ ἴσχυσεν ἐκτελέσαι</reference>
+		<reference osisRef="Luke.15.6!14-Luke.15.6!22" type="EmbeddedRepSpeech" label="" verse="Luke 15:6" >συγχάρητέ μοι ὅτι εὗρον τὸ πρόβατόν μου τὸ ἀπολωλός</reference>
+		<reference osisRef="Luke.15.9!9-Luke.15.9!16" type="EmbeddedRepSpeech" label="" verse="Luke 15:9" >συγχάρητέ μοι ὅτι εὗρον τὴν δραχμὴν ἣν ἀπώλεσα</reference>
+		<reference osisRef="Luke.15.12!8-Luke.15.12!15" type="EmbeddedRepSpeech" label="" verse="Luke 15:12" >πάτερ δός μοι τὸ ἐπιβάλλον μέρος τῆς οὐσίας</reference>
+		<reference osisRef="Luke.15.17!6-Luke.15.19!47" type="EmbeddedRepSpeech" label="" verse="Luke 15:17 - 9" >πόσοι μίσθιοι τοῦ πατρός μου περισσεύονται ἄρτων ἐγὼ δὲ λιμῷ ὧδε ἀπόλλυμαι ἀναστὰς πορεύσομαι πρὸς τὸν πατέρα μου καὶ ἐρῶ αὐτῷ πάτερ ἥμαρτον εἰς τὸν οὐρανὸν καὶ ἐνώπιόν σου οὐκέτι εἰμὶ ἄξιος κληθῆναι υἱός σου ποίησόν με ὡς ἕνα τῶν μισθίων σου</reference>
+		<reference osisRef="Luke.15.21!6-Luke.15.21!19" type="EmbeddedRepSpeech" label="" verse="Luke 15:21" >πάτερ ἥμαρτον εἰς τὸν οὐρανὸν καὶ ἐνώπιόν σου οὐκέτι εἰμὶ ἄξιος κληθῆναι υἱός σου</reference>
+		<reference osisRef="Luke.15.22!9-Luke.15.24!51" type="EmbeddedRepSpeech" label="" verse="Luke 15:22 - 4" >ταχὺ ἐξενέγκατε στολὴν τὴν πρώτην καὶ ἐνδύσατε αὐτόν καὶ δότε δακτύλιον εἰς τὴν χεῖρα αὐτοῦ καὶ ὑποδήματα εἰς τοὺς πόδας καὶ φέρετε τὸν μόσχον τὸν σιτευτόν θύσατε καὶ φαγόντες εὐφρανθῶμεν ὅτι οὗτος ὁ υἱός μου νεκρὸς ἦν καὶ ἀνέζησεν ἦν ἀπολωλὼς καὶ εὑρέθη</reference>
+		<reference osisRef="Luke.15.27!6-Luke.15.27!22" type="EmbeddedRepSpeech" label="" verse="Luke 15:27" >ὁ ἀδελφός σου ἥκει καὶ ἔθυσεν ὁ πατήρ σου τὸν μόσχον τὸν σιτευτόν ὅτι ὑγιαίνοντα αὐτὸν ἀπέλαβεν</reference>
+		<reference osisRef="Luke.15.29!9-Luke.15.30!47" type="EmbeddedRepSpeech" label="" verse="Luke 15:29 - 30" >τοσαῦτα ἔτη δουλεύω σοι καὶ οὐδέποτε ἐντολήν σου παρῆλθον καὶ ἐμοὶ οὐδέποτε ἔδωκας ἔριφον ἵνα μετὰ τῶν φίλων μου εὐφρανθῶ ὅτε δὲ ὁ υἱός σου οὗτος ὁ καταφαγών σου τὸν βίον μετὰ πορνῶν ἦλθεν ἔθυσας αὐτῷ τὸν σιτευτὸν μόσχον</reference>
+		<reference osisRef="Luke.15.31!5-Luke.15.32!34" type="EmbeddedRepSpeech" label="" verse="Luke 15:31 - 2" >τέκνον σὺ πάντοτε μετ’ ἐμοῦ εἶ καὶ πάντα τὰ ἐμὰ σά ἐστιν εὐφρανθῆναι δὲ καὶ χαρῆναι ἔδει ὅτι ὁ ἀδελφός σου οὗτος νεκρὸς ἦν καὶ ἔζησεν καὶ ἀπολωλὼς καὶ εὑρέθη</reference>
+		<reference osisRef="Luke.16.2!6-Luke.16.2!21" type="EmbeddedRepSpeech" label="" verse="Luke 16:2" >τί τοῦτο ἀκούω περὶ σοῦ ἀπόδος τὸν λόγον τῆς οἰκονομίας σου οὐ γὰρ δύνῃ ἔτι οἰκονομεῖν</reference>
+		<reference osisRef="Luke.16.3!7-Luke.16.4!37" type="EmbeddedRepSpeech" label="" verse="Luke 16:3 - 4" >τί ποιήσω ὅτι ὁ κύριός μου ἀφαιρεῖται τὴν οἰκονομίαν ἀπ’ ἐμοῦ σκάπτειν οὐκ ἰσχύω ἐπαιτεῖν αἰσχύνομαι ἔγνων τί ποιήσω ἵνα ὅταν μετασταθῶ ἐκ τῆς οἰκονομίας δέξωνταί με εἰς τοὺς οἴκους αὐτῶν</reference>
+		<reference osisRef="Luke.16.5!13-Luke.16.5!17" type="EmbeddedRepSpeech" label="" verse="Luke 16:5" >πόσον ὀφείλεις τῷ κυρίῳ μου</reference>
+		<reference osisRef="Luke.16.6!4-Luke.16.6!6" type="EmbeddedRepSpeech" label="" verse="Luke 16:6" >ἑκατὸν βάτους ἐλαίου</reference>
+		<reference osisRef="Luke.16.6!11-Luke.16.6!19" type="EmbeddedRepSpeech" label="" verse="Luke 16:6" >δέξαι σου τὰ γράμματα καὶ καθίσας ταχέως γράψον πεντήκοντα</reference>
+		<reference osisRef="Luke.16.7!4-Luke.16.7!7" type="EmbeddedRepSpeech" label="" verse="Luke 16:7" >σὺ δὲ πόσον ὀφείλεις</reference>
+		<reference osisRef="Luke.16.7!11-Luke.16.7!13" type="EmbeddedRepSpeech" label="" verse="Luke 16:7" >ἑκατὸν κόρους σίτου</reference>
+		<reference osisRef="Luke.16.7!16-Luke.16.7!22" type="EmbeddedRepSpeech" label="" verse="Luke 16:7" >δέξαι σου τὰ γράμματα καὶ γράψον ὀγδοήκοντα</reference>
+		<reference osisRef="Luke.16.24!5-Luke.16.24!30" type="EmbeddedRepSpeech" label="" verse="Luke 16:24" >πάτερ ἀβραάμ ἐλέησόν με καὶ πέμψον λάζαρον ἵνα βάψῃ τὸ ἄκρον τοῦ δακτύλου αὐτοῦ ὕδατος καὶ καταψύξῃ τὴν γλῶσσάν μου ὅτι ὀδυνῶμαι ἐν τῇ φλογὶ ταύτῃ</reference>
+		<reference osisRef="Luke.16.25!4-Luke.16.26!51" type="EmbeddedRepSpeech" label="" verse="Luke 16:25 - 6" >τέκνον μνήσθητι ὅτι ἀπέλαβες τὰ ἀγαθά σου ἐν τῇ ζωῇ σου καὶ λάζαρος ὁμοίως τὰ κακά νῦν δὲ ὧδε παρακαλεῖται σὺ δὲ ὀδυνᾶσαι καὶ ἐν πᾶσι τούτοις μεταξὺ ἡμῶν καὶ ὑμῶν χάσμα μέγα ἐστήρικται ὅπως οἱ θέλοντες διαβῆναι ἔνθεν πρὸς ὑμᾶς μὴ δύνωνται μηδὲ ἐκεῖθεν πρὸς ἡμᾶς διαπερῶσιν</reference>
+		<reference osisRef="Luke.16.27!3-Luke.16.28!33" type="EmbeddedRepSpeech" label="" verse="Luke 16:27 - 8" >ἐρωτῶ σε οὖν πάτερ ἵνα πέμψῃς αὐτὸν εἰς τὸν οἶκον τοῦ πατρός μου ἔχω γὰρ πέντε ἀδελφούς ὅπως διαμαρτύρηται αὐτοῖς ἵνα μὴ καὶ αὐτοὶ ἔλθωσιν εἰς τὸν τόπον τοῦτον τῆς βασάνου</reference>
+		<reference osisRef="Luke.16.29!4-Luke.16.29!10" type="EmbeddedRepSpeech" label="" verse="Luke 16:29" >ἔχουσι μωϋσέα καὶ τοὺς προφήτας ἀκουσάτωσαν αὐτῶν</reference>
+		<reference osisRef="Luke.16.30!4-Luke.16.30!15" type="EmbeddedRepSpeech" label="" verse="Luke 16:30" >οὐχί πάτερ ἀβραάμ ἀλλ’ ἐάν τις ἀπὸ νεκρῶν πορευθῇ πρὸς αὐτοὺς μετανοήσουσιν</reference>
+		<reference osisRef="Luke.16.31!4-Luke.16.31!17" type="EmbeddedRepSpeech" label="" verse="Luke 16:31" >εἰ μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν οὐδ’ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται</reference>
+		<reference osisRef="Luke.17.4!15" type="EmbeddedRepSpeech" label="" verse="Luke 17:4" >μετανοῶ</reference>
+		<reference osisRef="Luke.17.6!16-Luke.17.6!21" type="EmbeddedRepSpeech" label="" verse="Luke 17:6" >ἐκριζώθητι καὶ φυτεύθητι ἐν τῇ θαλάσσῃ</reference>
+		<reference osisRef="Luke.17.7!17-Luke.17.7!19" type="EmbeddedRepSpeech" label="" verse="Luke 17:7" >εὐθέως παρελθὼν ἀνάπεσε</reference>
+		<reference osisRef="Luke.17.8!5-Luke.17.8!22" type="EmbeddedRepSpeech" label="" verse="Luke 17:8" >ἑτοίμασον τί δειπνήσω καὶ περιζωσάμενος διακόνει μοι ἕως φάγω καὶ πίω καὶ μετὰ ταῦτα φάγεσαι καὶ πίεσαι σύ</reference>
+		<reference osisRef="Luke.17.10!12-Luke.17.10!18" type="EmbeddedRepSpeech" label="" verse="Luke 17:10" >δοῦλοι ἀχρεῖοί ἐσμεν ὃ ὠφείλομεν ποιῆσαι πεποιήκαμεν</reference>
+		<reference osisRef="Luke.17.21!4" type="EmbeddedRepSpeech" label="" verse="Luke 17:21" >ὧδε</reference>
+		<reference osisRef="Luke.17.21!6" type="EmbeddedRepSpeech" label="" verse="Luke 17:21" >ἐκεῖ</reference>
+		<reference osisRef="Luke.17.23!5-Luke.17.23!6" type="EmbeddedRepSpeech" label="" verse="Luke 17:23" >ἐκεῖ ἤ</reference>
+		<reference osisRef="Luke.17.23!8" type="EmbeddedRepSpeech" label="" verse="Luke 17:23" >ὧδε</reference>
+		<reference osisRef="Luke.18.3!13-Luke.18.3!18" type="EmbeddedRepSpeech" label="" verse="Luke 18:3" >ἐκδίκησόν με ἀπὸ τοῦ ἀντιδίκου μου</reference>
+		<reference osisRef="Luke.18.4!12-Luke.18.5!38" type="EmbeddedRepSpeech" label="" verse="Luke 18:4 - 5" >εἰ καὶ τὸν θεὸν οὐ φοβοῦμαι οὐδὲ ἄνθρωπον ἐντρέπομαι διά γε τὸ παρέχειν μοι κόπον τὴν χήραν ταύτην ἐκδικήσω αὐτήν ἵνα μὴ εἰς τέλος ἐρχομένη ὑπωπιάζῃ με</reference>
+		<reference osisRef="Luke.18.11!8-Luke.18.12!36" type="EmbeddedRepSpeech" label="" verse="Luke 18:11 - 2" >ὁ θεός εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων ἅρπαγες ἄδικοι μοιχοί ἢ καὶ ὡς οὗτος ὁ τελώνης νηστεύω δὶς τοῦ σαββάτου ἀποδεκατῶ πάντα ὅσα κτῶμαι</reference>
+		<reference osisRef="Luke.18.13!21-Luke.18.13!26" type="EmbeddedRepSpeech" label="" verse="Luke 18:13" >ὁ θεός ἱλάσθητί μοι τῷ ἁμαρτωλῷ</reference>
+		<reference osisRef="Luke.19.13!14-Luke.19.13!17" type="EmbeddedRepSpeech" label="" verse="Luke 19:13" >πραγματεύσασθε ἐν ᾧ ἔρχομαι</reference>
+		<reference osisRef="Luke.19.14!13-Luke.19.14!18" type="EmbeddedRepSpeech" label="" verse="Luke 19:14" >οὐ θέλομεν τοῦτον βασιλεῦσαι ἐφ’ ἡμᾶς</reference>
+		<reference osisRef="Luke.19.16!6-Luke.19.16!12" type="EmbeddedRepSpeech" label="" verse="Luke 19:16" >κύριε ἡ μνᾶ σου δέκα προσηργάσατο μνᾶς</reference>
+		<reference osisRef="Luke.19.17!4-Luke.19.17!17" type="EmbeddedRepSpeech" label="" verse="Luke 19:17" >εὖγε ἀγαθὲ δοῦλε ὅτι ἐν ἐλαχίστῳ πιστὸς ἐγένου ἴσθι ἐξουσίαν ἔχων ἐπάνω δέκα πόλεων</reference>
+		<reference osisRef="Luke.19.18!6-Luke.19.18!12" type="EmbeddedRepSpeech" label="" verse="Luke 19:18" >ἡ μνᾶ σου κύριε ἐποίησεν πέντε μνᾶς</reference>
+		<reference osisRef="Luke.19.19!5-Luke.19.19!10" type="EmbeddedRepSpeech" label="" verse="Luke 19:19" >καὶ σὺ ἐπάνω γίνου πέντε πόλεων</reference>
+		<reference osisRef="Luke.19.20!6-Luke.19.21!31" type="EmbeddedRepSpeech" label="" verse="Luke 19:20 - 1" >κύριε ἰδοὺ ἡ μνᾶ σου ἣν εἶχον ἀποκειμένην ἐν σουδαρίῳ ἐφοβούμην γάρ σε ὅτι ἄνθρωπος αὐστηρὸς εἶ αἴρεις ὃ οὐκ ἔθηκας καὶ θερίζεις ὃ οὐκ ἔσπειρας</reference>
+		<reference osisRef="Luke.19.22!3-Luke.19.23!42" type="EmbeddedRepSpeech" label="" verse="Luke 19:22 - 3" >ἐκ τοῦ στόματός σου κρινῶ σε πονηρὲ δοῦλε ᾔδεις ὅτι ἐγὼ ἄνθρωπος αὐστηρός εἰμι αἴρων ὃ οὐκ ἔθηκα καὶ θερίζων ὃ οὐκ ἔσπειρα καὶ διὰ τί οὐκ ἔδωκάς μου τὸ ἀργύριον ἐπὶ τράπεζαν κἀγὼ ἐλθὼν σὺν τόκῳ ἂν αὐτὸ ἔπραξα</reference>
+		<reference osisRef="Luke.19.24!5-Luke.19.24!16" type="EmbeddedRepSpeech" label="" verse="Luke 19:24" >ἄρατε ἀπ’ αὐτοῦ τὴν μνᾶν καὶ δότε τῷ τὰς δέκα μνᾶς ἔχοντι</reference>
+		<reference osisRef="Luke.19.25!4-Luke.19.25!7" type="EmbeddedRepSpeech" label="" verse="Luke 19:25" >κύριε ἔχει δέκα μνᾶς</reference>
+		<reference osisRef="Luke.19.26!1-Luke.19.27!35" type="EmbeddedRepSpeech" label="" verse="Luke 19:26 - 7" >λέγω ὑμῖν ὅτι παντὶ τῷ ἔχοντι δοθήσεται ἀπὸ δὲ τοῦ μὴ ἔχοντος καὶ ὃ ἔχει ἀρθήσεται πλὴν τοὺς ἐχθρούς μου τούτους τοὺς μὴ θελήσαντάς με βασιλεῦσαι ἐπ’ αὐτοὺς ἀγάγετε ὧδε καὶ κατασφάξατε αὐτοὺς ἔμπροσθέν μου</reference>
+		<reference osisRef="Luke.19.31!6-Luke.19.31!8" type="EmbeddedRepSpeech" label="" verse="Luke 19:31" >διὰ τί λύετε</reference>
+		<reference osisRef="Luke.19.31!12-Luke.19.31!16" type="EmbeddedRepSpeech" label="" verse="Luke 19:31" >ὁ κύριος αὐτοῦ χρείαν ἔχει</reference>
+		<reference osisRef="Luke.19.46!4-Luke.19.46!10" type="EmbeddedRepSpeech" label="" verse="Luke 19:46" >καὶ ἔσται ὁ οἶκός μου οἶκος προσευχῆς</reference>
+		<reference osisRef="Luke.20.5!10-Luke.20.5!11" type="EmbeddedRepSpeech" label="" verse="Luke 20:5" >ἐξ οὐρανοῦ</reference>
+		<reference osisRef="Luke.20.5!13-Luke.20.5!17" type="EmbeddedRepSpeech" label="" verse="Luke 20:5" >διὰ τί οὐκ ἐπιστεύσατε αὐτῷ</reference>
+		<reference osisRef="Luke.20.6!4-Luke.20.6!5" type="EmbeddedRepSpeech" label="" verse="Luke 20:6" >ἐξ ἀνθρώπων</reference>
+		<reference osisRef="Luke.20.13!7-Luke.20.13!17" type="EmbeddedRepSpeech" label="" verse="Luke 20:13" >τί ποιήσω πέμψω τὸν υἱόν μου τὸν ἀγαπητόν ἴσως τοῦτον ἐντραπήσονται</reference>
+		<reference osisRef="Luke.20.14!10-Luke.20.14!20" type="EmbeddedRepSpeech" label="" verse="Luke 20:14" >οὗτός ἐστιν ὁ κληρονόμος ἀποκτείνωμεν αὐτόν ἵνα ἡμῶν γένηται ἡ κληρονομία</reference>
+		<reference osisRef="Luke.20.42!8-Luke.20.43!26" type="EmbeddedRepSpeech" label="" verse="Luke 20:42 - 3" >εἶπεν κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου</reference>
+		<reference osisRef="Luke.21.8!15-Luke.21.8!16" type="EmbeddedRepSpeech" label="" verse="Luke 21:8" >ἐγώ εἰμι</reference>
+		<reference osisRef="Luke.21.8!18-Luke.21.8!20" type="EmbeddedRepSpeech" label="" verse="Luke 21:8" >ὁ καιρὸς ἤγγικεν</reference>
+		<reference osisRef="Luke.22.11!7-Luke.22.11!22" type="EmbeddedRepSpeech" label="" verse="Luke 22:11" >λέγει σοι ὁ διδάσκαλος ποῦ ἐστιν τὸ κατάλυμα ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω</reference>
+		<reference osisRef="Luke.23.29!8-Luke.23.29!21" type="EmbeddedRepSpeech" label="" verse="Luke 23:29" >μακάριαι αἱ στεῖραι καὶ αἱ κοιλίαι αἳ οὐκ ἐγέννησαν καὶ μαστοὶ οἳ οὐκ ἔθρεψαν</reference>
+		<reference osisRef="Luke.23.30!6-Luke.23.30!8" type="EmbeddedRepSpeech" label="" verse="Luke 23:30" >πέσετε ἐφ’ ἡμᾶς</reference>
+		<reference osisRef="Luke.23.30!12-Luke.23.30!13" type="EmbeddedRepSpeech" label="" verse="Luke 23:30" >καλύψατε ἡμᾶς</reference>
+		<reference osisRef="Luke.24.7!2-Luke.24.7!19" type="EmbeddedRepSpeech" label="" verse="Luke 24:7" >τὸν υἱὸν τοῦ ἀνθρώπου ὅτι δεῖ παραδοθῆναι εἰς χεῖρας ἀνθρώπων ἁμαρτωλῶν καὶ σταυρωθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι</reference>
+		<reference osisRef="John.1.15!12-John.1.15!22" type="EmbeddedRepSpeech" label="" verse="John 1:15" >ὁ ὀπίσω μου ἐρχόμενος ἔμπροσθέν μου γέγονεν ὅτι πρῶτός μου ἦν</reference>
+		<reference osisRef="John.1.23!8-John.1.23!11" type="EmbeddedRepSpeech" label="" verse="John 1:23" >εὐθύνατε τὴν ὁδὸν κυρίου</reference>
+		<reference osisRef="John.1.30!7-John.1.30!18" type="EmbeddedRepSpeech" label="" verse="John 1:30" >ὀπίσω μου ἔρχεται ἀνὴρ ὃς ἔμπροσθέν μου γέγονεν ὅτι πρῶτός μου ἦν</reference>
+		<reference osisRef="John.1.33!15-John.1.33!32" type="EmbeddedRepSpeech" label="" verse="John 1:33" >ἐφ’ ὃν ἂν ἴδῃς τὸ πνεῦμα καταβαῖνον καὶ μένον ἐπ’ αὐτόν οὗτός ἐστιν ὁ βαπτίζων ἐν πνεύματι ἁγίῳ</reference>
+		<reference osisRef="John.1.50!10-John.1.50!14" type="EmbeddedRepSpeech" label="" verse="John 1:50" >εἶδόν σε ὑποκάτω τῆς συκῆς</reference>
+		<reference osisRef="John.3.7!6-John.3.7!9" type="EmbeddedRepSpeech" label="" verse="John 3:7" >δεῖ ὑμᾶς γεννηθῆναι ἄνωθεν</reference>
+		<reference osisRef="John.3.28!8-John.3.28!13" type="EmbeddedRepSpeech" label="" verse="John 3:28" >οὐκ εἰμὶ ἐγὼ ὁ χριστός ἀλλ’</reference>
+		<reference osisRef="John.3.28!15-John.3.28!18" type="EmbeddedRepSpeech" label="" verse="John 3:28" >ἀπεσταλμένος εἰμὶ ἔμπροσθεν ἐκείνου</reference>
+		<reference osisRef="John.4.10!18-John.4.10!20" type="EmbeddedRepSpeech" label="" verse="John 4:10" >δός μοι πεῖν</reference>
+		<reference osisRef="John.4.35!5-John.4.35!11" type="EmbeddedRepSpeech" label="" verse="John 4:35" >ἔτι τετράμηνός ἐστιν καὶ ὁ θερισμὸς ἔρχεται</reference>
+		<reference osisRef="John.5.11!12-John.5.11!17" type="EmbeddedRepSpeech" label="" verse="John 5:11" >ἆρον τὸν κράβαττόν σου καὶ περιπάτει</reference>
+		<reference osisRef="John.5.12!10-John.5.12!12" type="EmbeddedRepSpeech" label="" verse="John 5:12" >ἆρον καὶ περιπάτει</reference>
+		<reference osisRef="John.6.31!13-John.6.31!19" type="EmbeddedRepSpeech" label="" verse="John 6:31" >ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν αὐτοῖς φαγεῖν</reference>
+		<reference osisRef="John.6.36!5-John.6.36!10" type="EmbeddedRepSpeech" label="" verse="John 6:36" >καὶ ἑωράκατέ με καὶ οὐ πιστεύετε</reference>
+		<reference osisRef="John.6.42!22-John.6.42!25" type="EmbeddedRepSpeech" label="" verse="John 6:42" >ἐκ τοῦ οὐρανοῦ καταβέβηκα</reference>
+		<reference osisRef="John.6.45!6-John.6.45!10" type="EmbeddedRepSpeech" label="" verse="John 6:45" >καὶ ἔσονται πάντες διδακτοὶ θεοῦ</reference>
+		<reference osisRef="John.7.36!8-John.7.36!21" type="EmbeddedRepSpeech" label="" verse="John 7:36" >ζητήσετέ με καὶ οὐχ εὑρήσετέ με καὶ ὅπου εἰμὶ ἐγὼ ὑμεῖς οὐ δύνασθε ἐλθεῖν</reference>
+		<reference osisRef="John.7.42!6-John.7.42!20" type="EmbeddedRepSpeech" label="" verse="John 7:42" >ἐκ τοῦ σπέρματος δαυὶδ καὶ ἀπὸ βηθλέεμ τῆς κώμης ὅπου ἦν δαυὶδ ἔρχεται ὁ χριστός</reference>
+		<reference osisRef="John.8.22!10-John.8.22!16" type="EmbeddedRepSpeech" label="" verse="John 8:22" >ὅπου ἐγὼ ὑπάγω ὑμεῖς οὐ δύνασθε ἐλθεῖν</reference>
+		<reference osisRef="John.8.24!5-John.8.24!9" type="EmbeddedRepSpeech" label="" verse="John 8:24" >ἀποθανεῖσθε ἐν ταῖς ἁμαρτίαις ὑμῶν</reference>
+		<reference osisRef="John.8.33!15-John.8.33!16" type="EmbeddedRepSpeech" label="" verse="John 8:33" >ἐλεύθεροι γενήσεσθε</reference>
+		<reference osisRef="John.8.52!19-John.8.52!31" type="EmbeddedRepSpeech" label="" verse="John 8:52" >ἐάν τις τὸν λόγον μου τηρήσῃ οὐ μὴ γεύσηται θανάτου εἰς τὸν αἰῶνα</reference>
+		<reference osisRef="John.8.54!23-John.8.54!25" type="EmbeddedRepSpeech" label="" verse="John 8:54" >θεὸς ἡμῶν ἐστιν</reference>
+		<reference osisRef="John.9.11!19-John.9.11!24" type="EmbeddedRepSpeech" label="" verse="John 9:11" >ὕπαγε εἰς τὸν σιλωὰμ καὶ νίψαι</reference>
+		<reference osisRef="John.9.41!16" type="EmbeddedRepSpeech" label="" verse="John 9:41" >βλέπομεν</reference>
+		<reference osisRef="John.10.34!13-John.10.34!16" type="EmbeddedRepSpeech" label="" verse="John 10:34" >ἐγὼ εἶπα θεοί ἐστε</reference>
+		<reference osisRef="John.10.36!13" type="EmbeddedRepSpeech" label="" verse="John 10:36" >βλασφημεῖς</reference>
+		<reference osisRef="John.10.36!16-John.10.36!19" type="EmbeddedRepSpeech" label="" verse="John 10:36" >υἱὸς τοῦ θεοῦ εἰμι</reference>
+		<reference osisRef="John.12.34!23-John.12.34!28" type="EmbeddedRepSpeech" label="" verse="John 12:34" >δεῖ ὑψωθῆναι τὸν υἱὸν τοῦ ἀνθρώπου</reference>
+		<reference osisRef="John.13.13!4-John.13.13!5" type="EmbeddedRepSpeech" label="" verse="John 13:13" >ὁ διδάσκαλος</reference>
+		<reference osisRef="John.13.13!7-John.13.13!8" type="EmbeddedRepSpeech" label="" verse="John 13:13" >ὁ κύριος</reference>
+		<reference osisRef="John.13.18!15-John.13.18!25" type="EmbeddedRepSpeech" label="" verse="John 13:18" >ὁ τρώγων μου τὸν ἄρτον ἐπῆρεν ἐπ’ ἐμὲ τὴν πτέρναν αὐτοῦ</reference>
+		<reference osisRef="John.13.33!15-John.13.33!21" type="EmbeddedRepSpeech" label="" verse="John 13:33" >ὅπου ἐγὼ ὑπάγω ὑμεῖς οὐ δύνασθε ἐλθεῖν</reference>
+		<reference osisRef="John.14.9!24-John.14.9!27" type="EmbeddedRepSpeech" label="" verse="John 14:9" >δεῖξον ἡμῖν τὸν πατέρα</reference>
+		<reference osisRef="John.14.28!6-John.14.28!10" type="EmbeddedRepSpeech" label="" verse="John 14:28" >ὑπάγω καὶ ἔρχομαι πρὸς ὑμᾶς</reference>
+		<reference osisRef="John.15.20!8-John.15.20!14" type="EmbeddedRepSpeech" label="" verse="John 15:20" >οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ</reference>
+		<reference osisRef="John.15.25!13-John.15.25!15" type="EmbeddedRepSpeech" label="" verse="John 15:25" >ἐμίσησάν με δωρεάν</reference>
+		<reference osisRef="John.16.5!14-John.16.5!15" type="EmbeddedRepSpeech" label="" verse="John 16:5" >ποῦ ὑπάγεις</reference>
+		<reference osisRef="John.16.17!15-John.16.17!19" type="EmbeddedRepSpeech" label="" verse="John 16:17" >μικρὸν καὶ οὐ θεωρεῖτέ με</reference>
+		<reference osisRef="John.16.17!20" type="EmbeddedRepSpeech" label="" verse="John 16:17" >καὶ</reference>
+		<reference osisRef="John.16.17!21-John.16.17!25" type="EmbeddedRepSpeech" label="" verse="John 16:17" >πάλιν μικρὸν καὶ ὄψεσθέ με</reference>
+		<reference osisRef="John.16.17!27-John.16.17!31" type="EmbeddedRepSpeech" label="" verse="John 16:17" >ὅτι ὑπάγω πρὸς τὸν πατέρα</reference>
+		<reference osisRef="John.16.19!18-John.16.19!28" type="EmbeddedRepSpeech" label="" verse="John 16:19" >μικρὸν καὶ οὐ θεωρεῖτέ με καὶ πάλιν μικρὸν καὶ ὄψεσθέ με</reference>
+		<reference osisRef="John.19.21!11-John.19.21!14" type="EmbeddedRepSpeech" label="" verse="John 19:21" >ὁ βασιλεὺς τῶν ἰουδαίων</reference>
+		<reference osisRef="John.19.21!19-John.19.21!22" type="EmbeddedRepSpeech" label="" verse="John 19:21" >βασιλεύς εἰμι τῶν ἰουδαίων</reference>
+		<reference osisRef="John.19.24!20-John.19.24!31" type="EmbeddedRepSpeech" label="" verse="John 19:24" >διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον</reference>
+		<reference osisRef="John.20.17!22-John.20.17!35" type="EmbeddedRepSpeech" label="" verse="John 20:17" >ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν</reference>
+		<reference osisRef="Acts.1.20!6-Acts.1.20!17" type="EmbeddedRepSpeech" label="" verse="Acts 1:20" >γενηθήτω ἡ ἔπαυλις αὐτοῦ ἔρημος καὶ μὴ ἔστω ὁ κατοικῶν ἐν αὐτῇ</reference>
+		<reference osisRef="Acts.1.20!19-Acts.1.20!23" type="EmbeddedRepSpeech" label="" verse="Acts 1:20" >τὴν ἐπισκοπὴν αὐτοῦ λαβέτω ἕτερος</reference>
+		<reference osisRef="Acts.2.17!1-Acts.2.21!107" type="EmbeddedRepSpeech" label="" verse="Acts 2:17 - 21" >καὶ ἔσται ἐν ταῖς ἐσχάταις ἡμέραις λέγει ὁ θεός ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα καὶ προφητεύσουσιν οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν καὶ οἱ νεανίσκοι ὑμῶν ὁράσεις ὄψονται καὶ οἱ πρεσβύτεροι ὑμῶν ἐνυπνίοις ἐνυπνιασθήσονται καί γε ἐπὶ τοὺς δούλους μου καὶ ἐπὶ τὰς δούλας μου ἐν ταῖς ἡμέραις ἐκείναις ἐκχεῶ ἀπὸ τοῦ πνεύματός μου καὶ προφητεύσουσιν καὶ δώσω τέρατα ἐν τῷ οὐρανῷ ἄνω καὶ σημεῖα ἐπὶ τῆς γῆς κάτω αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ ὁ ἥλιος μεταστραφήσεται εἰς σκότος καὶ ἡ σελήνη εἰς αἷμα πρὶν ἐλθεῖν ἡμέραν κυρίου τὴν μεγάλην καὶ ἐπιφανῆ καὶ ἔσται πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται</reference>
+		<reference osisRef="Acts.2.25!6-Acts.2.28!66" type="EmbeddedRepSpeech" label="" verse="Acts 2:25 - 8" >προορώμην τὸν κύριον ἐνώπιόν μου διὰ παντός ὅτι ἐκ δεξιῶν μού ἐστιν ἵνα μὴ σαλευθῶ διὰ τοῦτο ηὐφράνθη ἡ καρδία μου καὶ ἠγαλλιάσατο ἡ γλῶσσά μου ἔτι δὲ καὶ ἡ σάρξ μου κατασκηνώσει ἐπ’ ἐλπίδι ὅτι οὐκ ἐγκαταλείψεις τὴν ψυχήν μου εἰς ᾅδην οὐδὲ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν ἐγνώρισάς μοι ὁδοὺς ζωῆς πληρώσεις με εὐφροσύνης μετὰ τοῦ προσώπου σου</reference>
+		<reference osisRef="Acts.2.34!11-Acts.2.35!30" type="EmbeddedRepSpeech" label="" verse="Acts 2:34 - 5" >εἶπεν ὁ κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου</reference>
+		<reference osisRef="Acts.3.22!5-Acts.3.23!41" type="EmbeddedRepSpeech" label="" verse="Acts 3:22 - 3" >προφήτην ὑμῖν ἀναστήσει κύριος ὁ θεὸς ὑμῶν ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ αὐτοῦ ἀκούσεσθε κατὰ πάντα ὅσα ἂν λαλήσῃ πρὸς ὑμᾶς ἔσται δὲ πᾶσα ψυχὴ ἥτις ἐὰν μὴ ἀκούσῃ τοῦ προφήτου ἐκείνου ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ</reference>
+		<reference osisRef="Acts.3.25!21-Acts.3.25!31" type="EmbeddedRepSpeech" label="" verse="Acts 3:25" >καὶ ἐν τῷ σπέρματί σου [ἐν]ευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς</reference>
+		<reference osisRef="Acts.4.25!13-Acts.4.26!39" type="EmbeddedRepSpeech" label="" verse="Acts 4:25 - 6" >ἱνατί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου καὶ κατὰ τοῦ χριστοῦ αὐτοῦ</reference>
+		<reference osisRef="Acts.6.14!6-Acts.6.14!21" type="EmbeddedRepSpeech" label="" verse="Acts 6:14" >ἰησοῦς ὁ ναζωραῖος οὗτος καταλύσει τὸν τόπον τοῦτον καὶ ἀλλάξει τὰ ἔθη ἃ παρέδωκεν ἡμῖν μωϋσῆς</reference>
+		<reference osisRef="Acts.7.3!5-Acts.7.3!23" type="EmbeddedRepSpeech" label="" verse="Acts 7:3" >ἔξελθε ἐκ τῆς γῆς σου καὶ ἐκ τῆς συγγενείας σου καὶ δεῦρο εἰς τὴν γῆν ἣν ἄν σοι δείξω</reference>
+		<reference osisRef="Acts.7.6!7-Acts.7.7!29" type="EmbeddedRepSpeech" label="" verse="Acts 7:6 - 7" >ἔσται τὸ σπέρμα αὐτοῦ πάροικον ἐν γῇ ἀλλοτρίᾳ καὶ δουλώσουσιν αὐτὸ καὶ κακώσουσιν ἔτη τετρακόσια καὶ τὸ ἔθνος ᾧ ἐὰν δουλεύσουσιν κρινῶ ἐγώ</reference>
+		<reference osisRef="Acts.7.7!12-Acts.7.7!22" type="EmbeddedRepSpeech" label="" verse="Acts 7:7" >καὶ μετὰ ταῦτα ἐξελεύσονται καὶ λατρεύσουσίν μοι ἐν τῷ τόπῳ τούτῳ</reference>
+		<reference osisRef="Acts.7.26!14-Acts.7.26!19" type="EmbeddedRepSpeech" label="" verse="Acts 7:26" >ἄνδρες ἀδελφοί ἐστε ἱνατί ἀδικεῖτε ἀλλήλους</reference>
+		<reference osisRef="Acts.7.27!9-Acts.7.28!27" type="EmbeddedRepSpeech" label="" verse="Acts 7:27 - 8" >τίς σε κατέστησεν ἄρχοντα καὶ δικαστὴν ἐφ’ ἡμῶν μὴ ἀνελεῖν με σὺ θέλεις ὃν τρόπον ἀνεῖλες ἐχθὲς τὸν αἰγύπτιον</reference>
+		<reference osisRef="Acts.7.32!1-Acts.7.32!13" type="EmbeddedRepSpeech" label="" verse="Acts 7:32" >ἐγὼ ὁ θεὸς τῶν πατέρων σου ὁ θεὸς ἀβραὰμ καὶ ἰσαὰκ καὶ ἰακώβ</reference>
+		<reference osisRef="Acts.7.33!6-Acts.7.34!46" type="EmbeddedRepSpeech" label="" verse="Acts 7:33 - 4" >λῦσον τὸ ὑπόδημα τῶν ποδῶν σου ὁ γὰρ τόπος ἐφ’ ᾧ ἕστηκας γῆ ἁγία ἐστίν ἰδὼν εἶδον τὴν κάκωσιν τοῦ λαοῦ μου τοῦ ἐν αἰγύπτῳ καὶ τοῦ στεναγμοῦ αὐτῶν ἤκουσα καὶ κατέβην ἐξελέσθαι αὐτούς καὶ νῦν δεῦρο ἀποστείλω σε εἰς αἴγυπτον</reference>
+		<reference osisRef="Acts.7.35!7-Acts.7.35!12" type="EmbeddedRepSpeech" label="" verse="Acts 7:35" >τίς σε κατέστησεν ἄρχοντα καὶ δικαστήν</reference>
+		<reference osisRef="Acts.7.37!10-Acts.7.37!20" type="EmbeddedRepSpeech" label="" verse="Acts 7:37" >προφήτην ὑμῖν ἀναστήσει ὁ θεὸς ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ</reference>
+		<reference osisRef="Acts.7.40!4-Acts.7.40!24" type="EmbeddedRepSpeech" label="" verse="Acts 7:40" >ποίησον ἡμῖν θεοὺς οἳ προπορεύσονται ἡμῶν ὁ γὰρ μωϋσῆς οὗτος ὃς ἐξήγαγεν ἡμᾶς ἐκ γῆς αἰγύπτου οὐκ οἴδαμεν τί ἐγένετο αὐτῷ</reference>
+		<reference osisRef="Acts.7.42!19-Acts.7.43!55" type="EmbeddedRepSpeech" label="" verse="Acts 7:42 - 3" >μὴ σφάγια καὶ θυσίας προσηνέγκατέ μοι ἔτη τεσσεράκοντα ἐν τῇ ἐρήμῳ οἶκος ἰσραήλ καὶ ἀνελάβετε τὴν σκηνὴν τοῦ μόλοχ καὶ τὸ ἄστρον τοῦ θεοῦ ὑμῶν ῥαιφάν τοὺς τύπους οὓς ἐποιήσατε προσκυνεῖν αὐτοῖς καὶ μετοικιῶ ὑμᾶς ἐπέκεινα βαβυλῶνος</reference>
+		<reference osisRef="Acts.7.49!1-Acts.7.50!30" type="EmbeddedRepSpeech" label="" verse="Acts 7:49 - 50" >ὁ οὐρανός μοι θρόνος ἡ δὲ γῆ ὑποπόδιον τῶν ποδῶν μου ποῖον οἶκον οἰκοδομήσετέ μοι λέγει κύριος ἢ τίς τόπος τῆς καταπαύσεώς μου οὐχὶ ἡ χείρ μου ἐποίησεν ταῦτα πάντα</reference>
+		<reference osisRef="Acts.10.31!3-Acts.10.32!33" type="EmbeddedRepSpeech" label="" verse="Acts 10:31 - 2" >κορνήλιε εἰσηκούσθη σου ἡ προσευχὴ καὶ αἱ ἐλεημοσύναι σου ἐμνήσθησαν ἐνώπιον τοῦ θεοῦ πέμψον οὖν εἰς ἰόππην καὶ μετακάλεσαι σίμωνα ὃς ἐπικαλεῖται πέτρος οὗτος ξενίζεται ἐν οἰκίᾳ σίμωνος βυρσέως παρὰ θάλασσαν</reference>
+		<reference osisRef="Acts.11.7!7-Acts.11.7!11" type="EmbeddedRepSpeech" label="" verse="Acts 11:7" >ἀναστάς πέτρε θῦσον καὶ φάγε</reference>
+		<reference osisRef="Acts.11.8!3-Acts.11.8!14" type="EmbeddedRepSpeech" label="" verse="Acts 11:8" >μηδαμῶς κύριε ὅτι κοινὸν ἢ ἀκάθαρτον οὐδέποτε εἰσῆλθεν εἰς τὸ στόμα μου</reference>
+		<reference osisRef="Acts.11.9!9-Acts.11.9!15" type="EmbeddedRepSpeech" label="" verse="Acts 11:9" >ἃ ὁ θεὸς ἐκαθάρισεν σὺ μὴ κοίνου</reference>
+		<reference osisRef="Acts.11.13!15-Acts.11.14!37" type="EmbeddedRepSpeech" label="" verse="Acts 11:13 - 4" >ἀπόστειλον εἰς ἰόππην καὶ μετάπεμψαι σίμωνα τὸν ἐπικαλούμενον πέτρον ὃς λαλήσει ῥήματα πρὸς σὲ ἐν οἷς σωθήσῃ σὺ καὶ πᾶς ὁ οἶκός σου</reference>
+		<reference osisRef="Acts.11.16!9-Acts.11.16!18" type="EmbeddedRepSpeech" label="" verse="Acts 11:16" >ἰωάννης μὲν ἐβάπτισεν ὕδατι ὑμεῖς δὲ βαπτισθήσεσθε ἐν πνεύματι ἁγίῳ</reference>
+		<reference osisRef="Acts.13.22!16-Acts.13.22!18" type="EmbeddedRepSpeech" label="" verse="Acts 13:22" >τὸν τοῦ ἰεσσαί</reference>
+		<reference osisRef="Acts.13.22!24-Acts.13.22!29" type="EmbeddedRepSpeech" label="" verse="Acts 13:22" >ὃς ποιήσει πάντα τὰ θελήματά μου</reference>
+		<reference osisRef="Acts.13.25!8-Acts.13.25!15" type="EmbeddedRepSpeech" label="" verse="Acts 13:25" >τί ἐμὲ ὑπονοεῖτε εἶναι οὐκ εἰμὶ ἐγώ ἀλλ’</reference>
+		<reference osisRef="Acts.13.25!17-Acts.13.25!28" type="EmbeddedRepSpeech" label="" verse="Acts 13:25" >ἔρχεται μετ’ ἐμὲ οὗ οὐκ εἰμὶ ἄξιος τὸ ὑπόδημα τῶν ποδῶν λῦσαι</reference>
+		<reference osisRef="Acts.13.33!20-Acts.13.33!27" type="EmbeddedRepSpeech" label="" verse="Acts 13:33" >υἱός μου εἶ σύ ἐγὼ σήμερον γεγέννηκά σε</reference>
+		<reference osisRef="Acts.13.34!15-Acts.13.34!21" type="EmbeddedRepSpeech" label="" verse="Acts 13:34" >δώσω ὑμῖν τὰ ὅσια δαυὶδ τὰ πιστά</reference>
+		<reference osisRef="Acts.13.35!6-Acts.13.35!12" type="EmbeddedRepSpeech" label="" verse="Acts 13:35" >οὐ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν</reference>
+		<reference osisRef="Acts.13.41!1" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἴδετε</reference>
+		<reference osisRef="Acts.13.41!2" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >οἱ</reference>
+		<reference osisRef="Acts.13.41!3" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >καταφρονηταί</reference>
+		<reference osisRef="Acts.13.41!4" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >καὶ</reference>
+		<reference osisRef="Acts.13.41!5" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >θαυμάσατε</reference>
+		<reference osisRef="Acts.13.41!6" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >καὶ</reference>
+		<reference osisRef="Acts.13.41!7" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἀφανίσθητε</reference>
+		<reference osisRef="Acts.13.41!8" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ὅτι</reference>
+		<reference osisRef="Acts.13.41!9" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἔργον</reference>
+		<reference osisRef="Acts.13.41!10" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἐργάζομαι</reference>
+		<reference osisRef="Acts.13.41!11" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἐγὼ</reference>
+		<reference osisRef="Acts.13.41!12" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἐν</reference>
+		<reference osisRef="Acts.13.41!13" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ταῖς</reference>
+		<reference osisRef="Acts.13.41!14" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἡμέραις</reference>
+		<reference osisRef="Acts.13.41!15" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ὑμῶν</reference>
+		<reference osisRef="Acts.13.41!16" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἔργον</reference>
+		<reference osisRef="Acts.13.41!17" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ὃ</reference>
+		<reference osisRef="Acts.13.41!18" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >οὐ</reference>
+		<reference osisRef="Acts.13.41!19" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >μὴ</reference>
+		<reference osisRef="Acts.13.41!20" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >πιστεύσητε</reference>
+		<reference osisRef="Acts.13.41!21" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἐάν</reference>
+		<reference osisRef="Acts.13.41!22" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >τις</reference>
+		<reference osisRef="Acts.13.41!23" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ἐκδιηγῆται</reference>
+		<reference osisRef="Acts.13.41!24" type="EmbeddedRepSpeech" label="" verse="Acts 13:41" >ὑμῖν</reference>
+		<reference osisRef="Acts.13.47!7-Acts.13.47!20" type="EmbeddedRepSpeech" label="" verse="Acts 13:47" >τέθεικά σε εἰς φῶς ἐθνῶν τοῦ εἶναί σε εἰς σωτηρίαν ἕως ἐσχάτου τῆς γῆς</reference>
+		<reference osisRef="Acts.15.16!1-Acts.15.18!46" type="EmbeddedRepSpeech" label="" verse="Acts 15:16 - 8" >μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν δαυὶδ τὴν πεπτωκυῖαν καὶ τὰ κατεσκαμμένα αὐτῆς ἀνοικοδομήσω καὶ ἀνορθώσω αὐτήν ὅπως ἂν ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον καὶ πάντα τὰ ἔθνη ἐφ’ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ’ αὐτούς λέγει κύριος ποιῶν ταῦτα γνωστὰ ἀπ’ αἰῶνος</reference>
+		<reference osisRef="Acts.17.23!14-Acts.17.23!15" type="EmbeddedRepSpeech" label="" verse="Acts 17:23" >ἀγνώστῳ θεῷ</reference>
+		<reference osisRef="Acts.17.28!17-Acts.17.28!21" type="EmbeddedRepSpeech" label="" verse="Acts 17:28" >τοῦ γὰρ καὶ γένος ἐσμέν</reference>
+		<reference osisRef="Acts.19.26!23-Acts.19.26!29" type="EmbeddedRepSpeech" label="" verse="Acts 19:26" >οὐκ εἰσὶν θεοὶ οἱ διὰ χειρῶν γινόμενοι</reference>
+		<reference osisRef="Acts.20.23!13-Acts.20.23!17" type="EmbeddedRepSpeech" label="" verse="Acts 20:23" >δεσμὰ καὶ θλίψεις με μένουσιν</reference>
+		<reference osisRef="Acts.20.35!21-Acts.20.35!26" type="EmbeddedRepSpeech" label="" verse="Acts 20:35" >μακάριόν ἐστιν μᾶλλον διδόναι ἢ λαμβάνειν</reference>
+		<reference osisRef="Acts.21.11!25-Acts.21.11!42" type="EmbeddedRepSpeech" label="" verse="Acts 21:11" >τὸν ἄνδρα οὗ ἐστιν ἡ ζώνη αὕτη οὕτως δήσουσιν ἐν ἰερουσαλὴμ οἱ ἰουδαῖοι καὶ παραδώσουσιν εἰς χεῖρας ἐθνῶν</reference>
+		<reference osisRef="Acts.22.7!11-Acts.22.7!15" type="EmbeddedRepSpeech" label="" verse="Acts 22:7" >σαοὺλ σαούλ τί με διώκεις</reference>
+		<reference osisRef="Acts.22.8!4-Acts.22.8!6" type="EmbeddedRepSpeech" label="" verse="Acts 22:8" >τίς εἶ κύριε</reference>
+		<reference osisRef="Acts.22.8!11-Acts.22.8!18" type="EmbeddedRepSpeech" label="" verse="Acts 22:8" >ἐγώ εἰμι ἰησοῦς ὁ ναζωραῖος ὃν σὺ διώκεις</reference>
+		<reference osisRef="Acts.22.10!3-Acts.22.10!5" type="EmbeddedRepSpeech" label="" verse="Acts 22:10" >τί ποιήσω κύριε</reference>
+		<reference osisRef="Acts.22.10!12-Acts.22.10!24" type="EmbeddedRepSpeech" label="" verse="Acts 22:10" >ἀναστὰς πορεύου εἰς δαμασκὸν κἀκεῖ σοι λαληθήσεται περὶ πάντων ὧν τέτακταί σοι ποιῆσαι</reference>
+		<reference osisRef="Acts.22.13!8-Acts.22.13!10" type="EmbeddedRepSpeech" label="" verse="Acts 22:13" >σαοὺλ ἀδελφέ ἀνάβλεψον</reference>
+		<reference osisRef="Acts.22.14!4-Acts.22.16!51" type="EmbeddedRepSpeech" label="" verse="Acts 22:14 - 6" >ὁ θεὸς τῶν πατέρων ἡμῶν προεχειρίσατό σε γνῶναι τὸ θέλημα αὐτοῦ καὶ ἰδεῖν τὸν δίκαιον καὶ ἀκοῦσαι φωνὴν ἐκ τοῦ στόματος αὐτοῦ ὅτι ἔσῃ μάρτυς αὐτῷ πρὸς πάντας ἀνθρώπους ὧν ἑώρακας καὶ ἤκουσας καὶ νῦν τί μέλλεις ἀναστὰς βάπτισαι καὶ ἀπόλουσαι τὰς ἁμαρτίας σου ἐπικαλεσάμενος τὸ ὄνομα αὐτοῦ</reference>
+		<reference osisRef="Acts.22.18!6-Acts.22.18!19" type="EmbeddedRepSpeech" label="" verse="Acts 22:18" >σπεῦσον καὶ ἔξελθε ἐν τάχει ἐξ ἰερουσαλήμ διότι οὐ παραδέξονταί σου μαρτυρίαν περὶ ἐμοῦ</reference>
+		<reference osisRef="Acts.22.19!3-Acts.22.20!40" type="EmbeddedRepSpeech" label="" verse="Acts 22:19 - 20" >κύριε αὐτοὶ ἐπίστανται ὅτι ἐγὼ ἤμην φυλακίζων καὶ δέρων κατὰ τὰς συναγωγὰς τοὺς πιστεύοντας ἐπὶ σέ καὶ ὅτε ἐξεχύννετο τὸ αἷμα στεφάνου τοῦ μάρτυρός σου καὶ αὐτὸς ἤμην ἐφεστὼς καὶ συνευδοκῶν καὶ φυλάσσων τὰ ἱμάτια τῶν ἀναιρούντων αὐτόν</reference>
+		<reference osisRef="Acts.22.21!5-Acts.22.21!12" type="EmbeddedRepSpeech" label="" verse="Acts 22:21" >πορεύου ὅτι ἐγὼ εἰς ἔθνη μακρὰν ἐξαποστελῶ σε</reference>
+		<reference osisRef="Acts.23.5!14-Acts.23.5!20" type="EmbeddedRepSpeech" label="" verse="Acts 23:5" >ἄρχοντα τοῦ λαοῦ σου οὐκ ἐρεῖς κακῶς</reference>
+		<reference osisRef="Acts.24.21!12-Acts.24.21!19" type="EmbeddedRepSpeech" label="" verse="Acts 24:21" >περὶ ἀναστάσεως νεκρῶν ἐγὼ κρίνομαι σήμερον ἐφ’ ὑμῶν</reference>
+		<reference osisRef="Acts.25.16!5-Acts.25.16!27" type="EmbeddedRepSpeech" label="" verse="Acts 25:16" >οὐκ ἔστιν ἔθος ῥωμαίοις χαρίζεσθαί τινα ἄνθρωπον πρὶν ἢ ὁ κατηγορούμενος κατὰ πρόσωπον ἔχοι τοὺς κατηγόρους τόπον τε ἀπολογίας λάβοι περὶ τοῦ ἐγκλήματος</reference>
+		<reference osisRef="Acts.26.14!16-Acts.26.14!25" type="EmbeddedRepSpeech" label="" verse="Acts 26:14" >σαοὺλ σαούλ τί με διώκεις σκληρόν σοι πρὸς κέντρα λακτίζειν</reference>
+		<reference osisRef="Acts.26.15!4-Acts.26.15!6" type="EmbeddedRepSpeech" label="" verse="Acts 26:15" >τίς εἶ κύριε</reference>
+		<reference osisRef="Acts.26.15!11-Acts.26.18!87" type="EmbeddedRepSpeech" label="" verse="Acts 26:15 - 8" >ἐγώ εἰμι ἰησοῦς ὃν σὺ διώκεις ἀλλὰ ἀνάστηθι καὶ στῆθι ἐπὶ τοὺς πόδας σου εἰς τοῦτο γὰρ ὤφθην σοι προχειρίσασθαί σε ὑπηρέτην καὶ μάρτυρα ὧν τε εἶδές με ὧν τε ὀφθήσομαί σοι ἐξαιρούμενός σε ἐκ τοῦ λαοῦ καὶ ἐκ τῶν ἐθνῶν εἰς οὓς ἐγὼ ἀποστέλλω σε ἀνοῖξαι ὀφθαλμοὺς αὐτῶν τοῦ ἐπιστρέψαι ἀπὸ σκότους εἰς φῶς καὶ τῆς ἐξουσίας τοῦ σατανᾶ ἐπὶ τὸν θεόν τοῦ λαβεῖν αὐτοὺς ἄφεσιν ἁμαρτιῶν καὶ κλῆρον ἐν τοῖς ἡγιασμένοις πίστει τῇ εἰς ἐμέ</reference>
+		<reference osisRef="Acts.27.24!2-Acts.27.24!9" type="EmbeddedRepSpeech" label="" verse="Acts 27:24" >μὴ φοβοῦ παῦλε καίσαρί σε δεῖ παραστῆναι καὶ</reference>
+		<reference osisRef="Acts.27.24!11-Acts.27.24!19" type="EmbeddedRepSpeech" label="" verse="Acts 27:24" >κεχάρισταί σοι ὁ θεὸς πάντας τοὺς πλέοντας μετὰ σοῦ</reference>
+		<reference osisRef="Acts.28.26!2-Acts.28.27!55" type="EmbeddedRepSpeech" label="" verse="Acts 28:26 - 7" >πορεύθητι πρὸς τὸν λαὸν τοῦτον καὶ εἰπόν ἀκοῇ ἀκούσετε καὶ οὐ μὴ συνῆτε καὶ βλέποντες βλέψετε καὶ οὐ μὴ ἴδητε ἐπαχύνθη γὰρ ἡ καρδία τοῦ λαοῦ τούτου καὶ τοῖς ὠσὶν βαρέως ἤκουσαν καὶ τοὺς ὀφθαλμοὺς αὐτῶν ἐκάμμυσαν μήποτε ἴδωσιν τοῖς ὀφθαλμοῖς καὶ τοῖς ὠσὶν ἀκούσωσιν καὶ τῇ καρδίᾳ συνῶσιν καὶ ἐπιστρέψωσιν καὶ ἰάσομαι αὐτούς</reference>
+		<reference osisRef="Rom.9.26!9-Rom.9.26!12" type="EmbeddedRepSpeech" label="" verse="Rom 9:26" >οὐ λαός μου ὑμεῖς</reference>
+		<reference osisRef="Rom.10.6!14-Rom.10.6!18" type="EmbeddedRepSpeech" label="" verse="Rom 10:6" >τίς ἀναβήσεται εἰς τὸν οὐρανόν</reference>
+		<reference osisRef="Rom.10.7!2-Rom.10.7!6" type="EmbeddedRepSpeech" label="" verse="Rom 10:7" >τίς καταβήσεται εἰς τὴν ἄβυσσον</reference>
+		<reference osisRef="Rom.12.19!12-Rom.12.19!15" type="EmbeddedRepSpeech" label="" verse="Rom 12:19" >ἐμοὶ ἐκδίκησις ἐγὼ ἀνταποδώσω</reference>
+		<reference osisRef="Rom.14.11!3-Rom.14.11!4" type="EmbeddedRepSpeech" label="" verse="Rom 14:11" >ζῶ ἐγώ</reference>
+		<reference osisRef="Rom.14.11!7-Rom.14.11!17" type="EmbeddedRepSpeech" label="" verse="Rom 14:11" >ὅτι ἐμοὶ κάμψει πᾶν γόνυ καὶ πᾶσα γλῶσσα ἐξομολογήσεται τῷ θεῷ</reference>
+		<reference osisRef="1Cor.14.21!6-1Cor.14.21!20" type="EmbeddedRepSpeech" label="" verse="1Cor 14:21" >ἐν ἑτερογλώσσοις καὶ ἐν χείλεσιν ἑτέρων λαλήσω τῷ λαῷ τούτῳ καὶ οὐδ’ οὕτως εἰσακούσονταί μου</reference>
+		<reference osisRef="Heb.3.10!10-Heb.3.10!20" type="EmbeddedRepSpeech" label="" verse="Heb 3:10" >ἀεὶ πλανῶνται τῇ καρδίᾳ αὐτοὶ δὲ οὐκ ἔγνωσαν τὰς ὁδούς μου</reference>
+		<reference osisRef="Heb.3.11!7-Heb.3.11!12" type="EmbeddedRepSpeech" label="" verse="Heb 3:11" >εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου</reference>
+		<reference osisRef="Heb.4.3!16-Heb.4.3!21" type="EmbeddedRepSpeech" label="" verse="Heb 4:3" >εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου</reference>
+		<reference osisRef="Heb.7.21!15-Heb.7.21!19" type="EmbeddedRepSpeech" label="" verse="Heb 7:21" >σὺ ἱερεὺς εἰς τὸν αἰῶνα</reference>
+		<reference osisRef="Heb.8.8!5-Heb.8.8!7" type="EmbeddedRepSpeech" label="" verse="Heb 8:8" >ἰδοὺ ἡμέραι ἔρχονται</reference>
+		<reference osisRef="Heb.8.8!10-Heb.8.9!54" type="EmbeddedRepSpeech" label="" verse="Heb 8:8 - 9" >καὶ συντελέσω ἐπὶ τὸν οἶκον ἰσραὴλ καὶ ἐπὶ τὸν οἶκον ἰούδα διαθήκην καινήν οὐ κατὰ τὴν διαθήκην ἣν ἐποίησα τοῖς πατράσιν αὐτῶν ἐν ἡμέρᾳ ἐπιλαβομένου μου τῆς χειρὸς αὐτῶν ἐξαγαγεῖν αὐτοὺς ἐκ γῆς αἰγύπτου ὅτι αὐτοὶ οὐκ ἐνέμειναν ἐν τῇ διαθήκῃ μου κἀγὼ ἠμέλησα αὐτῶν</reference>
+		<reference osisRef="Heb.8.10!1-Heb.8.10!13" type="EmbeddedRepSpeech" label="" verse="Heb 8:10" >ὅτι αὕτη ἡ διαθήκη ἣν διαθήσομαι τῷ οἴκῳ ἰσραὴλ μετὰ τὰς ἡμέρας ἐκείνας</reference>
+		<reference osisRef="Heb.8.10!16-Heb.8.12!79" type="EmbeddedRepSpeech" label="" verse="Heb 8:10 - 2" >διδοὺς νόμους μου εἰς τὴν διάνοιαν αὐτῶν καὶ ἐπὶ καρδίας αὐτῶν ἐπιγράψω αὐτούς καὶ ἔσομαι αὐτοῖς εἰς θεόν καὶ αὐτοὶ ἔσονταί μοι εἰς λαόν καὶ οὐ μὴ διδάξωσιν ἕκαστος τὸν πολίτην αὐτοῦ καὶ ἕκαστος τὸν ἀδελφὸν αὐτοῦ λέγων γνῶθι τὸν κύριον ὅτι πάντες εἰδήσουσίν με ἀπὸ μικροῦ ἕως μεγάλου αὐτῶν ὅτι ἵλεως ἔσομαι ταῖς ἀδικίαις αὐτῶν καὶ τῶν ἁμαρτιῶν αὐτῶν οὐ μὴ μνησθῶ ἔτι</reference>
+		<reference osisRef="Heb.10.7!3-Heb.10.7!17" type="EmbeddedRepSpeech" label="" verse="Heb 10:7" >ἰδοὺ ἥκω ἐν κεφαλίδι βιβλίου γέγραπται περὶ ἐμοῦ τοῦ ποιῆσαι ὁ θεὸς τὸ θέλημά σου</reference>
+		<reference osisRef="Heb.10.16!1-Heb.10.16!11" type="EmbeddedRepSpeech" label="" verse="Heb 10:16" >αὕτη ἡ διαθήκη ἣν διαθήσομαι πρὸς αὐτοὺς μετὰ τὰς ἡμέρας ἐκείνας</reference>
+		<reference osisRef="Heb.10.16!14-Heb.10.17!38" type="EmbeddedRepSpeech" label="" verse="Heb 10:16 - 7" >διδοὺς νόμους μου ἐπὶ καρδίας αὐτῶν καὶ ἐπὶ τὴν διάνοιαν αὐτῶν ἐπιγράψω αὐτούς καὶ τῶν ἁμαρτιῶν αὐτῶν καὶ τῶν ἀνομιῶν αὐτῶν οὐ μὴ μνησθήσομαι ἔτι</reference>
+		<reference osisRef="Rev.3.17!4-Rev.3.17!5" type="EmbeddedRepSpeech" label="" verse="Rev 3:17" >πλούσιός εἰμι</reference>
+		<reference osisRef="Rev.14.13!9-Rev.14.13!17" type="EmbeddedRepSpeech" label="" verse="Rev 14:13" >μακάριοι οἱ νεκροὶ οἱ ἐν κυρίῳ ἀποθνῄσκοντες ἀπ’ ἄρτι</reference>
+		<reference osisRef="Rev.14.13!18" type="EmbeddedRepSpeech" label="" verse="Rev 14:13" >ναί</reference>
+		<reference osisRef="Rev.18.7!19-Rev.18.7!29" type="EmbeddedRepSpeech" label="" verse="Rev 18:7" >κάθημαι βασίλισσα καὶ χήρα οὐκ εἰμὶ καὶ πένθος οὐ μὴ ἴδω</reference>
+		<reference osisRef="Rev.19.9!5-Rev.19.9!14" type="EmbeddedRepSpeech" label="" verse="Rev 19:9" >μακάριοι οἱ εἰς τὸ δεῖπνον τοῦ γάμου τοῦ ἀρνίου κεκλημένοι</reference>
 	</references>
-</markup>
+</feature>

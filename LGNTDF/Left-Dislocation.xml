@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<markup>
+<feature>
 	<header>
 		<copyright>©2016 SIL International</copyright>
 		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
@@ -10,406 +10,406 @@
 		<defaultstyle label="L-Dis" bkcolor="" fontcolor="" brdrcolor="" brdrline="Solid" brdrpos="Under" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
 	</header>
 	<references>
-		<reference osisRef="MAT.4.16!11-MAT.4.16!17" type="Left-Dislocation" label="L-Dis" verse="MAT 4:16" >τοῖς καθημένοις ἐν χώρᾳ καὶ σκιᾷ θανάτου</reference>
-		<reference osisRef="MAT.5.19!23" type="Left-Dislocation" label="L-Dis" verse="MAT 5:19" >ὃς</reference>
-		<reference osisRef="MAT.5.19!25-MAT.5.19!28" type="Left-Dislocation" label="L-Dis" verse="MAT 5:19" >ἂν ποιήσῃ καὶ διδάξῃ</reference>
-		<reference osisRef="MAT.5.39!10-MAT.5.39!17" type="Left-Dislocation" label="L-Dis" verse="MAT 5:39" >ὅστις σε ῥαπίζει εἰς τὴν δεξιὰν σιαγόνα σου</reference>
-		<reference osisRef="MAT.5.40!2-MAT.5.40!10" type="Left-Dislocation" label="L-Dis" verse="MAT 5:40" >τῷ θέλοντί σοι κριθῆναι καὶ τὸν χιτῶνά σου λαβεῖν</reference>
-		<reference osisRef="MAT.5.41!2-MAT.5.41!6" type="Left-Dislocation" label="L-Dis" verse="MAT 5:41" >ὅστις σε ἀγγαρεύσει μίλιον ἕν</reference>
-		<reference osisRef="MAT.6.21!1" type="Left-Dislocation" label="L-Dis" verse="MAT 6:21" >ὅπου</reference>
-		<reference osisRef="MAT.6.21!3-MAT.6.21!6" type="Left-Dislocation" label="L-Dis" verse="MAT 6:21" >ἐστιν ὁ θησαυρός σου</reference>
-		<reference osisRef="MAT.7.12!1" type="Left-Dislocation" label="L-Dis" verse="MAT 7:12" >πάντα</reference>
-		<reference osisRef="MAT.7.12!3-MAT.7.12!10" type="Left-Dislocation" label="L-Dis" verse="MAT 7:12" >ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι</reference>
-		<reference osisRef="MAT.10.11!1-MAT.10.11!2" type="Left-Dislocation" label="L-Dis" verse="MAT 10:11" >εἰς ἣν</reference>
-		<reference osisRef="MAT.10.11!4-MAT.10.11!8" type="Left-Dislocation" label="L-Dis" verse="MAT 10:11" >ἂν πόλιν ἢ κώμην εἰσέλθητε</reference>
-		<reference osisRef="MAT.10.14!2-MAT.10.14!11" type="Left-Dislocation" label="L-Dis" verse="MAT 10:14" >ὃς ἂν μὴ δέξηται ὑμᾶς μηδὲ ἀκούσῃ τοὺς λόγους ὑμῶν</reference>
-		<reference osisRef="MAT.10.22!10" type="Left-Dislocation" label="L-Dis" verse="MAT 10:22" >ὁ</reference>
-		<reference osisRef="MAT.10.22!12-MAT.10.22!14" type="Left-Dislocation" label="L-Dis" verse="MAT 10:22" >ὑπομείνας εἰς τέλος</reference>
-		<reference osisRef="MAT.10.32!1" type="Left-Dislocation" label="L-Dis" verse="MAT 10:32" >πᾶς</reference>
-		<reference osisRef="MAT.10.32!3-MAT.10.32!9" type="Left-Dislocation" label="L-Dis" verse="MAT 10:32" >ὅστις ὁμολογήσει ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων</reference>
-		<reference osisRef="MAT.10.33!1" type="Left-Dislocation" label="L-Dis" verse="MAT 10:33" >ὅστις</reference>
-		<reference osisRef="MAT.10.33!3-MAT.10.33!8" type="Left-Dislocation" label="L-Dis" verse="MAT 10:33" >ἂν ἀρνήσηταί με ἔμπροσθεν τῶν ἀνθρώπων</reference>
-		<reference osisRef="MAT.10.42!2-MAT.10.42!14" type="Left-Dislocation" label="L-Dis" verse="MAT 10:42" >ὃς ἂν ποτίσῃ ἕνα τῶν μικρῶν τούτων ποτήριον ψυχροῦ μόνον εἰς ὄνομα μαθητοῦ</reference>
-		<reference osisRef="MAT.12.32!2-MAT.12.32!10" type="Left-Dislocation" label="L-Dis" verse="MAT 12:32" >ὃς ἐὰν εἴπῃ λόγον κατὰ τοῦ υἱοῦ τοῦ ἀνθρώπου</reference>
-		<reference osisRef="MAT.12.32!13" type="Left-Dislocation" label="L-Dis" verse="MAT 12:32" >ὃς</reference>
-		<reference osisRef="MAT.12.32!15-MAT.12.32!21" type="Left-Dislocation" label="L-Dis" verse="MAT 12:32" >ἂν εἴπῃ κατὰ τοῦ πνεύματος τοῦ ἁγίου</reference>
-		<reference osisRef="MAT.12.36!5-MAT.12.36!11" type="Left-Dislocation" label="L-Dis" verse="MAT 12:36" >πᾶν ῥῆμα ἀργὸν ὃ λαλήσουσιν οἱ ἄνθρωποι</reference>
-		<reference osisRef="MAT.12.40!1" type="Left-Dislocation" label="L-Dis" verse="MAT 12:40" >ὥσπερ</reference>
-		<reference osisRef="MAT.12.40!3-MAT.12.40!14" type="Left-Dislocation" label="L-Dis" verse="MAT 12:40" >ἦν ἰωνᾶς ἐν τῇ κοιλίᾳ τοῦ κήτους τρεῖς ἡμέρας καὶ τρεῖς νύκτας</reference>
-		<reference osisRef="MAT.12.50!1" type="Left-Dislocation" label="L-Dis" verse="MAT 12:50" >ὅστις</reference>
-		<reference osisRef="MAT.12.50!3-MAT.12.50!12" type="Left-Dislocation" label="L-Dis" verse="MAT 12:50" >ἂν ποιήσῃ τὸ θέλημα τοῦ πατρός μου τοῦ ἐν οὐρανοῖς</reference>
-		<reference osisRef="MAT.13.12!1" type="Left-Dislocation" label="L-Dis" verse="MAT 13:12" >ὅστις</reference>
-		<reference osisRef="MAT.13.12!3" type="Left-Dislocation" label="L-Dis" verse="MAT 13:12" >ἔχει</reference>
-		<reference osisRef="MAT.13.12!8" type="Left-Dislocation" label="L-Dis" verse="MAT 13:12" >ὅστις</reference>
-		<reference osisRef="MAT.13.12!10-MAT.13.12!11" type="Left-Dislocation" label="L-Dis" verse="MAT 13:12" >οὐκ ἔχει</reference>
-		<reference osisRef="MAT.13.20!1" type="Left-Dislocation" label="L-Dis" verse="MAT 13:20" >ὁ</reference>
-		<reference osisRef="MAT.13.20!3-MAT.13.20!6" type="Left-Dislocation" label="L-Dis" verse="MAT 13:20" >ἐπὶ τὰ πετρώδη σπαρείς</reference>
-		<reference osisRef="MAT.13.22!1" type="Left-Dislocation" label="L-Dis" verse="MAT 13:22" >ὁ</reference>
-		<reference osisRef="MAT.13.22!3-MAT.13.22!6" type="Left-Dislocation" label="L-Dis" verse="MAT 13:22" >εἰς τὰς ἀκάνθας σπαρείς</reference>
-		<reference osisRef="MAT.13.23!1" type="Left-Dislocation" label="L-Dis" verse="MAT 13:23" >ὁ</reference>
-		<reference osisRef="MAT.13.23!3-MAT.13.23!7" type="Left-Dislocation" label="L-Dis" verse="MAT 13:23" >ἐπὶ τὴν καλὴν γῆν σπαρείς</reference>
-		<reference osisRef="MAT.13.38!7" type="Left-Dislocation" label="L-Dis" verse="MAT 13:38" >τὸ</reference>
-		<reference osisRef="MAT.13.38!9-MAT.13.38!10" type="Left-Dislocation" label="L-Dis" verse="MAT 13:38" >καλὸν σπέρμα</reference>
-		<reference osisRef="MAT.13.40!1" type="Left-Dislocation" label="L-Dis" verse="MAT 13:40" >ὥσπερ</reference>
-		<reference osisRef="MAT.13.40!3-MAT.13.40!8" type="Left-Dislocation" label="L-Dis" verse="MAT 13:40" >συλλέγεται τὰ ζιζάνια καὶ πυρὶ [κατα]καίεται</reference>
-		<reference osisRef="MAT.13.56!2-MAT.13.56!4" type="Left-Dislocation" label="L-Dis" verse="MAT 13:56" >αἱ ἀδελφαὶ αὐτοῦ</reference>
-		<reference osisRef="MAT.15.11!11-MAT.15.11!15" type="Left-Dislocation" label="L-Dis" verse="MAT 15:11" >τὸ ἐκπορευόμενον ἐκ τοῦ στόματος</reference>
-		<reference osisRef="MAT.18.4!1" type="Left-Dislocation" label="L-Dis" verse="MAT 18:4" >ὅστις</reference>
-		<reference osisRef="MAT.18.4!3-MAT.18.4!8" type="Left-Dislocation" label="L-Dis" verse="MAT 18:4" >ταπεινώσει ἑαυτὸν ὡς τὸ παιδίον τοῦτο</reference>
-		<reference osisRef="MAT.18.6!1" type="Left-Dislocation" label="L-Dis" verse="MAT 18:6" >ὃς</reference>
-		<reference osisRef="MAT.18.6!3-MAT.18.6!12" type="Left-Dislocation" label="L-Dis" verse="MAT 18:6" >ἂν σκανδαλίσῃ ἕνα τῶν μικρῶν τούτων τῶν πιστευόντων εἰς ἐμέ</reference>
-		<reference osisRef="MAT.18.20!1" type="Left-Dislocation" label="L-Dis" verse="MAT 18:20" >οὗ</reference>
-		<reference osisRef="MAT.18.20!3-MAT.18.20!11" type="Left-Dislocation" label="L-Dis" verse="MAT 18:20" >εἰσιν δύο ἢ τρεῖς συνηγμένοι εἰς τὸ ἐμὸν ὄνομα</reference>
-		<reference osisRef="MAT.19.28!10-MAT.19.28!13" type="Left-Dislocation" label="L-Dis" verse="MAT 19:28" >ὑμεῖς οἱ ἀκολουθήσαντές μοι</reference>
-		<reference osisRef="MAT.20.23!8" type="Left-Dislocation" label="L-Dis" verse="MAT 20:23" >τὸ</reference>
-		<reference osisRef="MAT.20.23!10-MAT.20.23!16" type="Left-Dislocation" label="L-Dis" verse="MAT 20:23" >καθίσαι ἐκ δεξιῶν μου καὶ ἐξ εὐωνύμων</reference>
-		<reference osisRef="MAT.21.41!3" type="Left-Dislocation" label="L-Dis" verse="MAT 21:41" >κακοὺς</reference>
-		<reference osisRef="MAT.21.42!10-MAT.21.42!14" type="Left-Dislocation" label="L-Dis" verse="MAT 21:42" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες</reference>
-		<reference osisRef="MAT.21.44!9-MAT.21.44!10" type="Left-Dislocation" label="L-Dis" verse="MAT 21:44" >ἐφ’ ὃν</reference>
-		<reference osisRef="MAT.21.44!12-MAT.21.44!13" type="Left-Dislocation" label="L-Dis" verse="MAT 21:44" >ἂν πέσῃ</reference>
-		<reference osisRef="MAT.23.16!7-MAT.23.16!12" type="Left-Dislocation" label="L-Dis" verse="MAT 23:16" >ὃς ἂν ὀμόσῃ ἐν τῷ ναῷ</reference>
-		<reference osisRef="MAT.23.18!2-MAT.23.18!7" type="Left-Dislocation" label="L-Dis" verse="MAT 23:18" >ὃς ἂν ὀμόσῃ ἐν τῷ θυσιαστηρίῳ</reference>
-		<reference osisRef="MAT.24.13!1" type="Left-Dislocation" label="L-Dis" verse="MAT 24:13" >ὁ</reference>
-		<reference osisRef="MAT.24.13!3-MAT.24.13!5" type="Left-Dislocation" label="L-Dis" verse="MAT 24:13" >ὑπομείνας εἰς τέλος</reference>
-		<reference osisRef="MAT.24.27!1" type="Left-Dislocation" label="L-Dis" verse="MAT 24:27" >ὥσπερ</reference>
-		<reference osisRef="MAT.24.27!3-MAT.24.27!11" type="Left-Dislocation" label="L-Dis" verse="MAT 24:27" >ἡ ἀστραπὴ ἐξέρχεται ἀπὸ ἀνατολῶν καὶ φαίνεται ἕως δυσμῶν</reference>
-		<reference osisRef="MAT.24.28!1-MAT.24.28!5" type="Left-Dislocation" label="L-Dis" verse="MAT 24:28" >ὅπου ἐὰν ᾖ τὸ πτῶμα</reference>
-		<reference osisRef="MAT.25.29!8" type="Left-Dislocation" label="L-Dis" verse="MAT 25:29" >τοῦ</reference>
-		<reference osisRef="MAT.25.29!10-MAT.25.29!11" type="Left-Dislocation" label="L-Dis" verse="MAT 25:29" >μὴ ἔχοντος</reference>
-		<reference osisRef="MAT.26.23!5-MAT.26.23!13" type="Left-Dislocation" label="L-Dis" verse="MAT 26:23" >ὁ ἐμβάψας μετ’ ἐμοῦ τὴν χεῖρα ἐν τῷ τρυβλίῳ</reference>
-		<reference osisRef="MAT.26.48!9-MAT.26.48!11" type="Left-Dislocation" label="L-Dis" verse="MAT 26:48" >ὃν ἂν φιλήσω</reference>
-		<reference osisRef="MRK.3.35!1" type="Left-Dislocation" label="L-Dis" verse="MRK 3:35" >ὃς</reference>
-		<reference osisRef="MRK.3.35!3-MRK.3.35!8" type="Left-Dislocation" label="L-Dis" verse="MRK 3:35" >ἂν ποιήσῃ τὸ θέλημα τοῦ θεοῦ</reference>
-		<reference osisRef="MRK.4.25!1" type="Left-Dislocation" label="L-Dis" verse="MRK 4:25" >ὃς</reference>
-		<reference osisRef="MRK.4.25!3" type="Left-Dislocation" label="L-Dis" verse="MRK 4:25" >ἔχει</reference>
-		<reference osisRef="MRK.4.25!7-MRK.4.25!9" type="Left-Dislocation" label="L-Dis" verse="MRK 4:25" >ὃς οὐκ ἔχει</reference>
-		<reference osisRef="MRK.6.10!4-MRK.6.10!8" type="Left-Dislocation" label="L-Dis" verse="MRK 6:10" >ὅπου ἐὰν εἰσέλθητε εἰς οἰκίαν</reference>
-		<reference osisRef="MRK.6.11!1-MRK.6.11!10" type="Left-Dislocation" label="L-Dis" verse="MRK 6:11" >καὶ ὃς ἂν τόπος μὴ δέξηται ὑμᾶς μηδὲ ἀκούσωσιν ὑμῶν</reference>
-		<reference osisRef="MRK.6.16!6-MRK.6.16!9" type="Left-Dislocation" label="L-Dis" verse="MRK 6:16" >ὃν ἐγὼ ἀπεκεφάλισα ἰωάννην</reference>
-		<reference osisRef="MRK.7.20!4-MRK.7.20!8" type="Left-Dislocation" label="L-Dis" verse="MRK 7:20" >τὸ ἐκ τοῦ ἀνθρώπου ἐκπορευόμενον</reference>
-		<reference osisRef="MRK.7.36!7" type="Left-Dislocation" label="L-Dis" verse="MRK 7:36" >ὅσον</reference>
-		<reference osisRef="MRK.7.36!9-MRK.7.36!10" type="Left-Dislocation" label="L-Dis" verse="MRK 7:36" >αὐτοῖς διεστέλλετο</reference>
-		<reference osisRef="MRK.8.38!1" type="Left-Dislocation" label="L-Dis" verse="MRK 8:38" >ὃς</reference>
-		<reference osisRef="MRK.8.38!3-MRK.8.38!17" type="Left-Dislocation" label="L-Dis" verse="MRK 8:38" >ἐὰν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους ἐν τῇ γενεᾷ ταύτῃ τῇ μοιχαλίδι καὶ ἁμαρτωλῷ</reference>
-		<reference osisRef="MRK.9.41!1-MRK.9.41!12" type="Left-Dislocation" label="L-Dis" verse="MRK 9:41" >ὃς γὰρ ἂν ποτίσῃ ὑμᾶς ποτήριον ὕδατος ἐν ὀνόματι ὅτι χριστοῦ ἐστε</reference>
-		<reference osisRef="MRK.9.42!2-MRK.9.42!12" type="Left-Dislocation" label="L-Dis" verse="MRK 9:42" >ὃς ἂν σκανδαλίσῃ ἕνα τῶν μικρῶν τούτων τῶν πιστευόντων εἰς ἐμέ</reference>
-		<reference osisRef="MRK.11.23!5-MRK.11.23!29" type="Left-Dislocation" label="L-Dis" verse="MRK 11:23" >ὃς ἂν εἴπῃ τῷ ὄρει τούτῳ ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν καὶ μὴ διακριθῇ ἐν τῇ καρδίᾳ αὐτοῦ ἀλλὰ πιστεύῃ ὅτι ὃ λαλεῖ γίνεται</reference>
-		<reference osisRef="MRK.11.24!5-MRK.11.24!9" type="Left-Dislocation" label="L-Dis" verse="MRK 11:24" >πάντα ὅσα προσεύχεσθε καὶ αἰτεῖσθε</reference>
-		<reference osisRef="MRK.12.10!6-MRK.12.10!10" type="Left-Dislocation" label="L-Dis" verse="MRK 12:10" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες</reference>
-		<reference osisRef="MRK.12.29!9-MRK.12.29!12" type="Left-Dislocation" label="L-Dis" verse="MRK 12:29" >κύριος ὁ θεὸς ἡμῶν</reference>
-		<reference osisRef="MRK.12.40!1-MRK.12.40!10" type="Left-Dislocation" label="L-Dis" verse="MRK 12:40" >οἱ κατεσθίοντες τὰς οἰκίας τῶν χηρῶν καὶ προφάσει μακρὰ προσευχόμενοι</reference>
-		<reference osisRef="MRK.13.11!11-MRK.13.11!18" type="Left-Dislocation" label="L-Dis" verse="MRK 13:11" >ὃ ἐὰν δοθῇ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ</reference>
-		<reference osisRef="MRK.13.13!10" type="Left-Dislocation" label="L-Dis" verse="MRK 13:13" >ὁ</reference>
-		<reference osisRef="MRK.13.13!12-MRK.13.13!14" type="Left-Dislocation" label="L-Dis" verse="MRK 13:13" >ὑπομείνας εἰς τέλος</reference>
-		<reference osisRef="MRK.14.44!9-MRK.14.44!11" type="Left-Dislocation" label="L-Dis" verse="MRK 14:44" >ὃν ἂν φιλήσω</reference>
-		<reference osisRef="LUK.1.36!3-LUK.1.36!6" type="Left-Dislocation" label="L-Dis" verse="LUK 1:36" >ἐλισάβετ ἡ συγγενίς σου</reference>
-		<reference osisRef="LUK.6.31!2-LUK.6.31!8" type="Left-Dislocation" label="L-Dis" verse="LUK 6:31" >καθὼς θέλετε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι</reference>
-		<reference osisRef="LUK.6.47!1-LUK.6.47!13" type="Left-Dislocation" label="L-Dis" verse="LUK 6:47" >πᾶς ὁ ἐρχόμενος πρός με καὶ ἀκούων μου τῶν λόγων καὶ ποιῶν αὐτούς</reference>
-		<reference osisRef="LUK.8.14!1" type="Left-Dislocation" label="L-Dis" verse="LUK 8:14" >τὸ</reference>
-		<reference osisRef="LUK.8.14!3-LUK.8.14!6" type="Left-Dislocation" label="L-Dis" verse="LUK 8:14" >εἰς τὰς ἀκάνθας πεσόν</reference>
-		<reference osisRef="LUK.8.15!1" type="Left-Dislocation" label="L-Dis" verse="LUK 8:15" >τὸ</reference>
-		<reference osisRef="LUK.8.15!3-LUK.8.15!6" type="Left-Dislocation" label="L-Dis" verse="LUK 8:15" >ἐν τῇ καλῇ γῇ</reference>
-		<reference osisRef="LUK.8.18!5-LUK.8.18!6" type="Left-Dislocation" label="L-Dis" verse="LUK 8:18" >ὃς ἂν</reference>
-		<reference osisRef="LUK.8.18!8" type="Left-Dislocation" label="L-Dis" verse="LUK 8:18" >ἔχῃ</reference>
-		<reference osisRef="LUK.8.18!12-LUK.8.18!15" type="Left-Dislocation" label="L-Dis" verse="LUK 8:18" >ὃς ἂν μὴ ἔχῃ</reference>
-		<reference osisRef="LUK.9.4!2-LUK.9.4!6" type="Left-Dislocation" label="L-Dis" verse="LUK 9:4" >εἰς ἣν ἂν οἰκίαν εἰσέλθητε</reference>
-		<reference osisRef="LUK.9.5!2-LUK.9.5!6" type="Left-Dislocation" label="L-Dis" verse="LUK 9:5" >ὅσοι ἂν μὴ δέχωνται ὑμᾶς</reference>
-		<reference osisRef="LUK.9.24!11" type="Left-Dislocation" label="L-Dis" verse="LUK 9:24" >ὃς</reference>
-		<reference osisRef="LUK.9.24!13-LUK.9.24!19" type="Left-Dislocation" label="L-Dis" verse="LUK 9:24" >ἂν ἀπολέσῃ τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ</reference>
-		<reference osisRef="LUK.9.26!1" type="Left-Dislocation" label="L-Dis" verse="LUK 9:26" >ὃς</reference>
-		<reference osisRef="LUK.9.26!3-LUK.9.26!9" type="Left-Dislocation" label="L-Dis" verse="LUK 9:26" >ἂν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους</reference>
-		<reference osisRef="LUK.9.48!25" type="Left-Dislocation" label="L-Dis" verse="LUK 9:48" >ὁ</reference>
-		<reference osisRef="LUK.9.48!27-LUK.9.48!31" type="Left-Dislocation" label="L-Dis" verse="LUK 9:48" >μικρότερος ἐν πᾶσιν ὑμῖν ὑπάρχων</reference>
-		<reference osisRef="LUK.11.30!1" type="Left-Dislocation" label="L-Dis" verse="LUK 11:30" >καθὼς</reference>
-		<reference osisRef="LUK.11.30!3-LUK.11.30!7" type="Left-Dislocation" label="L-Dis" verse="LUK 11:30" >ἐγένετο ἰωνᾶς τοῖς νινευίταις σημεῖον</reference>
-		<reference osisRef="LUK.12.8!4-LUK.12.8!12" type="Left-Dislocation" label="L-Dis" verse="LUK 12:8" >πᾶς ὃς ἂν ὁμολογήσῃ ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων</reference>
-		<reference osisRef="LUK.12.10!2-LUK.12.10!10" type="Left-Dislocation" label="L-Dis" verse="LUK 12:10" >πᾶς ὃς ἐρεῖ λόγον εἰς τὸν υἱὸν τοῦ ἀνθρώπου</reference>
-		<reference osisRef="LUK.12.34!1" type="Left-Dislocation" label="L-Dis" verse="LUK 12:34" >ὅπου</reference>
-		<reference osisRef="LUK.12.34!3-LUK.12.34!6" type="Left-Dislocation" label="L-Dis" verse="LUK 12:34" >ἐστιν ὁ θησαυρὸς ὑμῶν</reference>
-		<reference osisRef="LUK.12.48!11" type="Left-Dislocation" label="L-Dis" verse="LUK 12:48" >παντὶ</reference>
-		<reference osisRef="LUK.12.48!13-LUK.12.48!15" type="Left-Dislocation" label="L-Dis" verse="LUK 12:48" >ᾧ ἐδόθη πολύ</reference>
-		<reference osisRef="LUK.12.48!21-LUK.12.48!23" type="Left-Dislocation" label="L-Dis" verse="LUK 12:48" >ᾧ παρέθεντο πολύ</reference>
-		<reference osisRef="LUK.13.4!2-LUK.13.4!15" type="Left-Dislocation" label="L-Dis" verse="LUK 13:4" >ἐκεῖνοι οἱ δεκαοκτὼ ἐφ’ οὓς ἔπεσεν ὁ πύργος ἐν τῷ σιλωὰμ καὶ ἀπέκτεινεν αὐτούς</reference>
-		<reference osisRef="LUK.13.34!1-LUK.13.34!12" type="Left-Dislocation" label="L-Dis" verse="LUK 13:34" >ἰερουσαλὴμ ἰερουσαλήμ ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν</reference>
-		<reference osisRef="LUK.17.24!1" type="Left-Dislocation" label="L-Dis" verse="LUK 17:24" >ὥσπερ</reference>
-		<reference osisRef="LUK.17.24!3-LUK.17.24!15" type="Left-Dislocation" label="L-Dis" verse="LUK 17:24" >ἡ ἀστραπὴ ἀστράπτουσα ἐκ τῆς ὑπὸ τὸν οὐρανὸν εἰς τὴν ὑπ’ οὐρανὸν λάμπει</reference>
-		<reference osisRef="LUK.17.26!2-LUK.17.26!7" type="Left-Dislocation" label="L-Dis" verse="LUK 17:26" >καθὼς ἐγένετο ἐν ταῖς ἡμέραις νῶε</reference>
-		<reference osisRef="LUK.17.37!11-LUK.17.37!13" type="Left-Dislocation" label="L-Dis" verse="LUK 17:37" >ὅπου τὸ σῶμα</reference>
-		<reference osisRef="LUK.20.17!12-LUK.20.17!16" type="Left-Dislocation" label="L-Dis" verse="LUK 20:17" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες</reference>
-		<reference osisRef="LUK.20.18!9-LUK.20.18!10" type="Left-Dislocation" label="L-Dis" verse="LUK 20:18" >ἐφ’ ὃν</reference>
-		<reference osisRef="LUK.20.18!12-LUK.20.18!13" type="Left-Dislocation" label="L-Dis" verse="LUK 20:18" >ἂν πέσῃ</reference>
-		<reference osisRef="LUK.21.6!1-LUK.21.6!3" type="Left-Dislocation" label="L-Dis" verse="LUK 21:6" >ταῦτα ἃ θεωρεῖτε</reference>
-		<reference osisRef="LUK.21.20!1" type="Left-Dislocation" label="L-Dis" verse="LUK 21:20" >ὅταν</reference>
-		<reference osisRef="LUK.21.20!3-LUK.21.20!7" type="Left-Dislocation" label="L-Dis" verse="LUK 21:20" >ἴδητε κυκλουμένην ὑπὸ στρατοπέδων ἰερουσαλήμ</reference>
-		<reference osisRef="JHN.1.12!1" type="Left-Dislocation" label="L-Dis" verse="JHN 1:12" >ὅσοι</reference>
-		<reference osisRef="JHN.1.12!3-JHN.1.12!4" type="Left-Dislocation" label="L-Dis" verse="JHN 1:12" >ἔλαβον αὐτόν</reference>
-		<reference osisRef="JHN.1.18!5-JHN.1.18!13" type="Left-Dislocation" label="L-Dis" verse="JHN 1:18" >μονογενὴς θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ πατρὸς</reference>
-		<reference osisRef="JHN.1.31!6-JHN.1.31!9" type="Left-Dislocation" label="L-Dis" verse="JHN 1:31" >ἵνα φανερωθῇ τῷ ἰσραὴλ</reference>
-		<reference osisRef="JHN.1.33!6-JHN.1.33!11" type="Left-Dislocation" label="L-Dis" verse="JHN 1:33" >ὁ πέμψας με βαπτίζειν ἐν ὕδατι</reference>
-		<reference osisRef="JHN.1.33!15-JHN.1.33!25" type="Left-Dislocation" label="L-Dis" verse="JHN 1:33" >ἐφ’ ὃν ἂν ἴδῃς τὸ πνεῦμα καταβαῖνον καὶ μένον ἐπ’ αὐτόν</reference>
-		<reference osisRef="JHN.3.14!2-JHN.3.14!9" type="Left-Dislocation" label="L-Dis" verse="JHN 3:14" >καθὼς μωϋσῆς ὕψωσεν τὸν ὄφιν ἐν τῇ ἐρήμῳ</reference>
-		<reference osisRef="JHN.3.26!10-JHN.3.26!19" type="Left-Dislocation" label="L-Dis" verse="JHN 3:26" >ὃς ἦν μετὰ σοῦ πέραν τοῦ ἰορδάνου ᾧ σὺ μεμαρτύρηκας</reference>
-		<reference osisRef="JHN.3.32!1-JHN.3.32!4" type="Left-Dislocation" label="L-Dis" verse="JHN 3:32" >ὃ ἑώρακεν καὶ ἤκουσεν</reference>
-		<reference osisRef="JHN.5.11!5-JHN.5.11!8" type="Left-Dislocation" label="L-Dis" verse="JHN 5:11" >ὁ ποιήσας με ὑγιῆ</reference>
-		<reference osisRef="JHN.5.19!27" type="Left-Dislocation" label="L-Dis" verse="JHN 5:19" >ἃ</reference>
-		<reference osisRef="JHN.5.19!29-JHN.5.19!31" type="Left-Dislocation" label="L-Dis" verse="JHN 5:19" >ἂν ἐκεῖνος ποιῇ</reference>
-		<reference osisRef="JHN.5.21!1" type="Left-Dislocation" label="L-Dis" verse="JHN 5:21" >ὥσπερ</reference>
-		<reference osisRef="JHN.5.21!3-JHN.5.21!9" type="Left-Dislocation" label="L-Dis" verse="JHN 5:21" >ὁ πατὴρ ἐγείρει τοὺς νεκροὺς καὶ ζῳοποιεῖ</reference>
-		<reference osisRef="JHN.5.26!1" type="Left-Dislocation" label="L-Dis" verse="JHN 5:26" >ὥσπερ</reference>
-		<reference osisRef="JHN.5.26!3-JHN.5.26!8" type="Left-Dislocation" label="L-Dis" verse="JHN 5:26" >ὁ πατὴρ ἔχει ζωὴν ἐν ἑαυτῷ</reference>
-		<reference osisRef="JHN.5.36!9" type="Left-Dislocation" label="L-Dis" verse="JHN 5:36" >τὰ</reference>
-		<reference osisRef="JHN.5.36!11-JHN.5.36!19" type="Left-Dislocation" label="L-Dis" verse="JHN 5:36" >ἔργα ἃ δέδωκέν μοι ὁ πατὴρ ἵνα τελειώσω αὐτά</reference>
-		<reference osisRef="JHN.5.37!2-JHN.5.37!5" type="Left-Dislocation" label="L-Dis" verse="JHN 5:37" >ὁ πέμψας με πατὴρ</reference>
-		<reference osisRef="JHN.5.38!11-JHN.5.38!13" type="Left-Dislocation" label="L-Dis" verse="JHN 5:38" >ὃν ἀπέστειλεν ἐκεῖνος</reference>
-		<reference osisRef="JHN.6.39!10-JHN.6.39!13" type="Left-Dislocation" label="L-Dis" verse="JHN 6:39" >πᾶν ὃ δέδωκέν μοι</reference>
-		<reference osisRef="JHN.6.46!9-JHN.6.46!13" type="Left-Dislocation" label="L-Dis" verse="JHN 6:46" >ὁ ὢν παρὰ τοῦ θεοῦ</reference>
-		<reference osisRef="JHN.6.57!12-JHN.6.57!15" type="Left-Dislocation" label="L-Dis" verse="JHN 6:57" >καὶ ὁ τρώγων με</reference>
-		<reference osisRef="JHN.7.10!1" type="Left-Dislocation" label="L-Dis" verse="JHN 7:10" >ὡς</reference>
-		<reference osisRef="JHN.7.10!3-JHN.7.10!9" type="Left-Dislocation" label="L-Dis" verse="JHN 7:10" >ἀνέβησαν οἱ ἀδελφοὶ αὐτοῦ εἰς τὴν ἑορτήν</reference>
-		<reference osisRef="JHN.7.18!10" type="Left-Dislocation" label="L-Dis" verse="JHN 7:18" >ὁ</reference>
-		<reference osisRef="JHN.7.18!12-JHN.7.18!17" type="Left-Dislocation" label="L-Dis" verse="JHN 7:18" >ζητῶν τὴν δόξαν τοῦ πέμψαντος αὐτὸν</reference>
-		<reference osisRef="JHN.7.38!1-JHN.7.38!4" type="Left-Dislocation" label="L-Dis" verse="JHN 7:38" >ὁ πιστεύων εἰς ἐμέ</reference>
-		<reference osisRef="JHN.8.26!14-JHN.8.26!18" type="Left-Dislocation" label="L-Dis" verse="JHN 8:26" >κἀγὼ ἃ ἤκουσα παρ’ αὐτοῦ</reference>
-		<reference osisRef="JHN.8.28!6-JHN.8.28!11" type="Left-Dislocation" label="L-Dis" verse="JHN 8:28" >ὅταν ὑψώσητε τὸν υἱὸν τοῦ ἀνθρώπου</reference>
-		<reference osisRef="JHN.8.28!23-JHN.8.28!27" type="Left-Dislocation" label="L-Dis" verse="JHN 8:28" >καθὼς ἐδίδαξέν με ὁ πατὴρ</reference>
-		<reference osisRef="JHN.9.31!9-JHN.9.31!17" type="Left-Dislocation" label="L-Dis" verse="JHN 9:31" >ἐάν τις θεοσεβὴς ᾖ καὶ τὸ θέλημα αὐτοῦ ποιῇ</reference>
-		<reference osisRef="JHN.10.1!5-JHN.10.1!18" type="Left-Dislocation" label="L-Dis" verse="JHN 10:1" >ὁ μὴ εἰσερχόμενος διὰ τῆς θύρας εἰς τὴν αὐλὴν τῶν προβάτων ἀλλὰ ἀναβαίνων ἀλλαχόθεν</reference>
-		<reference osisRef="JHN.10.25!10-JHN.10.25!20" type="Left-Dislocation" label="L-Dis" verse="JHN 10:25" >τὰ ἔργα ἃ ἐγὼ ποιῶ ἐν τῷ ὀνόματι τοῦ πατρός μου</reference>
-		<reference osisRef="JHN.11.6!1" type="Left-Dislocation" label="L-Dis" verse="JHN 11:6" >ὡς</reference>
-		<reference osisRef="JHN.11.6!3-JHN.11.6!5" type="Left-Dislocation" label="L-Dis" verse="JHN 11:6" >ἤκουσεν ὅτι ἀσθενεῖ</reference>
-		<reference osisRef="JHN.12.16!10-JHN.12.16!12" type="Left-Dislocation" label="L-Dis" verse="JHN 12:16" >ὅτε ἐδοξάσθη ἰησοῦς</reference>
-		<reference osisRef="JHN.12.26!8-JHN.12.26!10" type="Left-Dislocation" label="L-Dis" verse="JHN 12:26" >ὅπου εἰμὶ ἐγὼ</reference>
-		<reference osisRef="JHN.12.48!14-JHN.12.48!17" type="Left-Dislocation" label="L-Dis" verse="JHN 12:48" >ὁ λόγος ὃν ἐλάλησα</reference>
-		<reference osisRef="JHN.12.49!8-JHN.12.49!11" type="Left-Dislocation" label="L-Dis" verse="JHN 12:49" >ὁ πέμψας με πατὴρ</reference>
-		<reference osisRef="JHN.12.50!10" type="Left-Dislocation" label="L-Dis" verse="JHN 12:50" >ἃ</reference>
-		<reference osisRef="JHN.12.50!12-JHN.12.50!13" type="Left-Dislocation" label="L-Dis" verse="JHN 12:50" >ἐγὼ λαλῶ</reference>
-		<reference osisRef="JHN.12.50!14-JHN.12.50!18" type="Left-Dislocation" label="L-Dis" verse="JHN 12:50" >καθὼς εἴρηκέν μοι ὁ πατήρ</reference>
-		<reference osisRef="JHN.13.27!2-JHN.13.27!4" type="Left-Dislocation" label="L-Dis" verse="JHN 13:27" >μετὰ τὸ ψωμίον</reference>
-		<reference osisRef="JHN.14.12!5-JHN.14.12!8" type="Left-Dislocation" label="L-Dis" verse="JHN 14:12" >ὁ πιστεύων εἰς ἐμὲ</reference>
-		<reference osisRef="JHN.14.13!2-JHN.14.13!9" type="Left-Dislocation" label="L-Dis" verse="JHN 14:13" >ὅ τι ἂν αἰτήσητε ἐν τῷ ὀνόματί μου</reference>
-		<reference osisRef="JHN.14.21!1-JHN.14.21!8" type="Left-Dislocation" label="L-Dis" verse="JHN 14:21" >ὁ ἔχων τὰς ἐντολάς μου καὶ τηρῶν αὐτὰς</reference>
-		<reference osisRef="JHN.14.26!1" type="Left-Dislocation" label="L-Dis" verse="JHN 14:26" >ὁ</reference>
-		<reference osisRef="JHN.14.26!3-JHN.14.26!15" type="Left-Dislocation" label="L-Dis" verse="JHN 14:26" >παράκλητος τὸ πνεῦμα τὸ ἅγιον ὃ πέμψει ὁ πατὴρ ἐν τῷ ὀνόματί μου</reference>
-		<reference osisRef="JHN.14.31!11-JHN.14.31!15" type="Left-Dislocation" label="L-Dis" verse="JHN 14:31" >καθὼς ἐνετείλατό μοι ὁ πατήρ</reference>
-		<reference osisRef="JHN.15.2!1-JHN.15.2!7" type="Left-Dislocation" label="L-Dis" verse="JHN 15:2" >πᾶν κλῆμα ἐν ἐμοὶ μὴ φέρον καρπὸν</reference>
-		<reference osisRef="JHN.15.2!11-JHN.15.2!14" type="Left-Dislocation" label="L-Dis" verse="JHN 15:2" >πᾶν τὸ καρπὸν φέρον</reference>
-		<reference osisRef="JHN.15.4!7-JHN.15.4!21" type="Left-Dislocation" label="L-Dis" verse="JHN 15:4" >καθὼς τὸ κλῆμα οὐ δύναται καρπὸν φέρειν ἀφ’ ἑαυτοῦ ἐὰν μὴ μένῃ ἐν τῇ ἀμπέλῳ</reference>
-		<reference osisRef="JHN.15.5!8-JHN.15.5!14" type="Left-Dislocation" label="L-Dis" verse="JHN 15:5" >ὁ μένων ἐν ἐμοὶ κἀγὼ ἐν αὐτῷ</reference>
-		<reference osisRef="JHN.15.19!12-JHN.15.19!25" type="Left-Dislocation" label="L-Dis" verse="JHN 15:19" >ὅτι δὲ ἐκ τοῦ κόσμου οὐκ ἐστέ ἀλλ’ ἐγὼ ἐξελεξάμην ὑμᾶς ἐκ τοῦ κόσμου</reference>
-		<reference osisRef="JHN.17.2!8-JHN.17.2!11" type="Left-Dislocation" label="L-Dis" verse="JHN 17:2" >πᾶν ὃ δέδωκας αὐτῷ</reference>
-		<reference osisRef="JHN.17.24!2-JHN.17.24!4" type="Left-Dislocation" label="L-Dis" verse="JHN 17:24" >ὃ δέδωκάς μοι</reference>
-		<reference osisRef="JHN.18.9!8-JHN.18.9!10" type="Left-Dislocation" label="L-Dis" verse="JHN 18:9" >οὓς δέδωκάς μοι</reference>
-		<reference osisRef="JHN.18.11!13-JHN.18.11!19" type="Left-Dislocation" label="L-Dis" verse="JHN 18:11" >τὸ ποτήριον ὃ δέδωκέν μοι ὁ πατὴρ</reference>
-		<reference osisRef="JHN.20.23!1-JHN.20.23!5" type="Left-Dislocation" label="L-Dis" verse="JHN 20:23" >ἄν τινων ἀφῆτε τὰς ἁμαρτίας</reference>
-		<reference osisRef="ACT.1.21!3-ACT.1.22!30" type="Left-Dislocation" label="L-Dis" verse="ACT 1:21 - 2" >τῶν συνελθόντων ἡμῖν ἀνδρῶν ἐν παντὶ χρόνῳ ᾧ εἰσῆλθεν καὶ ἐξῆλθεν ἐφ’ ἡμᾶς ὁ κύριος ἰησοῦς ἀρξάμενος ἀπὸ τοῦ βαπτίσματος ἰωάννου ἕως τῆς ἡμέρας ἧς ἀνελήμφθη ἀφ’ ἡμῶν</reference>
-		<reference osisRef="ACT.2.22!7-ACT.2.22!33" type="Left-Dislocation" label="L-Dis" verse="ACT 2:22" >ἰησοῦν τὸν ναζωραῖον ἄνδρα ἀποδεδειγμένον ἀπὸ τοῦ θεοῦ εἰς ὑμᾶς δυνάμεσι καὶ τέρασι καὶ σημείοις οἷς ἐποίησεν δι’ αὐτοῦ ὁ θεὸς ἐν μέσῳ ὑμῶν καθὼς αὐτοὶ οἴδατε</reference>
-		<reference osisRef="ACT.3.6!10" type="Left-Dislocation" label="L-Dis" verse="ACT 3:6" >ὃ</reference>
-		<reference osisRef="ACT.3.6!12" type="Left-Dislocation" label="L-Dis" verse="ACT 3:6" >ἔχω</reference>
-		<reference osisRef="ACT.4.10!11-ACT.4.10!26" type="Left-Dislocation" label="L-Dis" verse="ACT 4:10" >ἐν τῷ ὀνόματι ἰησοῦ χριστοῦ τοῦ ναζωραίου ὃν ὑμεῖς ἐσταυρώσατε ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν</reference>
-		<reference osisRef="ACT.4.36!1" type="Left-Dislocation" label="L-Dis" verse="ACT 4:36" >ἰωσὴφ</reference>
-		<reference osisRef="ACT.4.36!3-ACT.4.36!17" type="Left-Dislocation" label="L-Dis" verse="ACT 4:36" >ὁ ἐπικληθεὶς βαρναβᾶς ἀπὸ τῶν ἀποστόλων ὅ ἐστιν μεθερμηνευόμενον υἱὸς παρακλήσεως λευίτης κύπριος τῷ γένει</reference>
-		<reference osisRef="ACT.7.35!1-ACT.7.35!12" type="Left-Dislocation" label="L-Dis" verse="ACT 7:35" >τοῦτον τὸν μωϋσῆν ὃν ἠρνήσαντο εἰπόντες τίς σε κατέστησεν ἄρχοντα καὶ δικαστήν</reference>
-		<reference osisRef="ACT.7.40!10" type="Left-Dislocation" label="L-Dis" verse="ACT 7:40" >ὁ</reference>
-		<reference osisRef="ACT.7.40!12-ACT.7.40!19" type="Left-Dislocation" label="L-Dis" verse="ACT 7:40" >μωϋσῆς οὗτος ὃς ἐξήγαγεν ἡμᾶς ἐκ γῆς αἰγύπτου</reference>
-		<reference osisRef="ACT.8.19!8-ACT.8.19!12" type="Left-Dislocation" label="L-Dis" verse="ACT 8:19" >ᾧ ἐὰν ἐπιθῶ τὰς χεῖρας</reference>
-		<reference osisRef="ACT.8.32!10-ACT.8.32!22" type="Left-Dislocation" label="L-Dis" verse="ACT 8:32" >ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείραντος αὐτὸν ἄφωνος</reference>
-		<reference osisRef="ACT.10.36!1-ACT.10.36!12" type="Left-Dislocation" label="L-Dis" verse="ACT 10:36" >τὸν λόγον ὃν ἀπέστειλεν τοῖς υἱοῖς ἰσραὴλ εὐαγγελιζόμενος εἰρήνην διὰ ἰησοῦ χριστοῦ</reference>
-		<reference osisRef="ACT.10.38!1-ACT.10.38!4" type="Left-Dislocation" label="L-Dis" verse="ACT 10:38" >ἰησοῦν τὸν ἀπὸ ναζαρέθ</reference>
-		<reference osisRef="ACT.11.29!1" type="Left-Dislocation" label="L-Dis" verse="ACT 11:29" >τῶν</reference>
-		<reference osisRef="ACT.11.29!3" type="Left-Dislocation" label="L-Dis" verse="ACT 11:29" >μαθητῶν</reference>
-		<reference osisRef="ACT.15.32!1" type="Left-Dislocation" label="L-Dis" verse="ACT 15:32" >ἰούδας</reference>
-		<reference osisRef="ACT.15.32!3-ACT.15.32!4" type="Left-Dislocation" label="L-Dis" verse="ACT 15:32" >καὶ σιλᾶς</reference>
-		<reference osisRef="ACT.15.38!4-ACT.15.38!16" type="Left-Dislocation" label="L-Dis" verse="ACT 15:38" >τὸν ἀποστάντα ἀπ’ αὐτῶν ἀπὸ παμφυλίας καὶ μὴ συνελθόντα αὐτοῖς εἰς τὸ ἔργον</reference>
-		<reference osisRef="ACT.17.6!15-ACT.17.6!18" type="Left-Dislocation" label="L-Dis" verse="ACT 17:6" >οἱ τὴν οἰκουμένην ἀναστατώσαντες</reference>
-		<reference osisRef="ACT.17.23!16" type="Left-Dislocation" label="L-Dis" verse="ACT 17:23" >ὃ</reference>
-		<reference osisRef="ACT.17.23!18-ACT.17.23!19" type="Left-Dislocation" label="L-Dis" verse="ACT 17:23" >ἀγνοοῦντες εὐσεβεῖτε</reference>
-		<reference osisRef="ACT.17.24!1-ACT.17.24!11" type="Left-Dislocation" label="L-Dis" verse="ACT 17:24" >ὁ θεὸς ὁ ποιήσας τὸν κόσμον καὶ πάντα τὰ ἐν αὐτῷ</reference>
-		<reference osisRef="ACT.19.12!2-ACT.19.12!5" type="Left-Dislocation" label="L-Dis" verse="ACT 19:12" >καὶ ἐπὶ τοὺς ἀσθενοῦντας</reference>
-		<reference osisRef="ACT.23.11!11" type="Left-Dislocation" label="L-Dis" verse="ACT 23:11" >ὡς</reference>
-		<reference osisRef="ACT.23.11!13-ACT.23.11!18" type="Left-Dislocation" label="L-Dis" verse="ACT 23:11" >διεμαρτύρω τὰ περὶ ἐμοῦ εἰς ἰερουσαλήμ</reference>
-		<reference osisRef="ACT.24.14!6-ACT.24.14!11" type="Left-Dislocation" label="L-Dis" verse="ACT 24:14" >κατὰ τὴν ὁδὸν ἣν λέγουσιν αἵρεσιν</reference>
-		<reference osisRef="ROM.2.17!1" type="Left-Dislocation" label="L-Dis" verse="ROM 2:17" >εἰ</reference>
-		<reference osisRef="ROM.2.17!3-ROM.2.20!49" type="Left-Dislocation" label="L-Dis" verse="ROM 2:17 - 20" >σὺ ἰουδαῖος ἐπονομάζῃ καὶ ἐπαναπαύῃ νόμῳ καὶ καυχᾶσαι ἐν θεῷ καὶ γινώσκεις τὸ θέλημα καὶ δοκιμάζεις τὰ διαφέροντα κατηχούμενος ἐκ τοῦ νόμου πέποιθάς τε σεαυτὸν ὁδηγὸν εἶναι τυφλῶν φῶς τῶν ἐν σκότει παιδευτὴν ἀφρόνων διδάσκαλον νηπίων ἔχοντα τὴν μόρφωσιν τῆς γνώσεως καὶ τῆς ἀληθείας ἐν τῷ νόμῳ</reference>
-		<reference osisRef="ROM.3.19!4-ROM.3.19!7" type="Left-Dislocation" label="L-Dis" verse="ROM 3:19" >ὅσα ὁ νόμος λέγει</reference>
-		<reference osisRef="ROM.4.5!1" type="Left-Dislocation" label="L-Dis" verse="ROM 4:5" >τῷ</reference>
-		<reference osisRef="ROM.4.5!3-ROM.4.5!11" type="Left-Dislocation" label="L-Dis" verse="ROM 4:5" >μὴ ἐργαζομένῳ πιστεύοντι δὲ ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ</reference>
-		<reference osisRef="ROM.5.15!2-ROM.5.15!5" type="Left-Dislocation" label="L-Dis" verse="ROM 5:15" >οὐχ ὡς τὸ παράπτωμα</reference>
-		<reference osisRef="ROM.5.18!3-ROM.5.18!11" type="Left-Dislocation" label="L-Dis" verse="ROM 5:18" >ὡς δι’ ἑνὸς παραπτώματος εἰς πάντας ἀνθρώπους εἰς κατάκριμα</reference>
-		<reference osisRef="ROM.5.19!1" type="Left-Dislocation" label="L-Dis" verse="ROM 5:19" >ὥσπερ</reference>
-		<reference osisRef="ROM.5.19!3-ROM.5.19!12" type="Left-Dislocation" label="L-Dis" verse="ROM 5:19" >διὰ τῆς παρακοῆς τοῦ ἑνὸς ἀνθρώπου ἁμαρτωλοὶ κατεστάθησαν οἱ πολλοί</reference>
-		<reference osisRef="ROM.5.21!2-ROM.5.21!8" type="Left-Dislocation" label="L-Dis" verse="ROM 5:21" >ὥσπερ ἐβασίλευσεν ἡ ἁμαρτία ἐν τῷ θανάτῳ</reference>
-		<reference osisRef="ROM.6.4!11-ROM.6.4!20" type="Left-Dislocation" label="L-Dis" verse="ROM 6:4" >ὥσπερ ἠγέρθη χριστὸς ἐκ νεκρῶν διὰ τῆς δόξης τοῦ πατρός</reference>
-		<reference osisRef="ROM.6.10!1" type="Left-Dislocation" label="L-Dis" verse="ROM 6:10" >ὃ</reference>
-		<reference osisRef="ROM.6.10!3" type="Left-Dislocation" label="L-Dis" verse="ROM 6:10" >ἀπέθανεν</reference>
-		<reference osisRef="ROM.6.10!8" type="Left-Dislocation" label="L-Dis" verse="ROM 6:10" >ὃ</reference>
-		<reference osisRef="ROM.6.10!10" type="Left-Dislocation" label="L-Dis" verse="ROM 6:10" >ζῇ</reference>
-		<reference osisRef="ROM.6.16!4-ROM.6.16!9" type="Left-Dislocation" label="L-Dis" verse="ROM 6:16" >ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν</reference>
-		<reference osisRef="ROM.6.19!9" type="Left-Dislocation" label="L-Dis" verse="ROM 6:19" >ὥσπερ</reference>
-		<reference osisRef="ROM.6.19!11-ROM.6.19!23" type="Left-Dislocation" label="L-Dis" verse="ROM 6:19" >παρεστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ ἀκαθαρσίᾳ καὶ τῇ ἀνομίᾳ εἰς τὴν ἀνομίαν</reference>
-		<reference osisRef="ROM.7.10!7-ROM.7.10!11" type="Left-Dislocation" label="L-Dis" verse="ROM 7:10" >ἡ ἐντολὴ ἡ εἰς ζωήν</reference>
-		<reference osisRef="ROM.7.15!8-ROM.7.15!9" type="Left-Dislocation" label="L-Dis" verse="ROM 7:15" >ὃ θέλω</reference>
-		<reference osisRef="ROM.7.15!13-ROM.7.15!14" type="Left-Dislocation" label="L-Dis" verse="ROM 7:15" >ὃ μισῶ</reference>
-		<reference osisRef="ROM.7.16!3-ROM.7.16!5" type="Left-Dislocation" label="L-Dis" verse="ROM 7:16" >ὃ οὐ θέλω</reference>
-		<reference osisRef="ROM.7.19!1" type="Left-Dislocation" label="L-Dis" verse="ROM 7:19" >οὐ</reference>
-		<reference osisRef="ROM.7.19!3-ROM.7.19!11" type="Left-Dislocation" label="L-Dis" verse="ROM 7:19" >ὃ θέλω ποιῶ ἀγαθόν ἀλλὰ ὃ οὐ θέλω κακὸν</reference>
-		<reference osisRef="ROM.7.20!3-ROM.7.20!6" type="Left-Dislocation" label="L-Dis" verse="ROM 7:20" >ὃ οὐ θέλω ἐγὼ</reference>
-		<reference osisRef="ROM.7.21!5-ROM.7.21!10" type="Left-Dislocation" label="L-Dis" verse="ROM 7:21" >τῷ θέλοντι ἐμοὶ ποιεῖν τὸ καλόν</reference>
-		<reference osisRef="ROM.8.3!1" type="Left-Dislocation" label="L-Dis" verse="ROM 8:3" >τὸ</reference>
-		<reference osisRef="ROM.8.3!3-ROM.8.3!11" type="Left-Dislocation" label="L-Dis" verse="ROM 8:3" >ἀδύνατον τοῦ νόμου ἐν ᾧ ἠσθένει διὰ τῆς σαρκός</reference>
-		<reference osisRef="ROM.8.14!1" type="Left-Dislocation" label="L-Dis" verse="ROM 8:14" >ὅσοι</reference>
-		<reference osisRef="ROM.8.14!3-ROM.8.14!5" type="Left-Dislocation" label="L-Dis" verse="ROM 8:14" >πνεύματι θεοῦ ἄγονται</reference>
-		<reference osisRef="ROM.8.23!5-ROM.8.23!11" type="Left-Dislocation" label="L-Dis" verse="ROM 8:23" >καὶ αὐτοὶ τὴν ἀπαρχὴν τοῦ πνεύματος ἔχοντες</reference>
-		<reference osisRef="ROM.8.30!1" type="Left-Dislocation" label="L-Dis" verse="ROM 8:30" >οὓς</reference>
-		<reference osisRef="ROM.8.30!3" type="Left-Dislocation" label="L-Dis" verse="ROM 8:30" >προώρισεν</reference>
-		<reference osisRef="ROM.8.30!8-ROM.8.30!9" type="Left-Dislocation" label="L-Dis" verse="ROM 8:30" >οὓς ἐκάλεσεν</reference>
-		<reference osisRef="ROM.8.30!13" type="Left-Dislocation" label="L-Dis" verse="ROM 8:30" >οὓς</reference>
-		<reference osisRef="ROM.8.30!15" type="Left-Dislocation" label="L-Dis" verse="ROM 8:30" >ἐδικαίωσεν</reference>
-		<reference osisRef="ROM.9.6!10" type="Left-Dislocation" label="L-Dis" verse="ROM 9:6" >οὐ</reference>
-		<reference osisRef="ROM.9.6!12-ROM.9.6!15" type="Left-Dislocation" label="L-Dis" verse="ROM 9:6" >πάντες οἱ ἐξ ἰσραὴλ</reference>
-		<reference osisRef="ROM.9.8!3-ROM.9.8!7" type="Left-Dislocation" label="L-Dis" verse="ROM 9:8" >οὐ τὰ τέκνα τῆς σαρκὸς</reference>
-		<reference osisRef="ROM.9.26!3-ROM.9.26!12" type="Left-Dislocation" label="L-Dis" verse="ROM 9:26" >ἐν τῷ τόπῳ οὗ ἐρρέθη αὐτοῖς οὐ λαός μου ὑμεῖς</reference>
-		<reference osisRef="ROM.11.7!3-ROM.11.7!5" type="Left-Dislocation" label="L-Dis" verse="ROM 11:7" >ὃ ἐπιζητεῖ ἰσραήλ</reference>
-		<reference osisRef="ROM.11.30!1" type="Left-Dislocation" label="L-Dis" verse="ROM 11:30" >ὥσπερ</reference>
-		<reference osisRef="ROM.11.30!3-ROM.11.30!13" type="Left-Dislocation" label="L-Dis" verse="ROM 11:30" >ὑμεῖς ποτε ἠπειθήσατε τῷ θεῷ νῦν δὲ ἠλεήθητε τῇ τούτων ἀπειθείᾳ</reference>
-		<reference osisRef="ROM.12.4!1" type="Left-Dislocation" label="L-Dis" verse="ROM 12:4" >καθάπερ</reference>
-		<reference osisRef="ROM.12.4!3-ROM.12.4!17" type="Left-Dislocation" label="L-Dis" verse="ROM 12:4" >ἐν ἑνὶ σώματι πολλὰ μέλη ἔχομεν τὰ δὲ μέλη πάντα οὐ τὴν αὐτὴν ἔχει πρᾶξιν</reference>
-		<reference osisRef="ROM.14.14!14-ROM.14.14!18" type="Left-Dislocation" label="L-Dis" verse="ROM 14:14" >τῷ λογιζομένῳ τι κοινὸν εἶναι</reference>
-		<reference osisRef="ROM.14.22!1" type="Left-Dislocation" label="L-Dis" verse="ROM 14:22" >σὺ</reference>
-		<reference osisRef="ROM.16.25!1-ROM.16.26!40" type="Left-Dislocation" label="L-Dis" verse="ROM 16:25 - 6" >τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα ἰησοῦ χριστοῦ κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατ’ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος</reference>
-		<reference osisRef="1CO.1.18!12" type="Left-Dislocation" label="L-Dis" verse="1CO 1:18" >τοῖς</reference>
-		<reference osisRef="1CO.1.18!14" type="Left-Dislocation" label="L-Dis" verse="1CO 1:18" >σῳζομένοις</reference>
-		<reference osisRef="1CO.2.9!4-1CO.2.9!17" type="Left-Dislocation" label="L-Dis" verse="1CO 2:9" >ἃ ὀφθαλμὸς οὐκ εἶδεν καὶ οὖς οὐκ ἤκουσεν καὶ ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη</reference>
-		<reference osisRef="1CO.6.4!7-1CO.6.4!11" type="Left-Dislocation" label="L-Dis" verse="1CO 6:4" >τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ</reference>
-		<reference osisRef="1CO.7.13!2" type="Left-Dislocation" label="L-Dis" verse="1CO 7:13" >γυνὴ</reference>
-		<reference osisRef="1CO.7.17!3-1CO.7.17!7" type="Left-Dislocation" label="L-Dis" verse="1CO 7:17" >ἑκάστῳ ὡς ἐμέρισεν ὁ κύριος</reference>
-		<reference osisRef="1CO.7.17!8-1CO.7.17!12" type="Left-Dislocation" label="L-Dis" verse="1CO 7:17" >ἕκαστον ὡς κέκληκεν ὁ θεός</reference>
-		<reference osisRef="1CO.7.20!2-1CO.7.20!6" type="Left-Dislocation" label="L-Dis" verse="1CO 7:20" >ἐν τῇ κλήσει ᾗ ἐκλήθη</reference>
-		<reference osisRef="1CO.7.24!2-1CO.7.24!4" type="Left-Dislocation" label="L-Dis" verse="1CO 7:24" >ἐν ᾧ ἐκλήθη</reference>
-		<reference osisRef="1CO.11.12!1" type="Left-Dislocation" label="L-Dis" verse="1CO 11:12" >ὥσπερ</reference>
-		<reference osisRef="1CO.11.12!3-1CO.11.12!7" type="Left-Dislocation" label="L-Dis" verse="1CO 11:12" >ἡ γυνὴ ἐκ τοῦ ἀνδρός</reference>
-		<reference osisRef="1CO.11.14!8" type="Left-Dislocation" label="L-Dis" verse="1CO 11:14" >ἀνὴρ</reference>
-		<reference osisRef="1CO.11.15!1" type="Left-Dislocation" label="L-Dis" verse="1CO 11:15" >γυνὴ</reference>
-		<reference osisRef="1CO.12.12!1" type="Left-Dislocation" label="L-Dis" verse="1CO 12:12" >καθάπερ</reference>
-		<reference osisRef="1CO.12.12!3-1CO.12.12!21" type="Left-Dislocation" label="L-Dis" verse="1CO 12:12" >τὸ σῶμα ἕν ἐστιν καὶ μέλη πολλὰ ἔχει πάντα δὲ τὰ μέλη τοῦ σώματος πολλὰ ὄντα ἕν ἐστιν σῶμα</reference>
-		<reference osisRef="1CO.12.15!1-1CO.12.15!13" type="Left-Dislocation" label="L-Dis" verse="1CO 12:15" >ἐὰν εἴπῃ ὁ πούς ὅτι οὐκ εἰμὶ χείρ οὐκ εἰμὶ ἐκ τοῦ σώματος</reference>
-		<reference osisRef="1CO.12.16!2-1CO.12.16!14" type="Left-Dislocation" label="L-Dis" verse="1CO 12:16" >ἐὰν εἴπῃ τὸ οὖς ὅτι οὐκ εἰμὶ ὀφθαλμός οὐκ εἰμὶ ἐκ τοῦ σώματος</reference>
-		<reference osisRef="1CO.12.23!2-1CO.12.23!7" type="Left-Dislocation" label="L-Dis" verse="1CO 12:23" >ἃ δοκοῦμεν ἀτιμότερα εἶναι τοῦ σώματος</reference>
-		<reference osisRef="1CO.14.7!1-1CO.14.7!9" type="Left-Dislocation" label="L-Dis" verse="1CO 14:7" >ὅμως τὰ ἄψυχα φωνὴν διδόντα εἴτε αὐλὸς εἴτε κιθάρα</reference>
-		<reference osisRef="1CO.15.22!1" type="Left-Dislocation" label="L-Dis" verse="1CO 15:22" >ὥσπερ</reference>
-		<reference osisRef="1CO.15.22!3-1CO.15.22!7" type="Left-Dislocation" label="L-Dis" verse="1CO 15:22" >ἐν τῷ ἀδὰμ πάντες ἀποθνῄσκουσιν</reference>
-		<reference osisRef="1CO.15.28!1" type="Left-Dislocation" label="L-Dis" verse="1CO 15:28" >ὅταν</reference>
-		<reference osisRef="1CO.15.28!3-1CO.15.28!6" type="Left-Dislocation" label="L-Dis" verse="1CO 15:28" >ὑποταγῇ αὐτῷ τὰ πάντα</reference>
-		<reference osisRef="1CO.15.37!2-1CO.15.37!3" type="Left-Dislocation" label="L-Dis" verse="1CO 15:37" >ὃ σπείρεις</reference>
-		<reference osisRef="1CO.15.48!1-1CO.15.48!3" type="Left-Dislocation" label="L-Dis" verse="1CO 15:48" >οἷος ὁ χοϊκός</reference>
-		<reference osisRef="1CO.15.48!9-1CO.15.48!11" type="Left-Dislocation" label="L-Dis" verse="1CO 15:48" >οἷος ὁ ἐπουράνιος</reference>
-		<reference osisRef="1CO.15.54!1" type="Left-Dislocation" label="L-Dis" verse="1CO 15:54" >ὅταν</reference>
-		<reference osisRef="1CO.15.54!3-1CO.15.54!13" type="Left-Dislocation" label="L-Dis" verse="1CO 15:54" >τὸ φθαρτὸν τοῦτο ἐνδύσηται ἀφθαρσίαν καὶ τὸ θνητὸν τοῦτο ἐνδύσηται ἀθανασίαν</reference>
-		<reference osisRef="1CO.16.1!9-1CO.16.1!14" type="Left-Dislocation" label="L-Dis" verse="1CO 16:1" >ὥσπερ διέταξα ταῖς ἐκκλησίαις τῆς γαλατίας</reference>
-		<reference osisRef="1CO.16.2!16-1CO.16.2!17" type="Left-Dislocation" label="L-Dis" verse="1CO 16:2" >ὅταν ἔλθω</reference>
-		<reference osisRef="1CO.16.3!4-1CO.16.3!6" type="Left-Dislocation" label="L-Dis" verse="1CO 16:3" >οὓς ἐὰν δοκιμάσητε</reference>
-		<reference osisRef="2CO.1.5!2-2CO.1.5!9" type="Left-Dislocation" label="L-Dis" verse="2CO 1:5" >καθὼς περισσεύει τὰ παθήματα τοῦ χριστοῦ εἰς ἡμᾶς</reference>
-		<reference osisRef="2CO.1.7!10-2CO.1.7!14" type="Left-Dislocation" label="L-Dis" verse="2CO 1:7" >ὡς κοινωνοί ἐστε τῶν παθημάτων</reference>
-		<reference osisRef="2CO.2.10!6" type="Left-Dislocation" label="L-Dis" verse="2CO 2:10" >καὶ</reference>
-		<reference osisRef="2CO.2.10!8-2CO.2.10!10" type="Left-Dislocation" label="L-Dis" verse="2CO 2:10" >ἐγὼ ὃ κεχάρισμαι</reference>
-		<reference osisRef="2CO.7.6!2-2CO.7.6!5" type="Left-Dislocation" label="L-Dis" verse="2CO 7:6" >ὁ παρακαλῶν τοὺς ταπεινοὺς</reference>
-		<reference osisRef="2CO.7.14!11-2CO.7.14!16" type="Left-Dislocation" label="L-Dis" verse="2CO 7:14" >ὡς πάντα ἐν ἀληθείᾳ ἐλαλήσαμεν ὑμῖν</reference>
-		<reference osisRef="2CO.8.6!7-2CO.8.6!8" type="Left-Dislocation" label="L-Dis" verse="2CO 8:6" >καθὼς προενήρξατο</reference>
-		<reference osisRef="2CO.8.11!8-2CO.8.11!12" type="Left-Dislocation" label="L-Dis" verse="2CO 8:11" >καθάπερ ἡ προθυμία τοῦ θέλειν</reference>
-		<reference osisRef="2CO.10.7!17-2CO.10.7!19" type="Left-Dislocation" label="L-Dis" verse="2CO 10:7" >καθὼς αὐτὸς χριστοῦ</reference>
-		<reference osisRef="2CO.10.11!6-2CO.10.11!12" type="Left-Dislocation" label="L-Dis" verse="2CO 10:11" >οἷοί ἐσμεν τῷ λόγῳ δι’ ἐπιστολῶν ἀπόντες</reference>
-		<reference osisRef="2CO.10.18!1" type="Left-Dislocation" label="L-Dis" verse="2CO 10:18" >οὐ</reference>
-		<reference osisRef="2CO.10.18!3-2CO.10.18!5" type="Left-Dislocation" label="L-Dis" verse="2CO 10:18" >ὁ ἑαυτὸν συνιστάνων</reference>
-		<reference osisRef="2CO.11.21!8-2CO.11.21!13" type="Left-Dislocation" label="L-Dis" verse="2CO 11:21" >ἐν ᾧ δ’ ἄν τις τολμᾷ</reference>
-		<reference osisRef="2CO.12.17!2-2CO.12.17!6" type="Left-Dislocation" label="L-Dis" verse="2CO 12:17" >τινα ὧν ἀπέσταλκα πρὸς ὑμᾶς</reference>
-		<reference osisRef="GAL.1.20!1" type="Left-Dislocation" label="L-Dis" verse="GAL 1:20" >ἃ</reference>
-		<reference osisRef="GAL.1.20!3-GAL.1.20!4" type="Left-Dislocation" label="L-Dis" verse="GAL 1:20" >γράφω ὑμῖν</reference>
-		<reference osisRef="GAL.2.6!1" type="Left-Dislocation" label="L-Dis" verse="GAL 2:6" >ἀπὸ</reference>
-		<reference osisRef="GAL.2.6!3-GAL.2.6!6" type="Left-Dislocation" label="L-Dis" verse="GAL 2:6" >τῶν δοκούντων εἶναί τι</reference>
-		<reference osisRef="GAL.2.6!7-GAL.2.6!18" type="Left-Dislocation" label="L-Dis" verse="GAL 2:6" >ὁποῖοί ποτε ἦσαν οὐδέν μοι διαφέρει πρόσωπον ὁ θεὸς ἀνθρώπου οὐ λαμβάνει</reference>
-		<reference osisRef="GAL.2.18!3-GAL.2.18!4" type="Left-Dislocation" label="L-Dis" verse="GAL 2:18" >ἃ κατέλυσα</reference>
-		<reference osisRef="GAL.3.7!4-GAL.3.7!6" type="Left-Dislocation" label="L-Dis" verse="GAL 3:7" >οἱ ἐκ πίστεως</reference>
-		<reference osisRef="GAL.4.29!2-GAL.4.29!11" type="Left-Dislocation" label="L-Dis" verse="GAL 4:29" >ὥσπερ τότε ὁ κατὰ σάρκα γεννηθεὶς ἐδίωκεν τὸν κατὰ πνεῦμα</reference>
-		<reference osisRef="GAL.5.17!20-GAL.5.17!22" type="Left-Dislocation" label="L-Dis" verse="GAL 5:17" >ἃ ἐὰν θέλητε</reference>
-		<reference osisRef="GAL.6.7!6" type="Left-Dislocation" label="L-Dis" verse="GAL 6:7" >ὃ</reference>
-		<reference osisRef="GAL.6.7!8-GAL.6.7!10" type="Left-Dislocation" label="L-Dis" verse="GAL 6:7" >ἐὰν σπείρῃ ἄνθρωπος</reference>
-		<reference osisRef="GAL.6.12!1-GAL.6.12!5" type="Left-Dislocation" label="L-Dis" verse="GAL 6:12" >ὅσοι θέλουσιν εὐπροσωπῆσαι ἐν σαρκί</reference>
-		<reference osisRef="GAL.6.16!2-GAL.6.16!6" type="Left-Dislocation" label="L-Dis" verse="GAL 6:16" >ὅσοι τῷ κανόνι τούτῳ στοιχήσουσιν</reference>
-		<reference osisRef="EPH.2.11!5-EPH.2.11!19" type="Left-Dislocation" label="L-Dis" verse="EPH 2:11" >ὑμεῖς τὰ ἔθνη ἐν σαρκί οἱ λεγόμενοι ἀκροβυστία ὑπὸ τῆς λεγομένης περιτομῆς ἐν σαρκὶ χειροποιήτου</reference>
-		<reference osisRef="EPH.3.1!3-EPH.3.1!13" type="Left-Dislocation" label="L-Dis" verse="EPH 3:1" >ἐγὼ παῦλος ὁ δέσμιος τοῦ χριστοῦ ἰησοῦ ὑπὲρ ὑμῶν τῶν ἐθνῶν</reference>
-		<reference osisRef="EPH.3.20!1-EPH.3.20!18" type="Left-Dislocation" label="L-Dis" verse="EPH 3:20" >τῷ δὲ δυναμένῳ ὑπὲρ πάντα ποιῆσαι ὑπερεκπερισσοῦ ὧν αἰτούμεθα ἢ νοοῦμεν κατὰ τὴν δύναμιν τὴν ἐνεργουμένην ἐν ἡμῖν</reference>
-		<reference osisRef="EPH.4.10!1-EPH.4.10!2" type="Left-Dislocation" label="L-Dis" verse="EPH 4:10" >ὁ καταβὰς</reference>
-		<reference osisRef="EPH.5.24!2-EPH.5.24!7" type="Left-Dislocation" label="L-Dis" verse="EPH 5:24" >ὡς ἡ ἐκκλησία ὑποτάσσεται τῷ χριστῷ</reference>
-		<reference osisRef="PHP.1.22!1" type="Left-Dislocation" label="L-Dis" verse="PHP 1:22" >εἰ</reference>
-		<reference osisRef="PHP.1.22!3-PHP.1.22!6" type="Left-Dislocation" label="L-Dis" verse="PHP 1:22" >τὸ ζῆν ἐν σαρκί</reference>
-		<reference osisRef="PHP.3.7!2-PHP.3.7!5" type="Left-Dislocation" label="L-Dis" verse="PHP 3:7" >ἅτινα ἦν μοι κέρδη</reference>
-		<reference osisRef="PHP.3.16!2-PHP.3.16!4" type="Left-Dislocation" label="L-Dis" verse="PHP 3:16" >εἰς ὃ ἐφθάσαμεν</reference>
-		<reference osisRef="PHP.4.8!4-PHP.4.8!23" type="Left-Dislocation" label="L-Dis" verse="PHP 4:8" >ὅσα ἐστὶν ἀληθῆ ὅσα σεμνά ὅσα δίκαια ὅσα ἁγνά ὅσα προσφιλῆ ὅσα εὔφημα εἴ τις ἀρετὴ καὶ εἴ τις ἔπαινος</reference>
-		<reference osisRef="PHP.4.9!1-PHP.4.9!11" type="Left-Dislocation" label="L-Dis" verse="PHP 4:9" >ἃ καὶ ἐμάθετε καὶ παρελάβετε καὶ ἠκούσατε καὶ εἴδετε ἐν ἐμοί</reference>
-		<reference osisRef="COL.1.16!19-COL.1.16!26" type="Left-Dislocation" label="L-Dis" verse="COL 1:16" >εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι</reference>
-		<reference osisRef="COL.3.13!12-COL.3.13!17" type="Left-Dislocation" label="L-Dis" verse="COL 3:13" >καθὼς καὶ ὁ κύριος ἐχαρίσατο ὑμῖν</reference>
-		<reference osisRef="COL.3.17!2-COL.3.17!11" type="Left-Dislocation" label="L-Dis" verse="COL 3:17" >πᾶν ὅ τι ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ</reference>
-		<reference osisRef="COL.4.11!6-COL.4.11!9" type="Left-Dislocation" label="L-Dis" verse="COL 4:11" >οἱ ὄντες ἐκ περιτομῆς</reference>
-		<reference osisRef="1TH.2.4!2-1TH.2.4!9" type="Left-Dislocation" label="L-Dis" verse="1TH 2:4" >καθὼς δεδοκιμάσμεθα ὑπὸ τοῦ θεοῦ πιστευθῆναι τὸ εὐαγγέλιον</reference>
-		<reference osisRef="1TH.3.6!3-1TH.3.6!31" type="Left-Dislocation" label="L-Dis" verse="1TH 3:6" >ἐλθόντος τιμοθέου πρὸς ἡμᾶς ἀφ’ ὑμῶν καὶ εὐαγγελισαμένου ἡμῖν τὴν πίστιν καὶ τὴν ἀγάπην ὑμῶν καὶ ὅτι ἔχετε μνείαν ἡμῶν ἀγαθὴν πάντοτε ἐπιποθοῦντες ἡμᾶς ἰδεῖν καθάπερ καὶ ἡμεῖς ὑμᾶς</reference>
-		<reference osisRef="1TH.4.14!1" type="Left-Dislocation" label="L-Dis" verse="1TH 4:14" >εἰ</reference>
-		<reference osisRef="1TH.4.14!3-1TH.4.14!8" type="Left-Dislocation" label="L-Dis" verse="1TH 4:14" >πιστεύομεν ὅτι ἰησοῦς ἀπέθανεν καὶ ἀνέστη</reference>
-		<reference osisRef="1TH.5.2!8-1TH.5.2!11" type="Left-Dislocation" label="L-Dis" verse="1TH 5:2" >ὡς κλέπτης ἐν νυκτὶ</reference>
-		<reference osisRef="1TH.5.3!1-1TH.5.3!5" type="Left-Dislocation" label="L-Dis" verse="1TH 5:3" >ὅταν λέγωσιν εἰρήνη καὶ ἀσφάλεια</reference>
-		<reference osisRef="2TH.3.17!1-2TH.3.17!12" type="Left-Dislocation" label="L-Dis" verse="2TH 3:17" >ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ παύλου ὅ ἐστιν σημεῖον ἐν πάσῃ ἐπιστολῇ</reference>
-		<reference osisRef="2TI.2.2!2-2TI.2.2!8" type="Left-Dislocation" label="L-Dis" verse="2TI 2:2" >ἃ ἤκουσας παρ’ ἐμοῦ διὰ πολλῶν μαρτύρων</reference>
-		<reference osisRef="2TI.3.8!1-2TI.3.8!2" type="Left-Dislocation" label="L-Dis" verse="2TI 3:8" >ὃν τρόπον</reference>
-		<reference osisRef="2TI.3.8!4-2TI.3.8!8" type="Left-Dislocation" label="L-Dis" verse="2TI 3:8" >ἰάννης καὶ ἰαμβρῆς ἀντέστησαν μωϋσεῖ</reference>
-		<reference osisRef="HEB.2.9!1" type="Left-Dislocation" label="L-Dis" verse="HEB 2:9" >τὸν</reference>
-		<reference osisRef="HEB.2.9!3-HEB.2.9!7" type="Left-Dislocation" label="L-Dis" verse="HEB 2:9" >βραχύ τι παρ’ ἀγγέλους ἠλαττωμένον</reference>
-		<reference osisRef="HEB.2.11!1-HEB.2.11!2" type="Left-Dislocation" label="L-Dis" verse="HEB 2:11" >ὅ τε</reference>
-		<reference osisRef="HEB.2.11!4-HEB.2.11!7" type="Left-Dislocation" label="L-Dis" verse="HEB 2:11" >ἁγιάζων καὶ οἱ ἁγιαζόμενοι</reference>
-		<reference osisRef="HEB.4.10!1" type="Left-Dislocation" label="L-Dis" verse="HEB 4:10" >ὁ</reference>
-		<reference osisRef="HEB.4.10!3-HEB.4.10!7" type="Left-Dislocation" label="L-Dis" verse="HEB 4:10" >εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ</reference>
-		<reference osisRef="HEB.5.3!5-HEB.5.3!8" type="Left-Dislocation" label="L-Dis" verse="HEB 5:3" >καθὼς περὶ τοῦ λαοῦ</reference>
-		<reference osisRef="HEB.9.27!2-HEB.9.27!12" type="Left-Dislocation" label="L-Dis" verse="HEB 9:27" >καθ’ ὅσον ἀπόκειται τοῖς ἀνθρώποις ἅπαξ ἀποθανεῖν μετὰ δὲ τοῦτο κρίσις</reference>
-		<reference osisRef="JAS.1.25!1" type="Left-Dislocation" label="L-Dis" verse="JAS 1:25" >ὁ</reference>
-		<reference osisRef="JAS.1.25!3-JAS.1.25!18" type="Left-Dislocation" label="L-Dis" verse="JAS 1:25" >παρακύψας εἰς νόμον τέλειον τὸν τῆς ἐλευθερίας καὶ παραμείνας οὐκ ἀκροατὴς ἐπιλησμονῆς γενόμενος ἀλλὰ ποιητὴς ἔργου</reference>
-		<reference osisRef="JAS.1.26!1-JAS.1.26!13" type="Left-Dislocation" label="L-Dis" verse="JAS 1:26" >εἴ τις δοκεῖ θρησκὸς εἶναι μὴ χαλιναγωγῶν γλῶσσαν αὐτοῦ ἀλλὰ ἀπατῶν καρδίαν αὐτοῦ</reference>
-		<reference osisRef="JAS.2.26!1" type="Left-Dislocation" label="L-Dis" verse="JAS 2:26" >ὥσπερ</reference>
-		<reference osisRef="JAS.2.26!3-JAS.2.26!8" type="Left-Dislocation" label="L-Dis" verse="JAS 2:26" >τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν</reference>
-		<reference osisRef="JAS.3.2!5-JAS.3.2!10" type="Left-Dislocation" label="L-Dis" verse="JAS 3:2" >εἴ τις ἐν λόγῳ οὐ πταίει</reference>
-		<reference osisRef="JAS.3.16!1" type="Left-Dislocation" label="L-Dis" verse="JAS 3:16" >ὅπου</reference>
-		<reference osisRef="JAS.3.16!3-JAS.3.16!5" type="Left-Dislocation" label="L-Dis" verse="JAS 3:16" >ζῆλος καὶ ἐριθεία</reference>
-		<reference osisRef="JAS.4.17!1" type="Left-Dislocation" label="L-Dis" verse="JAS 4:17" >εἰδότι</reference>
-		<reference osisRef="JAS.4.17!3-JAS.4.17!7" type="Left-Dislocation" label="L-Dis" verse="JAS 4:17" >καλὸν ποιεῖν καὶ μὴ ποιοῦντι</reference>
-		<reference osisRef="1PE.2.7!9-1PE.2.7!13" type="Left-Dislocation" label="L-Dis" verse="1PE 2:7" >λίθος ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες</reference>
-		<reference osisRef="1PE.2.20!10-1PE.2.20!14" type="Left-Dislocation" label="L-Dis" verse="1PE 2:20" >εἰ ἀγαθοποιοῦντες καὶ πάσχοντες ὑπομενεῖτε</reference>
-		<reference osisRef="1PE.5.10!1" type="Left-Dislocation" label="L-Dis" verse="1PE 5:10" >ὁ</reference>
-		<reference osisRef="1PE.5.10!3-1PE.5.10!16" type="Left-Dislocation" label="L-Dis" verse="1PE 5:10" >θεὸς πάσης χάριτος ὁ καλέσας ὑμᾶς εἰς τὴν αἰώνιον αὐτοῦ δόξαν ἐν χριστῷ ἰησοῦ</reference>
-		<reference osisRef="2PE.2.19!9" type="Left-Dislocation" label="L-Dis" verse="2PE 2:19" >ᾧ</reference>
-		<reference osisRef="2PE.2.19!11-2PE.2.19!12" type="Left-Dislocation" label="L-Dis" verse="2PE 2:19" >τις ἥττηται</reference>
-		<reference osisRef="1JN.1.1!1-1JN.1.1!23" type="Left-Dislocation" label="L-Dis" verse="1JN 1:1" >ὃ ἦν ἀπ’ ἀρχῆς ὃ ἀκηκόαμεν ὃ ἑωράκαμεν τοῖς ὀφθαλμοῖς ἡμῶν ὃ ἐθεασάμεθα καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν περὶ τοῦ λόγου τῆς ζωῆς</reference>
-		<reference osisRef="1JN.2.5!1" type="Left-Dislocation" label="L-Dis" verse="1JN 2:5" >ὃς</reference>
-		<reference osisRef="1JN.2.5!3-1JN.2.5!7" type="Left-Dislocation" label="L-Dis" verse="1JN 2:5" >ἂν τηρῇ αὐτοῦ τὸν λόγον</reference>
-		<reference osisRef="1JN.2.6!7-1JN.2.6!9" type="Left-Dislocation" label="L-Dis" verse="1JN 2:6" >καθὼς ἐκεῖνος περιεπάτησεν</reference>
-		<reference osisRef="1JN.2.24!1" type="Left-Dislocation" label="L-Dis" verse="1JN 2:24" >ὑμεῖς</reference>
-		<reference osisRef="1JN.2.27!2" type="Left-Dislocation" label="L-Dis" verse="1JN 2:27" >ὑμεῖς</reference>
-		<reference osisRef="1JN.3.17!1" type="Left-Dislocation" label="L-Dis" verse="1JN 3:17" >ὃς</reference>
-		<reference osisRef="1JN.3.17!3-1JN.3.17!22" type="Left-Dislocation" label="L-Dis" verse="1JN 3:17" >ἂν ἔχῃ τὸν βίον τοῦ κόσμου καὶ θεωρῇ τὸν ἀδελφὸν αὐτοῦ χρείαν ἔχοντα καὶ κλείσῃ τὰ σπλάγχνα αὐτοῦ ἀπ’ αὐτοῦ</reference>
-		<reference osisRef="1JN.4.15!1-1JN.4.15!10" type="Left-Dislocation" label="L-Dis" verse="1JN 4:15" >ὃς ἐὰν ὁμολογήσῃ ὅτι ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ</reference>
-		<reference osisRef="2JN.1.9!15-2JN.1.9!19" type="Left-Dislocation" label="L-Dis" verse="2JN 1:9" >ὁ μένων ἐν τῇ διδαχῇ</reference>
-		<reference osisRef="3JN.1.9!6-3JN.1.9!8" type="Left-Dislocation" label="L-Dis" verse="3JN 1:9" >ὁ φιλοπρωτεύων αὐτῶν</reference>
-		<reference osisRef="JUD.1.10!8" type="Left-Dislocation" label="L-Dis" verse="JUD 1:10" >ὅσα</reference>
-		<reference osisRef="JUD.1.10!10-JUD.1.10!15" type="Left-Dislocation" label="L-Dis" verse="JUD 1:10" >φυσικῶς ὡς τὰ ἄλογα ζῷα ἐπίστανται</reference>
-		<reference osisRef="REV.1.5!20-REV.1.6!43" type="Left-Dislocation" label="L-Dis" verse="REV 1:5 - 6" >τῷ ἀγαπῶντι ἡμᾶς καὶ λύσαντι ἡμᾶς ἐκ τῶν ἁμαρτιῶν ἡμῶν ἐν τῷ αἵματι αὐτοῦ καὶ ἐποίησεν ἡμᾶς βασιλείαν ἱερεῖς τῷ θεῷ καὶ πατρὶ αὐτοῦ</reference>
-		<reference osisRef="REV.1.20!1-REV.1.20!17" type="Left-Dislocation" label="L-Dis" verse="REV 1:20" >τὸ μυστήριον τῶν ἑπτὰ ἀστέρων οὓς εἶδες ἐπὶ τῆς δεξιᾶς μου καὶ τὰς ἑπτὰ λυχνίας τὰς χρυσᾶς</reference>
-		<reference osisRef="REV.2.7!11-REV.2.7!12" type="Left-Dislocation" label="L-Dis" verse="REV 2:7" >τῷ νικῶντι</reference>
-		<reference osisRef="REV.2.17!11-REV.2.17!12" type="Left-Dislocation" label="L-Dis" verse="REV 2:17" >τῷ νικῶντι</reference>
-		<reference osisRef="REV.2.26!2-REV.2.26!11" type="Left-Dislocation" label="L-Dis" verse="REV 2:26" >ὁ νικῶν καὶ ὁ τηρῶν ἄχρι τέλους τὰ ἔργα μου</reference>
-		<reference osisRef="REV.3.12!1-REV.3.12!2" type="Left-Dislocation" label="L-Dis" verse="REV 3:12" >ὁ νικῶν</reference>
-		<reference osisRef="REV.3.21!1-REV.3.21!2" type="Left-Dislocation" label="L-Dis" verse="REV 3:21" >ὁ νικῶν</reference>
-		<reference osisRef="REV.4.8!2-REV.4.8!4" type="Left-Dislocation" label="L-Dis" verse="REV 4:8" >τὰ τέσσαρα ζῷα</reference>
-		<reference osisRef="REV.6.4!7-REV.6.4!10" type="Left-Dislocation" label="L-Dis" verse="REV 6:4" >τῷ καθημένῳ ἐπ’ αὐτὸν</reference>
-		<reference osisRef="REV.6.8!8-REV.6.8!11" type="Left-Dislocation" label="L-Dis" verse="REV 6:8" >ὁ καθήμενος ἐπάνω αὐτοῦ</reference>
-		<reference osisRef="REV.17.11!2-REV.17.11!8" type="Left-Dislocation" label="L-Dis" verse="REV 17:11" >τὸ θηρίον ὃ ἦν καὶ οὐκ ἔστιν</reference>
-		<reference osisRef="REV.17.16!2-REV.17.16!9" type="Left-Dislocation" label="L-Dis" verse="REV 17:16" >τὰ δέκα κέρατα ἃ εἶδες καὶ τὸ θηρίον</reference>
-		<reference osisRef="REV.18.7!1-REV.18.7!5" type="Left-Dislocation" label="L-Dis" verse="REV 18:7" >ὅσα ἐδόξασεν αὐτὴν καὶ ἐστρηνίασεν</reference>
-		<reference osisRef="REV.21.8!1" type="Left-Dislocation" label="L-Dis" verse="REV 21:8" >τοῖς</reference>
-		<reference osisRef="REV.21.8!3-REV.21.8!19" type="Left-Dislocation" label="L-Dis" verse="REV 21:8" >δειλοῖς καὶ ἀπίστοις καὶ ἐβδελυγμένοις καὶ φονεῦσιν καὶ πόρνοις καὶ φαρμάκοις καὶ εἰδωλολάτραις καὶ πᾶσιν τοῖς ψευδέσιν</reference>
+		<reference osisRef="Matt.4.16!11-Matt.4.16!17" type="Left-Dislocation" label="L-Dis" verse="Matt 4:16" >τοῖς καθημένοις ἐν χώρᾳ καὶ σκιᾷ θανάτου</reference>
+		<reference osisRef="Matt.5.19!23" type="Left-Dislocation" label="L-Dis" verse="Matt 5:19" >ὃς</reference>
+		<reference osisRef="Matt.5.19!25-Matt.5.19!28" type="Left-Dislocation" label="L-Dis" verse="Matt 5:19" >ἂν ποιήσῃ καὶ διδάξῃ</reference>
+		<reference osisRef="Matt.5.39!10-Matt.5.39!17" type="Left-Dislocation" label="L-Dis" verse="Matt 5:39" >ὅστις σε ῥαπίζει εἰς τὴν δεξιὰν σιαγόνα σου</reference>
+		<reference osisRef="Matt.5.40!2-Matt.5.40!10" type="Left-Dislocation" label="L-Dis" verse="Matt 5:40" >τῷ θέλοντί σοι κριθῆναι καὶ τὸν χιτῶνά σου λαβεῖν</reference>
+		<reference osisRef="Matt.5.41!2-Matt.5.41!6" type="Left-Dislocation" label="L-Dis" verse="Matt 5:41" >ὅστις σε ἀγγαρεύσει μίλιον ἕν</reference>
+		<reference osisRef="Matt.6.21!1" type="Left-Dislocation" label="L-Dis" verse="Matt 6:21" >ὅπου</reference>
+		<reference osisRef="Matt.6.21!3-Matt.6.21!6" type="Left-Dislocation" label="L-Dis" verse="Matt 6:21" >ἐστιν ὁ θησαυρός σου</reference>
+		<reference osisRef="Matt.7.12!1" type="Left-Dislocation" label="L-Dis" verse="Matt 7:12" >πάντα</reference>
+		<reference osisRef="Matt.7.12!3-Matt.7.12!10" type="Left-Dislocation" label="L-Dis" verse="Matt 7:12" >ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι</reference>
+		<reference osisRef="Matt.10.11!1-Matt.10.11!2" type="Left-Dislocation" label="L-Dis" verse="Matt 10:11" >εἰς ἣν</reference>
+		<reference osisRef="Matt.10.11!4-Matt.10.11!8" type="Left-Dislocation" label="L-Dis" verse="Matt 10:11" >ἂν πόλιν ἢ κώμην εἰσέλθητε</reference>
+		<reference osisRef="Matt.10.14!2-Matt.10.14!11" type="Left-Dislocation" label="L-Dis" verse="Matt 10:14" >ὃς ἂν μὴ δέξηται ὑμᾶς μηδὲ ἀκούσῃ τοὺς λόγους ὑμῶν</reference>
+		<reference osisRef="Matt.10.22!10" type="Left-Dislocation" label="L-Dis" verse="Matt 10:22" >ὁ</reference>
+		<reference osisRef="Matt.10.22!12-Matt.10.22!14" type="Left-Dislocation" label="L-Dis" verse="Matt 10:22" >ὑπομείνας εἰς τέλος</reference>
+		<reference osisRef="Matt.10.32!1" type="Left-Dislocation" label="L-Dis" verse="Matt 10:32" >πᾶς</reference>
+		<reference osisRef="Matt.10.32!3-Matt.10.32!9" type="Left-Dislocation" label="L-Dis" verse="Matt 10:32" >ὅστις ὁμολογήσει ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων</reference>
+		<reference osisRef="Matt.10.33!1" type="Left-Dislocation" label="L-Dis" verse="Matt 10:33" >ὅστις</reference>
+		<reference osisRef="Matt.10.33!3-Matt.10.33!8" type="Left-Dislocation" label="L-Dis" verse="Matt 10:33" >ἂν ἀρνήσηταί με ἔμπροσθεν τῶν ἀνθρώπων</reference>
+		<reference osisRef="Matt.10.42!2-Matt.10.42!14" type="Left-Dislocation" label="L-Dis" verse="Matt 10:42" >ὃς ἂν ποτίσῃ ἕνα τῶν μικρῶν τούτων ποτήριον ψυχροῦ μόνον εἰς ὄνομα μαθητοῦ</reference>
+		<reference osisRef="Matt.12.32!2-Matt.12.32!10" type="Left-Dislocation" label="L-Dis" verse="Matt 12:32" >ὃς ἐὰν εἴπῃ λόγον κατὰ τοῦ υἱοῦ τοῦ ἀνθρώπου</reference>
+		<reference osisRef="Matt.12.32!13" type="Left-Dislocation" label="L-Dis" verse="Matt 12:32" >ὃς</reference>
+		<reference osisRef="Matt.12.32!15-Matt.12.32!21" type="Left-Dislocation" label="L-Dis" verse="Matt 12:32" >ἂν εἴπῃ κατὰ τοῦ πνεύματος τοῦ ἁγίου</reference>
+		<reference osisRef="Matt.12.36!5-Matt.12.36!11" type="Left-Dislocation" label="L-Dis" verse="Matt 12:36" >πᾶν ῥῆμα ἀργὸν ὃ λαλήσουσιν οἱ ἄνθρωποι</reference>
+		<reference osisRef="Matt.12.40!1" type="Left-Dislocation" label="L-Dis" verse="Matt 12:40" >ὥσπερ</reference>
+		<reference osisRef="Matt.12.40!3-Matt.12.40!14" type="Left-Dislocation" label="L-Dis" verse="Matt 12:40" >ἦν ἰωνᾶς ἐν τῇ κοιλίᾳ τοῦ κήτους τρεῖς ἡμέρας καὶ τρεῖς νύκτας</reference>
+		<reference osisRef="Matt.12.50!1" type="Left-Dislocation" label="L-Dis" verse="Matt 12:50" >ὅστις</reference>
+		<reference osisRef="Matt.12.50!3-Matt.12.50!12" type="Left-Dislocation" label="L-Dis" verse="Matt 12:50" >ἂν ποιήσῃ τὸ θέλημα τοῦ πατρός μου τοῦ ἐν οὐρανοῖς</reference>
+		<reference osisRef="Matt.13.12!1" type="Left-Dislocation" label="L-Dis" verse="Matt 13:12" >ὅστις</reference>
+		<reference osisRef="Matt.13.12!3" type="Left-Dislocation" label="L-Dis" verse="Matt 13:12" >ἔχει</reference>
+		<reference osisRef="Matt.13.12!8" type="Left-Dislocation" label="L-Dis" verse="Matt 13:12" >ὅστις</reference>
+		<reference osisRef="Matt.13.12!10-Matt.13.12!11" type="Left-Dislocation" label="L-Dis" verse="Matt 13:12" >οὐκ ἔχει</reference>
+		<reference osisRef="Matt.13.20!1" type="Left-Dislocation" label="L-Dis" verse="Matt 13:20" >ὁ</reference>
+		<reference osisRef="Matt.13.20!3-Matt.13.20!6" type="Left-Dislocation" label="L-Dis" verse="Matt 13:20" >ἐπὶ τὰ πετρώδη σπαρείς</reference>
+		<reference osisRef="Matt.13.22!1" type="Left-Dislocation" label="L-Dis" verse="Matt 13:22" >ὁ</reference>
+		<reference osisRef="Matt.13.22!3-Matt.13.22!6" type="Left-Dislocation" label="L-Dis" verse="Matt 13:22" >εἰς τὰς ἀκάνθας σπαρείς</reference>
+		<reference osisRef="Matt.13.23!1" type="Left-Dislocation" label="L-Dis" verse="Matt 13:23" >ὁ</reference>
+		<reference osisRef="Matt.13.23!3-Matt.13.23!7" type="Left-Dislocation" label="L-Dis" verse="Matt 13:23" >ἐπὶ τὴν καλὴν γῆν σπαρείς</reference>
+		<reference osisRef="Matt.13.38!7" type="Left-Dislocation" label="L-Dis" verse="Matt 13:38" >τὸ</reference>
+		<reference osisRef="Matt.13.38!9-Matt.13.38!10" type="Left-Dislocation" label="L-Dis" verse="Matt 13:38" >καλὸν σπέρμα</reference>
+		<reference osisRef="Matt.13.40!1" type="Left-Dislocation" label="L-Dis" verse="Matt 13:40" >ὥσπερ</reference>
+		<reference osisRef="Matt.13.40!3-Matt.13.40!8" type="Left-Dislocation" label="L-Dis" verse="Matt 13:40" >συλλέγεται τὰ ζιζάνια καὶ πυρὶ [κατα]καίεται</reference>
+		<reference osisRef="Matt.13.56!2-Matt.13.56!4" type="Left-Dislocation" label="L-Dis" verse="Matt 13:56" >αἱ ἀδελφαὶ αὐτοῦ</reference>
+		<reference osisRef="Matt.15.11!11-Matt.15.11!15" type="Left-Dislocation" label="L-Dis" verse="Matt 15:11" >τὸ ἐκπορευόμενον ἐκ τοῦ στόματος</reference>
+		<reference osisRef="Matt.18.4!1" type="Left-Dislocation" label="L-Dis" verse="Matt 18:4" >ὅστις</reference>
+		<reference osisRef="Matt.18.4!3-Matt.18.4!8" type="Left-Dislocation" label="L-Dis" verse="Matt 18:4" >ταπεινώσει ἑαυτὸν ὡς τὸ παιδίον τοῦτο</reference>
+		<reference osisRef="Matt.18.6!1" type="Left-Dislocation" label="L-Dis" verse="Matt 18:6" >ὃς</reference>
+		<reference osisRef="Matt.18.6!3-Matt.18.6!12" type="Left-Dislocation" label="L-Dis" verse="Matt 18:6" >ἂν σκανδαλίσῃ ἕνα τῶν μικρῶν τούτων τῶν πιστευόντων εἰς ἐμέ</reference>
+		<reference osisRef="Matt.18.20!1" type="Left-Dislocation" label="L-Dis" verse="Matt 18:20" >οὗ</reference>
+		<reference osisRef="Matt.18.20!3-Matt.18.20!11" type="Left-Dislocation" label="L-Dis" verse="Matt 18:20" >εἰσιν δύο ἢ τρεῖς συνηγμένοι εἰς τὸ ἐμὸν ὄνομα</reference>
+		<reference osisRef="Matt.19.28!10-Matt.19.28!13" type="Left-Dislocation" label="L-Dis" verse="Matt 19:28" >ὑμεῖς οἱ ἀκολουθήσαντές μοι</reference>
+		<reference osisRef="Matt.20.23!8" type="Left-Dislocation" label="L-Dis" verse="Matt 20:23" >τὸ</reference>
+		<reference osisRef="Matt.20.23!10-Matt.20.23!16" type="Left-Dislocation" label="L-Dis" verse="Matt 20:23" >καθίσαι ἐκ δεξιῶν μου καὶ ἐξ εὐωνύμων</reference>
+		<reference osisRef="Matt.21.41!3" type="Left-Dislocation" label="L-Dis" verse="Matt 21:41" >κακοὺς</reference>
+		<reference osisRef="Matt.21.42!10-Matt.21.42!14" type="Left-Dislocation" label="L-Dis" verse="Matt 21:42" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες</reference>
+		<reference osisRef="Matt.21.44!9-Matt.21.44!10" type="Left-Dislocation" label="L-Dis" verse="Matt 21:44" >ἐφ’ ὃν</reference>
+		<reference osisRef="Matt.21.44!12-Matt.21.44!13" type="Left-Dislocation" label="L-Dis" verse="Matt 21:44" >ἂν πέσῃ</reference>
+		<reference osisRef="Matt.23.16!7-Matt.23.16!12" type="Left-Dislocation" label="L-Dis" verse="Matt 23:16" >ὃς ἂν ὀμόσῃ ἐν τῷ ναῷ</reference>
+		<reference osisRef="Matt.23.18!2-Matt.23.18!7" type="Left-Dislocation" label="L-Dis" verse="Matt 23:18" >ὃς ἂν ὀμόσῃ ἐν τῷ θυσιαστηρίῳ</reference>
+		<reference osisRef="Matt.24.13!1" type="Left-Dislocation" label="L-Dis" verse="Matt 24:13" >ὁ</reference>
+		<reference osisRef="Matt.24.13!3-Matt.24.13!5" type="Left-Dislocation" label="L-Dis" verse="Matt 24:13" >ὑπομείνας εἰς τέλος</reference>
+		<reference osisRef="Matt.24.27!1" type="Left-Dislocation" label="L-Dis" verse="Matt 24:27" >ὥσπερ</reference>
+		<reference osisRef="Matt.24.27!3-Matt.24.27!11" type="Left-Dislocation" label="L-Dis" verse="Matt 24:27" >ἡ ἀστραπὴ ἐξέρχεται ἀπὸ ἀνατολῶν καὶ φαίνεται ἕως δυσμῶν</reference>
+		<reference osisRef="Matt.24.28!1-Matt.24.28!5" type="Left-Dislocation" label="L-Dis" verse="Matt 24:28" >ὅπου ἐὰν ᾖ τὸ πτῶμα</reference>
+		<reference osisRef="Matt.25.29!8" type="Left-Dislocation" label="L-Dis" verse="Matt 25:29" >τοῦ</reference>
+		<reference osisRef="Matt.25.29!10-Matt.25.29!11" type="Left-Dislocation" label="L-Dis" verse="Matt 25:29" >μὴ ἔχοντος</reference>
+		<reference osisRef="Matt.26.23!5-Matt.26.23!13" type="Left-Dislocation" label="L-Dis" verse="Matt 26:23" >ὁ ἐμβάψας μετ’ ἐμοῦ τὴν χεῖρα ἐν τῷ τρυβλίῳ</reference>
+		<reference osisRef="Matt.26.48!9-Matt.26.48!11" type="Left-Dislocation" label="L-Dis" verse="Matt 26:48" >ὃν ἂν φιλήσω</reference>
+		<reference osisRef="Mark.3.35!1" type="Left-Dislocation" label="L-Dis" verse="Mark 3:35" >ὃς</reference>
+		<reference osisRef="Mark.3.35!3-Mark.3.35!8" type="Left-Dislocation" label="L-Dis" verse="Mark 3:35" >ἂν ποιήσῃ τὸ θέλημα τοῦ θεοῦ</reference>
+		<reference osisRef="Mark.4.25!1" type="Left-Dislocation" label="L-Dis" verse="Mark 4:25" >ὃς</reference>
+		<reference osisRef="Mark.4.25!3" type="Left-Dislocation" label="L-Dis" verse="Mark 4:25" >ἔχει</reference>
+		<reference osisRef="Mark.4.25!7-Mark.4.25!9" type="Left-Dislocation" label="L-Dis" verse="Mark 4:25" >ὃς οὐκ ἔχει</reference>
+		<reference osisRef="Mark.6.10!4-Mark.6.10!8" type="Left-Dislocation" label="L-Dis" verse="Mark 6:10" >ὅπου ἐὰν εἰσέλθητε εἰς οἰκίαν</reference>
+		<reference osisRef="Mark.6.11!1-Mark.6.11!10" type="Left-Dislocation" label="L-Dis" verse="Mark 6:11" >καὶ ὃς ἂν τόπος μὴ δέξηται ὑμᾶς μηδὲ ἀκούσωσιν ὑμῶν</reference>
+		<reference osisRef="Mark.6.16!6-Mark.6.16!9" type="Left-Dislocation" label="L-Dis" verse="Mark 6:16" >ὃν ἐγὼ ἀπεκεφάλισα ἰωάννην</reference>
+		<reference osisRef="Mark.7.20!4-Mark.7.20!8" type="Left-Dislocation" label="L-Dis" verse="Mark 7:20" >τὸ ἐκ τοῦ ἀνθρώπου ἐκπορευόμενον</reference>
+		<reference osisRef="Mark.7.36!7" type="Left-Dislocation" label="L-Dis" verse="Mark 7:36" >ὅσον</reference>
+		<reference osisRef="Mark.7.36!9-Mark.7.36!10" type="Left-Dislocation" label="L-Dis" verse="Mark 7:36" >αὐτοῖς διεστέλλετο</reference>
+		<reference osisRef="Mark.8.38!1" type="Left-Dislocation" label="L-Dis" verse="Mark 8:38" >ὃς</reference>
+		<reference osisRef="Mark.8.38!3-Mark.8.38!17" type="Left-Dislocation" label="L-Dis" verse="Mark 8:38" >ἐὰν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους ἐν τῇ γενεᾷ ταύτῃ τῇ μοιχαλίδι καὶ ἁμαρτωλῷ</reference>
+		<reference osisRef="Mark.9.41!1-Mark.9.41!12" type="Left-Dislocation" label="L-Dis" verse="Mark 9:41" >ὃς γὰρ ἂν ποτίσῃ ὑμᾶς ποτήριον ὕδατος ἐν ὀνόματι ὅτι χριστοῦ ἐστε</reference>
+		<reference osisRef="Mark.9.42!2-Mark.9.42!12" type="Left-Dislocation" label="L-Dis" verse="Mark 9:42" >ὃς ἂν σκανδαλίσῃ ἕνα τῶν μικρῶν τούτων τῶν πιστευόντων εἰς ἐμέ</reference>
+		<reference osisRef="Mark.11.23!5-Mark.11.23!29" type="Left-Dislocation" label="L-Dis" verse="Mark 11:23" >ὃς ἂν εἴπῃ τῷ ὄρει τούτῳ ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν καὶ μὴ διακριθῇ ἐν τῇ καρδίᾳ αὐτοῦ ἀλλὰ πιστεύῃ ὅτι ὃ λαλεῖ γίνεται</reference>
+		<reference osisRef="Mark.11.24!5-Mark.11.24!9" type="Left-Dislocation" label="L-Dis" verse="Mark 11:24" >πάντα ὅσα προσεύχεσθε καὶ αἰτεῖσθε</reference>
+		<reference osisRef="Mark.12.10!6-Mark.12.10!10" type="Left-Dislocation" label="L-Dis" verse="Mark 12:10" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες</reference>
+		<reference osisRef="Mark.12.29!9-Mark.12.29!12" type="Left-Dislocation" label="L-Dis" verse="Mark 12:29" >κύριος ὁ θεὸς ἡμῶν</reference>
+		<reference osisRef="Mark.12.40!1-Mark.12.40!10" type="Left-Dislocation" label="L-Dis" verse="Mark 12:40" >οἱ κατεσθίοντες τὰς οἰκίας τῶν χηρῶν καὶ προφάσει μακρὰ προσευχόμενοι</reference>
+		<reference osisRef="Mark.13.11!11-Mark.13.11!18" type="Left-Dislocation" label="L-Dis" verse="Mark 13:11" >ὃ ἐὰν δοθῇ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ</reference>
+		<reference osisRef="Mark.13.13!10" type="Left-Dislocation" label="L-Dis" verse="Mark 13:13" >ὁ</reference>
+		<reference osisRef="Mark.13.13!12-Mark.13.13!14" type="Left-Dislocation" label="L-Dis" verse="Mark 13:13" >ὑπομείνας εἰς τέλος</reference>
+		<reference osisRef="Mark.14.44!9-Mark.14.44!11" type="Left-Dislocation" label="L-Dis" verse="Mark 14:44" >ὃν ἂν φιλήσω</reference>
+		<reference osisRef="Luke.1.36!3-Luke.1.36!6" type="Left-Dislocation" label="L-Dis" verse="Luke 1:36" >ἐλισάβετ ἡ συγγενίς σου</reference>
+		<reference osisRef="Luke.6.31!2-Luke.6.31!8" type="Left-Dislocation" label="L-Dis" verse="Luke 6:31" >καθὼς θέλετε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι</reference>
+		<reference osisRef="Luke.6.47!1-Luke.6.47!13" type="Left-Dislocation" label="L-Dis" verse="Luke 6:47" >πᾶς ὁ ἐρχόμενος πρός με καὶ ἀκούων μου τῶν λόγων καὶ ποιῶν αὐτούς</reference>
+		<reference osisRef="Luke.8.14!1" type="Left-Dislocation" label="L-Dis" verse="Luke 8:14" >τὸ</reference>
+		<reference osisRef="Luke.8.14!3-Luke.8.14!6" type="Left-Dislocation" label="L-Dis" verse="Luke 8:14" >εἰς τὰς ἀκάνθας πεσόν</reference>
+		<reference osisRef="Luke.8.15!1" type="Left-Dislocation" label="L-Dis" verse="Luke 8:15" >τὸ</reference>
+		<reference osisRef="Luke.8.15!3-Luke.8.15!6" type="Left-Dislocation" label="L-Dis" verse="Luke 8:15" >ἐν τῇ καλῇ γῇ</reference>
+		<reference osisRef="Luke.8.18!5-Luke.8.18!6" type="Left-Dislocation" label="L-Dis" verse="Luke 8:18" >ὃς ἂν</reference>
+		<reference osisRef="Luke.8.18!8" type="Left-Dislocation" label="L-Dis" verse="Luke 8:18" >ἔχῃ</reference>
+		<reference osisRef="Luke.8.18!12-Luke.8.18!15" type="Left-Dislocation" label="L-Dis" verse="Luke 8:18" >ὃς ἂν μὴ ἔχῃ</reference>
+		<reference osisRef="Luke.9.4!2-Luke.9.4!6" type="Left-Dislocation" label="L-Dis" verse="Luke 9:4" >εἰς ἣν ἂν οἰκίαν εἰσέλθητε</reference>
+		<reference osisRef="Luke.9.5!2-Luke.9.5!6" type="Left-Dislocation" label="L-Dis" verse="Luke 9:5" >ὅσοι ἂν μὴ δέχωνται ὑμᾶς</reference>
+		<reference osisRef="Luke.9.24!11" type="Left-Dislocation" label="L-Dis" verse="Luke 9:24" >ὃς</reference>
+		<reference osisRef="Luke.9.24!13-Luke.9.24!19" type="Left-Dislocation" label="L-Dis" verse="Luke 9:24" >ἂν ἀπολέσῃ τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ</reference>
+		<reference osisRef="Luke.9.26!1" type="Left-Dislocation" label="L-Dis" verse="Luke 9:26" >ὃς</reference>
+		<reference osisRef="Luke.9.26!3-Luke.9.26!9" type="Left-Dislocation" label="L-Dis" verse="Luke 9:26" >ἂν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους</reference>
+		<reference osisRef="Luke.9.48!25" type="Left-Dislocation" label="L-Dis" verse="Luke 9:48" >ὁ</reference>
+		<reference osisRef="Luke.9.48!27-Luke.9.48!31" type="Left-Dislocation" label="L-Dis" verse="Luke 9:48" >μικρότερος ἐν πᾶσιν ὑμῖν ὑπάρχων</reference>
+		<reference osisRef="Luke.11.30!1" type="Left-Dislocation" label="L-Dis" verse="Luke 11:30" >καθὼς</reference>
+		<reference osisRef="Luke.11.30!3-Luke.11.30!7" type="Left-Dislocation" label="L-Dis" verse="Luke 11:30" >ἐγένετο ἰωνᾶς τοῖς νινευίταις σημεῖον</reference>
+		<reference osisRef="Luke.12.8!4-Luke.12.8!12" type="Left-Dislocation" label="L-Dis" verse="Luke 12:8" >πᾶς ὃς ἂν ὁμολογήσῃ ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων</reference>
+		<reference osisRef="Luke.12.10!2-Luke.12.10!10" type="Left-Dislocation" label="L-Dis" verse="Luke 12:10" >πᾶς ὃς ἐρεῖ λόγον εἰς τὸν υἱὸν τοῦ ἀνθρώπου</reference>
+		<reference osisRef="Luke.12.34!1" type="Left-Dislocation" label="L-Dis" verse="Luke 12:34" >ὅπου</reference>
+		<reference osisRef="Luke.12.34!3-Luke.12.34!6" type="Left-Dislocation" label="L-Dis" verse="Luke 12:34" >ἐστιν ὁ θησαυρὸς ὑμῶν</reference>
+		<reference osisRef="Luke.12.48!11" type="Left-Dislocation" label="L-Dis" verse="Luke 12:48" >παντὶ</reference>
+		<reference osisRef="Luke.12.48!13-Luke.12.48!15" type="Left-Dislocation" label="L-Dis" verse="Luke 12:48" >ᾧ ἐδόθη πολύ</reference>
+		<reference osisRef="Luke.12.48!21-Luke.12.48!23" type="Left-Dislocation" label="L-Dis" verse="Luke 12:48" >ᾧ παρέθεντο πολύ</reference>
+		<reference osisRef="Luke.13.4!2-Luke.13.4!15" type="Left-Dislocation" label="L-Dis" verse="Luke 13:4" >ἐκεῖνοι οἱ δεκαοκτὼ ἐφ’ οὓς ἔπεσεν ὁ πύργος ἐν τῷ σιλωὰμ καὶ ἀπέκτεινεν αὐτούς</reference>
+		<reference osisRef="Luke.13.34!1-Luke.13.34!12" type="Left-Dislocation" label="L-Dis" verse="Luke 13:34" >ἰερουσαλὴμ ἰερουσαλήμ ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν</reference>
+		<reference osisRef="Luke.17.24!1" type="Left-Dislocation" label="L-Dis" verse="Luke 17:24" >ὥσπερ</reference>
+		<reference osisRef="Luke.17.24!3-Luke.17.24!15" type="Left-Dislocation" label="L-Dis" verse="Luke 17:24" >ἡ ἀστραπὴ ἀστράπτουσα ἐκ τῆς ὑπὸ τὸν οὐρανὸν εἰς τὴν ὑπ’ οὐρανὸν λάμπει</reference>
+		<reference osisRef="Luke.17.26!2-Luke.17.26!7" type="Left-Dislocation" label="L-Dis" verse="Luke 17:26" >καθὼς ἐγένετο ἐν ταῖς ἡμέραις νῶε</reference>
+		<reference osisRef="Luke.17.37!11-Luke.17.37!13" type="Left-Dislocation" label="L-Dis" verse="Luke 17:37" >ὅπου τὸ σῶμα</reference>
+		<reference osisRef="Luke.20.17!12-Luke.20.17!16" type="Left-Dislocation" label="L-Dis" verse="Luke 20:17" >λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες</reference>
+		<reference osisRef="Luke.20.18!9-Luke.20.18!10" type="Left-Dislocation" label="L-Dis" verse="Luke 20:18" >ἐφ’ ὃν</reference>
+		<reference osisRef="Luke.20.18!12-Luke.20.18!13" type="Left-Dislocation" label="L-Dis" verse="Luke 20:18" >ἂν πέσῃ</reference>
+		<reference osisRef="Luke.21.6!1-Luke.21.6!3" type="Left-Dislocation" label="L-Dis" verse="Luke 21:6" >ταῦτα ἃ θεωρεῖτε</reference>
+		<reference osisRef="Luke.21.20!1" type="Left-Dislocation" label="L-Dis" verse="Luke 21:20" >ὅταν</reference>
+		<reference osisRef="Luke.21.20!3-Luke.21.20!7" type="Left-Dislocation" label="L-Dis" verse="Luke 21:20" >ἴδητε κυκλουμένην ὑπὸ στρατοπέδων ἰερουσαλήμ</reference>
+		<reference osisRef="John.1.12!1" type="Left-Dislocation" label="L-Dis" verse="John 1:12" >ὅσοι</reference>
+		<reference osisRef="John.1.12!3-John.1.12!4" type="Left-Dislocation" label="L-Dis" verse="John 1:12" >ἔλαβον αὐτόν</reference>
+		<reference osisRef="John.1.18!5-John.1.18!13" type="Left-Dislocation" label="L-Dis" verse="John 1:18" >μονογενὴς θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ πατρὸς</reference>
+		<reference osisRef="John.1.31!6-John.1.31!9" type="Left-Dislocation" label="L-Dis" verse="John 1:31" >ἵνα φανερωθῇ τῷ ἰσραὴλ</reference>
+		<reference osisRef="John.1.33!6-John.1.33!11" type="Left-Dislocation" label="L-Dis" verse="John 1:33" >ὁ πέμψας με βαπτίζειν ἐν ὕδατι</reference>
+		<reference osisRef="John.1.33!15-John.1.33!25" type="Left-Dislocation" label="L-Dis" verse="John 1:33" >ἐφ’ ὃν ἂν ἴδῃς τὸ πνεῦμα καταβαῖνον καὶ μένον ἐπ’ αὐτόν</reference>
+		<reference osisRef="John.3.14!2-John.3.14!9" type="Left-Dislocation" label="L-Dis" verse="John 3:14" >καθὼς μωϋσῆς ὕψωσεν τὸν ὄφιν ἐν τῇ ἐρήμῳ</reference>
+		<reference osisRef="John.3.26!10-John.3.26!19" type="Left-Dislocation" label="L-Dis" verse="John 3:26" >ὃς ἦν μετὰ σοῦ πέραν τοῦ ἰορδάνου ᾧ σὺ μεμαρτύρηκας</reference>
+		<reference osisRef="John.3.32!1-John.3.32!4" type="Left-Dislocation" label="L-Dis" verse="John 3:32" >ὃ ἑώρακεν καὶ ἤκουσεν</reference>
+		<reference osisRef="John.5.11!5-John.5.11!8" type="Left-Dislocation" label="L-Dis" verse="John 5:11" >ὁ ποιήσας με ὑγιῆ</reference>
+		<reference osisRef="John.5.19!27" type="Left-Dislocation" label="L-Dis" verse="John 5:19" >ἃ</reference>
+		<reference osisRef="John.5.19!29-John.5.19!31" type="Left-Dislocation" label="L-Dis" verse="John 5:19" >ἂν ἐκεῖνος ποιῇ</reference>
+		<reference osisRef="John.5.21!1" type="Left-Dislocation" label="L-Dis" verse="John 5:21" >ὥσπερ</reference>
+		<reference osisRef="John.5.21!3-John.5.21!9" type="Left-Dislocation" label="L-Dis" verse="John 5:21" >ὁ πατὴρ ἐγείρει τοὺς νεκροὺς καὶ ζῳοποιεῖ</reference>
+		<reference osisRef="John.5.26!1" type="Left-Dislocation" label="L-Dis" verse="John 5:26" >ὥσπερ</reference>
+		<reference osisRef="John.5.26!3-John.5.26!8" type="Left-Dislocation" label="L-Dis" verse="John 5:26" >ὁ πατὴρ ἔχει ζωὴν ἐν ἑαυτῷ</reference>
+		<reference osisRef="John.5.36!9" type="Left-Dislocation" label="L-Dis" verse="John 5:36" >τὰ</reference>
+		<reference osisRef="John.5.36!11-John.5.36!19" type="Left-Dislocation" label="L-Dis" verse="John 5:36" >ἔργα ἃ δέδωκέν μοι ὁ πατὴρ ἵνα τελειώσω αὐτά</reference>
+		<reference osisRef="John.5.37!2-John.5.37!5" type="Left-Dislocation" label="L-Dis" verse="John 5:37" >ὁ πέμψας με πατὴρ</reference>
+		<reference osisRef="John.5.38!11-John.5.38!13" type="Left-Dislocation" label="L-Dis" verse="John 5:38" >ὃν ἀπέστειλεν ἐκεῖνος</reference>
+		<reference osisRef="John.6.39!10-John.6.39!13" type="Left-Dislocation" label="L-Dis" verse="John 6:39" >πᾶν ὃ δέδωκέν μοι</reference>
+		<reference osisRef="John.6.46!9-John.6.46!13" type="Left-Dislocation" label="L-Dis" verse="John 6:46" >ὁ ὢν παρὰ τοῦ θεοῦ</reference>
+		<reference osisRef="John.6.57!12-John.6.57!15" type="Left-Dislocation" label="L-Dis" verse="John 6:57" >καὶ ὁ τρώγων με</reference>
+		<reference osisRef="John.7.10!1" type="Left-Dislocation" label="L-Dis" verse="John 7:10" >ὡς</reference>
+		<reference osisRef="John.7.10!3-John.7.10!9" type="Left-Dislocation" label="L-Dis" verse="John 7:10" >ἀνέβησαν οἱ ἀδελφοὶ αὐτοῦ εἰς τὴν ἑορτήν</reference>
+		<reference osisRef="John.7.18!10" type="Left-Dislocation" label="L-Dis" verse="John 7:18" >ὁ</reference>
+		<reference osisRef="John.7.18!12-John.7.18!17" type="Left-Dislocation" label="L-Dis" verse="John 7:18" >ζητῶν τὴν δόξαν τοῦ πέμψαντος αὐτὸν</reference>
+		<reference osisRef="John.7.38!1-John.7.38!4" type="Left-Dislocation" label="L-Dis" verse="John 7:38" >ὁ πιστεύων εἰς ἐμέ</reference>
+		<reference osisRef="John.8.26!14-John.8.26!18" type="Left-Dislocation" label="L-Dis" verse="John 8:26" >κἀγὼ ἃ ἤκουσα παρ’ αὐτοῦ</reference>
+		<reference osisRef="John.8.28!6-John.8.28!11" type="Left-Dislocation" label="L-Dis" verse="John 8:28" >ὅταν ὑψώσητε τὸν υἱὸν τοῦ ἀνθρώπου</reference>
+		<reference osisRef="John.8.28!23-John.8.28!27" type="Left-Dislocation" label="L-Dis" verse="John 8:28" >καθὼς ἐδίδαξέν με ὁ πατὴρ</reference>
+		<reference osisRef="John.9.31!9-John.9.31!17" type="Left-Dislocation" label="L-Dis" verse="John 9:31" >ἐάν τις θεοσεβὴς ᾖ καὶ τὸ θέλημα αὐτοῦ ποιῇ</reference>
+		<reference osisRef="John.10.1!5-John.10.1!18" type="Left-Dislocation" label="L-Dis" verse="John 10:1" >ὁ μὴ εἰσερχόμενος διὰ τῆς θύρας εἰς τὴν αὐλὴν τῶν προβάτων ἀλλὰ ἀναβαίνων ἀλλαχόθεν</reference>
+		<reference osisRef="John.10.25!10-John.10.25!20" type="Left-Dislocation" label="L-Dis" verse="John 10:25" >τὰ ἔργα ἃ ἐγὼ ποιῶ ἐν τῷ ὀνόματι τοῦ πατρός μου</reference>
+		<reference osisRef="John.11.6!1" type="Left-Dislocation" label="L-Dis" verse="John 11:6" >ὡς</reference>
+		<reference osisRef="John.11.6!3-John.11.6!5" type="Left-Dislocation" label="L-Dis" verse="John 11:6" >ἤκουσεν ὅτι ἀσθενεῖ</reference>
+		<reference osisRef="John.12.16!10-John.12.16!12" type="Left-Dislocation" label="L-Dis" verse="John 12:16" >ὅτε ἐδοξάσθη ἰησοῦς</reference>
+		<reference osisRef="John.12.26!8-John.12.26!10" type="Left-Dislocation" label="L-Dis" verse="John 12:26" >ὅπου εἰμὶ ἐγὼ</reference>
+		<reference osisRef="John.12.48!14-John.12.48!17" type="Left-Dislocation" label="L-Dis" verse="John 12:48" >ὁ λόγος ὃν ἐλάλησα</reference>
+		<reference osisRef="John.12.49!8-John.12.49!11" type="Left-Dislocation" label="L-Dis" verse="John 12:49" >ὁ πέμψας με πατὴρ</reference>
+		<reference osisRef="John.12.50!10" type="Left-Dislocation" label="L-Dis" verse="John 12:50" >ἃ</reference>
+		<reference osisRef="John.12.50!12-John.12.50!13" type="Left-Dislocation" label="L-Dis" verse="John 12:50" >ἐγὼ λαλῶ</reference>
+		<reference osisRef="John.12.50!14-John.12.50!18" type="Left-Dislocation" label="L-Dis" verse="John 12:50" >καθὼς εἴρηκέν μοι ὁ πατήρ</reference>
+		<reference osisRef="John.13.27!2-John.13.27!4" type="Left-Dislocation" label="L-Dis" verse="John 13:27" >μετὰ τὸ ψωμίον</reference>
+		<reference osisRef="John.14.12!5-John.14.12!8" type="Left-Dislocation" label="L-Dis" verse="John 14:12" >ὁ πιστεύων εἰς ἐμὲ</reference>
+		<reference osisRef="John.14.13!2-John.14.13!9" type="Left-Dislocation" label="L-Dis" verse="John 14:13" >ὅ τι ἂν αἰτήσητε ἐν τῷ ὀνόματί μου</reference>
+		<reference osisRef="John.14.21!1-John.14.21!8" type="Left-Dislocation" label="L-Dis" verse="John 14:21" >ὁ ἔχων τὰς ἐντολάς μου καὶ τηρῶν αὐτὰς</reference>
+		<reference osisRef="John.14.26!1" type="Left-Dislocation" label="L-Dis" verse="John 14:26" >ὁ</reference>
+		<reference osisRef="John.14.26!3-John.14.26!15" type="Left-Dislocation" label="L-Dis" verse="John 14:26" >παράκλητος τὸ πνεῦμα τὸ ἅγιον ὃ πέμψει ὁ πατὴρ ἐν τῷ ὀνόματί μου</reference>
+		<reference osisRef="John.14.31!11-John.14.31!15" type="Left-Dislocation" label="L-Dis" verse="John 14:31" >καθὼς ἐνετείλατό μοι ὁ πατήρ</reference>
+		<reference osisRef="John.15.2!1-John.15.2!7" type="Left-Dislocation" label="L-Dis" verse="John 15:2" >πᾶν κλῆμα ἐν ἐμοὶ μὴ φέρον καρπὸν</reference>
+		<reference osisRef="John.15.2!11-John.15.2!14" type="Left-Dislocation" label="L-Dis" verse="John 15:2" >πᾶν τὸ καρπὸν φέρον</reference>
+		<reference osisRef="John.15.4!7-John.15.4!21" type="Left-Dislocation" label="L-Dis" verse="John 15:4" >καθὼς τὸ κλῆμα οὐ δύναται καρπὸν φέρειν ἀφ’ ἑαυτοῦ ἐὰν μὴ μένῃ ἐν τῇ ἀμπέλῳ</reference>
+		<reference osisRef="John.15.5!8-John.15.5!14" type="Left-Dislocation" label="L-Dis" verse="John 15:5" >ὁ μένων ἐν ἐμοὶ κἀγὼ ἐν αὐτῷ</reference>
+		<reference osisRef="John.15.19!12-John.15.19!25" type="Left-Dislocation" label="L-Dis" verse="John 15:19" >ὅτι δὲ ἐκ τοῦ κόσμου οὐκ ἐστέ ἀλλ’ ἐγὼ ἐξελεξάμην ὑμᾶς ἐκ τοῦ κόσμου</reference>
+		<reference osisRef="John.17.2!8-John.17.2!11" type="Left-Dislocation" label="L-Dis" verse="John 17:2" >πᾶν ὃ δέδωκας αὐτῷ</reference>
+		<reference osisRef="John.17.24!2-John.17.24!4" type="Left-Dislocation" label="L-Dis" verse="John 17:24" >ὃ δέδωκάς μοι</reference>
+		<reference osisRef="John.18.9!8-John.18.9!10" type="Left-Dislocation" label="L-Dis" verse="John 18:9" >οὓς δέδωκάς μοι</reference>
+		<reference osisRef="John.18.11!13-John.18.11!19" type="Left-Dislocation" label="L-Dis" verse="John 18:11" >τὸ ποτήριον ὃ δέδωκέν μοι ὁ πατὴρ</reference>
+		<reference osisRef="John.20.23!1-John.20.23!5" type="Left-Dislocation" label="L-Dis" verse="John 20:23" >ἄν τινων ἀφῆτε τὰς ἁμαρτίας</reference>
+		<reference osisRef="Acts.1.21!3-Acts.1.22!30" type="Left-Dislocation" label="L-Dis" verse="Acts 1:21 - 2" >τῶν συνελθόντων ἡμῖν ἀνδρῶν ἐν παντὶ χρόνῳ ᾧ εἰσῆλθεν καὶ ἐξῆλθεν ἐφ’ ἡμᾶς ὁ κύριος ἰησοῦς ἀρξάμενος ἀπὸ τοῦ βαπτίσματος ἰωάννου ἕως τῆς ἡμέρας ἧς ἀνελήμφθη ἀφ’ ἡμῶν</reference>
+		<reference osisRef="Acts.2.22!7-Acts.2.22!33" type="Left-Dislocation" label="L-Dis" verse="Acts 2:22" >ἰησοῦν τὸν ναζωραῖον ἄνδρα ἀποδεδειγμένον ἀπὸ τοῦ θεοῦ εἰς ὑμᾶς δυνάμεσι καὶ τέρασι καὶ σημείοις οἷς ἐποίησεν δι’ αὐτοῦ ὁ θεὸς ἐν μέσῳ ὑμῶν καθὼς αὐτοὶ οἴδατε</reference>
+		<reference osisRef="Acts.3.6!10" type="Left-Dislocation" label="L-Dis" verse="Acts 3:6" >ὃ</reference>
+		<reference osisRef="Acts.3.6!12" type="Left-Dislocation" label="L-Dis" verse="Acts 3:6" >ἔχω</reference>
+		<reference osisRef="Acts.4.10!11-Acts.4.10!26" type="Left-Dislocation" label="L-Dis" verse="Acts 4:10" >ἐν τῷ ὀνόματι ἰησοῦ χριστοῦ τοῦ ναζωραίου ὃν ὑμεῖς ἐσταυρώσατε ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν</reference>
+		<reference osisRef="Acts.4.36!1" type="Left-Dislocation" label="L-Dis" verse="Acts 4:36" >ἰωσὴφ</reference>
+		<reference osisRef="Acts.4.36!3-Acts.4.36!17" type="Left-Dislocation" label="L-Dis" verse="Acts 4:36" >ὁ ἐπικληθεὶς βαρναβᾶς ἀπὸ τῶν ἀποστόλων ὅ ἐστιν μεθερμηνευόμενον υἱὸς παρακλήσεως λευίτης κύπριος τῷ γένει</reference>
+		<reference osisRef="Acts.7.35!1-Acts.7.35!12" type="Left-Dislocation" label="L-Dis" verse="Acts 7:35" >τοῦτον τὸν μωϋσῆν ὃν ἠρνήσαντο εἰπόντες τίς σε κατέστησεν ἄρχοντα καὶ δικαστήν</reference>
+		<reference osisRef="Acts.7.40!10" type="Left-Dislocation" label="L-Dis" verse="Acts 7:40" >ὁ</reference>
+		<reference osisRef="Acts.7.40!12-Acts.7.40!19" type="Left-Dislocation" label="L-Dis" verse="Acts 7:40" >μωϋσῆς οὗτος ὃς ἐξήγαγεν ἡμᾶς ἐκ γῆς αἰγύπτου</reference>
+		<reference osisRef="Acts.8.19!8-Acts.8.19!12" type="Left-Dislocation" label="L-Dis" verse="Acts 8:19" >ᾧ ἐὰν ἐπιθῶ τὰς χεῖρας</reference>
+		<reference osisRef="Acts.8.32!10-Acts.8.32!22" type="Left-Dislocation" label="L-Dis" verse="Acts 8:32" >ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείραντος αὐτὸν ἄφωνος</reference>
+		<reference osisRef="Acts.10.36!1-Acts.10.36!12" type="Left-Dislocation" label="L-Dis" verse="Acts 10:36" >τὸν λόγον ὃν ἀπέστειλεν τοῖς υἱοῖς ἰσραὴλ εὐαγγελιζόμενος εἰρήνην διὰ ἰησοῦ χριστοῦ</reference>
+		<reference osisRef="Acts.10.38!1-Acts.10.38!4" type="Left-Dislocation" label="L-Dis" verse="Acts 10:38" >ἰησοῦν τὸν ἀπὸ ναζαρέθ</reference>
+		<reference osisRef="Acts.11.29!1" type="Left-Dislocation" label="L-Dis" verse="Acts 11:29" >τῶν</reference>
+		<reference osisRef="Acts.11.29!3" type="Left-Dislocation" label="L-Dis" verse="Acts 11:29" >μαθητῶν</reference>
+		<reference osisRef="Acts.15.32!1" type="Left-Dislocation" label="L-Dis" verse="Acts 15:32" >ἰούδας</reference>
+		<reference osisRef="Acts.15.32!3-Acts.15.32!4" type="Left-Dislocation" label="L-Dis" verse="Acts 15:32" >καὶ σιλᾶς</reference>
+		<reference osisRef="Acts.15.38!4-Acts.15.38!16" type="Left-Dislocation" label="L-Dis" verse="Acts 15:38" >τὸν ἀποστάντα ἀπ’ αὐτῶν ἀπὸ παμφυλίας καὶ μὴ συνελθόντα αὐτοῖς εἰς τὸ ἔργον</reference>
+		<reference osisRef="Acts.17.6!15-Acts.17.6!18" type="Left-Dislocation" label="L-Dis" verse="Acts 17:6" >οἱ τὴν οἰκουμένην ἀναστατώσαντες</reference>
+		<reference osisRef="Acts.17.23!16" type="Left-Dislocation" label="L-Dis" verse="Acts 17:23" >ὃ</reference>
+		<reference osisRef="Acts.17.23!18-Acts.17.23!19" type="Left-Dislocation" label="L-Dis" verse="Acts 17:23" >ἀγνοοῦντες εὐσεβεῖτε</reference>
+		<reference osisRef="Acts.17.24!1-Acts.17.24!11" type="Left-Dislocation" label="L-Dis" verse="Acts 17:24" >ὁ θεὸς ὁ ποιήσας τὸν κόσμον καὶ πάντα τὰ ἐν αὐτῷ</reference>
+		<reference osisRef="Acts.19.12!2-Acts.19.12!5" type="Left-Dislocation" label="L-Dis" verse="Acts 19:12" >καὶ ἐπὶ τοὺς ἀσθενοῦντας</reference>
+		<reference osisRef="Acts.23.11!11" type="Left-Dislocation" label="L-Dis" verse="Acts 23:11" >ὡς</reference>
+		<reference osisRef="Acts.23.11!13-Acts.23.11!18" type="Left-Dislocation" label="L-Dis" verse="Acts 23:11" >διεμαρτύρω τὰ περὶ ἐμοῦ εἰς ἰερουσαλήμ</reference>
+		<reference osisRef="Acts.24.14!6-Acts.24.14!11" type="Left-Dislocation" label="L-Dis" verse="Acts 24:14" >κατὰ τὴν ὁδὸν ἣν λέγουσιν αἵρεσιν</reference>
+		<reference osisRef="Rom.2.17!1" type="Left-Dislocation" label="L-Dis" verse="Rom 2:17" >εἰ</reference>
+		<reference osisRef="Rom.2.17!3-Rom.2.20!49" type="Left-Dislocation" label="L-Dis" verse="Rom 2:17 - 20" >σὺ ἰουδαῖος ἐπονομάζῃ καὶ ἐπαναπαύῃ νόμῳ καὶ καυχᾶσαι ἐν θεῷ καὶ γινώσκεις τὸ θέλημα καὶ δοκιμάζεις τὰ διαφέροντα κατηχούμενος ἐκ τοῦ νόμου πέποιθάς τε σεαυτὸν ὁδηγὸν εἶναι τυφλῶν φῶς τῶν ἐν σκότει παιδευτὴν ἀφρόνων διδάσκαλον νηπίων ἔχοντα τὴν μόρφωσιν τῆς γνώσεως καὶ τῆς ἀληθείας ἐν τῷ νόμῳ</reference>
+		<reference osisRef="Rom.3.19!4-Rom.3.19!7" type="Left-Dislocation" label="L-Dis" verse="Rom 3:19" >ὅσα ὁ νόμος λέγει</reference>
+		<reference osisRef="Rom.4.5!1" type="Left-Dislocation" label="L-Dis" verse="Rom 4:5" >τῷ</reference>
+		<reference osisRef="Rom.4.5!3-Rom.4.5!11" type="Left-Dislocation" label="L-Dis" verse="Rom 4:5" >μὴ ἐργαζομένῳ πιστεύοντι δὲ ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ</reference>
+		<reference osisRef="Rom.5.15!2-Rom.5.15!5" type="Left-Dislocation" label="L-Dis" verse="Rom 5:15" >οὐχ ὡς τὸ παράπτωμα</reference>
+		<reference osisRef="Rom.5.18!3-Rom.5.18!11" type="Left-Dislocation" label="L-Dis" verse="Rom 5:18" >ὡς δι’ ἑνὸς παραπτώματος εἰς πάντας ἀνθρώπους εἰς κατάκριμα</reference>
+		<reference osisRef="Rom.5.19!1" type="Left-Dislocation" label="L-Dis" verse="Rom 5:19" >ὥσπερ</reference>
+		<reference osisRef="Rom.5.19!3-Rom.5.19!12" type="Left-Dislocation" label="L-Dis" verse="Rom 5:19" >διὰ τῆς παρακοῆς τοῦ ἑνὸς ἀνθρώπου ἁμαρτωλοὶ κατεστάθησαν οἱ πολλοί</reference>
+		<reference osisRef="Rom.5.21!2-Rom.5.21!8" type="Left-Dislocation" label="L-Dis" verse="Rom 5:21" >ὥσπερ ἐβασίλευσεν ἡ ἁμαρτία ἐν τῷ θανάτῳ</reference>
+		<reference osisRef="Rom.6.4!11-Rom.6.4!20" type="Left-Dislocation" label="L-Dis" verse="Rom 6:4" >ὥσπερ ἠγέρθη χριστὸς ἐκ νεκρῶν διὰ τῆς δόξης τοῦ πατρός</reference>
+		<reference osisRef="Rom.6.10!1" type="Left-Dislocation" label="L-Dis" verse="Rom 6:10" >ὃ</reference>
+		<reference osisRef="Rom.6.10!3" type="Left-Dislocation" label="L-Dis" verse="Rom 6:10" >ἀπέθανεν</reference>
+		<reference osisRef="Rom.6.10!8" type="Left-Dislocation" label="L-Dis" verse="Rom 6:10" >ὃ</reference>
+		<reference osisRef="Rom.6.10!10" type="Left-Dislocation" label="L-Dis" verse="Rom 6:10" >ζῇ</reference>
+		<reference osisRef="Rom.6.16!4-Rom.6.16!9" type="Left-Dislocation" label="L-Dis" verse="Rom 6:16" >ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν</reference>
+		<reference osisRef="Rom.6.19!9" type="Left-Dislocation" label="L-Dis" verse="Rom 6:19" >ὥσπερ</reference>
+		<reference osisRef="Rom.6.19!11-Rom.6.19!23" type="Left-Dislocation" label="L-Dis" verse="Rom 6:19" >παρεστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ ἀκαθαρσίᾳ καὶ τῇ ἀνομίᾳ εἰς τὴν ἀνομίαν</reference>
+		<reference osisRef="Rom.7.10!7-Rom.7.10!11" type="Left-Dislocation" label="L-Dis" verse="Rom 7:10" >ἡ ἐντολὴ ἡ εἰς ζωήν</reference>
+		<reference osisRef="Rom.7.15!8-Rom.7.15!9" type="Left-Dislocation" label="L-Dis" verse="Rom 7:15" >ὃ θέλω</reference>
+		<reference osisRef="Rom.7.15!13-Rom.7.15!14" type="Left-Dislocation" label="L-Dis" verse="Rom 7:15" >ὃ μισῶ</reference>
+		<reference osisRef="Rom.7.16!3-Rom.7.16!5" type="Left-Dislocation" label="L-Dis" verse="Rom 7:16" >ὃ οὐ θέλω</reference>
+		<reference osisRef="Rom.7.19!1" type="Left-Dislocation" label="L-Dis" verse="Rom 7:19" >οὐ</reference>
+		<reference osisRef="Rom.7.19!3-Rom.7.19!11" type="Left-Dislocation" label="L-Dis" verse="Rom 7:19" >ὃ θέλω ποιῶ ἀγαθόν ἀλλὰ ὃ οὐ θέλω κακὸν</reference>
+		<reference osisRef="Rom.7.20!3-Rom.7.20!6" type="Left-Dislocation" label="L-Dis" verse="Rom 7:20" >ὃ οὐ θέλω ἐγὼ</reference>
+		<reference osisRef="Rom.7.21!5-Rom.7.21!10" type="Left-Dislocation" label="L-Dis" verse="Rom 7:21" >τῷ θέλοντι ἐμοὶ ποιεῖν τὸ καλόν</reference>
+		<reference osisRef="Rom.8.3!1" type="Left-Dislocation" label="L-Dis" verse="Rom 8:3" >τὸ</reference>
+		<reference osisRef="Rom.8.3!3-Rom.8.3!11" type="Left-Dislocation" label="L-Dis" verse="Rom 8:3" >ἀδύνατον τοῦ νόμου ἐν ᾧ ἠσθένει διὰ τῆς σαρκός</reference>
+		<reference osisRef="Rom.8.14!1" type="Left-Dislocation" label="L-Dis" verse="Rom 8:14" >ὅσοι</reference>
+		<reference osisRef="Rom.8.14!3-Rom.8.14!5" type="Left-Dislocation" label="L-Dis" verse="Rom 8:14" >πνεύματι θεοῦ ἄγονται</reference>
+		<reference osisRef="Rom.8.23!5-Rom.8.23!11" type="Left-Dislocation" label="L-Dis" verse="Rom 8:23" >καὶ αὐτοὶ τὴν ἀπαρχὴν τοῦ πνεύματος ἔχοντες</reference>
+		<reference osisRef="Rom.8.30!1" type="Left-Dislocation" label="L-Dis" verse="Rom 8:30" >οὓς</reference>
+		<reference osisRef="Rom.8.30!3" type="Left-Dislocation" label="L-Dis" verse="Rom 8:30" >προώρισεν</reference>
+		<reference osisRef="Rom.8.30!8-Rom.8.30!9" type="Left-Dislocation" label="L-Dis" verse="Rom 8:30" >οὓς ἐκάλεσεν</reference>
+		<reference osisRef="Rom.8.30!13" type="Left-Dislocation" label="L-Dis" verse="Rom 8:30" >οὓς</reference>
+		<reference osisRef="Rom.8.30!15" type="Left-Dislocation" label="L-Dis" verse="Rom 8:30" >ἐδικαίωσεν</reference>
+		<reference osisRef="Rom.9.6!10" type="Left-Dislocation" label="L-Dis" verse="Rom 9:6" >οὐ</reference>
+		<reference osisRef="Rom.9.6!12-Rom.9.6!15" type="Left-Dislocation" label="L-Dis" verse="Rom 9:6" >πάντες οἱ ἐξ ἰσραὴλ</reference>
+		<reference osisRef="Rom.9.8!3-Rom.9.8!7" type="Left-Dislocation" label="L-Dis" verse="Rom 9:8" >οὐ τὰ τέκνα τῆς σαρκὸς</reference>
+		<reference osisRef="Rom.9.26!3-Rom.9.26!12" type="Left-Dislocation" label="L-Dis" verse="Rom 9:26" >ἐν τῷ τόπῳ οὗ ἐρρέθη αὐτοῖς οὐ λαός μου ὑμεῖς</reference>
+		<reference osisRef="Rom.11.7!3-Rom.11.7!5" type="Left-Dislocation" label="L-Dis" verse="Rom 11:7" >ὃ ἐπιζητεῖ ἰσραήλ</reference>
+		<reference osisRef="Rom.11.30!1" type="Left-Dislocation" label="L-Dis" verse="Rom 11:30" >ὥσπερ</reference>
+		<reference osisRef="Rom.11.30!3-Rom.11.30!13" type="Left-Dislocation" label="L-Dis" verse="Rom 11:30" >ὑμεῖς ποτε ἠπειθήσατε τῷ θεῷ νῦν δὲ ἠλεήθητε τῇ τούτων ἀπειθείᾳ</reference>
+		<reference osisRef="Rom.12.4!1" type="Left-Dislocation" label="L-Dis" verse="Rom 12:4" >καθάπερ</reference>
+		<reference osisRef="Rom.12.4!3-Rom.12.4!17" type="Left-Dislocation" label="L-Dis" verse="Rom 12:4" >ἐν ἑνὶ σώματι πολλὰ μέλη ἔχομεν τὰ δὲ μέλη πάντα οὐ τὴν αὐτὴν ἔχει πρᾶξιν</reference>
+		<reference osisRef="Rom.14.14!14-Rom.14.14!18" type="Left-Dislocation" label="L-Dis" verse="Rom 14:14" >τῷ λογιζομένῳ τι κοινὸν εἶναι</reference>
+		<reference osisRef="Rom.14.22!1" type="Left-Dislocation" label="L-Dis" verse="Rom 14:22" >σὺ</reference>
+		<reference osisRef="Rom.16.25!1-Rom.16.26!40" type="Left-Dislocation" label="L-Dis" verse="Rom 16:25 - 6" >τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα ἰησοῦ χριστοῦ κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατ’ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος</reference>
+		<reference osisRef="1Cor.1.18!12" type="Left-Dislocation" label="L-Dis" verse="1Cor 1:18" >τοῖς</reference>
+		<reference osisRef="1Cor.1.18!14" type="Left-Dislocation" label="L-Dis" verse="1Cor 1:18" >σῳζομένοις</reference>
+		<reference osisRef="1Cor.2.9!4-1Cor.2.9!17" type="Left-Dislocation" label="L-Dis" verse="1Cor 2:9" >ἃ ὀφθαλμὸς οὐκ εἶδεν καὶ οὖς οὐκ ἤκουσεν καὶ ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη</reference>
+		<reference osisRef="1Cor.6.4!7-1Cor.6.4!11" type="Left-Dislocation" label="L-Dis" verse="1Cor 6:4" >τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ</reference>
+		<reference osisRef="1Cor.7.13!2" type="Left-Dislocation" label="L-Dis" verse="1Cor 7:13" >γυνὴ</reference>
+		<reference osisRef="1Cor.7.17!3-1Cor.7.17!7" type="Left-Dislocation" label="L-Dis" verse="1Cor 7:17" >ἑκάστῳ ὡς ἐμέρισεν ὁ κύριος</reference>
+		<reference osisRef="1Cor.7.17!8-1Cor.7.17!12" type="Left-Dislocation" label="L-Dis" verse="1Cor 7:17" >ἕκαστον ὡς κέκληκεν ὁ θεός</reference>
+		<reference osisRef="1Cor.7.20!2-1Cor.7.20!6" type="Left-Dislocation" label="L-Dis" verse="1Cor 7:20" >ἐν τῇ κλήσει ᾗ ἐκλήθη</reference>
+		<reference osisRef="1Cor.7.24!2-1Cor.7.24!4" type="Left-Dislocation" label="L-Dis" verse="1Cor 7:24" >ἐν ᾧ ἐκλήθη</reference>
+		<reference osisRef="1Cor.11.12!1" type="Left-Dislocation" label="L-Dis" verse="1Cor 11:12" >ὥσπερ</reference>
+		<reference osisRef="1Cor.11.12!3-1Cor.11.12!7" type="Left-Dislocation" label="L-Dis" verse="1Cor 11:12" >ἡ γυνὴ ἐκ τοῦ ἀνδρός</reference>
+		<reference osisRef="1Cor.11.14!8" type="Left-Dislocation" label="L-Dis" verse="1Cor 11:14" >ἀνὴρ</reference>
+		<reference osisRef="1Cor.11.15!1" type="Left-Dislocation" label="L-Dis" verse="1Cor 11:15" >γυνὴ</reference>
+		<reference osisRef="1Cor.12.12!1" type="Left-Dislocation" label="L-Dis" verse="1Cor 12:12" >καθάπερ</reference>
+		<reference osisRef="1Cor.12.12!3-1Cor.12.12!21" type="Left-Dislocation" label="L-Dis" verse="1Cor 12:12" >τὸ σῶμα ἕν ἐστιν καὶ μέλη πολλὰ ἔχει πάντα δὲ τὰ μέλη τοῦ σώματος πολλὰ ὄντα ἕν ἐστιν σῶμα</reference>
+		<reference osisRef="1Cor.12.15!1-1Cor.12.15!13" type="Left-Dislocation" label="L-Dis" verse="1Cor 12:15" >ἐὰν εἴπῃ ὁ πούς ὅτι οὐκ εἰμὶ χείρ οὐκ εἰμὶ ἐκ τοῦ σώματος</reference>
+		<reference osisRef="1Cor.12.16!2-1Cor.12.16!14" type="Left-Dislocation" label="L-Dis" verse="1Cor 12:16" >ἐὰν εἴπῃ τὸ οὖς ὅτι οὐκ εἰμὶ ὀφθαλμός οὐκ εἰμὶ ἐκ τοῦ σώματος</reference>
+		<reference osisRef="1Cor.12.23!2-1Cor.12.23!7" type="Left-Dislocation" label="L-Dis" verse="1Cor 12:23" >ἃ δοκοῦμεν ἀτιμότερα εἶναι τοῦ σώματος</reference>
+		<reference osisRef="1Cor.14.7!1-1Cor.14.7!9" type="Left-Dislocation" label="L-Dis" verse="1Cor 14:7" >ὅμως τὰ ἄψυχα φωνὴν διδόντα εἴτε αὐλὸς εἴτε κιθάρα</reference>
+		<reference osisRef="1Cor.15.22!1" type="Left-Dislocation" label="L-Dis" verse="1Cor 15:22" >ὥσπερ</reference>
+		<reference osisRef="1Cor.15.22!3-1Cor.15.22!7" type="Left-Dislocation" label="L-Dis" verse="1Cor 15:22" >ἐν τῷ ἀδὰμ πάντες ἀποθνῄσκουσιν</reference>
+		<reference osisRef="1Cor.15.28!1" type="Left-Dislocation" label="L-Dis" verse="1Cor 15:28" >ὅταν</reference>
+		<reference osisRef="1Cor.15.28!3-1Cor.15.28!6" type="Left-Dislocation" label="L-Dis" verse="1Cor 15:28" >ὑποταγῇ αὐτῷ τὰ πάντα</reference>
+		<reference osisRef="1Cor.15.37!2-1Cor.15.37!3" type="Left-Dislocation" label="L-Dis" verse="1Cor 15:37" >ὃ σπείρεις</reference>
+		<reference osisRef="1Cor.15.48!1-1Cor.15.48!3" type="Left-Dislocation" label="L-Dis" verse="1Cor 15:48" >οἷος ὁ χοϊκός</reference>
+		<reference osisRef="1Cor.15.48!9-1Cor.15.48!11" type="Left-Dislocation" label="L-Dis" verse="1Cor 15:48" >οἷος ὁ ἐπουράνιος</reference>
+		<reference osisRef="1Cor.15.54!1" type="Left-Dislocation" label="L-Dis" verse="1Cor 15:54" >ὅταν</reference>
+		<reference osisRef="1Cor.15.54!3-1Cor.15.54!13" type="Left-Dislocation" label="L-Dis" verse="1Cor 15:54" >τὸ φθαρτὸν τοῦτο ἐνδύσηται ἀφθαρσίαν καὶ τὸ θνητὸν τοῦτο ἐνδύσηται ἀθανασίαν</reference>
+		<reference osisRef="1Cor.16.1!9-1Cor.16.1!14" type="Left-Dislocation" label="L-Dis" verse="1Cor 16:1" >ὥσπερ διέταξα ταῖς ἐκκλησίαις τῆς γαλατίας</reference>
+		<reference osisRef="1Cor.16.2!16-1Cor.16.2!17" type="Left-Dislocation" label="L-Dis" verse="1Cor 16:2" >ὅταν ἔλθω</reference>
+		<reference osisRef="1Cor.16.3!4-1Cor.16.3!6" type="Left-Dislocation" label="L-Dis" verse="1Cor 16:3" >οὓς ἐὰν δοκιμάσητε</reference>
+		<reference osisRef="2Cor.1.5!2-2Cor.1.5!9" type="Left-Dislocation" label="L-Dis" verse="2Cor 1:5" >καθὼς περισσεύει τὰ παθήματα τοῦ χριστοῦ εἰς ἡμᾶς</reference>
+		<reference osisRef="2Cor.1.7!10-2Cor.1.7!14" type="Left-Dislocation" label="L-Dis" verse="2Cor 1:7" >ὡς κοινωνοί ἐστε τῶν παθημάτων</reference>
+		<reference osisRef="2Cor.2.10!6" type="Left-Dislocation" label="L-Dis" verse="2Cor 2:10" >καὶ</reference>
+		<reference osisRef="2Cor.2.10!8-2Cor.2.10!10" type="Left-Dislocation" label="L-Dis" verse="2Cor 2:10" >ἐγὼ ὃ κεχάρισμαι</reference>
+		<reference osisRef="2Cor.7.6!2-2Cor.7.6!5" type="Left-Dislocation" label="L-Dis" verse="2Cor 7:6" >ὁ παρακαλῶν τοὺς ταπεινοὺς</reference>
+		<reference osisRef="2Cor.7.14!11-2Cor.7.14!16" type="Left-Dislocation" label="L-Dis" verse="2Cor 7:14" >ὡς πάντα ἐν ἀληθείᾳ ἐλαλήσαμεν ὑμῖν</reference>
+		<reference osisRef="2Cor.8.6!7-2Cor.8.6!8" type="Left-Dislocation" label="L-Dis" verse="2Cor 8:6" >καθὼς προενήρξατο</reference>
+		<reference osisRef="2Cor.8.11!8-2Cor.8.11!12" type="Left-Dislocation" label="L-Dis" verse="2Cor 8:11" >καθάπερ ἡ προθυμία τοῦ θέλειν</reference>
+		<reference osisRef="2Cor.10.7!17-2Cor.10.7!19" type="Left-Dislocation" label="L-Dis" verse="2Cor 10:7" >καθὼς αὐτὸς χριστοῦ</reference>
+		<reference osisRef="2Cor.10.11!6-2Cor.10.11!12" type="Left-Dislocation" label="L-Dis" verse="2Cor 10:11" >οἷοί ἐσμεν τῷ λόγῳ δι’ ἐπιστολῶν ἀπόντες</reference>
+		<reference osisRef="2Cor.10.18!1" type="Left-Dislocation" label="L-Dis" verse="2Cor 10:18" >οὐ</reference>
+		<reference osisRef="2Cor.10.18!3-2Cor.10.18!5" type="Left-Dislocation" label="L-Dis" verse="2Cor 10:18" >ὁ ἑαυτὸν συνιστάνων</reference>
+		<reference osisRef="2Cor.11.21!8-2Cor.11.21!13" type="Left-Dislocation" label="L-Dis" verse="2Cor 11:21" >ἐν ᾧ δ’ ἄν τις τολμᾷ</reference>
+		<reference osisRef="2Cor.12.17!2-2Cor.12.17!6" type="Left-Dislocation" label="L-Dis" verse="2Cor 12:17" >τινα ὧν ἀπέσταλκα πρὸς ὑμᾶς</reference>
+		<reference osisRef="Gal.1.20!1" type="Left-Dislocation" label="L-Dis" verse="Gal 1:20" >ἃ</reference>
+		<reference osisRef="Gal.1.20!3-Gal.1.20!4" type="Left-Dislocation" label="L-Dis" verse="Gal 1:20" >γράφω ὑμῖν</reference>
+		<reference osisRef="Gal.2.6!1" type="Left-Dislocation" label="L-Dis" verse="Gal 2:6" >ἀπὸ</reference>
+		<reference osisRef="Gal.2.6!3-Gal.2.6!6" type="Left-Dislocation" label="L-Dis" verse="Gal 2:6" >τῶν δοκούντων εἶναί τι</reference>
+		<reference osisRef="Gal.2.6!7-Gal.2.6!18" type="Left-Dislocation" label="L-Dis" verse="Gal 2:6" >ὁποῖοί ποτε ἦσαν οὐδέν μοι διαφέρει πρόσωπον ὁ θεὸς ἀνθρώπου οὐ λαμβάνει</reference>
+		<reference osisRef="Gal.2.18!3-Gal.2.18!4" type="Left-Dislocation" label="L-Dis" verse="Gal 2:18" >ἃ κατέλυσα</reference>
+		<reference osisRef="Gal.3.7!4-Gal.3.7!6" type="Left-Dislocation" label="L-Dis" verse="Gal 3:7" >οἱ ἐκ πίστεως</reference>
+		<reference osisRef="Gal.4.29!2-Gal.4.29!11" type="Left-Dislocation" label="L-Dis" verse="Gal 4:29" >ὥσπερ τότε ὁ κατὰ σάρκα γεννηθεὶς ἐδίωκεν τὸν κατὰ πνεῦμα</reference>
+		<reference osisRef="Gal.5.17!20-Gal.5.17!22" type="Left-Dislocation" label="L-Dis" verse="Gal 5:17" >ἃ ἐὰν θέλητε</reference>
+		<reference osisRef="Gal.6.7!6" type="Left-Dislocation" label="L-Dis" verse="Gal 6:7" >ὃ</reference>
+		<reference osisRef="Gal.6.7!8-Gal.6.7!10" type="Left-Dislocation" label="L-Dis" verse="Gal 6:7" >ἐὰν σπείρῃ ἄνθρωπος</reference>
+		<reference osisRef="Gal.6.12!1-Gal.6.12!5" type="Left-Dislocation" label="L-Dis" verse="Gal 6:12" >ὅσοι θέλουσιν εὐπροσωπῆσαι ἐν σαρκί</reference>
+		<reference osisRef="Gal.6.16!2-Gal.6.16!6" type="Left-Dislocation" label="L-Dis" verse="Gal 6:16" >ὅσοι τῷ κανόνι τούτῳ στοιχήσουσιν</reference>
+		<reference osisRef="Eph.2.11!5-Eph.2.11!19" type="Left-Dislocation" label="L-Dis" verse="Eph 2:11" >ὑμεῖς τὰ ἔθνη ἐν σαρκί οἱ λεγόμενοι ἀκροβυστία ὑπὸ τῆς λεγομένης περιτομῆς ἐν σαρκὶ χειροποιήτου</reference>
+		<reference osisRef="Eph.3.1!3-Eph.3.1!13" type="Left-Dislocation" label="L-Dis" verse="Eph 3:1" >ἐγὼ παῦλος ὁ δέσμιος τοῦ χριστοῦ ἰησοῦ ὑπὲρ ὑμῶν τῶν ἐθνῶν</reference>
+		<reference osisRef="Eph.3.20!1-Eph.3.20!18" type="Left-Dislocation" label="L-Dis" verse="Eph 3:20" >τῷ δὲ δυναμένῳ ὑπὲρ πάντα ποιῆσαι ὑπερεκπερισσοῦ ὧν αἰτούμεθα ἢ νοοῦμεν κατὰ τὴν δύναμιν τὴν ἐνεργουμένην ἐν ἡμῖν</reference>
+		<reference osisRef="Eph.4.10!1-Eph.4.10!2" type="Left-Dislocation" label="L-Dis" verse="Eph 4:10" >ὁ καταβὰς</reference>
+		<reference osisRef="Eph.5.24!2-Eph.5.24!7" type="Left-Dislocation" label="L-Dis" verse="Eph 5:24" >ὡς ἡ ἐκκλησία ὑποτάσσεται τῷ χριστῷ</reference>
+		<reference osisRef="Phil.1.22!1" type="Left-Dislocation" label="L-Dis" verse="Phil 1:22" >εἰ</reference>
+		<reference osisRef="Phil.1.22!3-Phil.1.22!6" type="Left-Dislocation" label="L-Dis" verse="Phil 1:22" >τὸ ζῆν ἐν σαρκί</reference>
+		<reference osisRef="Phil.3.7!2-Phil.3.7!5" type="Left-Dislocation" label="L-Dis" verse="Phil 3:7" >ἅτινα ἦν μοι κέρδη</reference>
+		<reference osisRef="Phil.3.16!2-Phil.3.16!4" type="Left-Dislocation" label="L-Dis" verse="Phil 3:16" >εἰς ὃ ἐφθάσαμεν</reference>
+		<reference osisRef="Phil.4.8!4-Phil.4.8!23" type="Left-Dislocation" label="L-Dis" verse="Phil 4:8" >ὅσα ἐστὶν ἀληθῆ ὅσα σεμνά ὅσα δίκαια ὅσα ἁγνά ὅσα προσφιλῆ ὅσα εὔφημα εἴ τις ἀρετὴ καὶ εἴ τις ἔπαινος</reference>
+		<reference osisRef="Phil.4.9!1-Phil.4.9!11" type="Left-Dislocation" label="L-Dis" verse="Phil 4:9" >ἃ καὶ ἐμάθετε καὶ παρελάβετε καὶ ἠκούσατε καὶ εἴδετε ἐν ἐμοί</reference>
+		<reference osisRef="Col.1.16!19-Col.1.16!26" type="Left-Dislocation" label="L-Dis" verse="Col 1:16" >εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι</reference>
+		<reference osisRef="Col.3.13!12-Col.3.13!17" type="Left-Dislocation" label="L-Dis" verse="Col 3:13" >καθὼς καὶ ὁ κύριος ἐχαρίσατο ὑμῖν</reference>
+		<reference osisRef="Col.3.17!2-Col.3.17!11" type="Left-Dislocation" label="L-Dis" verse="Col 3:17" >πᾶν ὅ τι ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ</reference>
+		<reference osisRef="Col.4.11!6-Col.4.11!9" type="Left-Dislocation" label="L-Dis" verse="Col 4:11" >οἱ ὄντες ἐκ περιτομῆς</reference>
+		<reference osisRef="1Thess.2.4!2-1Thess.2.4!9" type="Left-Dislocation" label="L-Dis" verse="1Thess 2:4" >καθὼς δεδοκιμάσμεθα ὑπὸ τοῦ θεοῦ πιστευθῆναι τὸ εὐαγγέλιον</reference>
+		<reference osisRef="1Thess.3.6!3-1Thess.3.6!31" type="Left-Dislocation" label="L-Dis" verse="1Thess 3:6" >ἐλθόντος τιμοθέου πρὸς ἡμᾶς ἀφ’ ὑμῶν καὶ εὐαγγελισαμένου ἡμῖν τὴν πίστιν καὶ τὴν ἀγάπην ὑμῶν καὶ ὅτι ἔχετε μνείαν ἡμῶν ἀγαθὴν πάντοτε ἐπιποθοῦντες ἡμᾶς ἰδεῖν καθάπερ καὶ ἡμεῖς ὑμᾶς</reference>
+		<reference osisRef="1Thess.4.14!1" type="Left-Dislocation" label="L-Dis" verse="1Thess 4:14" >εἰ</reference>
+		<reference osisRef="1Thess.4.14!3-1Thess.4.14!8" type="Left-Dislocation" label="L-Dis" verse="1Thess 4:14" >πιστεύομεν ὅτι ἰησοῦς ἀπέθανεν καὶ ἀνέστη</reference>
+		<reference osisRef="1Thess.5.2!8-1Thess.5.2!11" type="Left-Dislocation" label="L-Dis" verse="1Thess 5:2" >ὡς κλέπτης ἐν νυκτὶ</reference>
+		<reference osisRef="1Thess.5.3!1-1Thess.5.3!5" type="Left-Dislocation" label="L-Dis" verse="1Thess 5:3" >ὅταν λέγωσιν εἰρήνη καὶ ἀσφάλεια</reference>
+		<reference osisRef="2Thess.3.17!1-2Thess.3.17!12" type="Left-Dislocation" label="L-Dis" verse="2Thess 3:17" >ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ παύλου ὅ ἐστιν σημεῖον ἐν πάσῃ ἐπιστολῇ</reference>
+		<reference osisRef="2Tim.2.2!2-2Tim.2.2!8" type="Left-Dislocation" label="L-Dis" verse="2Tim 2:2" >ἃ ἤκουσας παρ’ ἐμοῦ διὰ πολλῶν μαρτύρων</reference>
+		<reference osisRef="2Tim.3.8!1-2Tim.3.8!2" type="Left-Dislocation" label="L-Dis" verse="2Tim 3:8" >ὃν τρόπον</reference>
+		<reference osisRef="2Tim.3.8!4-2Tim.3.8!8" type="Left-Dislocation" label="L-Dis" verse="2Tim 3:8" >ἰάννης καὶ ἰαμβρῆς ἀντέστησαν μωϋσεῖ</reference>
+		<reference osisRef="Heb.2.9!1" type="Left-Dislocation" label="L-Dis" verse="Heb 2:9" >τὸν</reference>
+		<reference osisRef="Heb.2.9!3-Heb.2.9!7" type="Left-Dislocation" label="L-Dis" verse="Heb 2:9" >βραχύ τι παρ’ ἀγγέλους ἠλαττωμένον</reference>
+		<reference osisRef="Heb.2.11!1-Heb.2.11!2" type="Left-Dislocation" label="L-Dis" verse="Heb 2:11" >ὅ τε</reference>
+		<reference osisRef="Heb.2.11!4-Heb.2.11!7" type="Left-Dislocation" label="L-Dis" verse="Heb 2:11" >ἁγιάζων καὶ οἱ ἁγιαζόμενοι</reference>
+		<reference osisRef="Heb.4.10!1" type="Left-Dislocation" label="L-Dis" verse="Heb 4:10" >ὁ</reference>
+		<reference osisRef="Heb.4.10!3-Heb.4.10!7" type="Left-Dislocation" label="L-Dis" verse="Heb 4:10" >εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ</reference>
+		<reference osisRef="Heb.5.3!5-Heb.5.3!8" type="Left-Dislocation" label="L-Dis" verse="Heb 5:3" >καθὼς περὶ τοῦ λαοῦ</reference>
+		<reference osisRef="Heb.9.27!2-Heb.9.27!12" type="Left-Dislocation" label="L-Dis" verse="Heb 9:27" >καθ’ ὅσον ἀπόκειται τοῖς ἀνθρώποις ἅπαξ ἀποθανεῖν μετὰ δὲ τοῦτο κρίσις</reference>
+		<reference osisRef="Jas.1.25!1" type="Left-Dislocation" label="L-Dis" verse="Jas 1:25" >ὁ</reference>
+		<reference osisRef="Jas.1.25!3-Jas.1.25!18" type="Left-Dislocation" label="L-Dis" verse="Jas 1:25" >παρακύψας εἰς νόμον τέλειον τὸν τῆς ἐλευθερίας καὶ παραμείνας οὐκ ἀκροατὴς ἐπιλησμονῆς γενόμενος ἀλλὰ ποιητὴς ἔργου</reference>
+		<reference osisRef="Jas.1.26!1-Jas.1.26!13" type="Left-Dislocation" label="L-Dis" verse="Jas 1:26" >εἴ τις δοκεῖ θρησκὸς εἶναι μὴ χαλιναγωγῶν γλῶσσαν αὐτοῦ ἀλλὰ ἀπατῶν καρδίαν αὐτοῦ</reference>
+		<reference osisRef="Jas.2.26!1" type="Left-Dislocation" label="L-Dis" verse="Jas 2:26" >ὥσπερ</reference>
+		<reference osisRef="Jas.2.26!3-Jas.2.26!8" type="Left-Dislocation" label="L-Dis" verse="Jas 2:26" >τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν</reference>
+		<reference osisRef="Jas.3.2!5-Jas.3.2!10" type="Left-Dislocation" label="L-Dis" verse="Jas 3:2" >εἴ τις ἐν λόγῳ οὐ πταίει</reference>
+		<reference osisRef="Jas.3.16!1" type="Left-Dislocation" label="L-Dis" verse="Jas 3:16" >ὅπου</reference>
+		<reference osisRef="Jas.3.16!3-Jas.3.16!5" type="Left-Dislocation" label="L-Dis" verse="Jas 3:16" >ζῆλος καὶ ἐριθεία</reference>
+		<reference osisRef="Jas.4.17!1" type="Left-Dislocation" label="L-Dis" verse="Jas 4:17" >εἰδότι</reference>
+		<reference osisRef="Jas.4.17!3-Jas.4.17!7" type="Left-Dislocation" label="L-Dis" verse="Jas 4:17" >καλὸν ποιεῖν καὶ μὴ ποιοῦντι</reference>
+		<reference osisRef="1Pet.2.7!9-1Pet.2.7!13" type="Left-Dislocation" label="L-Dis" verse="1Pet 2:7" >λίθος ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες</reference>
+		<reference osisRef="1Pet.2.20!10-1Pet.2.20!14" type="Left-Dislocation" label="L-Dis" verse="1Pet 2:20" >εἰ ἀγαθοποιοῦντες καὶ πάσχοντες ὑπομενεῖτε</reference>
+		<reference osisRef="1Pet.5.10!1" type="Left-Dislocation" label="L-Dis" verse="1Pet 5:10" >ὁ</reference>
+		<reference osisRef="1Pet.5.10!3-1Pet.5.10!16" type="Left-Dislocation" label="L-Dis" verse="1Pet 5:10" >θεὸς πάσης χάριτος ὁ καλέσας ὑμᾶς εἰς τὴν αἰώνιον αὐτοῦ δόξαν ἐν χριστῷ ἰησοῦ</reference>
+		<reference osisRef="2Pet.2.19!9" type="Left-Dislocation" label="L-Dis" verse="2Pet 2:19" >ᾧ</reference>
+		<reference osisRef="2Pet.2.19!11-2Pet.2.19!12" type="Left-Dislocation" label="L-Dis" verse="2Pet 2:19" >τις ἥττηται</reference>
+		<reference osisRef="1John.1.1!1-1John.1.1!23" type="Left-Dislocation" label="L-Dis" verse="1John 1:1" >ὃ ἦν ἀπ’ ἀρχῆς ὃ ἀκηκόαμεν ὃ ἑωράκαμεν τοῖς ὀφθαλμοῖς ἡμῶν ὃ ἐθεασάμεθα καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν περὶ τοῦ λόγου τῆς ζωῆς</reference>
+		<reference osisRef="1John.2.5!1" type="Left-Dislocation" label="L-Dis" verse="1John 2:5" >ὃς</reference>
+		<reference osisRef="1John.2.5!3-1John.2.5!7" type="Left-Dislocation" label="L-Dis" verse="1John 2:5" >ἂν τηρῇ αὐτοῦ τὸν λόγον</reference>
+		<reference osisRef="1John.2.6!7-1John.2.6!9" type="Left-Dislocation" label="L-Dis" verse="1John 2:6" >καθὼς ἐκεῖνος περιεπάτησεν</reference>
+		<reference osisRef="1John.2.24!1" type="Left-Dislocation" label="L-Dis" verse="1John 2:24" >ὑμεῖς</reference>
+		<reference osisRef="1John.2.27!2" type="Left-Dislocation" label="L-Dis" verse="1John 2:27" >ὑμεῖς</reference>
+		<reference osisRef="1John.3.17!1" type="Left-Dislocation" label="L-Dis" verse="1John 3:17" >ὃς</reference>
+		<reference osisRef="1John.3.17!3-1John.3.17!22" type="Left-Dislocation" label="L-Dis" verse="1John 3:17" >ἂν ἔχῃ τὸν βίον τοῦ κόσμου καὶ θεωρῇ τὸν ἀδελφὸν αὐτοῦ χρείαν ἔχοντα καὶ κλείσῃ τὰ σπλάγχνα αὐτοῦ ἀπ’ αὐτοῦ</reference>
+		<reference osisRef="1John.4.15!1-1John.4.15!10" type="Left-Dislocation" label="L-Dis" verse="1John 4:15" >ὃς ἐὰν ὁμολογήσῃ ὅτι ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ</reference>
+		<reference osisRef="2John.1.9!15-2John.1.9!19" type="Left-Dislocation" label="L-Dis" verse="2John 1:9" >ὁ μένων ἐν τῇ διδαχῇ</reference>
+		<reference osisRef="3John.1.9!6-3John.1.9!8" type="Left-Dislocation" label="L-Dis" verse="3John 1:9" >ὁ φιλοπρωτεύων αὐτῶν</reference>
+		<reference osisRef="Jude.1.10!8" type="Left-Dislocation" label="L-Dis" verse="Jude 1:10" >ὅσα</reference>
+		<reference osisRef="Jude.1.10!10-Jude.1.10!15" type="Left-Dislocation" label="L-Dis" verse="Jude 1:10" >φυσικῶς ὡς τὰ ἄλογα ζῷα ἐπίστανται</reference>
+		<reference osisRef="Rev.1.5!20-Rev.1.6!43" type="Left-Dislocation" label="L-Dis" verse="Rev 1:5 - 6" >τῷ ἀγαπῶντι ἡμᾶς καὶ λύσαντι ἡμᾶς ἐκ τῶν ἁμαρτιῶν ἡμῶν ἐν τῷ αἵματι αὐτοῦ καὶ ἐποίησεν ἡμᾶς βασιλείαν ἱερεῖς τῷ θεῷ καὶ πατρὶ αὐτοῦ</reference>
+		<reference osisRef="Rev.1.20!1-Rev.1.20!17" type="Left-Dislocation" label="L-Dis" verse="Rev 1:20" >τὸ μυστήριον τῶν ἑπτὰ ἀστέρων οὓς εἶδες ἐπὶ τῆς δεξιᾶς μου καὶ τὰς ἑπτὰ λυχνίας τὰς χρυσᾶς</reference>
+		<reference osisRef="Rev.2.7!11-Rev.2.7!12" type="Left-Dislocation" label="L-Dis" verse="Rev 2:7" >τῷ νικῶντι</reference>
+		<reference osisRef="Rev.2.17!11-Rev.2.17!12" type="Left-Dislocation" label="L-Dis" verse="Rev 2:17" >τῷ νικῶντι</reference>
+		<reference osisRef="Rev.2.26!2-Rev.2.26!11" type="Left-Dislocation" label="L-Dis" verse="Rev 2:26" >ὁ νικῶν καὶ ὁ τηρῶν ἄχρι τέλους τὰ ἔργα μου</reference>
+		<reference osisRef="Rev.3.12!1-Rev.3.12!2" type="Left-Dislocation" label="L-Dis" verse="Rev 3:12" >ὁ νικῶν</reference>
+		<reference osisRef="Rev.3.21!1-Rev.3.21!2" type="Left-Dislocation" label="L-Dis" verse="Rev 3:21" >ὁ νικῶν</reference>
+		<reference osisRef="Rev.4.8!2-Rev.4.8!4" type="Left-Dislocation" label="L-Dis" verse="Rev 4:8" >τὰ τέσσαρα ζῷα</reference>
+		<reference osisRef="Rev.6.4!7-Rev.6.4!10" type="Left-Dislocation" label="L-Dis" verse="Rev 6:4" >τῷ καθημένῳ ἐπ’ αὐτὸν</reference>
+		<reference osisRef="Rev.6.8!8-Rev.6.8!11" type="Left-Dislocation" label="L-Dis" verse="Rev 6:8" >ὁ καθήμενος ἐπάνω αὐτοῦ</reference>
+		<reference osisRef="Rev.17.11!2-Rev.17.11!8" type="Left-Dislocation" label="L-Dis" verse="Rev 17:11" >τὸ θηρίον ὃ ἦν καὶ οὐκ ἔστιν</reference>
+		<reference osisRef="Rev.17.16!2-Rev.17.16!9" type="Left-Dislocation" label="L-Dis" verse="Rev 17:16" >τὰ δέκα κέρατα ἃ εἶδες καὶ τὸ θηρίον</reference>
+		<reference osisRef="Rev.18.7!1-Rev.18.7!5" type="Left-Dislocation" label="L-Dis" verse="Rev 18:7" >ὅσα ἐδόξασεν αὐτὴν καὶ ἐστρηνίασεν</reference>
+		<reference osisRef="Rev.21.8!1" type="Left-Dislocation" label="L-Dis" verse="Rev 21:8" >τοῖς</reference>
+		<reference osisRef="Rev.21.8!3-Rev.21.8!19" type="Left-Dislocation" label="L-Dis" verse="Rev 21:8" >δειλοῖς καὶ ἀπίστοις καὶ ἐβδελυγμένοις καὶ φονεῦσιν καὶ πόρνοις καὶ φαρμάκοις καὶ εἰδωλολάτραις καὶ πᾶσιν τοῖς ψευδέσιν</reference>
 	</references>
-</markup>
+</feature>

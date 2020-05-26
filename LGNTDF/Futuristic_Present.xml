@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<markup>
+<feature>
 	<header>
 		<copyright>©2016 SIL International</copyright>
 		<license url="https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md" />
@@ -10,17 +10,17 @@
 		<defaultstyle label="Fut" bkcolor="" fontcolor="" brdrcolor="#FF00FF00" brdrline="Solid" brdrpos="A,U,B,E" fontstyle="None" indentlevel="" indentlevelafter="" newline="" newlineafter="" />
 	</header>
 	<references>
-		<reference osisRef="REV.1.7!2" type="Futuristic Present" label="Fut" verse="REV 1:7" >ἔρχεται</reference>
-		<reference osisRef="REV.3.7!29" type="Futuristic Present" label="Fut" verse="REV 3:7" >ἀνοίγει</reference>
-		<reference osisRef="REV.9.6!20" type="Futuristic Present" label="Fut" verse="REV 9:6" >φεύγει</reference>
-		<reference osisRef="REV.9.12!7" type="Futuristic Present" label="Fut" verse="REV 9:12" >ἔρχεται</reference>
-		<reference osisRef="REV.11.9!2" type="Futuristic Present" label="Fut" verse="REV 11:9" >βλέπουσιν</reference>
-		<reference osisRef="REV.11.9!23-REV.11.9!24" type="Futuristic Present" label="Fut" verse="REV 11:9" >οὐκ ἀφίουσιν</reference>
-		<reference osisRef="REV.11.10!7" type="Futuristic Present" label="Fut" verse="REV 11:10" >χαίρουσιν</reference>
-		<reference osisRef="REV.11.10!11" type="Futuristic Present" label="Fut" verse="REV 11:10" >εὐφραίνονται</reference>
-		<reference osisRef="REV.18.11!6" type="Futuristic Present" label="Fut" verse="REV 18:11" >κλαίουσιν</reference>
-		<reference osisRef="REV.18.11!8" type="Futuristic Present" label="Fut" verse="REV 18:11" >πενθοῦσιν</reference>
-		<reference osisRef="REV.21.24!14" type="Futuristic Present" label="Fut" verse="REV 21:24" >φέρουσιν</reference>
-		<reference osisRef="REV.22.5!8" type="Futuristic Present" label="Fut" verse="REV 22:5" >ἔχουσιν</reference>
+		<reference osisRef="Rev.1.7!2" type="Futuristic Present" label="Fut" verse="Rev 1:7" >ἔρχεται</reference>
+		<reference osisRef="Rev.3.7!29" type="Futuristic Present" label="Fut" verse="Rev 3:7" >ἀνοίγει</reference>
+		<reference osisRef="Rev.9.6!20" type="Futuristic Present" label="Fut" verse="Rev 9:6" >φεύγει</reference>
+		<reference osisRef="Rev.9.12!7" type="Futuristic Present" label="Fut" verse="Rev 9:12" >ἔρχεται</reference>
+		<reference osisRef="Rev.11.9!2" type="Futuristic Present" label="Fut" verse="Rev 11:9" >βλέπουσιν</reference>
+		<reference osisRef="Rev.11.9!23-Rev.11.9!24" type="Futuristic Present" label="Fut" verse="Rev 11:9" >οὐκ ἀφίουσιν</reference>
+		<reference osisRef="Rev.11.10!7" type="Futuristic Present" label="Fut" verse="Rev 11:10" >χαίρουσιν</reference>
+		<reference osisRef="Rev.11.10!11" type="Futuristic Present" label="Fut" verse="Rev 11:10" >εὐφραίνονται</reference>
+		<reference osisRef="Rev.18.11!6" type="Futuristic Present" label="Fut" verse="Rev 18:11" >κλαίουσιν</reference>
+		<reference osisRef="Rev.18.11!8" type="Futuristic Present" label="Fut" verse="Rev 18:11" >πενθοῦσιν</reference>
+		<reference osisRef="Rev.21.24!14" type="Futuristic Present" label="Fut" verse="Rev 21:24" >φέρουσιν</reference>
+		<reference osisRef="Rev.22.5!8" type="Futuristic Present" label="Fut" verse="Rev 22:5" >ἔχουσιν</reference>
 	</references>
-</markup>
+</feature>
